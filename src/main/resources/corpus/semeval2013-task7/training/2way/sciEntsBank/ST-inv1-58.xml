@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<question id="ST_58" module="ST">
+  <questionText>What is your "rule" for deciding if the part of a plant you are observing is a fruit?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_58-a1">If a part of the plant contains seeds, that part is the fruit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.58.393.1" accuracy="correct">It has to have at least one seed.</studentAnswer>
+    <studentAnswer id="ST.58.397.1" accuracy="correct">I know if it is a fruit because it would have seeds in it.</studentAnswer>
+    <studentAnswer id="ST.58.398.1" accuracy="correct">To be a fruit it must have at least one seed in it.</studentAnswer>
+    <studentAnswer id="ST.58.423.1" accuracy="correct">It has seeds.</studentAnswer>
+    <studentAnswer id="ST.58.427.1" accuracy="correct">In java are seed.</studentAnswer>
+    <studentAnswer id="ST.58.429.1" accuracy="correct">If has seed, in it the do have seeds, in it.</studentAnswer>
+    <studentAnswer id="ST.58.451.1" accuracy="correct">If it has seeds it is a plant.</studentAnswer>
+    <studentAnswer id="ST.58.456.1" accuracy="correct">I will look at the seed.</studentAnswer>
+    <studentAnswer id="ST.58.461.1" accuracy="correct">It has a seed.</studentAnswer>
+    <studentAnswer id="ST.58.464.1" accuracy="correct">It has to have an embryo, seed count, and cotyledon.</studentAnswer>
+    <studentAnswer id="ST.58.465.1" accuracy="correct">You have to make sure it has seeds.</studentAnswer>
+    <studentAnswer id="ST.58.470.1" accuracy="correct">If it has seeds.</studentAnswer>
+    <studentAnswer id="ST.58.474.1" accuracy="correct">The rule for deciding if the part of a plant you are observing is a fruit is a fruit is not a fruit unless it has seeds.</studentAnswer>
+    <studentAnswer id="ST.58.486.1" accuracy="incorrect">It case a stem I do not know.</studentAnswer>
+    <studentAnswer id="ST.58.492.1" accuracy="incorrect">My rule is has to be sweet.</studentAnswer>
+    <studentAnswer id="ST.58.495.1" accuracy="correct">If it has seeds that is the answer to the question I think.</studentAnswer>
+    <studentAnswer id="ST.58.496.1" accuracy="correct">I decide by looking in it and seeing a seed.</studentAnswer>
+    <studentAnswer id="ST.58.497.1" accuracy="incorrect">By the texture the smell of the fruit and the weight.</studentAnswer>
+    <studentAnswer id="ST.58.506.1" accuracy="incorrect">Does it have juice.</studentAnswer>
+    <studentAnswer id="ST.58.522.1" accuracy="correct">Because it has seeds and if it has seeds in it is a fruit.</studentAnswer>
+    <studentAnswer id="ST.58.535.1" accuracy="correct">My rule is to make sure it has seeds.</studentAnswer>
+    <studentAnswer id="ST.58.558.1" accuracy="correct">My rule is that the fruit has to have a seed or seeds.</studentAnswer>
+    <studentAnswer id="ST.58.560.1" accuracy="correct">The part of a plant you are observing is a fruit if it has seeds.</studentAnswer>
+    <studentAnswer id="ST.58.564.1" accuracy="correct">If it has sees it is a fruit.</studentAnswer>
+    <studentAnswer id="ST.58.576.1" accuracy="correct">If it has a seed or not.</studentAnswer>
+    <studentAnswer id="ST.58.591.1" accuracy="correct">Does it have seeds is it covering seeds.</studentAnswer>
+    <studentAnswer id="ST.58.606.1" accuracy="incorrect">The flowers.</studentAnswer>
+    <studentAnswer id="ST.58.607.1" accuracy="correct">I know the part of the plant I am observing is a fruit because it has one or more seeds.</studentAnswer>
+    <studentAnswer id="ST.58.628.1" accuracy="correct">If I look in it and it has seeds in it it is a fruit then if it do not have seeds then it is no a fruit.</studentAnswer>
+    <studentAnswer id="ST.58.630.1" accuracy="correct">It nest to have a seed.</studentAnswer>
+    <studentAnswer id="ST.58.631.1" accuracy="correct">Because inside the plant is a seed.</studentAnswer>
+    <studentAnswer id="ST.58.635.1" accuracy="correct">It has to have a seed of it does not have no seed, it will not be a fruit.</studentAnswer>
+    <studentAnswer id="ST.58.638.1" accuracy="incorrect">It is going to tell you if you have a baby plant first.</studentAnswer>
+    <studentAnswer id="ST.58.640.1" accuracy="correct">That it has seeds or not.</studentAnswer>
+  </studentAnswers>
+</question>

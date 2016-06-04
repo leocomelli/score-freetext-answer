@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MS_30b" module="MS">
+  <questionText>Mary told her friend Sharice that she had a rug to sell. Sharice asked if the rug would fit perfectly, wall to wall, in her bedroom. Mary went home and measured the rug. She put her feet heel-to-toe and counted the number of shoe lengths it took to measure the rug. She found the rug was 18 shoes long and 12 shoes wide. Sharice did the same thing in her room to measure the space for the rug. Her floor was 18 shoes long and 12 shoes wide. A perfect fit! Sharice bought the rug and took it home. To her dismay, she found it was too short and too narrow for her bedroom! What could Mary and Sharice do to better measure the size of the rug?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_30b-a1">Use a standard unit of measurement such as centimeters or meters.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.30b.183.1" accuracy="correct">They could use a meter tape to measure or feet.</studentAnswer>
+    <studentAnswer id="MS.30b.381.1" accuracy="correct">They should use a standard.</studentAnswer>
+    <studentAnswer id="MS.30b.382.1" accuracy="incorrect">That they have different hands that are big and small.</studentAnswer>
+    <studentAnswer id="MS.30b.566.1" accuracy="correct">They could use a tape meter so they could measure both the rug and the floor.</studentAnswer>
+  </studentAnswers>
+</question>

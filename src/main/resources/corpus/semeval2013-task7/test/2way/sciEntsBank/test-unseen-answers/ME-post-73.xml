@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_73" module="ME">
+  <questionText>Wendy is making an electromagnet. She wrapped a long, insulated wire around an iron nail. What should Wendy do next to complete the electromagnet?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_73-a1">Wendy should hook one end of the wire to the negative side of a D-cell battery and the other end to the positive side of the D-cell battery.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.73.113.1" accuracy="correct">She would hook the wires up to the D-cell.</studentAnswer>
+    <studentAnswer id="ME.73.144.1" accuracy="correct">Connect the 2 end of the wires to the D-cell.</studentAnswer>
+    <studentAnswer id="ME.73.206.1" accuracy="correct">She needs a battery onto then, attach the wire to the battery.</studentAnswer>
+    <studentAnswer id="ME.73.212.1" accuracy="correct">Connect the wire tips to a D-cell.</studentAnswer>
+  </studentAnswers>
+</question>

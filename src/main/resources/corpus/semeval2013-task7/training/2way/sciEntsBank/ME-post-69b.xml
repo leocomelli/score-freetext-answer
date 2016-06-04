@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_69b" module="ME">
+  <questionText>A magnet attracted another magnet even when a foam block was placed between them (see box A below). What do you think would happen if 2 foam blocks were placed between the 2 magnets (see box B). A. The magnets will stick. B. The magnets will not stick. (C. It might stick, but it might not.) Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_69b-a1">You can not tell because we do not know the strength of the magnets. If the magnets are weak, the second piece of foam might put too much distance between the 2 magnets for the interaction to hold the magnets in place. If the magnets are strong the magnets might stay in place.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.69b.647.1" accuracy="incorrect">I chose because that is the answer.</studentAnswer>
+    <studentAnswer id="ME.69b.651.1" accuracy="incorrect">Because 2 sponges is too much.</studentAnswer>
+    <studentAnswer id="ME.69b.659.1" accuracy="incorrect">It depends on the power of the magnets.</studentAnswer>
+    <studentAnswer id="ME.69b.661.1" accuracy="correct">Because the force field might be big enough to go through both foam blocks but it might not be.</studentAnswer>
+    <studentAnswer id="ME.69b.662.1" accuracy="incorrect">In example A the magnets stuck. But example B it has 2 blocks and it does not matter if it is thick or thin.</studentAnswer>
+    <studentAnswer id="ME.69b.663.1" accuracy="incorrect">I chose that answer because the foam blocks are too thick for the magnet to attract each other.</studentAnswer>
+    <studentAnswer id="ME.69b.664.1" accuracy="incorrect">I choose that answer because in the picture the magnets look like they will fall to the ground but the magnets are still connected. So I think the magnets will fall.</studentAnswer>
+    <studentAnswer id="ME.69b.665.1" accuracy="correct">It depends how strong the magnets are or how big the magnetic force is.</studentAnswer>
+    <studentAnswer id="ME.69b.667.1" accuracy="incorrect">It will not stick because the magnets force field is not strong enough.</studentAnswer>
+    <studentAnswer id="ME.69b.668.1" accuracy="incorrect">Because it is far away and I do not know how big the energy field is.</studentAnswer>
+    <studentAnswer id="ME.69b.669.1" accuracy="incorrect">Because the 2 foam blocks are too thick.</studentAnswer>
+    <studentAnswer id="ME.69b.670.1" accuracy="incorrect">Because the foam will be too thick with 2.</studentAnswer>
+    <studentAnswer id="ME.69b.671.1" accuracy="correct">It depends on how big or thick the sponge is. It also depends on how strong the magnets are.</studentAnswer>
+    <studentAnswer id="ME.69b.672.1" accuracy="incorrect">Because the magnets are too far away from each other and they fall.</studentAnswer>
+    <studentAnswer id="ME.69b.673.1" accuracy="incorrect">The foam blocks are too thick so they will not work.</studentAnswer>
+    <studentAnswer id="ME.69b.674.1" accuracy="correct">It might stick because the magnets are strong or it might not because the foam could be too thick.</studentAnswer>
+    <studentAnswer id="ME.69b.675.1" accuracy="incorrect">Because the magnets have a magnetic field surrounding them.</studentAnswer>
+    <studentAnswer id="ME.69b.676.1" accuracy="incorrect">The foam blocks are too thick, the magnetic force cannot go through.</studentAnswer>
+    <studentAnswer id="ME.69b.677.1" accuracy="incorrect">Magnets only have such a big magnetic field.</studentAnswer>
+    <studentAnswer id="ME.69b.678.1" accuracy="incorrect">Because 2 foam blocks are a lot thicker for the magnetic field to get through.</studentAnswer>
+    <studentAnswer id="ME.69b.680.1" accuracy="incorrect">Because a magnet has a field around it and if it is too big that the field cannot reach the other magnet.</studentAnswer>
+    <studentAnswer id="ME.69b.683.1" accuracy="incorrect">It is too thick.</studentAnswer>
+    <studentAnswer id="ME.69b.684.1" accuracy="incorrect">I said the magnets will stick because magnets have really strong magnetic fields and those really strong magnetic fields so they can go through 2 foam blocks.</studentAnswer>
+    <studentAnswer id="ME.69b.685.1" accuracy="incorrect">I chose that answer because 2 foam blocks too much for the magnet.</studentAnswer>
+    <studentAnswer id="ME.69b.686.1" accuracy="incorrect">Because it is has 2 sponges.</studentAnswer>
+    <studentAnswer id="ME.69b.687.1" accuracy="incorrect">I chose that answer because the gap between the 2 magnets is too big.</studentAnswer>
+    <studentAnswer id="ME.69b.688.1" accuracy="incorrect">I chose this answer because there is too many foam blocks between the 2 magnets.</studentAnswer>
+    <studentAnswer id="ME.69b.689.1" accuracy="incorrect">I chose that answer because the 2 foam blocks are so thick that the magnetism cannot get through them.</studentAnswer>
+    <studentAnswer id="ME.69b.690.1" accuracy="incorrect">The foam blocks are thick so the magnetism will not be able to go through.</studentAnswer>
+    <studentAnswer id="ME.69b.691.1" accuracy="incorrect">Because here I tried this with my reading book and it is thinner or it did not stick.</studentAnswer>
+    <studentAnswer id="ME.69b.693.1" accuracy="incorrect">The magnets will not stick because 2 foam blocks have more space than one.</studentAnswer>
+    <studentAnswer id="ME.69b.695.1" accuracy="incorrect">I chose this answer because it could be blocked or it could be attracted.</studentAnswer>
+    <studentAnswer id="ME.69b.696.1" accuracy="incorrect">Depends on how powerful the magnets are.</studentAnswer>
+    <studentAnswer id="ME.69b.698.1" accuracy="correct">I chose C. It might stick, but it might not because it depends on how strong the magnet is.</studentAnswer>
+    <studentAnswer id="ME.69b.899.1" accuracy="incorrect">Magnetism is strong.</studentAnswer>
+    <studentAnswer id="ME.69b.969.1" accuracy="correct">I chose that answer because whether it sticks or not depends on how powerful the magnets are.</studentAnswer>
+  </studentAnswers>
+</question>

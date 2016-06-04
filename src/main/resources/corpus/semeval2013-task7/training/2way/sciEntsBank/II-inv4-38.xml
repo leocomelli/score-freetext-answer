@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="II_38" module="II">
+  <questionText>Describe what you would see if a mirror were placed along a line of symmetry on a flat object.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_38-a1">The mirror would complete the image of the object and make the object appear whole.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.38.101.1" accuracy="incorrect">You see people upside down and kite, cart, cow, buoyant.</studentAnswer>
+    <studentAnswer id="II.38.113.1" accuracy="incorrect">A heart.</studentAnswer>
+    <studentAnswer id="II.38.114.1" accuracy="incorrect">I see a lot of things that might look like paper it hit the mirror and it soon on the mirror.</studentAnswer>
+    <studentAnswer id="II.38.140.1" accuracy="incorrect">You will see the line of symmetry.</studentAnswer>
+    <studentAnswer id="II.38.144.1" accuracy="incorrect">You would see the same part of it.</studentAnswer>
+    <studentAnswer id="II.38.146.1" accuracy="incorrect">You would see the object.</studentAnswer>
+    <studentAnswer id="II.38.206.1" accuracy="correct">You would see the other side but it would be in the mirror.</studentAnswer>
+    <studentAnswer id="II.38.212.1" accuracy="incorrect">I would see the figure then I would see the line of symmetry.</studentAnswer>
+    <studentAnswer id="II.38.224.1" accuracy="correct">You would see the whole shape.</studentAnswer>
+    <studentAnswer id="II.38.225.1" accuracy="incorrect">If you looked in a mirror you would see your image.</studentAnswer>
+    <studentAnswer id="II.38.347.1" accuracy="incorrect">I will see a bunch of lines.</studentAnswer>
+    <studentAnswer id="II.38.354.1" accuracy="incorrect">Something on the flat object.</studentAnswer>
+    <studentAnswer id="II.38.357.1" accuracy="correct">The complete object.</studentAnswer>
+    <studentAnswer id="II.38.358.1" accuracy="incorrect">You would see a flat object.</studentAnswer>
+    <studentAnswer id="II.38.360.1" accuracy="incorrect">It could be up and side.</studentAnswer>
+    <studentAnswer id="II.38.417.1" accuracy="correct">It make the object seem whole.</studentAnswer>
+    <studentAnswer id="II.38.425.1" accuracy="incorrect">You could see the roof and on top of you.</studentAnswer>
+    <studentAnswer id="II.38.427.1" accuracy="incorrect">You have to put mirrors around it.</studentAnswer>
+    <studentAnswer id="II.38.434.1" accuracy="incorrect">It will see like a pattern or you can see more and more.</studentAnswer>
+    <studentAnswer id="II.38.437.1" accuracy="correct">The other and the same side of the object.</studentAnswer>
+    <studentAnswer id="II.38.444.1" accuracy="incorrect">I would it going further and further.</studentAnswer>
+    <studentAnswer id="II.38.451.1" accuracy="incorrect">You would see another object in that object or other shapes.</studentAnswer>
+    <studentAnswer id="II.38.457.1" accuracy="correct">The other part of that shape of the flat figure.</studentAnswer>
+    <studentAnswer id="II.38.458.1" accuracy="correct">The other half of the object, because the mirror would see that object and make another one.</studentAnswer>
+    <studentAnswer id="II.38.467.1" accuracy="incorrect">The opposite of the side you are looking at.</studentAnswer>
+    <studentAnswer id="II.38.470.1" accuracy="incorrect">You would see what it is reflecting.</studentAnswer>
+    <studentAnswer id="II.38.474.1" accuracy="incorrect">The reflection of the object.</studentAnswer>
+    <studentAnswer id="II.38.521.1" accuracy="incorrect">You would see the opposite face of the shape.</studentAnswer>
+    <studentAnswer id="II.38.523.1" accuracy="incorrect">You will see light or another one of it or reflex.</studentAnswer>
+    <studentAnswer id="II.38.528.1" accuracy="correct">You would see the same object.</studentAnswer>
+    <studentAnswer id="II.38.534.1" accuracy="incorrect">The opposite thing that was on the paper.</studentAnswer>
+    <studentAnswer id="II.38.535.1" accuracy="incorrect">The same object.</studentAnswer>
+    <studentAnswer id="II.38.539.1" accuracy="incorrect">By looking with a mirror or something else.</studentAnswer>
+    <studentAnswer id="II.38.540.1" accuracy="correct">I would show the same thing so it would look like one whole piece.</studentAnswer>
+    <studentAnswer id="II.38.556.1" accuracy="incorrect">You would see the ceiling when it is on a table.</studentAnswer>
+    <studentAnswer id="II.38.560.1" accuracy="incorrect">You would see the object. But the object looks like it was flipped.</studentAnswer>
+  </studentAnswers>
+</question>

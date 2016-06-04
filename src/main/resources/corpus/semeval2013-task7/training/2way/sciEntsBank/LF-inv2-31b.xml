@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<question id="LF_31b" module="LF">
+  <questionText>What process forms deltas? A. Gravity B. Erosion (C. Deposition) D. Decomposition.  Explain how deltas form.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_31b-a1">Earth materials erode and are carried by flowing water (a river). The earth materials form a delta when the materials are dropped off or deposited when the water stops flowing (at the mouth of a river).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.31b.384.1" accuracy="incorrect">Like a small river getting big, deltas are formed when a regular river is out to a ocean or lake. Over time the water will erode the mouth into a fan shaped deposit.</studentAnswer>
+    <studentAnswer id="LF.31b.387.1" accuracy="incorrect">A river rock earth motional with it and deposits it at the mouth. There is forming a delta.</studentAnswer>
+    <studentAnswer id="LF.31b.397.1" accuracy="incorrect">Deltas are earth materials that are carried away by the river and settle.</studentAnswer>
+    <studentAnswer id="LF.31b.404.1" accuracy="incorrect">A delta forms at the mouth of a river when earth material is carried away in a river.</studentAnswer>
+    <studentAnswer id="LF.31b.407.1" accuracy="incorrect">They come from water and water just keeps on building up.</studentAnswer>
+    <studentAnswer id="LF.31b.408.1" accuracy="incorrect">A erosion happen and over the time it forms.</studentAnswer>
+    <studentAnswer id="LF.31b.409.1" accuracy="incorrect">The depositions collapsing into them.</studentAnswer>
+    <studentAnswer id="LF.31b.416.1" accuracy="incorrect">It forms by a deposit of earth materials at mouth of a stream or river.</studentAnswer>
+    <studentAnswer id="LF.31b.417.1" accuracy="incorrect">Deltas are formed because the water takes the sand to the end of the river where it piles up and forms a delta.</studentAnswer>
+    <studentAnswer id="LF.31b.419.1" accuracy="incorrect">Delta forms by water or a river.</studentAnswer>
+    <studentAnswer id="LF.31b.422.1" accuracy="incorrect">Delta is formed because the mouth is full of water or melted ice.</studentAnswer>
+    <studentAnswer id="LF.31b.427.1" accuracy="incorrect">It is formed by a mouth of river of stream.</studentAnswer>
+    <studentAnswer id="LF.31b.427b.1" accuracy="incorrect">It is formed by amount river or stream.</studentAnswer>
+    <studentAnswer id="LF.31b.428.1" accuracy="incorrect">Deltas form by depositions with water.</studentAnswer>
+    <studentAnswer id="LF.31b.432.1" accuracy="incorrect">A deposition at the mouth of the river.</studentAnswer>
+    <studentAnswer id="LF.31b.440.1" accuracy="incorrect">A delta is formed when water is deposited.</studentAnswer>
+    <studentAnswer id="LF.31b.457.1" accuracy="incorrect">Delta is form by different kinds of rock and gravity.</studentAnswer>
+    <studentAnswer id="LF.31b.459.1" accuracy="incorrect">I pick gravity because gravity is like process.</studentAnswer>
+    <studentAnswer id="LF.31b.462.1" accuracy="incorrect">It forms with gravity because it is like metal and plastic.</studentAnswer>
+    <studentAnswer id="LF.31b.476.1" accuracy="incorrect">By earth materials moving then stopping where the delta is.</studentAnswer>
+    <studentAnswer id="LF.31b.480.1" accuracy="incorrect">By running water.</studentAnswer>
+    <studentAnswer id="LF.31b.489.1" accuracy="incorrect">As the water from the mountain comes and invades the place, it starts the canyon then it meanders around until it comes to another larger body of water and the delta is the end of the lake and beginning of the lake.</studentAnswer>
+    <studentAnswer id="LF.31b.513.1" accuracy="incorrect">A canyon is formed and the water pushes the dirt and other materials into a fan shape.</studentAnswer>
+    <studentAnswer id="LF.31b.527.1" accuracy="incorrect">Deltas are form by erosion and deposition.</studentAnswer>
+    <studentAnswer id="LF.31b.677.1" accuracy="incorrect">Earth materials are carried by water and dropped under the water settling at the bottom of the river.</studentAnswer>
+    <studentAnswer id="LF.31b.680.1" accuracy="incorrect">Deltas are formed by deposition that is when earth materials are carried away then let off at another place to form a delta.</studentAnswer>
+    <studentAnswer id="LF.31b.682.1" accuracy="incorrect">Deltas form when water is run over a plateau for a long period of time and when the water runs somewhere else, that place where it runs out is a delta.</studentAnswer>
+    <studentAnswer id="LF.31b.780.1" accuracy="correct">A delta forms whenever a river picks up dirt, sand and clay and carries them to the mouth of the river were it is weakened so it drops the materials and forms a delta.</studentAnswer>
+    <studentAnswer id="LF.31b.788.1" accuracy="incorrect">Deltas are formed by water carrying earth materials and not have enough force to push the materials so it lets the materials go.</studentAnswer>
+    <studentAnswer id="LF.31b.803.1" accuracy="correct">It forms when a river goes to a larger part of water and it leaves particles behind.</studentAnswer>
+    <studentAnswer id="LF.31b.822.1" accuracy="correct">Sand gets carried away by the river and settles at the mouth and forms a delta.</studentAnswer>
+    <studentAnswer id="LF.31b.844.1" accuracy="incorrect">A delta is formed when flowing water pushes sand to opposite sides forming a delta.</studentAnswer>
+    <studentAnswer id="LF.31b.853.1" accuracy="incorrect">Deltas form by rivers flowing and pushing sediment to the side.</studentAnswer>
+    <studentAnswer id="LF.31b.922.1" accuracy="incorrect">Deltas form by water running over it.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="II_13b" module="II">
+  <questionText>Look at the finger patterns below, then answer the questions. What is different about the finger patterns?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_13b-a1">The loops begin at opposite sides of the print.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.13b.531.1" accuracy="incorrect">The loop are go different.</studentAnswer>
+    <studentAnswer id="II.13b.543.1" accuracy="incorrect">On his A arch.</studentAnswer>
+    <studentAnswer id="II.13b.580.1" accuracy="incorrect">One is lighter than the other.</studentAnswer>
+    <studentAnswer id="II.13b.601.1" accuracy="incorrect">They are going different directions.</studentAnswer>
+  </studentAnswers>
+</question>

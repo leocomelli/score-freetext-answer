@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="ST_54b3" module="ST">
+  <questionText>The inside of a pea seed is shown below. Describe the function of each of the parts: embryo.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_54b3-a1">The embryo contains the tiny leaves and root of the plant.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.54b3.382.1" accuracy="correct">The baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.386.1" accuracy="correct">Grows into plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.388.1" accuracy="incorrect">Germinates.</studentAnswer>
+    <studentAnswer id="ST.54b3.391.1" accuracy="incorrect">The embryo is the root or stem.</studentAnswer>
+    <studentAnswer id="ST.54b3.393.1" accuracy="correct">Baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.397.1" accuracy="correct">Baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.401.1" accuracy="correct">It is the baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.402.1" accuracy="correct">Baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.426.1" accuracy="incorrect">The seed.</studentAnswer>
+    <studentAnswer id="ST.54b3.428.1" accuracy="incorrect">The roots are.</studentAnswer>
+    <studentAnswer id="ST.54b3.457.1" accuracy="correct">Leaves and roots.</studentAnswer>
+    <studentAnswer id="ST.54b3.469.1" accuracy="correct">A plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.470.1" accuracy="correct">The small leaves and roots.</studentAnswer>
+    <studentAnswer id="ST.54b3.486.1" accuracy="incorrect">It betakes the pea.</studentAnswer>
+    <studentAnswer id="ST.54b3.487.1" accuracy="correct">The embryo is the part of the plant that grows.</studentAnswer>
+    <studentAnswer id="ST.54b3.492.1" accuracy="incorrect">It helps the baby to eat food.</studentAnswer>
+    <studentAnswer id="ST.54b3.495.1" accuracy="correct">The part that grows into a plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.501.1" accuracy="incorrect">The part that grows a leaf, stem.</studentAnswer>
+    <studentAnswer id="ST.54b3.504.1" accuracy="correct">Grows into a plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.522.1" accuracy="incorrect">Embryo grows the leaves.</studentAnswer>
+    <studentAnswer id="ST.54b3.523.1" accuracy="incorrect">Stem and leaf and baby.</studentAnswer>
+    <studentAnswer id="ST.54b3.524.1" accuracy="incorrect">The leave, stem, and spout.</studentAnswer>
+    <studentAnswer id="ST.54b3.533.1" accuracy="incorrect">Stem.</studentAnswer>
+    <studentAnswer id="ST.54b3.535.1" accuracy="incorrect">Helps root, leaves, and stem.</studentAnswer>
+    <studentAnswer id="ST.54b3.537.1" accuracy="incorrect">Leaves, stem.</studentAnswer>
+    <studentAnswer id="ST.54b3.538.1" accuracy="correct">It is the baby seed.</studentAnswer>
+    <studentAnswer id="ST.54b3.540.1" accuracy="correct">Baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.561.1" accuracy="correct">The whale structure includes the root, stem, and leaves.</studentAnswer>
+    <studentAnswer id="ST.54b3.571.1" accuracy="incorrect">The sack of food for the seed.</studentAnswer>
+    <studentAnswer id="ST.54b3.574.1" accuracy="incorrect">The root and stem of a plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.576.1" accuracy="correct">Part of a seed that grows into a plant.</studentAnswer>
+    <studentAnswer id="ST.54b3.578.1" accuracy="correct">Where leaves, roots or a stem grows.</studentAnswer>
+    <studentAnswer id="ST.54b3.594.1" accuracy="correct">The embryo is the part that grows into the roots, stems, and leaves.</studentAnswer>
+    <studentAnswer id="ST.54b3.599.1" accuracy="incorrect">The embryo is the whole structure.</studentAnswer>
+    <studentAnswer id="ST.54b3.639.1" accuracy="correct">The young plant.</studentAnswer>
+  </studentAnswers>
+</question>

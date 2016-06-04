@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="II_13a" module="II">
+  <questionText>Look at the finger patterns below, then answer the questions. What is the same about the finger patterns?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_13a-a1">Both finger patterns are loops.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.13a.462.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.529.1" accuracy="correct">They are loops.</studentAnswer>
+    <studentAnswer id="II.13a.594.1" accuracy="incorrect">They both have a whorl.</studentAnswer>
+    <studentAnswer id="II.13a.612.1" accuracy="incorrect">They are both arches.</studentAnswer>
+  </studentAnswers>
+</question>

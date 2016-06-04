@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_1" module="VB">
+  <questionText>How do you define a controlled experiment?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_1-a1">An experiment is controlled if only one variable is changed at a time.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.1.384.1" accuracy="correct">A controlled experiment is an experiment where you only change one variable.</studentAnswer>
+    <studentAnswer id="VB.1.388.1" accuracy="correct">An experiment where you only change one variable.</studentAnswer>
+    <studentAnswer id="VB.1.394.1" accuracy="correct">A controlled experiment is an experiment where only one variable is changed.</studentAnswer>
+    <studentAnswer id="VB.1.397.1" accuracy="incorrect">The longer the string the shorter the swings.</studentAnswer>
+    <studentAnswer id="VB.1.399.1" accuracy="correct">A experiment in which one variable is changed.</studentAnswer>
+    <studentAnswer id="VB.1.406.1" accuracy="correct">An experiment that only changes one variable at a time.</studentAnswer>
+    <studentAnswer id="VB.1.416.1" accuracy="correct">A controlled experiment is when you only change one variable at a time instead of 2 or more.</studentAnswer>
+    <studentAnswer id="VB.1.419.1" accuracy="incorrect">That you only put one penny at a time.</studentAnswer>
+    <studentAnswer id="VB.1.423.1" accuracy="incorrect">A controlled experiment is a experiment that you can control by weight and the length of string.</studentAnswer>
+    <studentAnswer id="VB.1.429.1" accuracy="correct">A controlled experiment is when you change one variable at a time to affect the outcome.</studentAnswer>
+    <studentAnswer id="VB.1.431.1" accuracy="correct">When you only change one variable at a time.</studentAnswer>
+    <studentAnswer id="VB.1.440.1" accuracy="correct">A controlled experiment is when you only change one variable at a time.</studentAnswer>
+    <studentAnswer id="VB.1.444.1" accuracy="incorrect">A controlled experiment is like a release position because a release position is a controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.1.449.1" accuracy="correct">If you do not change one variable at a time its not a controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.1.469.1" accuracy="correct">Changing one variable at a time.</studentAnswer>
+    <studentAnswer id="VB.1.477.1" accuracy="correct">You define a controlled experiment when you only change one variable at a time.</studentAnswer>
+    <studentAnswer id="VB.1.481.1" accuracy="correct">A controlled experiment is when you test the variables one at a time.</studentAnswer>
+    <studentAnswer id="VB.1.483.1" accuracy="correct">Only one variable is changed at a time.</studentAnswer>
+    <studentAnswer id="VB.1.486.1" accuracy="incorrect">You can control the experiment.</studentAnswer>
+    <studentAnswer id="VB.1.489.1" accuracy="incorrect">To do one at a time.</studentAnswer>
+    <studentAnswer id="VB.1.495.1" accuracy="incorrect">A controlled experiment is when you control it and it is an experiment of yours.</studentAnswer>
+    <studentAnswer id="VB.1.497.1" accuracy="incorrect">Where you control the variables, length, mass, release position. But you cannot control the amount of time it swings.</studentAnswer>
+    <studentAnswer id="VB.1.498.1" accuracy="correct">The variables can be changed one at a time.</studentAnswer>
+    <studentAnswer id="VB.1.503.1" accuracy="correct">When you only change one thing and you know the thing is causing it to do something.</studentAnswer>
+    <studentAnswer id="VB.1.523.1" accuracy="incorrect">By having everything controlled.</studentAnswer>
+    <studentAnswer id="VB.1.525.1" accuracy="incorrect">By not being good.</studentAnswer>
+    <studentAnswer id="VB.1.530.1" accuracy="incorrect">If it needs to be controlled to make a decision.</studentAnswer>
+    <studentAnswer id="VB.1.533.1" accuracy="incorrect">A variable is a controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.1.535.1" accuracy="incorrect">Something that you do and you control.</studentAnswer>
+    <studentAnswer id="VB.1.537.1" accuracy="incorrect">You control the mass of the tire swing.</studentAnswer>
+    <studentAnswer id="VB.1.539.1" accuracy="incorrect">By controlling the swinger, and by changing the different thing.</studentAnswer>
+    <studentAnswer id="VB.1.542.1" accuracy="incorrect">You controlled the experiment by yourself.</studentAnswer>
+    <studentAnswer id="VB.1.626.1" accuracy="correct">You can only change one variables.</studentAnswer>
+    <studentAnswer id="VB.1.628.1" accuracy="incorrect">By putting everything where it goes.</studentAnswer>
+    <studentAnswer id="VB.1.636.1" accuracy="correct">A controlled experiment is when you change one variable that is it no more than one variable.</studentAnswer>
+    <studentAnswer id="VB.1.639.1" accuracy="correct">A controlled experiment is when you only change one variable at a time.</studentAnswer>
+  </studentAnswers>
+</question>

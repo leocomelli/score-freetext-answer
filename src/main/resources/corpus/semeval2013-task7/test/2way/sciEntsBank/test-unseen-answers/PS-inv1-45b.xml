@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_45b" module="PS">
+  <questionText>Nathaniel and Sammy are trying to make up a code for sending messages to each other by dropping items in a drop chamber and listening to them. Sammy wants to design a code using blocks made of plastic, metal, and wood. Nathaniel thinks it would be a better idea to use wooden blocks of different sizes and shapes. Which student's method would make it easier to tell the difference between the sounds? Why?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_45b-a1">Sammy's. Different materials would make very different sounds. Different size wood would make very similar sounds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.45b.179.1" accuracy="correct">Sammy's idea - Because the plastic, the metal, and the wood are different sounds.</studentAnswer>
+    <studentAnswer id="PS.45b.334.1" accuracy="correct">Sammy - Because Nathaniel's is the same material and Sammy's is different material than just wood.</studentAnswer>
+    <studentAnswer id="PS.45b.457.1" accuracy="incorrect">Nathaniel - Because it has different sounds and metal vibrates more than wood and plastics, plastic is a different material than wood and makes a different sound.</studentAnswer>
+    <studentAnswer id="PS.45b.523.1" accuracy="correct">Sammy - Because they are different things which make different sounds.</studentAnswer>
+  </studentAnswers>
+</question>

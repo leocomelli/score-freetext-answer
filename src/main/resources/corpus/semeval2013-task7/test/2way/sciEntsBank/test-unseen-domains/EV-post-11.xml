@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="EV_11" module="EV">
+  <questionText>What is the relationship between an organism's range of tolerance and its optimum condition?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EV_11-a1">The optimum condition is within the range of tolerance.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EV.11.101.1" accuracy="correct">Range of tolerance is a range of what it likes, optimum is what it likes.</studentAnswer>
+    <studentAnswer id="EV.11.105.1" accuracy="correct">The optimum condition is what they prefer, the range of tolerance is what they can stand.</studentAnswer>
+    <studentAnswer id="EV.11.107.1" accuracy="correct">The range of tolerance is the environments it could survive in, the optimum condition is the best condition to live in.</studentAnswer>
+    <studentAnswer id="EV.11.110.1" accuracy="correct">The range of tolerance is the range it can grow in. The optimum condition is the condition it grows best in.</studentAnswer>
+    <studentAnswer id="EV.11.114.1" accuracy="correct">Range of tolerance is many environments the plant can survive in, optimum condition is the best.</studentAnswer>
+    <studentAnswer id="EV.11.116.1" accuracy="incorrect">One of them includes their environment and one is them being together.</studentAnswer>
+    <studentAnswer id="EV.11.120.1" accuracy="correct">Range of tolerance is how much they can handle and optimum condition is the best environment.</studentAnswer>
+    <studentAnswer id="EV.11.124.1" accuracy="incorrect">One to 8.</studentAnswer>
+    <studentAnswer id="EV.11.126.1" accuracy="incorrect">Its range of tolerance is its climate range.</studentAnswer>
+    <studentAnswer id="EV.11.128.1" accuracy="incorrect">It is how much it can handle.</studentAnswer>
+    <studentAnswer id="EV.11.131.1" accuracy="incorrect">Range of tolerance is a range. Optimum condition is for something living.</studentAnswer>
+    <studentAnswer id="EV.11.145.1" accuracy="incorrect">It is what the organism can tolerate or handle.</studentAnswer>
+    <studentAnswer id="EV.11.150.1" accuracy="correct">Its range of tolerance is like a scale and the optimum condition is on that scale.</studentAnswer>
+    <studentAnswer id="EV.11.152.1" accuracy="incorrect">The tolerance is where it handles organism, is the same as the other one.</studentAnswer>
+    <studentAnswer id="EV.11.160.1" accuracy="incorrect">They are all in one.</studentAnswer>
+    <studentAnswer id="EV.11.206.1" accuracy="incorrect">They are both how good the organism grows or lasts.</studentAnswer>
+    <studentAnswer id="EV.11.209.1" accuracy="incorrect">Do not get it?</studentAnswer>
+    <studentAnswer id="EV.11.211.1" accuracy="correct">Optimum condition is best condition. Range of tolerance is preferred condition.</studentAnswer>
+    <studentAnswer id="EV.11.222.1" accuracy="correct">A range of tolerance means what is the highest amount it can handle and what is the lowest amount it can handle. An optimum condition is the best amount of something.</studentAnswer>
+    <studentAnswer id="EV.11.227.1" accuracy="incorrect">They both mean where they live with that environmental factor.</studentAnswer>
+    <studentAnswer id="EV.11.227172.1" accuracy="incorrect">Opposite, because range of tolerance means most likely to die, optimum means best condition. The best condition is the one that is preferred like the brine shrimp. Optimum condition is preferred. Range of tolerance is when it is going to die, not in right optimum condition.</studentAnswer>
+    <studentAnswer id="EV.11.227180.1" accuracy="correct">Range of tolerance and optimum are both about environments, but range of tolerance is what environment can they stay in without dying and optimum is the one they like the best.</studentAnswer>
+    <studentAnswer id="EV.11.229.1" accuracy="correct">Range of tolerance means what is the least amount of something it can take to the highest amount. Optimum condition means what does it want.</studentAnswer>
+    <studentAnswer id="EV.11.234.1" accuracy="incorrect">The temperature is.</studentAnswer>
+    <studentAnswer id="EV.11.242.1" accuracy="incorrect">The optimum condition is a controlled environment and range of tolerance is like how much water and what is the temperature it can live in.</studentAnswer>
+    <studentAnswer id="EV.11.254.1" accuracy="correct">A range of tolerance is what is the lowest to the highest of something that an organism can live in, and a optimum condition is the best place for an organism to grow in.</studentAnswer>
+    <studentAnswer id="EV.11.256.1" accuracy="incorrect">The range of tolerance is how far something can handle. A optimum condition is leaving it the same.</studentAnswer>
+    <studentAnswer id="EV.11.258.1" accuracy="incorrect">Organisms living and the other is not living.</studentAnswer>
+    <studentAnswer id="EV.11.262.1" accuracy="incorrect">An range of tolerance is how high or how low something is.</studentAnswer>
+    <studentAnswer id="EV.11.276.1" accuracy="incorrect">Well because they could tolerate a condition by a range.</studentAnswer>
+    <studentAnswer id="EV.11.279.1" accuracy="incorrect">They are conditions the organisms can live in.</studentAnswer>
+    <studentAnswer id="EV.11.282.1" accuracy="correct">The optimum is where it is supposed to be and the range is where it can be.</studentAnswer>
+    <studentAnswer id="EV.11.286.1" accuracy="incorrect">They both have range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.11.296.1" accuracy="incorrect">In both conditions the organism can still grow.</studentAnswer>
+    <studentAnswer id="EV.11.312.1" accuracy="incorrect">The relationship between an organism's range of tolerance and its optimum condition is how it grows, whether it grows good or bad. How much it will grow under a set of conditions.</studentAnswer>
+    <studentAnswer id="EV.11.317.1" accuracy="incorrect">Is how much it can stand water. And where it can grow best.</studentAnswer>
+    <studentAnswer id="EV.11.320.1" accuracy="incorrect">They both have places where an organism can live and stay.</studentAnswer>
+    <studentAnswer id="EV.11.322.1" accuracy="correct">The relationship of range of tolerance and its optimum condition is which organism can stand the best and which organism grows the best.</studentAnswer>
+    <studentAnswer id="EV.11.328.1" accuracy="correct">The relationship is that the optimum condition is somewhere in the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.11.331.1" accuracy="incorrect">The relationship between the 2 is that all organisms have them.</studentAnswer>
+    <studentAnswer id="EV.11.386.1" accuracy="incorrect">I think the relationship is that they both have something to do with how much something grows.</studentAnswer>
+    <studentAnswer id="EV.11.389.1" accuracy="incorrect">With the organisms range of tolerance, it tells about the growth and its optimum condition is.</studentAnswer>
+    <studentAnswer id="EV.11.407.1" accuracy="incorrect">I think the range of tolerance is different effect.</studentAnswer>
+    <studentAnswer id="EV.11.419.1" accuracy="incorrect">You are trying to find what the organism's favorite place is.</studentAnswer>
+    <studentAnswer id="EV.11.428.1" accuracy="correct">The optimum condition is the best and range of tolerance is what it survive in, optimum condition equals thrive, range of tolerance equals survive.</studentAnswer>
+    <studentAnswer id="EV.11.441.1" accuracy="incorrect">They need water, food, and a habitat.</studentAnswer>
+    <studentAnswer id="EV.11.454.1" accuracy="correct">An organisms optimum condition is within its range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.11.456.1" accuracy="correct">His optimum condition is in his range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.11.459.1" accuracy="correct">Optimum conditions is what it needs and range of tolerance is what it will survive in.</studentAnswer>
+    <studentAnswer id="EV.11.461.1" accuracy="correct">The optimum condition is the peak of the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.11.463.1" accuracy="incorrect">They both tell what an organism needs.</studentAnswer>
+    <studentAnswer id="EV.11.465.1" accuracy="correct">Range of tolerance is the highest that it can hold before it can grow any more. Optimum condition is the condition that they can handle.</studentAnswer>
+    <studentAnswer id="EV.11.477.1" accuracy="incorrect">They are places where the organisms can live.</studentAnswer>
+    <studentAnswer id="EV.11.488.1" accuracy="correct">A range of tolerance is where it can live, a optimum condition is what weather it lives best in.</studentAnswer>
+    <studentAnswer id="EV.11.492.1" accuracy="correct">Range of tolerance is what the organism can survive in. Optimum condition is the best environment for the organism.</studentAnswer>
+    <studentAnswer id="EV.11.496.1" accuracy="incorrect">They are 2 different things.</studentAnswer>
+    <studentAnswer id="EV.11.500.1" accuracy="incorrect">Range of tolerance is when you see what the best environment for a plant of animals. An optimum condition is what the condition of a plant is.</studentAnswer>
+    <studentAnswer id="EV.11.507.1" accuracy="incorrect">Do not remember.</studentAnswer>
+    <studentAnswer id="EV.11.509.1" accuracy="incorrect">They both have certain amounts of water and seeds.</studentAnswer>
+    <studentAnswer id="EV.11.524.1" accuracy="incorrect">Range of tolerance means how far will it live and optimum means what condition it is so it is the same.</studentAnswer>
+    <studentAnswer id="EV.11.530.1" accuracy="incorrect">The plant will always grow.</studentAnswer>
+    <studentAnswer id="EV.11.531.1" accuracy="incorrect">You can do a table.</studentAnswer>
+    <studentAnswer id="EV.11.546.1" accuracy="incorrect">Well it both have to be controlled variable.</studentAnswer>
+    <studentAnswer id="EV.11.626.1" accuracy="incorrect">They have to do with nature stuff.</studentAnswer>
+    <studentAnswer id="EV.11.646.1" accuracy="incorrect">Optimum is best thing that animals needs and organism is an animals, Living things.</studentAnswer>
+  </studentAnswers>
+</question>

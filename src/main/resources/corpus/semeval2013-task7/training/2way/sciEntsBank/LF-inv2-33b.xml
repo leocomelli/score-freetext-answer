@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="LF_33b" module="LF">
+  <questionText>Below is a drawing of a river that carried sand, clay, and pebbles (past the river's mouth) to a lake. Why is the clay deposited where you indicated?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_33b-a1">The clay particles are lighter or smaller and are therefore carried farther by the water, so the clay particles end up the greatest distance away from the mouth of the river.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.33b.101.1" accuracy="incorrect">The clay is like wet sand and it is by the river.</studentAnswer>
+    <studentAnswer id="LF.33b.146.1" accuracy="incorrect">Because once the clay is picked up it is moved and dropped off outside of the mouth.</studentAnswer>
+    <studentAnswer id="LF.33b.175.1" accuracy="correct">It will end up there because clay can be broken up into such tiny parts or sediments that it is easily carried by the water and will end up probably the farthest out in the lake.</studentAnswer>
+    <studentAnswer id="LF.33b.176.1" accuracy="incorrect">The clay is deposited there because it is lighter so it travels farther and spreads out more.</studentAnswer>
+    <studentAnswer id="LF.33b.177.1" accuracy="incorrect">The deposited where I indicated because clay is a lot heavier than sand and pebbles.</studentAnswer>
+    <studentAnswer id="LF.33b.183.1" accuracy="incorrect">Because clay is a bigger.</studentAnswer>
+    <studentAnswer id="LF.33b.213.1" accuracy="incorrect">Because clay is heavier than sand so it travels farther.</studentAnswer>
+    <studentAnswer id="LF.33b.216.1" accuracy="incorrect">Clay deposited where I indicated because the clay is the lightest in this case.</studentAnswer>
+    <studentAnswer id="LF.33b.223.1" accuracy="incorrect">Because it is so light.</studentAnswer>
+    <studentAnswer id="LF.33b.253.1" accuracy="incorrect">Because when we did our stream table experiment the water and clay mixed and the water and the clay flowed together.</studentAnswer>
+    <studentAnswer id="LF.33b.260.1" accuracy="incorrect">The clay is in the river because the clay mixes in with the water.</studentAnswer>
+    <studentAnswer id="LF.33b.284.1" accuracy="incorrect">It is heavy so I thought it would drop off quick.</studentAnswer>
+    <studentAnswer id="LF.33b.285.1" accuracy="correct">It is deposited the farthest because it is lighter than the other ones.</studentAnswer>
+    <studentAnswer id="LF.33b.291.1" accuracy="incorrect">Because sand is heavier and since the sand is heavier it would go down from clay and there is a bigger amount of sand too.</studentAnswer>
+    <studentAnswer id="LF.33b.662.1" accuracy="correct">Clay is where I indicated it because clay is the lightest material so it travels the farthest.</studentAnswer>
+    <studentAnswer id="LF.33b.664.1" accuracy="incorrect">It was deposited because it begins to settle to the bottom because the channel is slowing its current.</studentAnswer>
+    <studentAnswer id="LF.33b.665.1" accuracy="incorrect">The clay is deposited where I indicated because the river has brought the clay in the lake.</studentAnswer>
+    <studentAnswer id="LF.33b.668.1" accuracy="incorrect">It is deposited because the water, river is taking it away with it.</studentAnswer>
+    <studentAnswer id="LF.33b.680.1" accuracy="correct">The clay goes the farthest because it has the least particles.</studentAnswer>
+    <studentAnswer id="LF.33b.682.1" accuracy="incorrect">The clay is deposited where I indicated it because it is heaviest so it will not go as far.</studentAnswer>
+    <studentAnswer id="LF.33b.685.1" accuracy="correct">The clay is lighter so it is carried farther.</studentAnswer>
+    <studentAnswer id="LF.33b.689.1" accuracy="correct">The clay is there because it has lighter and smaller particles which makes it float to the top.</studentAnswer>
+    <studentAnswer id="LF.33b.699.1" accuracy="incorrect">Because clay is the lightest.</studentAnswer>
+    <studentAnswer id="LF.33b.701.1" accuracy="correct">The clay is deposited there because the clay is the lightest and everything else is heavier so it sinks.</studentAnswer>
+    <studentAnswer id="LF.33b.707.1" accuracy="correct">It is deposited there because it is lighter than sand and pebbles.</studentAnswer>
+    <studentAnswer id="LF.33b.738.1" accuracy="incorrect">Very near to the mouth of the river.</studentAnswer>
+    <studentAnswer id="LF.33b.784.1" accuracy="correct">The clay is very light so it can be carried farther than the sand and pebbles.</studentAnswer>
+    <studentAnswer id="LF.33b.802.1" accuracy="correct">The clay is deposited there, because the clay has the least amount of mass so it will go farther.</studentAnswer>
+    <studentAnswer id="LF.33b.814.1" accuracy="incorrect">The clay is deposited where I indicated because the clay has the lesser mass so it is can be carried the farthest.</studentAnswer>
+    <studentAnswer id="LF.33b.825.1" accuracy="correct">It was deposited there because it has a lesser mass and therefore is carried farther than all of the other earth materials.</studentAnswer>
+    <studentAnswer id="LF.33b.837.1" accuracy="incorrect">The clay is where I indicated it because it is the one that gets pushed out the farthest.</studentAnswer>
+    <studentAnswer id="LF.33b.844.1" accuracy="correct">Clay is lighter than sand or pebbles so it would be easier for water to carry it farther.</studentAnswer>
+    <studentAnswer id="LF.33b.922.1" accuracy="correct">The clay is deposited where I indicated because it is the lightest.</studentAnswer>
+    <studentAnswer id="LF.33b.937.1" accuracy="incorrect">The clay deposit is farther because of its light weight.</studentAnswer>
+    <studentAnswer id="LF.33b.940.1" accuracy="incorrect">The clay is indicated where I put it because clay is soft and lines are soft too.</studentAnswer>
+  </studentAnswers>
+</question>

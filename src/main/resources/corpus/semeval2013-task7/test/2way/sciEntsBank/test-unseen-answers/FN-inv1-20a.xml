@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_20a" module="FN">
+  <questionText>Anna wants to compare the fat in walnuts and peanuts, but she isn't sure how. Write a procedure Anna can use to compare the fat in walnuts and peanuts.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_20a-a1">Measure out equal masses of walnuts and peanuts. Smash the samples uniformly in the same size area on brown paper. Wait the same time for each sample.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.20a.216.1" accuracy="correct">1. Get one ounce of walnuts and peanuts. 2. Smear each one on a circle of the same size on absorbent paper. 3. Put it flat on a tray. 4. Wait a couple of days. 5. Measure and take results.</studentAnswer>
+    <studentAnswer id="FN.20a.443.1" accuracy="incorrect">1. Anna can use a brown paper bag. 2. Spread the food on the brown paper bag. 3. Wait 2 days. 4. See which one has the most grease spots.</studentAnswer>
+    <studentAnswer id="FN.20a.507.1" accuracy="correct">First weigh the walnuts and peanuts to one gram amount. Then, spread the one gram walnuts and peanuts on the same brown paper. Then wait 2 days.</studentAnswer>
+    <studentAnswer id="FN.20a.531.1" accuracy="correct">First you have to have these materials, 2 brown paper indicators, weigh machine, 2 cups, one gram block, spoon and stick. You put 2 cup on each side of the weigh machine with brown paper on each of the cups. Then you smear the food sample on the brown indicator then wait for 2 day.</studentAnswer>
+  </studentAnswers>
+</question>

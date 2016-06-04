@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_27a" module="FN">
+  <questionText>Jana and Emily used indophenol to test 3 beverages for vitamin C. The number of drops they added to make a 10 milliliter sample of the blue indophenol indicator become colorless are given here: 8 drops of Overly Orange 13 drops of Luscious Lemon 33 drops of Fruitsnap (and it still didn't change color). Does Overly Orange or Luscious Lemon contain a higher concentration of vitamin C? What is the evidence?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_27a-a1">Overly Orange takes fewer drops to change the color of indophenol so Overly Orange has a higher concentration of vitamin C.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.27a.116.1" accuracy="correct">Overly Orange contains a higher concentration of vitamin C. The evidence is that it had the least number of drops to turn clear.</studentAnswer>
+    <studentAnswer id="FN.27a.370.1" accuracy="incorrect">It took less juice to make the indophenol turn clear.</studentAnswer>
+    <studentAnswer id="FN.27a.456.1" accuracy="incorrect">Yes, because if is changes color it has more vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.566.1" accuracy="correct">Overly Orange has more vitamin C because it took less drops, more drops means less vitamin C. Less drop mean more vitamin C.</studentAnswer>
+  </studentAnswers>
+</question>

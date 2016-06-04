@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_5b" module="VB">
+  <questionText>Explain in one sentence what each graph tells you. Graph B) speed of light versus time.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_5b-a1">As time increases, the speed of light stays the same (remains constant).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.5b.384.1" accuracy="correct">This graph tells me that the speed never changes.</studentAnswer>
+    <studentAnswer id="VB.5b.388.1" accuracy="incorrect">How long it takes to get to the speed of light.</studentAnswer>
+    <studentAnswer id="VB.5b.397.1" accuracy="incorrect">The speed of light is fast.</studentAnswer>
+    <studentAnswer id="VB.5b.401.1" accuracy="incorrect">How fast the speed of light is.</studentAnswer>
+    <studentAnswer id="VB.5b.406.1" accuracy="incorrect">It shows how fast the speed of light is.</studentAnswer>
+    <studentAnswer id="VB.5b.416.1" accuracy="incorrect">This graph shows me the speed of the light and how long the speed was.</studentAnswer>
+    <studentAnswer id="VB.5b.429.1" accuracy="incorrect">That there is average time and a lot of speed of light.</studentAnswer>
+    <studentAnswer id="VB.5b.432.1" accuracy="correct">It tells me that the speed of light goes straight.</studentAnswer>
+    <studentAnswer id="VB.5b.444.1" accuracy="incorrect">I think this graph tells me that the time is about 40 seconds and speed of light is about 25.</studentAnswer>
+    <studentAnswer id="VB.5b.454.1" accuracy="incorrect">It tells you half of the speed of light.</studentAnswer>
+    <studentAnswer id="VB.5b.462.1" accuracy="incorrect">This graph tells you how fast the speed of light is.</studentAnswer>
+    <studentAnswer id="VB.5b.466.1" accuracy="incorrect">This graph tells you how fast the speed of light travels in a certain amount of time.</studentAnswer>
+    <studentAnswer id="VB.5b.469.1" accuracy="correct">It does not matter how much you give it the speed of light goes just as fast.</studentAnswer>
+    <studentAnswer id="VB.5b.475.1" accuracy="incorrect">It tells you the time and the speed of light.</studentAnswer>
+    <studentAnswer id="VB.5b.489.1" accuracy="correct">As time goes on the speed of light stays the same.</studentAnswer>
+    <studentAnswer id="VB.5b.495.1" accuracy="incorrect">As time goes on it is increasing.</studentAnswer>
+    <studentAnswer id="VB.5b.496.1" accuracy="incorrect">As the time go on the speed of light get fast.</studentAnswer>
+    <studentAnswer id="VB.5b.498.1" accuracy="correct">As time goes on the speed of light stays the same.</studentAnswer>
+    <studentAnswer id="VB.5b.501.1" accuracy="incorrect">It is going on in seconds.</studentAnswer>
+    <studentAnswer id="VB.5b.503.1" accuracy="correct">As time goes on the speed of light stay same.</studentAnswer>
+    <studentAnswer id="VB.5b.506.1" accuracy="incorrect">As time goes on the speed of light goes faster.</studentAnswer>
+    <studentAnswer id="VB.5b.511.1" accuracy="incorrect">As light turns itself it will move.</studentAnswer>
+    <studentAnswer id="VB.5b.521.1" accuracy="incorrect">As time goes on the number goes to the middle.</studentAnswer>
+    <studentAnswer id="VB.5b.523.1" accuracy="incorrect">As time goes on the speed of light is longer.</studentAnswer>
+    <studentAnswer id="VB.5b.525.1" accuracy="correct">As time goes on the speed of light stays the same.</studentAnswer>
+    <studentAnswer id="VB.5b.530.1" accuracy="correct">As time goes on the speed of light stays the same.</studentAnswer>
+    <studentAnswer id="VB.5b.535.1" accuracy="incorrect">As time goes on it gets more speed.</studentAnswer>
+    <studentAnswer id="VB.5b.537.1" accuracy="incorrect">As time goes on the speed of light will pass until it will be long.</studentAnswer>
+    <studentAnswer id="VB.5b.539.1" accuracy="correct">As time goes on the speed of light stays the same.</studentAnswer>
+    <studentAnswer id="VB.5b.542.1" accuracy="correct">As time goes on the speed of light is staying the same.</studentAnswer>
+    <studentAnswer id="VB.5b.545.1" accuracy="correct">As time goes on the speed of light goes the same.</studentAnswer>
+    <studentAnswer id="VB.5b.626.1" accuracy="correct">The speed of light is staying the same while the time is increasing.</studentAnswer>
+    <studentAnswer id="VB.5b.628.1" accuracy="incorrect">I think the time is staying the same of speed of light.</studentAnswer>
+    <studentAnswer id="VB.5b.632.1" accuracy="correct">That the speed of light does not move with time.</studentAnswer>
+    <studentAnswer id="VB.5b.634.1" accuracy="incorrect">This stays the same.</studentAnswer>
+    <studentAnswer id="VB.5b.643.1" accuracy="correct">Only the time is increasing but the light is the same.</studentAnswer>
+  </studentAnswers>
+</question>

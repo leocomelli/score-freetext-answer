@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_17b" module="ME">
+  <questionText>Denise made a circuit to light a bulb or run a motor off a D-cell battery. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. Why will the bulb light when she moves the switch to the left?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17b-a1">There is a complete circuit connecting the bulb to the D-cell battery.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17b.119.1" accuracy="correct">That will happen because it is a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.144.1" accuracy="incorrect">Because when you turn it left the circuit is open which means it goes off.</studentAnswer>
+    <studentAnswer id="ME.17b.254.1" accuracy="incorrect">Because she only has one switch.</studentAnswer>
+    <studentAnswer id="ME.17b.311.1" accuracy="incorrect">Moving the switch the light bulb will make it light up.</studentAnswer>
+  </studentAnswers>
+</question>

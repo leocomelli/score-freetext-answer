@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_25a" module="SE">
+  <questionText>The graph shows temperature data from 2 containers. One container had 100 milliliters of water and the other had 100 milliliters of dry soil. Each container was placed in the sun for 20 minutes and then in the shade for 20 minutes. Which container, A or B, had the dry soil? Explain how the graph helped you decide which container had the dry soil.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_25a-a1">A. Dry soil heats more quickly and cools off more quickly than water. The graph shows A heats and cools more quickly than B, so A must be the dry soil.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.25a.319.1" accuracy="incorrect">A. Because it has a higher temperature than water.</studentAnswer>
+    <studentAnswer id="SE.25a.497.1" accuracy="correct">A. The graph helped because dry soil will heat up faster than wet and A is higher so it would definitely be A.</studentAnswer>
+    <studentAnswer id="SE.25a.502.1" accuracy="incorrect">A. A, because if you use or put any water in an earth material it will hold the temperature. Because water is a heat sink.</studentAnswer>
+    <studentAnswer id="SE.25a.600.1" accuracy="incorrect">B. I think dry soil goes down so it bring plants do not grow quickly so it goes down.</studentAnswer>
+  </studentAnswers>
+</question>

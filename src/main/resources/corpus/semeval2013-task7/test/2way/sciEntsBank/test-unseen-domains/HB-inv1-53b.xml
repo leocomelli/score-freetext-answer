@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_53b" module="HB">
+  <questionText>Look at the picture of a cow bone. What is the function of this type of bone?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_53b-a1">The rib bones form a cage to protect the internal organs.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.53b.136.1" accuracy="incorrect">Rib cage.</studentAnswer>
+    <studentAnswer id="HB.53b.138.1" accuracy="incorrect">To protect your heart and veins and lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.139.1" accuracy="incorrect">The function of this type of bone is to protect your heart, lungs, liver and body parts inside the torso.</studentAnswer>
+    <studentAnswer id="HB.53b.141.1" accuracy="incorrect">Support.</studentAnswer>
+    <studentAnswer id="HB.53b.142.1" accuracy="incorrect">I know it is a rib because it is curved.</studentAnswer>
+    <studentAnswer id="HB.53b.144.1" accuracy="incorrect">It protects the heart and guts.</studentAnswer>
+    <studentAnswer id="HB.53b.148.1" accuracy="incorrect">To protect your insides.</studentAnswer>
+    <studentAnswer id="HB.53b.180.1" accuracy="incorrect">It protects your insides.</studentAnswer>
+    <studentAnswer id="HB.53b.207.1" accuracy="incorrect">Protection.</studentAnswer>
+    <studentAnswer id="HB.53b.209.1" accuracy="incorrect">It protects the lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.212.1" accuracy="incorrect">Protecting your organs.</studentAnswer>
+    <studentAnswer id="HB.53b.216.1" accuracy="incorrect">To protect the heart.</studentAnswer>
+    <studentAnswer id="HB.53b.222.1" accuracy="incorrect">It is protection.</studentAnswer>
+    <studentAnswer id="HB.53b.243.1" accuracy="correct">The function is protection because the ribs protect the heart and lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.251.1" accuracy="correct">The function of the rib is protection.</studentAnswer>
+    <studentAnswer id="HB.53b.254.1" accuracy="incorrect">The function of this bone is to protect the heart and the lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.256.1" accuracy="incorrect">It is long and at the 2 ends curved.</studentAnswer>
+    <studentAnswer id="HB.53b.257.1" accuracy="incorrect">Protection.</studentAnswer>
+    <studentAnswer id="HB.53b.284.1" accuracy="incorrect">The bone is curved like our rib bone.</studentAnswer>
+    <studentAnswer id="HB.53b.311.1" accuracy="incorrect">The function is to protect your heart and lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.313.1" accuracy="incorrect">It is a rib because it is curved the way a rib curves.</studentAnswer>
+    <studentAnswer id="HB.53b.320.1" accuracy="incorrect">To protect the heart and liver and stuff.</studentAnswer>
+    <studentAnswer id="HB.53b.324.1" accuracy="incorrect">The function of that bone is to protect.</studentAnswer>
+    <studentAnswer id="HB.53b.325.1" accuracy="incorrect">I know because it is curved like a C.</studentAnswer>
+    <studentAnswer id="HB.53b.328.1" accuracy="incorrect">The function is to protect.</studentAnswer>
+    <studentAnswer id="HB.53b.346.1" accuracy="incorrect">It is kind of bent little bit of the bone.</studentAnswer>
+    <studentAnswer id="HB.53b.349.1" accuracy="incorrect">The bone protects our heart.</studentAnswer>
+    <studentAnswer id="HB.53b.350.1" accuracy="incorrect">His rib, his jawbone his leg bone.</studentAnswer>
+    <studentAnswer id="HB.53b.352.1" accuracy="incorrect">The function of this type of bone is to move.</studentAnswer>
+    <studentAnswer id="HB.53b.361.1" accuracy="incorrect">To protect your heart and lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.365.1" accuracy="incorrect">Protects our lungs and heart.</studentAnswer>
+    <studentAnswer id="HB.53b.385.1" accuracy="incorrect">The function of this bone is a layer.</studentAnswer>
+    <studentAnswer id="HB.53b.386.1" accuracy="incorrect">That it protects some things.</studentAnswer>
+    <studentAnswer id="HB.53b.387.1" accuracy="incorrect">Protection.</studentAnswer>
+    <studentAnswer id="HB.53b.393.1" accuracy="correct">The rib bone protects the lungs and the hearts.</studentAnswer>
+    <studentAnswer id="HB.53b.418.1" accuracy="incorrect">The function is to protect your heart and all the other stuff inside.</studentAnswer>
+    <studentAnswer id="HB.53b.422.1" accuracy="incorrect">The function is protection.</studentAnswer>
+    <studentAnswer id="HB.53b.424.1" accuracy="incorrect">It keeps things inside.</studentAnswer>
+    <studentAnswer id="HB.53b.425.1" accuracy="incorrect">The function of this bone is the chest.</studentAnswer>
+    <studentAnswer id="HB.53b.427.1" accuracy="incorrect">I think the function of this type of bone is for protection.</studentAnswer>
+    <studentAnswer id="HB.53b.428.1" accuracy="incorrect">It is for protection for your heart, lung, intestines and liver.</studentAnswer>
+    <studentAnswer id="HB.53b.429.1" accuracy="incorrect">To protect some of what is inside your body.</studentAnswer>
+    <studentAnswer id="HB.53b.432.1" accuracy="incorrect">It protects the insides.</studentAnswer>
+    <studentAnswer id="HB.53b.433.1" accuracy="incorrect">The function of this cow bone is protection.</studentAnswer>
+    <studentAnswer id="HB.53b.435.1" accuracy="incorrect">Protecting your heart, lungs and some guts.</studentAnswer>
+    <studentAnswer id="HB.53b.438.1" accuracy="incorrect">Protection of your insides.</studentAnswer>
+    <studentAnswer id="HB.53b.456.1" accuracy="incorrect">It has the rib cage.</studentAnswer>
+    <studentAnswer id="HB.53b.458.1" accuracy="incorrect">It can carry a lot of stuff in it and if you do not have it all of the stuff would fall out.</studentAnswer>
+    <studentAnswer id="HB.53b.459.1" accuracy="incorrect">Protect the lung.</studentAnswer>
+    <studentAnswer id="HB.53b.461.1" accuracy="incorrect">It helps we breathe.</studentAnswer>
+    <studentAnswer id="HB.53b.463.1" accuracy="incorrect">It protects the heart.</studentAnswer>
+    <studentAnswer id="HB.53b.466.1" accuracy="incorrect">Protect the lungs and heart.</studentAnswer>
+    <studentAnswer id="HB.53b.470.1" accuracy="incorrect">It protects our heart and lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.471.1" accuracy="incorrect">Protects our heart.</studentAnswer>
+    <studentAnswer id="HB.53b.493.1" accuracy="incorrect">It guards your heart.</studentAnswer>
+    <studentAnswer id="HB.53b.494.1" accuracy="incorrect">To protect your heart and lungs so you will stay alive.</studentAnswer>
+    <studentAnswer id="HB.53b.496.1" accuracy="incorrect">Ribs are tiny and curved.</studentAnswer>
+    <studentAnswer id="HB.53b.499.1" accuracy="incorrect">It looks like the rib and it looks exactly like a mouse bone.</studentAnswer>
+    <studentAnswer id="HB.53b.500.1" accuracy="incorrect">To protect the heart and lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.501.1" accuracy="incorrect">To keep the lungs safe.</studentAnswer>
+    <studentAnswer id="HB.53b.504.1" accuracy="incorrect">Protection of the heart and lungs, liver.</studentAnswer>
+    <studentAnswer id="HB.53b.505.1" accuracy="incorrect">To protect the important heart.</studentAnswer>
+    <studentAnswer id="HB.53b.523.1" accuracy="incorrect">Protection of organs and heart.</studentAnswer>
+    <studentAnswer id="HB.53b.524.1" accuracy="incorrect">This type of bone is good for protection.</studentAnswer>
+    <studentAnswer id="HB.53b.525.1" accuracy="incorrect">To protect your organs.</studentAnswer>
+    <studentAnswer id="HB.53b.531.1" accuracy="incorrect">That it is not like our rib bones.</studentAnswer>
+    <studentAnswer id="HB.53b.535.1" accuracy="incorrect">It is a rib but they call it a cow bone.</studentAnswer>
+    <studentAnswer id="HB.53b.565.1" accuracy="incorrect">To protect what the cow eats.</studentAnswer>
+    <studentAnswer id="HB.53b.566.1" accuracy="incorrect">Because ribs are bound.</studentAnswer>
+    <studentAnswer id="HB.53b.568.1" accuracy="incorrect">To keep organs safe.</studentAnswer>
+    <studentAnswer id="HB.53b.571.1" accuracy="incorrect">Maybe to protect the cow's organs.</studentAnswer>
+    <studentAnswer id="HB.53b.575.1" accuracy="incorrect">To protect organs, digestive system and maybe heart.</studentAnswer>
+    <studentAnswer id="HB.53b.577.1" accuracy="incorrect">To protect the organs.</studentAnswer>
+    <studentAnswer id="HB.53b.579.1" accuracy="incorrect">To protect the heart.</studentAnswer>
+    <studentAnswer id="HB.53b.592.1" accuracy="incorrect">Protects your lungs.</studentAnswer>
+    <studentAnswer id="HB.53b.593.1" accuracy="incorrect">To twist around and protect your organs.</studentAnswer>
+    <studentAnswer id="HB.53b.598.1" accuracy="incorrect">The function is protecting.</studentAnswer>
+    <studentAnswer id="HB.53b.599.1" accuracy="incorrect">It keeps the stomach round.</studentAnswer>
+    <studentAnswer id="HB.53b.601.1" accuracy="incorrect">I think the function is hollow.</studentAnswer>
+    <studentAnswer id="HB.53b.603.1" accuracy="incorrect">The function of this bone is to protect.</studentAnswer>
+    <studentAnswer id="HB.53b.604.1" accuracy="incorrect">To protect all of your insides.</studentAnswer>
+    <studentAnswer id="HB.53b.607.1" accuracy="incorrect">The heart.</studentAnswer>
+    <studentAnswer id="HB.53b.611.1" accuracy="incorrect">It protects its heart.</studentAnswer>
+    <studentAnswer id="HB.53b.613.1" accuracy="incorrect">The function of this bone is to help protect the heart.</studentAnswer>
+    <studentAnswer id="HB.53b.614.1" accuracy="incorrect">The function of this bone is to help the cow move its tail on the outside.</studentAnswer>
+    <studentAnswer id="HB.53b.626.1" accuracy="incorrect">To protect its rib cage at all times.</studentAnswer>
+    <studentAnswer id="HB.53b.631.1" accuracy="incorrect">Protection.</studentAnswer>
+    <studentAnswer id="HB.53b.636.1" accuracy="incorrect">Support because you need it to live.</studentAnswer>
+    <studentAnswer id="HB.53b.637.1" accuracy="incorrect">Protection.</studentAnswer>
+    <studentAnswer id="HB.53b.641.1" accuracy="incorrect">The function is to protect the lungs and the other organs.</studentAnswer>
+    <studentAnswer id="HB.53b.646.1" accuracy="incorrect">The function of this bone is protection.</studentAnswer>
+    <studentAnswer id="HB.53b.647.1" accuracy="incorrect">The function is protection.</studentAnswer>
+    <studentAnswer id="HB.53b.648.1" accuracy="incorrect">Protect the bone because it rib.</studentAnswer>
+    <studentAnswer id="HB.53b.986.1" accuracy="incorrect">It is to protect the lungs, heart and the stomach.</studentAnswer>
+    <studentAnswer id="HB.53b.987.1" accuracy="incorrect">Support.</studentAnswer>
+    <studentAnswer id="HB.53b.988.1" accuracy="incorrect">Support.</studentAnswer>
+    <studentAnswer id="HB.53b.989.1" accuracy="incorrect">Support.</studentAnswer>
+    <studentAnswer id="HB.53b.990.1" accuracy="incorrect">The function of this bone is protection.</studentAnswer>
+    <studentAnswer id="HB.53b.991.1" accuracy="incorrect">Support.</studentAnswer>
+    <studentAnswer id="HB.53b.993.1" accuracy="incorrect">That it does not move.</studentAnswer>
+  </studentAnswers>
+</question>

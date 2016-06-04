@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="EM_27b" module="EM">
+  <questionText>You can tell if a rock contains calcite by putting it into a cold acid (like vinegar). Describe what you would observe if you did the acid test on a rock that contains this substance.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_27b-a1">Many tiny bubbles will rise from the calcite when the calcite contacts the cold acid.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.27b.386.1" accuracy="incorrect">You would see if it bubbles.</studentAnswer>
+    <studentAnswer id="EM.27b.391.1" accuracy="incorrect">Bubbles coming out of the rock and murky water.</studentAnswer>
+    <studentAnswer id="EM.27b.393.1" accuracy="incorrect">The vinegar would get all full with bubbles, and murky.</studentAnswer>
+    <studentAnswer id="EM.27b.403.1" accuracy="incorrect">I would observe broken calcite that looks like wet baby powder.</studentAnswer>
+    <studentAnswer id="EM.27b.404.1" accuracy="incorrect">Well a mineral is in a can of rock there is.</studentAnswer>
+    <studentAnswer id="EM.27b.409.1" accuracy="incorrect">It would be mostly about minerals.</studentAnswer>
+    <studentAnswer id="EM.27b.416.1" accuracy="incorrect">I would see if the rocks bubble.</studentAnswer>
+    <studentAnswer id="EM.27b.433.1" accuracy="incorrect">I would observe many bubbles staying on the calcite, and some floating to the top.</studentAnswer>
+    <studentAnswer id="EM.27b.436.1" accuracy="incorrect">You would see bubbles.</studentAnswer>
+    <studentAnswer id="EM.27b.438.1" accuracy="incorrect">You would look for bubbling.</studentAnswer>
+    <studentAnswer id="EM.27b.441.1" accuracy="incorrect">I would look for bubbles if the it has bubble it has calcite.</studentAnswer>
+    <studentAnswer id="EM.27b.454.1" accuracy="correct">If the rock fizzes it contains calcite because calcite fizzes when put with cold acid.</studentAnswer>
+    <studentAnswer id="EM.27b.459.1" accuracy="correct">You would see the mineral fizzing.</studentAnswer>
+    <studentAnswer id="EM.27b.467.1" accuracy="incorrect">I would notice that it should be bubbling.</studentAnswer>
+    <studentAnswer id="EM.27b.487.1" accuracy="correct">The rock would be covered by bubbles and fizz.</studentAnswer>
+    <studentAnswer id="EM.27b.489.1" accuracy="incorrect">You will see bubbles coming up and you will see them going fast.</studentAnswer>
+    <studentAnswer id="EM.27b.494.1" accuracy="correct">You would see bubbles fizzing to the top.</studentAnswer>
+    <studentAnswer id="EM.27b.501.1" accuracy="incorrect">You would see bubbles floating up or down.</studentAnswer>
+    <studentAnswer id="EM.27b.505.1" accuracy="correct">The rock would covered by bubbles and fizz.</studentAnswer>
+    <studentAnswer id="EM.27b.508.1" accuracy="correct">Some parts will fizz and bubble with rise to the top.</studentAnswer>
+    <studentAnswer id="EM.27b.509.1" accuracy="incorrect">You would see bubbles rising from the calcite.</studentAnswer>
+    <studentAnswer id="EM.27b.525.1" accuracy="correct">It would fizz and get small.</studentAnswer>
+    <studentAnswer id="EM.27b.530.1" accuracy="incorrect">It would have little tiny crystals that are white.</studentAnswer>
+    <studentAnswer id="EM.27b.533.1" accuracy="incorrect">If I in a test on as rock with acid I will put acid on the rock and let it settle overnight.</studentAnswer>
+    <studentAnswer id="EM.27b.537.1" accuracy="correct">By it fizzing and it might take the rock apart.</studentAnswer>
+    <studentAnswer id="EM.27b.541.1" accuracy="incorrect">Bubbly, shiny and kind of see through.</studentAnswer>
+    <studentAnswer id="EM.27b.559.1" accuracy="incorrect">Because the one thing that you put vinegar has or has not calcite.</studentAnswer>
+    <studentAnswer id="EM.27b.563.1" accuracy="incorrect">For bubbles.</studentAnswer>
+    <studentAnswer id="EM.27b.564.1" accuracy="incorrect">Calcite reacts with vinegar.</studentAnswer>
+    <studentAnswer id="EM.27b.569.1" accuracy="incorrect">Water breaks rock to little pieces.</studentAnswer>
+    <studentAnswer id="EM.27b.574.1" accuracy="incorrect">It will bubble.</studentAnswer>
+    <studentAnswer id="EM.27b.606.1" accuracy="incorrect">I would describe what the rocks color is and what the mass if it is a mineral or not.</studentAnswer>
+    <studentAnswer id="EM.27b.609.1" accuracy="correct">The rock would fizz. If it fizzed then there is calcite in it.</studentAnswer>
+    <studentAnswer id="EM.27b.610.1" accuracy="incorrect">It will be separated in groups.</studentAnswer>
+    <studentAnswer id="EM.27b.614.1" accuracy="correct">You would observe fizz in the rock that contains calcite.</studentAnswer>
+    <studentAnswer id="EM.27b.632.1" accuracy="correct">It sizzles. If it first sizzles it contains calcite.</studentAnswer>
+  </studentAnswers>
+</question>

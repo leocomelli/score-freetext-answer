@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_48" module="SE">
+  <questionText>Maggie wanted to find out if surface area affected temperature change. She had 3 white cake pans. She filled each with 300 milliliters of water. She put one small black plastic disk in pan A, 2 in pan B, and 3 in pan C. Then she put all 3 pans in the sun. When Maggie measured the water temperature in each pan after 15 minutes, which pan do you think held the hottest water? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_48-a1">C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.48.104.1" accuracy="incorrect">C. When there are more than one thing it get hotter faster and cooler faster too.</studentAnswer>
+    <studentAnswer id="SE.48.105.1" accuracy="incorrect">C. Because there are more black in it.</studentAnswer>
+    <studentAnswer id="SE.48.107.1" accuracy="incorrect">C. It got more energy to do.</studentAnswer>
+    <studentAnswer id="SE.48.117.1" accuracy="incorrect">C. Because the more the black, the hotter it gets. The less it has, the cooler it gets.</studentAnswer>
+    <studentAnswer id="SE.48.126.1" accuracy="correct">C. The one with 3 disks could of got hot because it had more disks than A or B. Since it has more disks then it was the one that got the hottest because the sun heat got in it more than the other 2.</studentAnswer>
+    <studentAnswer id="SE.48.136.1" accuracy="correct">C. C because it holds 3 black papers in the pan with water facing the sun. Black absorbs the heat.</studentAnswer>
+    <studentAnswer id="SE.48.140.1" accuracy="correct">C. Since more surface area absorbs heat and it was black it makes more sense for it to be more hot.</studentAnswer>
+    <studentAnswer id="SE.48.173.1" accuracy="correct">C. I selected pan C because pan C got the most black disks so pan C absorbs more heat.</studentAnswer>
+    <studentAnswer id="SE.48.247.1" accuracy="incorrect">C. There is more black to attract the sun.</studentAnswer>
+    <studentAnswer id="SE.48.251.1" accuracy="incorrect">A. Because B and C will take too long to heat up because there is more water in pan B and C.</studentAnswer>
+    <studentAnswer id="SE.48.252.1" accuracy="incorrect">C. Because there are 3 white cakes in pan C.</studentAnswer>
+    <studentAnswer id="SE.48.253.1" accuracy="incorrect">C. Because it has more black circles.</studentAnswer>
+    <studentAnswer id="SE.48.257.1" accuracy="incorrect">C. It has more black and black heats up fast.</studentAnswer>
+    <studentAnswer id="SE.48.261.1" accuracy="incorrect">C. I picked C because it has more pans and they will affect the sun.</studentAnswer>
+    <studentAnswer id="SE.48.267.1" accuracy="correct">C. Because it has more black in it that attracts the sun to make it hotter.</studentAnswer>
+    <studentAnswer id="SE.48.328.1" accuracy="incorrect">C. I pick C because that is the highest of the other.</studentAnswer>
+    <studentAnswer id="SE.48.386.1" accuracy="correct">C. I think it would be the hottest because it has more black.</studentAnswer>
+    <studentAnswer id="SE.48.387.1" accuracy="incorrect">C. Because it has the most plastic disks.</studentAnswer>
+    <studentAnswer id="SE.48.409.1" accuracy="incorrect">C. The cake pan C had the most black in it so it warmed up the quickest and made the water warmer.</studentAnswer>
+    <studentAnswer id="SE.48.424.1" accuracy="correct">C. It has more black disks to absorb more heat.</studentAnswer>
+    <studentAnswer id="SE.48.427.1" accuracy="correct">C. Pan C had the largest surface area to absorb the heat from the sun, so pan C became the warmest pan in the sun.</studentAnswer>
+    <studentAnswer id="SE.48.430.1" accuracy="incorrect">C. Well it has more black, and the sun's heat is attracted by dark colors, so the heat would stay on C.</studentAnswer>
+    <studentAnswer id="SE.48.440.1" accuracy="correct">C. The black disks absorbs the heat so the width of the disk, the more the heats expands when it touches the water place will be heated up.</studentAnswer>
+    <studentAnswer id="SE.48.441.1" accuracy="incorrect">A. Water is a heat sink which slows down the absorption of the heat so the more water the less heat in the pan.</studentAnswer>
+    <studentAnswer id="SE.48.488.1" accuracy="incorrect">C. It has more black parts.</studentAnswer>
+    <studentAnswer id="SE.48.490.1" accuracy="incorrect">C. Because there are 3 heat sinks on C which will keep the pan warm in the night.</studentAnswer>
+    <studentAnswer id="SE.48.492.1" accuracy="incorrect">C. Because the more black it is the more the black is absorbing and making the water the hottest.</studentAnswer>
+    <studentAnswer id="SE.48.493.1" accuracy="incorrect">A. Because energy did not have much to heat so it focused on that one thing.</studentAnswer>
+    <studentAnswer id="SE.48.502.1" accuracy="incorrect">C. C, because there is more black in C than any other cake pan. The more black the hotter it will get because black absorbs the sun's energy.</studentAnswer>
+    <studentAnswer id="SE.48.507.1" accuracy="correct">C. They all absorbed the heat. When these disks they absorb and pass the heat between all of them and that is why.</studentAnswer>
+    <studentAnswer id="SE.48.513.1" accuracy="incorrect">C. Because the pan has more disks but they also are small so they would heat up easily.</studentAnswer>
+    <studentAnswer id="SE.48.514.1" accuracy="correct">C. Box C has the most surface area covered so all the plastic circles would absorb energy so it would be the warmest.</studentAnswer>
+    <studentAnswer id="SE.48.532.1" accuracy="incorrect">C. It has more black circles.</studentAnswer>
+    <studentAnswer id="SE.48.548.1" accuracy="incorrect">A. Because the pancake needed some room and it needs lots of tarp in order for it to have it cooked.</studentAnswer>
+    <studentAnswer id="SE.48.592.1" accuracy="correct">C. The one with 3 is hotter because more black absorbs more heat.</studentAnswer>
+    <studentAnswer id="SE.48.615.1" accuracy="correct">C. Pan C has more black disks so the heat will be absorbed because the more black there is the more heat is absorbed.</studentAnswer>
+  </studentAnswers>
+</question>

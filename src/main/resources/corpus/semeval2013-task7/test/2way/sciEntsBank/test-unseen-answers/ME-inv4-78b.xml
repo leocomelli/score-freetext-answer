@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_78b" module="ME">
+  <questionText>Look at the picture of the circuit to the right. What will happen to the motor if the light bulb burns out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_78b-a1">The motor will continue to run because the motor still has a pathway to the D-cell.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.78b.115.1" accuracy="incorrect">The motor will burn out also.</studentAnswer>
+    <studentAnswer id="ME.78b.140.1" accuracy="incorrect">The motor will also burn out with the light bulb because it is in parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.78b.159.1" accuracy="incorrect">The motor will keep running.</studentAnswer>
+    <studentAnswer id="ME.78b.254.1" accuracy="incorrect">The motor will stop working because it is in a series.</studentAnswer>
+  </studentAnswers>
+</question>

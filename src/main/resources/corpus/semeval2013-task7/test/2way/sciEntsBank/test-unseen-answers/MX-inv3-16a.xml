@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_16a" module="MX">
+  <questionText>Mariella made a saturated solution by adding a solid to 100 milliliters water. Richard made a saturated solution by adding the same solid to 250 milliliters water. Do the 2 saturated solutions have the same concentration? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_16a-a1">Yes. If both solutions are saturated (and at the same temperature), the solutions will both have the same concentration. Once a solution is saturated, the solution cannot get any more concentrated.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.16a.436.1" accuracy="incorrect">No because Mariella's is more concentrated because her's has less water so it is taste more sweeter or saltier.</studentAnswer>
+    <studentAnswer id="MX.16a.492.1" accuracy="incorrect">Yes because they both have the same amount of water.</studentAnswer>
+    <studentAnswer id="MX.16a.497.1" accuracy="incorrect">Yes, because if the same amount of solute and make a saturated solution the concentration would be the same if the solutions had the same volume.</studentAnswer>
+    <studentAnswer id="MX.16a.636.1" accuracy="incorrect">No because one has 100 milliliters of water and the other has 250 milliliters of water.</studentAnswer>
+  </studentAnswers>
+</question>

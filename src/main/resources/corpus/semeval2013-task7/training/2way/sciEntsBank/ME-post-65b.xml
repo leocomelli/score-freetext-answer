@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_65b" module="ME">
+  <questionText>Look at the schematic diagram including a D-cell battery and 3 bulbs. Why do the other 2 bulbs stay lit if the middle bulb burns out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_65b-a1">The circuit is parallel, so each bulb has its own pathway to the D-cell battery, so the bulbs that do not burn out continue to shine.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.65b.101.1" accuracy="correct">It will happen because it is a parallel circuit not a series.</studentAnswer>
+    <studentAnswer id="ME.65b.107.1" accuracy="correct">This will happen because the other 2 bulbs will have a its own pathway, and it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.108.1" accuracy="correct">Because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.111.1" accuracy="incorrect">Because I think it is a series and series have to share and takes more power to form it.</studentAnswer>
+    <studentAnswer id="ME.65b.113.1" accuracy="incorrect">Because there is only one D-Cell so 3 bulbs will definitely not work worse.</studentAnswer>
+    <studentAnswer id="ME.65b.118.1" accuracy="incorrect">Because the bulb does not have its own path of electricity to flow.</studentAnswer>
+    <studentAnswer id="ME.65b.119.1" accuracy="correct">That happens because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.140.1" accuracy="incorrect">It happens because the 2 bulbs in the middle are connected together and they both are hooked to the wires.</studentAnswer>
+    <studentAnswer id="ME.65b.141.1" accuracy="correct">Because the bulbs are in parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.146.1" accuracy="correct">Because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.152.1" accuracy="correct">Because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.153.1" accuracy="correct">It happens because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.155.1" accuracy="incorrect">That happens because the electricity is still going around the other 2 bulbs.</studentAnswer>
+    <studentAnswer id="ME.65b.159.1" accuracy="incorrect">It stays lit.</studentAnswer>
+    <studentAnswer id="ME.65b.174.1" accuracy="incorrect">That happens because just because one burns out does not mean the rest will and electricity can still flow.</studentAnswer>
+    <studentAnswer id="ME.65b.176.1" accuracy="incorrect">That happens because they each have their own circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.178.1" accuracy="correct">It is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.180.1" accuracy="incorrect">That happens because this is a series circuit. A series circuit means that if one bulb burns out they all do.</studentAnswer>
+    <studentAnswer id="ME.65b.181.1" accuracy="correct">They will stay on because it is in a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.183.1" accuracy="correct">The reason is that the bulbs are in a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.185.1" accuracy="correct">That happens because it is a parallel circuit which means it should run as long as you do not open the parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.189.1" accuracy="incorrect">It happens because if it is a cut off where I marked it they would still light.</studentAnswer>
+    <studentAnswer id="ME.65b.190.1" accuracy="incorrect">Why, because it is a parallel circuit, and if one burns out they all burn out they all stay on.</studentAnswer>
+    <studentAnswer id="ME.65b.191.1" accuracy="correct">It happens because that string of lights is a parallel string of lights.</studentAnswer>
+    <studentAnswer id="ME.65b.192.1" accuracy="correct">This happens because when a parallel circuit is formed like this one the D-cell still allows the electricity to flow through the circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.206.1" accuracy="incorrect">Because it is a cinematic circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.207.1" accuracy="incorrect">The bulbs are connecting to the same circuit. It will not work.</studentAnswer>
+    <studentAnswer id="ME.65b.208.1" accuracy="incorrect">The magnetic force will still go through.</studentAnswer>
+    <studentAnswer id="ME.65b.215.1" accuracy="incorrect">Because electricity still goes through the wires to the others.</studentAnswer>
+    <studentAnswer id="ME.65b.256.1" accuracy="correct">Because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.277.1" accuracy="correct">That means it is a parallel circuit and if 2 bulbs burn out one will still be lit.</studentAnswer>
+    <studentAnswer id="ME.65b.283.1" accuracy="incorrect">Because then it will not have a way to go.</studentAnswer>
+    <studentAnswer id="ME.65b.292.1" accuracy="incorrect">The bulb share the same D-Cell.</studentAnswer>
+    <studentAnswer id="ME.65b.318.1" accuracy="incorrect">The electricity will still flow through the wires to get to the other lights.</studentAnswer>
+    <studentAnswer id="ME.65b.324.1" accuracy="incorrect">If the 2 bulbs in the middle burns out the one on top will.</studentAnswer>
+    <studentAnswer id="ME.65b.327.1" accuracy="correct">Because it is a parallel circuit.</studentAnswer>
+  </studentAnswers>
+</question>

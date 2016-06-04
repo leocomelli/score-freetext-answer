@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="LF_13a" module="LF">
+  <questionText>What happens to earth materials during deposition?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_13a-a1">Earth materials settle out during deposition.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.13a.384.1" accuracy="correct">Earth material get deposited and forms a delta.</studentAnswer>
+    <studentAnswer id="LF.13a.394.1" accuracy="correct">It goes to a different place.</studentAnswer>
+    <studentAnswer id="LF.13a.404.1" accuracy="correct">Earth material gets deposited to another place.</studentAnswer>
+    <studentAnswer id="LF.13a.418.1" accuracy="incorrect">They go to a different place.</studentAnswer>
+    <studentAnswer id="LF.13a.419.1" accuracy="incorrect">The materials like burst away.</studentAnswer>
+    <studentAnswer id="LF.13a.435.1" accuracy="incorrect">The earth materials that were weathered away by the erosion flow farther in water or just move away from where they were.</studentAnswer>
+    <studentAnswer id="LF.13a.441.1" accuracy="incorrect">During deposition earth materials are moved to different places.</studentAnswer>
+    <studentAnswer id="LF.13a.444.1" accuracy="correct">The eroded earth materials during deposition get deposited to a different area.</studentAnswer>
+    <studentAnswer id="LF.13a.452.1" accuracy="incorrect">The earth material gets worn away.</studentAnswer>
+    <studentAnswer id="LF.13a.469.1" accuracy="incorrect">The earth explains the and it will but it will explode.</studentAnswer>
+    <studentAnswer id="LF.13a.477.1" accuracy="incorrect">What happens to it is that the deposition goes more far away from the stream table.</studentAnswer>
+    <studentAnswer id="LF.13a.478.1" accuracy="incorrect">The earth material will break into little pieces.</studentAnswer>
+    <studentAnswer id="LF.13a.504.1" accuracy="incorrect">First, erosion wears all the materials away. Then, deposition makes a v shaped valley.</studentAnswer>
+    <studentAnswer id="LF.13a.515.1" accuracy="correct">They go to the mouth of river and deposits there.</studentAnswer>
+    <studentAnswer id="LF.13a.516.1" accuracy="incorrect">The socks, sand, and clay start to make a bigger canyon.</studentAnswer>
+    <studentAnswer id="LF.13a.661.1" accuracy="incorrect">The earth materials are carried away and dropped off at the end.</studentAnswer>
+    <studentAnswer id="LF.13a.672.1" accuracy="incorrect">The earth materials get carried away during deposition.</studentAnswer>
+    <studentAnswer id="LF.13a.678.1" accuracy="incorrect">Earth materials get carried away.</studentAnswer>
+    <studentAnswer id="LF.13a.681.1" accuracy="correct">During deposition earth materials would get carried away to a new location.</studentAnswer>
+    <studentAnswer id="LF.13a.682.1" accuracy="correct">Earth materials are washed away and settled to the bottom.</studentAnswer>
+    <studentAnswer id="LF.13a.688.1" accuracy="correct">Earth materials are washed downstream and then start to build up land.</studentAnswer>
+    <studentAnswer id="LF.13a.705.1" accuracy="correct">Deposition is when earth materials move from one.</studentAnswer>
+    <studentAnswer id="LF.13a.717.1" accuracy="incorrect">They are dark in new places.</studentAnswer>
+    <studentAnswer id="LF.13a.732.1" accuracy="incorrect">The earth materials that have been eroded is deposited at the mouth of a river or stream forming a delta.</studentAnswer>
+    <studentAnswer id="LF.13a.744.1" accuracy="incorrect">It is placed and left in deltas and riverbanks.</studentAnswer>
+    <studentAnswer id="LF.13a.754.1" accuracy="correct">After deposition earth material is carried out to river banks. Deltas form and into the ocean.</studentAnswer>
+    <studentAnswer id="LF.13a.770.1" accuracy="incorrect">The earth materials were broken down and separated.</studentAnswer>
+    <studentAnswer id="LF.13a.780.1" accuracy="correct">During deposition the materials are getting washed downstream and when the river comes to an opening they get deposited.</studentAnswer>
+    <studentAnswer id="LF.13a.784.1" accuracy="correct">During deposition earth materials get deposited into other places.</studentAnswer>
+    <studentAnswer id="LF.13a.819.1" accuracy="incorrect">The wearing down of earth material which will deposited.</studentAnswer>
+    <studentAnswer id="LF.13a.820.1" accuracy="correct">During deposition earth material settles to the bottom of a river.</studentAnswer>
+    <studentAnswer id="LF.13a.823.1" accuracy="incorrect">They are carried and stack upon each other and settle to the bottom.</studentAnswer>
+    <studentAnswer id="LF.13a.850.1" accuracy="incorrect">The earth materials is get carried off to the mouth of a river.</studentAnswer>
+    <studentAnswer id="LF.13a.914.1" accuracy="incorrect">During deposition earth materials are moved to a different place.</studentAnswer>
+    <studentAnswer id="LF.13a.918.1" accuracy="incorrect">What happens to earth material during deposition is that the materials are worn away from the earth.</studentAnswer>
+    <studentAnswer id="LF.13a.924.1" accuracy="correct">During deposition earth material is deposited it formed deltas, a canyon, and a channel.</studentAnswer>
+  </studentAnswers>
+</question>

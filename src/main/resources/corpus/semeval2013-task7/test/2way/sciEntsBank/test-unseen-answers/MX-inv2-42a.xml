@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_42a" module="MX">
+  <questionText>Joanne mixed material R and material D together, added water, and stirred. After a few minutes, the liquid was clear and there was a solid on the bottom of the cup. Joanne used a paper filter to separate the solid from the liquid. Why does the solid stay in the filter when the liquid goes through?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_42a-a1">The particles of the solid are too big to go through the holes in the paper filter.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.42a.416.1" accuracy="correct">Because the solid is big and it cannot go through the filter paper.</studentAnswer>
+    <studentAnswer id="MX.42a.460.1" accuracy="correct">The solid stays because it is bigger than the holes in filter and stay in the filter.</studentAnswer>
+    <studentAnswer id="MX.42a.500.1" accuracy="correct">The solid is bigger than the holes in the filter.</studentAnswer>
+    <studentAnswer id="MX.42a.601.1" accuracy="incorrect">Because you cannot handle the water. For example we cannot handle water on our hands but we can handle solid things.</studentAnswer>
+  </studentAnswers>
+</question>

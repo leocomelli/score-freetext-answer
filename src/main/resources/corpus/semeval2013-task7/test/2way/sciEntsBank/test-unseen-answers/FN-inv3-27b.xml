@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_27b" module="FN">
+  <questionText>Jana and Emily used indophenol to test 3 beverages for vitamin C. The number of drops they added to make a 10 milliliters sample of the blue indophenol indicator become colorless are given here: 8 drops of Overly Orange 13 drops of Luscious Lemon 33 drops of Fruitsnap (and it still didn't change color). Why didn't the indophenol change color with Fruitsnap?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_27b-a1">Fruitsnap contains little or no vitamin C so Fruitsnap does not change the color of the indophenol.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.27b.117.1" accuracy="correct">Because it had no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.243.1" accuracy="correct">The indophenol did not change color because it does not have vitamin C in it.</studentAnswer>
+    <studentAnswer id="FN.27b.267.1" accuracy="correct">There probably was not any vitamin C in it.</studentAnswer>
+    <studentAnswer id="FN.27b.297.1" accuracy="correct">The reason it did not change color is because there is no vitamin C in the Fruitsnap.</studentAnswer>
+  </studentAnswers>
+</question>

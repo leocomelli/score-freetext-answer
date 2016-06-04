@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_15a" module="VB">
+  <questionText>3 girls wanted to see who could throw a ball the farthest. Each girl brought her favorite ball to the park. Ling brought her basketball, Diana brought her football, and Rachael brought her baseball. They made a line on the playground. They all had to throw the ball from that line. Ling took 2 steps up to the line and threw her basketball. Diana stood at the line and threw her football. Rachael got a running start and threw her baseball when she reached the line. Rachael threw her ball the farthest. What variable did the girls control in the contest?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_15a-a1">The launch position (line on the playground) is the variable that is controlled.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.15a.394.1" accuracy="incorrect">They controlled where they let the ball go.</studentAnswer>
+    <studentAnswer id="VB.15a.407.1" accuracy="incorrect">The same spot to throw the ball.</studentAnswer>
+    <studentAnswer id="VB.15a.495.1" accuracy="incorrect">Their strength.</studentAnswer>
+    <studentAnswer id="VB.15a.539.1" accuracy="incorrect">They all start in the line.</studentAnswer>
+  </studentAnswers>
+</question>

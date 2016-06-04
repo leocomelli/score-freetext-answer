@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ST_25b1" module="ST">
+  <questionText>Look at the picture of the bean seedling shortly after germination. Describe the function of each of the parts: seed coat.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_25b1-a1">The seed coat protects the seed until the plant begins to grow.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.25b1.387.1" accuracy="correct">To protect the baby seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.388.1" accuracy="incorrect">To protect the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.389.1" accuracy="incorrect">Protect the plant.</studentAnswer>
+    <studentAnswer id="ST.25b1.391.1" accuracy="incorrect">Protect skin.</studentAnswer>
+    <studentAnswer id="ST.25b1.396.1" accuracy="incorrect">To protect the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.397.1" accuracy="incorrect">To protect the cotyledon.</studentAnswer>
+    <studentAnswer id="ST.25b1.399.1" accuracy="incorrect">To protect.</studentAnswer>
+    <studentAnswer id="ST.25b1.419.1" accuracy="incorrect">The seed coat hold the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.451.1" accuracy="incorrect">The seed coat is for protection.</studentAnswer>
+    <studentAnswer id="ST.25b1.455.1" accuracy="incorrect">Protects the seedlings.</studentAnswer>
+    <studentAnswer id="ST.25b1.458.1" accuracy="incorrect">It is what covers the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.461.1" accuracy="incorrect">To protect it.</studentAnswer>
+    <studentAnswer id="ST.25b1.462.1" accuracy="incorrect">The seed coat helps keep the seed safe like our skin.</studentAnswer>
+    <studentAnswer id="ST.25b1.471.1" accuracy="incorrect">Outer layer protecting the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.473.1" accuracy="incorrect">To protect the seed when it is growing.</studentAnswer>
+    <studentAnswer id="ST.25b1.497.1" accuracy="incorrect">Cover.</studentAnswer>
+    <studentAnswer id="ST.25b1.498.1" accuracy="incorrect">To protect the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.524.1" accuracy="incorrect">It protects cotyledon and embryo.</studentAnswer>
+    <studentAnswer id="ST.25b1.529.1" accuracy="incorrect">Protects the cotyledon and embryo.</studentAnswer>
+    <studentAnswer id="ST.25b1.530.1" accuracy="incorrect">Protect the baby plant.</studentAnswer>
+    <studentAnswer id="ST.25b1.540.1" accuracy="incorrect">Protects the embryo.</studentAnswer>
+    <studentAnswer id="ST.25b1.558.1" accuracy="incorrect">Protects the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.561.1" accuracy="incorrect">Protect the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.563.1" accuracy="incorrect">It protects the seed from harm.</studentAnswer>
+    <studentAnswer id="ST.25b1.564.1" accuracy="incorrect">Shell.</studentAnswer>
+    <studentAnswer id="ST.25b1.568.1" accuracy="incorrect">The protection of the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.569.1" accuracy="incorrect">Protects the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.570.1" accuracy="incorrect">Protects the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.571.1" accuracy="incorrect">Protects the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.572.1" accuracy="incorrect">A hard outer covering to act protects the cotyledon.</studentAnswer>
+    <studentAnswer id="ST.25b1.573.1" accuracy="incorrect">Protects the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.577.1" accuracy="incorrect">Seed coat cracks.</studentAnswer>
+    <studentAnswer id="ST.25b1.596.1" accuracy="correct">The seed coat protects the seed web germinating.</studentAnswer>
+    <studentAnswer id="ST.25b1.597.1" accuracy="incorrect">This is the outer layer that covers the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.632.1" accuracy="correct">Protects the seed so it can grow.</studentAnswer>
+    <studentAnswer id="ST.25b1.640.1" accuracy="incorrect">Protect the cotyledon.</studentAnswer>
+  </studentAnswers>
+</question>

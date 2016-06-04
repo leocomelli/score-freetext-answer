@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ST_25b2" module="ST">
+  <questionText>Look at the picture of the bean seedling shortly after germination. Describe the function of each of the parts: cotyledon.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_25b2-a1">The cotyledon provides food for the plant until the plant can make food for itself.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.25b2.384.1" accuracy="incorrect">Helps give the plant food.</studentAnswer>
+    <studentAnswer id="ST.25b2.385.1" accuracy="incorrect">Store food.</studentAnswer>
+    <studentAnswer id="ST.25b2.390.1" accuracy="incorrect">Saves food.</studentAnswer>
+    <studentAnswer id="ST.25b2.392.1" accuracy="correct">Stores food for the seedling until it grows leaves.</studentAnswer>
+    <studentAnswer id="ST.25b2.395.1" accuracy="correct">Gives the seed food.</studentAnswer>
+    <studentAnswer id="ST.25b2.400.1" accuracy="incorrect">To store the food, nutrients.</studentAnswer>
+    <studentAnswer id="ST.25b2.422.1" accuracy="incorrect">The cotyledon or the seed is the seed coat came off.</studentAnswer>
+    <studentAnswer id="ST.25b2.451.1" accuracy="incorrect">The cotyledon is the food storage.</studentAnswer>
+    <studentAnswer id="ST.25b2.452.1" accuracy="incorrect">Is the seed.</studentAnswer>
+    <studentAnswer id="ST.25b2.453.1" accuracy="correct">Feeds the seed.</studentAnswer>
+    <studentAnswer id="ST.25b2.455.1" accuracy="correct">Stores food for it until it grows into a plant.</studentAnswer>
+    <studentAnswer id="ST.25b2.459.1" accuracy="incorrect">Provide food.</studentAnswer>
+    <studentAnswer id="ST.25b2.463.1" accuracy="incorrect">Stores food.</studentAnswer>
+    <studentAnswer id="ST.25b2.472.1" accuracy="correct">To provide food when germination.</studentAnswer>
+    <studentAnswer id="ST.25b2.487.1" accuracy="correct">It gather up food for the seed.</studentAnswer>
+    <studentAnswer id="ST.25b2.493.1" accuracy="incorrect">The cotyledon stores the food.</studentAnswer>
+    <studentAnswer id="ST.25b2.496.1" accuracy="incorrect">The cotyledon is a little plant in the bean that store food.</studentAnswer>
+    <studentAnswer id="ST.25b2.497.1" accuracy="incorrect">Help it grow.</studentAnswer>
+    <studentAnswer id="ST.25b2.501.1" accuracy="correct">Something that feeds the seed.</studentAnswer>
+    <studentAnswer id="ST.25b2.502.1" accuracy="incorrect">The cotyledon is the inside.</studentAnswer>
+    <studentAnswer id="ST.25b2.503.1" accuracy="incorrect">The cotyledon splits opened.</studentAnswer>
+    <studentAnswer id="ST.25b2.533.1" accuracy="incorrect">Stores food.</studentAnswer>
+    <studentAnswer id="ST.25b2.562.1" accuracy="correct">The cotyledon gives food to the plant until it grows roots.</studentAnswer>
+    <studentAnswer id="ST.25b2.570.1" accuracy="incorrect">It folds of when it is done.</studentAnswer>
+    <studentAnswer id="ST.25b2.591.1" accuracy="incorrect">Food supply.</studentAnswer>
+    <studentAnswer id="ST.25b2.592.1" accuracy="incorrect">A cotyledon in the food supply.</studentAnswer>
+    <studentAnswer id="ST.25b2.595.1" accuracy="correct">It is the food supply until the plant grows leaves.</studentAnswer>
+    <studentAnswer id="ST.25b2.601.1" accuracy="incorrect">Food supply for the plant.</studentAnswer>
+    <studentAnswer id="ST.25b2.603.1" accuracy="correct">It stows the food for the young plant.</studentAnswer>
+    <studentAnswer id="ST.25b2.607.1" accuracy="correct">The cotyledon supplies food for the seed until it can supply its own food.</studentAnswer>
+    <studentAnswer id="ST.25b2.609.1" accuracy="incorrect">Holds seed coat.</studentAnswer>
+    <studentAnswer id="ST.25b2.610.1" accuracy="incorrect">Food supply.</studentAnswer>
+    <studentAnswer id="ST.25b2.628.1" accuracy="incorrect">Give it nutrients.</studentAnswer>
+    <studentAnswer id="ST.25b2.632.1" accuracy="correct">Stores food for the plant in until it can make on its own.</studentAnswer>
+    <studentAnswer id="ST.25b2.636.1" accuracy="incorrect">The outside of the seeds.</studentAnswer>
+    <studentAnswer id="ST.25b2.640.1" accuracy="incorrect">Holds the food.</studentAnswer>
+  </studentAnswers>
+</question>

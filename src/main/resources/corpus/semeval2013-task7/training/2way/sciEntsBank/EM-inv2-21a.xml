@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="EM_21a" module="EM">
+  <questionText>Georgia found one brown mineral and one black mineral. How can she test them for hardness using only the 2 minerals (no tools)?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_21a-a1">Rub the minerals together and see which one scratches the other.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.21a.137.1" accuracy="incorrect">She can do a scratch test and see which one is harder.</studentAnswer>
+    <studentAnswer id="EM.21a.139.1" accuracy="correct">Scratch one against the other.</studentAnswer>
+    <studentAnswer id="EM.21a.185.1" accuracy="incorrect">Rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.277.1" accuracy="incorrect">By scratching them.</studentAnswer>
+    <studentAnswer id="EM.21a.278.1" accuracy="incorrect">Rubbing them together.</studentAnswer>
+    <studentAnswer id="EM.21a.279.1" accuracy="correct">Scratch them together.</studentAnswer>
+    <studentAnswer id="EM.21a.280.1" accuracy="correct">Scratch them against each other.</studentAnswer>
+    <studentAnswer id="EM.21a.284.1" accuracy="incorrect">Use her fingernail.</studentAnswer>
+    <studentAnswer id="EM.21a.311.1" accuracy="incorrect">A rock scratch.</studentAnswer>
+    <studentAnswer id="EM.21a.314.1" accuracy="incorrect">Use your fingernail.</studentAnswer>
+    <studentAnswer id="EM.21a.391.1" accuracy="correct">Scratch the 2 together.</studentAnswer>
+    <studentAnswer id="EM.21a.397.1" accuracy="correct">Scratch one against the other.</studentAnswer>
+    <studentAnswer id="EM.21a.405.1" accuracy="incorrect">She can use her nail and penny.</studentAnswer>
+    <studentAnswer id="EM.21a.408.1" accuracy="correct">Scratch them together.</studentAnswer>
+    <studentAnswer id="EM.21a.435.1" accuracy="incorrect">Georgia could rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.436.1" accuracy="correct">Scratch them together.</studentAnswer>
+    <studentAnswer id="EM.21a.459.1" accuracy="correct">Scratch the minerals together.</studentAnswer>
+    <studentAnswer id="EM.21a.471.1" accuracy="incorrect">From scratching with another minerals.</studentAnswer>
+    <studentAnswer id="EM.21a.508.1" accuracy="correct">She can scratch them together and the one with the mark is the soft one.</studentAnswer>
+    <studentAnswer id="EM.21a.510.1" accuracy="correct">She can scratch it together and look and see which leave a scratch.</studentAnswer>
+    <studentAnswer id="EM.21a.525.1" accuracy="incorrect">She could rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.529.1" accuracy="correct">Georgia could rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.547.1" accuracy="incorrect">She could rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.565.1" accuracy="correct">Scratch the 2 rocks together.</studentAnswer>
+    <studentAnswer id="EM.21a.570.1" accuracy="incorrect">By rubbing them together and touching them.</studentAnswer>
+    <studentAnswer id="EM.21a.571.1" accuracy="incorrect">With her nail.</studentAnswer>
+    <studentAnswer id="EM.21a.572.1" accuracy="correct">Rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.575.1" accuracy="incorrect">Rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.576.1" accuracy="incorrect">Rubbing them together.</studentAnswer>
+    <studentAnswer id="EM.21a.594.1" accuracy="correct">She can rub them together and switch, if there is a mark on it and it goes away, it is hard.</studentAnswer>
+    <studentAnswer id="EM.21a.627.1" accuracy="correct">Rub them together to see if scratch the other.</studentAnswer>
+    <studentAnswer id="EM.21a.632.1" accuracy="incorrect">Rub them together.</studentAnswer>
+    <studentAnswer id="EM.21a.633.1" accuracy="correct">Rub them together, see which will scratch the other.</studentAnswer>
+    <studentAnswer id="EM.21a.636.1" accuracy="correct">Rub them together and see if you can scratch it harder.</studentAnswer>
+    <studentAnswer id="EM.21a.638.1" accuracy="correct">Rub them together and see if one scratches the other.</studentAnswer>
+    <studentAnswer id="EM.21a.646.1" accuracy="correct">Rub them to see if one scratches the other.</studentAnswer>
+  </studentAnswers>
+</question>

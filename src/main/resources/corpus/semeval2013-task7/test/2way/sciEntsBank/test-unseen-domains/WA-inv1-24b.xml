@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_24b" module="WA">
+  <questionText>Pam sprayed water on her mother's car. The water drops looked just like those she had seen on other surfaces that do not absorb water. What property of water causes the drop to be shaped that way?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_24b-a1">Surface tension causes the drop to form a dome or bead shape.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.24b.142.1" accuracy="incorrect">The surface is flat so the water beads up.</studentAnswer>
+    <studentAnswer id="WA.24b.147.1" accuracy="incorrect">It gets a lot of water and makes a dome.</studentAnswer>
+    <studentAnswer id="WA.24b.162.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.171.1" accuracy="incorrect">Some forces tension makes the water to slip off the car.</studentAnswer>
+    <studentAnswer id="WA.24b.173.1" accuracy="incorrect">The property is maybe the fact that palm held spray bottle right above the car. The closer the spray is to the car the bigger the bead forms.</studentAnswer>
+    <studentAnswer id="WA.24b.177.1" accuracy="incorrect">The water sticks together and forms a bubble the water on the outside of the bubble is like skin.</studentAnswer>
+    <studentAnswer id="WA.24b.180.1" accuracy="correct">The property of the is surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.183.1" accuracy="correct">The surface tension holds it like wax paper.</studentAnswer>
+    <studentAnswer id="WA.24b.188.1" accuracy="correct">The surface tension. Surface tension is holding it up in a bead.</studentAnswer>
+    <studentAnswer id="WA.24b.190.1" accuracy="correct">The water property is surface tension surface tension holds it together so it does not go flat.</studentAnswer>
+    <studentAnswer id="WA.24b.191.1" accuracy="incorrect">The car is hard and the drop will just stay like bead because the drop cannot absorb into metal.</studentAnswer>
+    <studentAnswer id="WA.24b.192.1" accuracy="correct">Well the property of the water that contains the drop to be shaped that way is called surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.195.1" accuracy="correct">Surface tension makes the water bead.</studentAnswer>
+    <studentAnswer id="WA.24b.196.1" accuracy="incorrect">When water drops on each other like rain it makes it bead.</studentAnswer>
+    <studentAnswer id="WA.24b.198.1" accuracy="correct">Surface tension because it didn't absorb so if you put water on a penny, it just bubbles up.</studentAnswer>
+    <studentAnswer id="WA.24b.206.1" accuracy="correct">The property of water is called surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.207.1" accuracy="correct">The property of the water is surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.208.1" accuracy="correct">The surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.216.1" accuracy="incorrect">The car is clean so it can bead up.</studentAnswer>
+    <studentAnswer id="WA.24b.218.1" accuracy="incorrect">A dome.</studentAnswer>
+    <studentAnswer id="WA.24b.219.1" accuracy="incorrect">They get big and smaller then they fall.</studentAnswer>
+    <studentAnswer id="WA.24b.220.1" accuracy="correct">Surface tension caused the bead of water to be a dome.</studentAnswer>
+    <studentAnswer id="WA.24b.222.1" accuracy="incorrect">A dome.</studentAnswer>
+    <studentAnswer id="WA.24b.223.1" accuracy="correct">Surface tension is what makes the water look that way.</studentAnswer>
+    <studentAnswer id="WA.24b.225.1" accuracy="incorrect">There was no surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.226.1" accuracy="incorrect">The property of water that causes the drop to be shaped that way is the temperature of the water.</studentAnswer>
+    <studentAnswer id="WA.24b.227.1" accuracy="correct">The surface tension of the drop.</studentAnswer>
+    <studentAnswer id="WA.24b.228.1" accuracy="correct">The surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.229.1" accuracy="correct">Surface tension causes the water to be shaped like this.</studentAnswer>
+    <studentAnswer id="WA.24b.245.1" accuracy="correct">Surface tension allow the drop to stay that way.</studentAnswer>
+    <studentAnswer id="WA.24b.251.1" accuracy="incorrect">The shape that causes the drop to look like that is called a dome.</studentAnswer>
+    <studentAnswer id="WA.24b.252.1" accuracy="correct">Surface tension causes the drop to be shaped that way.</studentAnswer>
+    <studentAnswer id="WA.24b.256.1" accuracy="incorrect">It is like a penny you put the water on the penny and it goes up.</studentAnswer>
+    <studentAnswer id="WA.24b.257.1" accuracy="correct">Surface tension causes the drop to hold in a dome shape will not splatter.</studentAnswer>
+    <studentAnswer id="WA.24b.260.1" accuracy="correct">Surface tension causes the drop to look that way.</studentAnswer>
+    <studentAnswer id="WA.24b.265.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.267.1" accuracy="incorrect">Some water drops stay normal and some get water added to the water drops.</studentAnswer>
+    <studentAnswer id="WA.24b.277.1" accuracy="incorrect">The car look like a water.</studentAnswer>
+    <studentAnswer id="WA.24b.279.1" accuracy="correct">Because there is surface tension or skin.</studentAnswer>
+    <studentAnswer id="WA.24b.281.1" accuracy="incorrect">Because it is about to go to the grand.</studentAnswer>
+    <studentAnswer id="WA.24b.282.1" accuracy="correct">Because of surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.288.1" accuracy="incorrect">The surface of the car does not absorb water and it beads up and form a little ball.</studentAnswer>
+    <studentAnswer id="WA.24b.289.1" accuracy="incorrect">It looks like a car.</studentAnswer>
+    <studentAnswer id="WA.24b.295.1" accuracy="incorrect">There is a type of skin over it and that is why it takes shape of a dome.</studentAnswer>
+    <studentAnswer id="WA.24b.300.1" accuracy="incorrect">Because the real rain drop is like that and it turns into a dome.</studentAnswer>
+    <studentAnswer id="WA.24b.301.1" accuracy="correct">It cannot absorb in the water will make a bubble like shape or surface tension will stick all the water together.</studentAnswer>
+    <studentAnswer id="WA.24b.346.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.351.1" accuracy="incorrect">Surface area.</studentAnswer>
+    <studentAnswer id="WA.24b.354.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.359.1" accuracy="correct">The surface tension of the car.</studentAnswer>
+    <studentAnswer id="WA.24b.365.1" accuracy="correct">Plain water like hose water for example will make a dome shape and the surface tension from the car will help make the dome.</studentAnswer>
+    <studentAnswer id="WA.24b.366.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.384.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.385.1" accuracy="correct">The property of surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.386.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.387.1" accuracy="incorrect">The slipperiness and the wetness.</studentAnswer>
+    <studentAnswer id="WA.24b.393.1" accuracy="incorrect">The slipperiness of the surface.</studentAnswer>
+    <studentAnswer id="WA.24b.398.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.399.1" accuracy="correct">I think because of the surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.400.1" accuracy="incorrect">The property of tension.</studentAnswer>
+    <studentAnswer id="WA.24b.401.1" accuracy="incorrect">Because car is iron.</studentAnswer>
+    <studentAnswer id="WA.24b.402.1" accuracy="correct">If they doing like that surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.404.1" accuracy="correct">It is the surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.418.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.422.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.425.1" accuracy="incorrect">Surface temperature.</studentAnswer>
+    <studentAnswer id="WA.24b.427.1" accuracy="correct">The Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.431.1" accuracy="incorrect">The surface tension is small.</studentAnswer>
+    <studentAnswer id="WA.24b.451.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.456.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.457.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.458.1" accuracy="correct">The surface tension in the drop of water.</studentAnswer>
+    <studentAnswer id="WA.24b.460.1" accuracy="correct">The surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.486.1" accuracy="incorrect">Because when the water hits the surface it gas to that shape.</studentAnswer>
+    <studentAnswer id="WA.24b.490.1" accuracy="incorrect">Because it is going down hill?</studentAnswer>
+    <studentAnswer id="WA.24b.494.1" accuracy="incorrect">IT just hit the surface.</studentAnswer>
+    <studentAnswer id="WA.24b.500.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.505.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.506.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.522.1" accuracy="correct">The surface tension makes it like that.</studentAnswer>
+    <studentAnswer id="WA.24b.523.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.524.1" accuracy="incorrect">Because it is not like waxed paper and cannot be a bead and cannot be absorbed so it has to be like foil.</studentAnswer>
+    <studentAnswer id="WA.24b.525.1" accuracy="incorrect">Because the surface is different and that the car is like wax paper.</studentAnswer>
+    <studentAnswer id="WA.24b.526.1" accuracy="correct">It is the look. Actually it is the surface tension. It is beading.</studentAnswer>
+    <studentAnswer id="WA.24b.533.1" accuracy="incorrect">The roof of the window.</studentAnswer>
+    <studentAnswer id="WA.24b.536.1" accuracy="correct">Because there is surface tension on all flat surfaces, which causes the water to form a dome.</studentAnswer>
+    <studentAnswer id="WA.24b.537.1" accuracy="incorrect">There is not anything to break the surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.539.1" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer id="WA.24b.541.1" accuracy="incorrect">Because it is a flat and smooth. And I have seen it on my car.</studentAnswer>
+    <studentAnswer id="WA.24b.591.1" accuracy="incorrect">Plain water causes the drop to be shaped this way.</studentAnswer>
+    <studentAnswer id="WA.24b.593.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.595.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.597.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.599.1" accuracy="incorrect">Because it is high up and slanted.</studentAnswer>
+    <studentAnswer id="WA.24b.612.1" accuracy="incorrect">Because the water is plain if it was soapy it would have been a flat surface.</studentAnswer>
+    <studentAnswer id="WA.24b.626.1" accuracy="correct">The surface tension makes it hold together like that.</studentAnswer>
+    <studentAnswer id="WA.24b.630.1" accuracy="incorrect">Gravity.</studentAnswer>
+    <studentAnswer id="WA.24b.632.1" accuracy="correct">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.24b.638.1" accuracy="correct">Surface tension because it is a tight skin around it to hold it together.</studentAnswer>
+    <studentAnswer id="WA.24b.641.1" accuracy="correct">Surface tension.</studentAnswer>
+  </studentAnswers>
+</question>

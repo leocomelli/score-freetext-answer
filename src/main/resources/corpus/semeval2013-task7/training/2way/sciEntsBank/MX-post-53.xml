@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<question id="MX_53" module="MX">
+  <questionText>Adam's friend gave him a cup filled with a water solution. Adam did not know what solid material was used to make it. He evaporated the solution and found crystals in the dish after all of the water was gone. How will the crystals help him decide what solid material was used to make the solution?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_53-a1">Crystals of different materials have different shapes. So the shape will help identify the material.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.53.106.1" accuracy="incorrect">He could see what solid used and he will find out what it is.</studentAnswer>
+    <studentAnswer id="MX.53.113.1" accuracy="incorrect">He should look for the solid material in his house or store.</studentAnswer>
+    <studentAnswer id="MX.53.157.1" accuracy="correct">You can tell by the way the crystals are shaped.</studentAnswer>
+    <studentAnswer id="MX.53.181.1" accuracy="incorrect">He can probably look in a book or something to find out. All crystals are different.</studentAnswer>
+    <studentAnswer id="MX.53.248.1" accuracy="incorrect">The crystals help him by making solid materials.</studentAnswer>
+    <studentAnswer id="MX.53.261.1" accuracy="incorrect">Salt.</studentAnswer>
+    <studentAnswer id="MX.53.282.1" accuracy="incorrect">To see if it was Epsom salt, salt, citric acid or calcium chloride.</studentAnswer>
+    <studentAnswer id="MX.53.347.1" accuracy="incorrect">I going to put salt and water and leave it for some days and it is going to turn into crystals.</studentAnswer>
+    <studentAnswer id="MX.53.366.1" accuracy="incorrect">If you put citric acid the crystals will be like a influx.</studentAnswer>
+    <studentAnswer id="MX.53.384.1" accuracy="correct">I think it will help be by the shape and what has on it.</studentAnswer>
+    <studentAnswer id="MX.53.385.1" accuracy="correct">How they look like x means salt.</studentAnswer>
+    <studentAnswer id="MX.53.400.1" accuracy="correct">Since different materials have different crystals, like salt is a x, then you can figure out what material has the same characteristic shape as the crystal that were from that particular solution, then he knows what material was used.</studentAnswer>
+    <studentAnswer id="MX.53.418.1" accuracy="incorrect">Because by the markings and patterns on the crystals your all to identify them.</studentAnswer>
+    <studentAnswer id="MX.53.423.1" accuracy="incorrect">Because no 2 crystals are the same.</studentAnswer>
+    <studentAnswer id="MX.53.426.1" accuracy="incorrect">Because a crystal identifies the solute!</studentAnswer>
+    <studentAnswer id="MX.53.435.1" accuracy="incorrect">He could check the crystals with a magnifying glass.</studentAnswer>
+    <studentAnswer id="MX.53.436.1" accuracy="correct">If he has a chart he can just match to whichever one it looks like.</studentAnswer>
+    <studentAnswer id="MX.53.438.1" accuracy="incorrect">He can mate the crystals to the solid material.</studentAnswer>
+    <studentAnswer id="MX.53.454.1" accuracy="incorrect">He would look up that type of crystal in a book and find out what type it is.</studentAnswer>
+    <studentAnswer id="MX.53.457.1" accuracy="incorrect">He could match the crystals with other crystals.</studentAnswer>
+    <studentAnswer id="MX.53.458.1" accuracy="incorrect">Show them the crystals.</studentAnswer>
+    <studentAnswer id="MX.53.461.1" accuracy="incorrect">The crystals might have salt in them.</studentAnswer>
+    <studentAnswer id="MX.53.497.1" accuracy="incorrect">He could compare the crystals to other crystals.</studentAnswer>
+    <studentAnswer id="MX.53.525.1" accuracy="correct">Whatever the crystals look most like.</studentAnswer>
+    <studentAnswer id="MX.53.560.1" accuracy="incorrect">He can compare them with other crystals he can make and that will tell him.</studentAnswer>
+    <studentAnswer id="MX.53.566.1" accuracy="correct">The crystals can identify what solid was used in the solution by its shape.</studentAnswer>
+    <studentAnswer id="MX.53.572.1" accuracy="incorrect">He will know because he will see stuff at the bottom.</studentAnswer>
+    <studentAnswer id="MX.53.592.1" accuracy="incorrect">You can use your own mixtures and see what it looks like.</studentAnswer>
+    <studentAnswer id="MX.53.613.1" accuracy="correct">Use all the salt then wait for them to evaporate but in the other trays name them by the salt so he would know which one is which but then there done he can see which one looks like that one.</studentAnswer>
+    <studentAnswer id="MX.53.630.1" accuracy="incorrect">Because all solid has different crystals.</studentAnswer>
+    <studentAnswer id="MX.53.635.1" accuracy="incorrect">Take other crystals and compare to see which ones are kind of the same.</studentAnswer>
+    <studentAnswer id="MX.53.637.1" accuracy="correct">How the crystals were shaped and how they looked.</studentAnswer>
+    <studentAnswer id="MX.53.643.1" accuracy="correct">He can look at them really hard and compare them with others.</studentAnswer>
+    <studentAnswer id="MX.53.644.1" accuracy="incorrect">Adam can try to make crystals and if the solution he used makes crystals then that is the same solution his friend used.</studentAnswer>
+  </studentAnswers>
+</question>

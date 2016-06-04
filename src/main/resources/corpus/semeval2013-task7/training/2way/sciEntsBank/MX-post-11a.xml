@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="MX_11a" module="MX">
+  <questionText>Jim used a solid and water to make Mixture one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), Mixture 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), Mixture 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and Mixture 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. What evidence does Jim have that the solid and water make a solution?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11a-a1">The mixtures are all clear.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11a.106.1" accuracy="correct">Because when you use a mixture and as it dissolve it is a solution.</studentAnswer>
+    <studentAnswer id="MX.11a.119.1" accuracy="incorrect">Maybe it could change to him and have something die.</studentAnswer>
+    <studentAnswer id="MX.11a.126.1" accuracy="incorrect">I think jam is mixture.</studentAnswer>
+    <studentAnswer id="MX.11a.151.1" accuracy="correct">Because they dissolved.</studentAnswer>
+    <studentAnswer id="MX.11a.176.1" accuracy="correct">When the mixture is clear and no material is on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11a.267.1" accuracy="incorrect">The evidence Jim has is the material on the bottom and the solid because a solution has 2 or more things combined.</studentAnswer>
+    <studentAnswer id="MX.11a.282.1" accuracy="correct">That the water is clear.</studentAnswer>
+    <studentAnswer id="MX.11a.304.1" accuracy="correct">My evidence is a solution can be clear or evaporated by heat and so all of them are clear.</studentAnswer>
+    <studentAnswer id="MX.11a.356.1" accuracy="correct">The evidence he has is that it is clear and nothing on bottom to be a solution.</studentAnswer>
+    <studentAnswer id="MX.11a.390.1" accuracy="correct">Because it was clear and nothing on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11a.391.1" accuracy="correct">He put the solid in the water and the solid dissolved into the water.</studentAnswer>
+    <studentAnswer id="MX.11a.399.1" accuracy="correct">Mixtures one, 3, and possibly 2 are clear a sign that the material has dissolved and made a solution.</studentAnswer>
+    <studentAnswer id="MX.11a.418.1" accuracy="correct">Mixtures one and 2 are solutions because they are clear.</studentAnswer>
+    <studentAnswer id="MX.11a.424.1" accuracy="correct">It has to be clear with nothing on bottom.</studentAnswer>
+    <studentAnswer id="MX.11a.426.1" accuracy="correct">When the solid material is disappeared.</studentAnswer>
+    <studentAnswer id="MX.11a.431.1" accuracy="incorrect">I know it is a solid because it has stuff in the but mine.</studentAnswer>
+    <studentAnswer id="MX.11a.432.1" accuracy="incorrect">That there is undissolved particle at the bottom.</studentAnswer>
+    <studentAnswer id="MX.11a.434.1" accuracy="incorrect">Mixtures 4 and 5 are evidence.</studentAnswer>
+    <studentAnswer id="MX.11a.438.1" accuracy="correct">Because a solution is clear.</studentAnswer>
+    <studentAnswer id="MX.11a.463.1" accuracy="correct">He has that he put a solute in the solvent and it came out clear and nothing on bottom.</studentAnswer>
+    <studentAnswer id="MX.11a.473.1" accuracy="correct">His evidence is the mixture turned clear.</studentAnswer>
+    <studentAnswer id="MX.11a.487.1" accuracy="correct">If the material dissolved it is a solution.</studentAnswer>
+    <studentAnswer id="MX.11a.492.1" accuracy="correct">Because the solid dissolve.</studentAnswer>
+    <studentAnswer id="MX.11a.493.1" accuracy="incorrect">The evidence is the water cannot take any more ingredients.</studentAnswer>
+    <studentAnswer id="MX.11a.496.1" accuracy="correct">Because there is nothing at the bottom.</studentAnswer>
+    <studentAnswer id="MX.11a.498.1" accuracy="correct">That if it does have material at the bottom that it is not.</studentAnswer>
+    <studentAnswer id="MX.11a.499.1" accuracy="correct">Because the solid dissolve.</studentAnswer>
+    <studentAnswer id="MX.11a.501.1" accuracy="correct">There is material on the bottom and that means it is saturated solution.</studentAnswer>
+    <studentAnswer id="MX.11a.503.1" accuracy="correct">Because some of them have a dissolved solid.</studentAnswer>
+    <studentAnswer id="MX.11a.525.1" accuracy="correct">The mixtures are clear.</studentAnswer>
+    <studentAnswer id="MX.11a.567.1" accuracy="incorrect">How much water is in it, and how much spoons of solid are in it.</studentAnswer>
+    <studentAnswer id="MX.11a.569.1" accuracy="correct">When the solid disappears into the solvent.</studentAnswer>
+    <studentAnswer id="MX.11a.595.1" accuracy="correct">His mixture is clear.</studentAnswer>
+    <studentAnswer id="MX.11a.599.1" accuracy="incorrect">One spoon.</studentAnswer>
+    <studentAnswer id="MX.11a.602.1" accuracy="incorrect">He does not have an idea that island make a salt outline.</studentAnswer>
+  </studentAnswers>
+</question>

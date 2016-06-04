@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="EV_22a" module="EV">
+  <questionText>John wanted to find the optimum conditions for growing peas. He planted pea seeds in 2 separate pots. He used the same amount and type of soil in each pot. He recorded daily care (amount of water and plant food) and results (plant length and number of leaves) after 2 weeks, as shown in the following chart. Did John do a good job of controlling the variables in his experiment? Explain why or why not.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EV_22a-a1">No. John changed 2 variables at the same time (amount of water and amount of plant food) so John can not know which variables made a difference.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EV.22a.111.1" accuracy="correct">No, Because John changed 2 variables not one. They are Pot A 25 milliliters of water 2 grams of food, Pot B 100 milliliters of water one gram of food.</studentAnswer>
+    <studentAnswer id="EV.22a.114.1" accuracy="incorrect">No, He did no have a controlled experiment.</studentAnswer>
+    <studentAnswer id="EV.22a.115.1" accuracy="correct">No, He did not do a good job because he changed 2 variables; water and food.</studentAnswer>
+    <studentAnswer id="EV.22a.116.1" accuracy="incorrect">Yes, It seems to be going fine well.</studentAnswer>
+    <studentAnswer id="EV.22a.117.1" accuracy="incorrect">Yes, Because he did not have Pot B the same as Pot A.</studentAnswer>
+    <studentAnswer id="EV.22a.118.1" accuracy="incorrect">Yes, Because the way he made the chart to stay organized.</studentAnswer>
+    <studentAnswer id="EV.22a.119.1" accuracy="correct">No, Because he changed 2 variables.</studentAnswer>
+    <studentAnswer id="EV.22a.120.1" accuracy="incorrect">No, Because he did not control his variables.</studentAnswer>
+    <studentAnswer id="EV.22a.123.1" accuracy="correct">No, Because he changed more than one variable; water and plant food.</studentAnswer>
+    <studentAnswer id="EV.22a.125.1" accuracy="correct">No, Because he changed 2 variables.</studentAnswer>
+    <studentAnswer id="EV.22a.126.1" accuracy="incorrect">No, Because in Pot A he used 75 milliliters then Pot B had 100 milliliters it is a big difference.</studentAnswer>
+    <studentAnswer id="EV.22a.128.1" accuracy="correct">No, He changed the water and the food and to have a controlled experiment you can only change one variable.</studentAnswer>
+    <studentAnswer id="EV.22a.133.1" accuracy="incorrect">No, He does not tell if the plant got sunlight or oxygen.</studentAnswer>
+    <studentAnswer id="EV.22a.138.1" accuracy="incorrect">Yes, Because he did the same thing a scientist would do by jotting down notes.</studentAnswer>
+    <studentAnswer id="EV.22a.143.1" accuracy="incorrect">Yes, Because it is neat, he recorded all plants, and he changed the watered and food to find the plants preferred environment.</studentAnswer>
+    <studentAnswer id="EV.22a.148.1" accuracy="correct">No, Because he changed too many variables in his experiment.</studentAnswer>
+    <studentAnswer id="EV.22a.160.1" accuracy="incorrect">No, Because the earth is sort of hard to read.</studentAnswer>
+    <studentAnswer id="EV.22a.177.1" accuracy="incorrect">No, Because for Pot B he put 100 milliliters this has too much water!</studentAnswer>
+    <studentAnswer id="EV.22a.183.1" accuracy="incorrect">No, Because too much water and less food does not make the plant feel good.</studentAnswer>
+    <studentAnswer id="EV.22a.185.1" accuracy="incorrect">No, I chose no because he needs to explain more in his experiment like what he measured.</studentAnswer>
+    <studentAnswer id="EV.22a.186.1" accuracy="incorrect">No, In that amount of weeks, it should of grew longer.</studentAnswer>
+    <studentAnswer id="EV.22a.187.1" accuracy="incorrect">No, Because if he wanted to control something he would of tried to control it.</studentAnswer>
+    <studentAnswer id="EV.22a.195.1" accuracy="incorrect">No, I think it is no because he did not show how much sunlight.</studentAnswer>
+    <studentAnswer id="EV.22a.207.1" accuracy="incorrect">No, because he could of put what happened after one week.</studentAnswer>
+    <studentAnswer id="EV.22a.208.1" accuracy="incorrect">No, He left a blank space on the chart.</studentAnswer>
+    <studentAnswer id="EV.22a.219.1" accuracy="incorrect">Yes, Because pot A's length is 8 centimeters and the number of leaves is 6.</studentAnswer>
+    <studentAnswer id="EV.22a.221.1" accuracy="incorrect">Yes, I think yes because he cares about his plants.</studentAnswer>
+    <studentAnswer id="EV.22a.231.1" accuracy="incorrect">Yes, Because it shows on the chart that he observed good.</studentAnswer>
+    <studentAnswer id="EV.22a.232.1" accuracy="incorrect">No, Because it should be 3 grams and 2 grams.</studentAnswer>
+    <studentAnswer id="EV.22a.235.1" accuracy="incorrect">Yes, Because he told us how many pots they were and everything he did.</studentAnswer>
+    <studentAnswer id="EV.22a.241.1" accuracy="incorrect">Yes, John did a great job because he has how many leaves grow and how tall it is and how much water and how much plant food.</studentAnswer>
+    <studentAnswer id="EV.22a.242.1" accuracy="incorrect">Yes, Because he used different amount of water and food and also watched both of them each day.</studentAnswer>
+    <studentAnswer id="EV.22a.244.1" accuracy="incorrect">No, He only used 2 kinds of pots. John needs more types of variables being changed.</studentAnswer>
+    <studentAnswer id="EV.22a.245.1" accuracy="incorrect">No, Because not only does he need more conditions but I still do not see the right amount of variables. The results do not really explain much.</studentAnswer>
+    <studentAnswer id="EV.22a.249.1" accuracy="incorrect">Yes, Because he organized his work good.</studentAnswer>
+    <studentAnswer id="EV.22a.250.1" accuracy="incorrect">Yes, There were different numbers.</studentAnswer>
+    <studentAnswer id="EV.22a.252.1" accuracy="incorrect">Yes, He had everything that he needed to take care of his plants.</studentAnswer>
+    <studentAnswer id="EV.22a.253.1" accuracy="incorrect">Yes, Because he tried to see if he could get the results.</studentAnswer>
+    <studentAnswer id="EV.22a.254.1" accuracy="incorrect">No, one gram of plant food should be alright for 100 milliliters of water.</studentAnswer>
+    <studentAnswer id="EV.22a.255.1" accuracy="incorrect">No, He did not give them the same food so that might have messed up his experiment.</studentAnswer>
+    <studentAnswer id="EV.22a.256.1" accuracy="incorrect">Yes, Because he did a good job of seeing what was the best way to grow it whether it is water or food.</studentAnswer>
+    <studentAnswer id="EV.22a.259.1" accuracy="correct">No, Because 2 things are different that may have caused a problem.</studentAnswer>
+    <studentAnswer id="EV.22a.260.1" accuracy="correct">No, Because he changed 2 things so you did not know if it is right or wrong.</studentAnswer>
+    <studentAnswer id="EV.22a.263.1" accuracy="incorrect">Yes, Because he put them in light and he also put water he also took the length of the plants.</studentAnswer>
+    <studentAnswer id="EV.22a.265.1" accuracy="incorrect">No, Because he did not control any variables.</studentAnswer>
+    <studentAnswer id="EV.22a.276.1" accuracy="incorrect">No, Because he did not feed the plant more if he did it will be a good job.</studentAnswer>
+    <studentAnswer id="EV.22a.285.1" accuracy="incorrect">Yes, Because he did not put that much water it still few about 8 centimeters.</studentAnswer>
+    <studentAnswer id="EV.22a.293.1" accuracy="incorrect">Yes, Because they both did not die and he found out his answer.</studentAnswer>
+    <studentAnswer id="EV.22a.295.1" accuracy="incorrect">Yes, Because the plants few food and you can see that the plants got good amount of water.</studentAnswer>
+    <studentAnswer id="EV.22a.296.1" accuracy="incorrect">Yes, Because he used separated pots and did either more or less water and different things.</studentAnswer>
+    <studentAnswer id="EV.22a.299.1" accuracy="incorrect">Yes, one is different than the other one.</studentAnswer>
+    <studentAnswer id="EV.22a.300.1" accuracy="correct">No, Because he could of kept water the same and the food so that is not controlling the variables good.</studentAnswer>
+    <studentAnswer id="EV.22a.311.1" accuracy="incorrect">No, Because he could say what color and where he left them.</studentAnswer>
+    <studentAnswer id="EV.22a.314.1" accuracy="incorrect">Yes, Because he kept track of them he made a chart so he is doing a good job.</studentAnswer>
+    <studentAnswer id="EV.22a.320.1" accuracy="correct">No, Because he did not put the same amount of water or food.</studentAnswer>
+    <studentAnswer id="EV.22a.321.1" accuracy="incorrect">Yes, Because the water amount is just right and from giving the plant food.</studentAnswer>
+    <studentAnswer id="EV.22a.326.1" accuracy="incorrect">Yes, Because he did different amounts of water a plant food to see which one would grow better.</studentAnswer>
+    <studentAnswer id="EV.22a.328.1" accuracy="correct">No, Because the reason Pot B did not do so well could be too much water, or no enough plant food, you could not know.</studentAnswer>
+    <studentAnswer id="EV.22a.329.1" accuracy="incorrect">Yes, Because he records his data and puts the same amount in one pot then does the same thing to another but another amount.</studentAnswer>
+    <studentAnswer id="EV.22a.330.1" accuracy="incorrect">Yes, John did a good job he put how much water, how much plant food, the length, the number of leaves. I like how he did his experiment.</studentAnswer>
+    <studentAnswer id="EV.22a.331.1" accuracy="incorrect">Yes, If he is trying to find the optimum condition he needs to test different stuff on each pot.</studentAnswer>
+    <studentAnswer id="EV.22a.333.1" accuracy="incorrect">Yes, Because John kept track of everything he was doing so he did not forget to do anything, and contained the whole project.</studentAnswer>
+    <studentAnswer id="EV.22a.334.1" accuracy="incorrect">Yes, Because he controlled everything he did to the plants.</studentAnswer>
+    <studentAnswer id="EV.22a.418.1" accuracy="incorrect">Yes, yes he wrote everything down that he did.</studentAnswer>
+    <studentAnswer id="EV.22a.419.1" accuracy="incorrect">Yes, He wanted to find out what the optimum conditions were so he gave one pea less water food to see what happens.</studentAnswer>
+    <studentAnswer id="EV.22a.422.1" accuracy="incorrect">Yes, because, he took care of his plants daily.</studentAnswer>
+    <studentAnswer id="EV.22a.425.1" accuracy="incorrect">Yes, Because, he did not use to much water and kill it, and I guess it was kind of tall, plus there was a lot of leaves.</studentAnswer>
+    <studentAnswer id="EV.22a.431.1" accuracy="incorrect">Yes, He recorded too much water, plant food, length and the number of leaves.</studentAnswer>
+    <studentAnswer id="EV.22a.433.1" accuracy="incorrect">Yes, He had everything he needed.</studentAnswer>
+    <studentAnswer id="EV.22a.434.1" accuracy="incorrect">No, I think he could have added the results after one week.</studentAnswer>
+    <studentAnswer id="EV.22a.436.1" accuracy="incorrect">Yes, He did a good job because he experimented 2 pots with plants after 2 weeks and recorded his observations.</studentAnswer>
+    <studentAnswer id="EV.22a.437.1" accuracy="incorrect">No, Because it seems that he got a mix up for the plants on the water.</studentAnswer>
+    <studentAnswer id="EV.22a.443.1" accuracy="incorrect">Yes, I think he did a good job because he tested the same plant in different pots and put different amounts of water and food. It was good that he tested 2 because if he only had one he would not have anything to compare it with and find if it is good or not.</studentAnswer>
+    <studentAnswer id="EV.22a.444.1" accuracy="incorrect">Yes, Yes because he used different amounts of water and food. He also used the same type of soil in both pots.</studentAnswer>
+    <studentAnswer id="EV.22a.445.1" accuracy="incorrect">Yes, I think he did well controlling his variable because by the chart it looks no variables happened.</studentAnswer>
+    <studentAnswer id="EV.22a.446.1" accuracy="incorrect">Yes, Yes because he examined what would be the best thing to do with a plant by experimenting with 2.</studentAnswer>
+    <studentAnswer id="EV.22a.486.1" accuracy="incorrect">No, He did not put a lot of information.</studentAnswer>
+    <studentAnswer id="EV.22a.487.1" accuracy="incorrect">No, Because he did not put the height of the plant.</studentAnswer>
+    <studentAnswer id="EV.22a.489.1" accuracy="incorrect">No, He did not do a good job because he did not say the height of the tallest plant.</studentAnswer>
+    <studentAnswer id="EV.22a.492.1" accuracy="incorrect">Yes, No explanation.</studentAnswer>
+    <studentAnswer id="EV.22a.494.1" accuracy="incorrect">Yes, Because at least all 2 plants have a plant and a leaf.</studentAnswer>
+    <studentAnswer id="EV.22a.499.1" accuracy="incorrect">No, Because in Pot A he did a good job but in Pot B he put 100 milliliters of water.</studentAnswer>
+    <studentAnswer id="EV.22a.500.1" accuracy="incorrect">Yes, Because they seemed to be tall and healthy plants.</studentAnswer>
+    <studentAnswer id="EV.22a.501.1" accuracy="incorrect">No, Because there is 2 different number of leaves.</studentAnswer>
+    <studentAnswer id="EV.22a.502.1" accuracy="incorrect">Yes, Results after week 2 are good.</studentAnswer>
+    <studentAnswer id="EV.22a.503.1" accuracy="incorrect">Yes, Because the plants grew well.</studentAnswer>
+    <studentAnswer id="EV.22a.504.1" accuracy="incorrect">Yes, Because he put more water in one but less food and the other one was vice versa but few more leaves and in length.</studentAnswer>
+    <studentAnswer id="EV.22a.508.1" accuracy="correct">No, Because he did not add the same amount of water or plant food.</studentAnswer>
+    <studentAnswer id="EV.22a.524.1" accuracy="incorrect">Yes, because he used one variable waters it was not all the same.</studentAnswer>
+    <studentAnswer id="EV.22a.530.1" accuracy="correct">No, no because in pot A he put 2 grams of plant food and in pot B one gram of plant food and he is only suppose to change water.</studentAnswer>
+    <studentAnswer id="EV.22a.532.1" accuracy="incorrect">Yes, yes because in pot B it was 100 and one gram and length it is 7 and for number it is only and it is good.</studentAnswer>
+    <studentAnswer id="EV.22a.533.1" accuracy="incorrect">Yes, because he wrote all his information.</studentAnswer>
+    <studentAnswer id="EV.22a.534.1" accuracy="incorrect">Yes, because on pot A he used 75 milliliters and got one more centimeters then pot B also he got more leaves on his plant in pot A.</studentAnswer>
+    <studentAnswer id="EV.22a.535.1" accuracy="incorrect">Yes, Yes because he put one more water one gram more on pot A and they grew more leaves and had the biggest length.</studentAnswer>
+    <studentAnswer id="EV.22a.536.1" accuracy="incorrect">Yes, yes because John put everything in the right order for pot A and B.</studentAnswer>
+    <studentAnswer id="EV.22a.538.1" accuracy="incorrect">Yes, Because recorded every detail.</studentAnswer>
+    <studentAnswer id="EV.22a.548.1" accuracy="incorrect">No, he add pot b to much of water.</studentAnswer>
+  </studentAnswers>
+</question>

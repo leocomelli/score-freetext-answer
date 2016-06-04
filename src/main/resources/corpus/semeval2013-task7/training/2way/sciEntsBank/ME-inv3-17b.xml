@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="ME_17b" module="ME">
+  <questionText>Denise made a circuit to light a bulb or run a motor off a D-cell battery. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. Why will the bulb light when she moves the switch to the left?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17b-a1">There is a complete circuit connecting the bulb to the D-cell battery.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17b.101.1" accuracy="incorrect">It will happen because that is turning the switch off or opening the switch.</studentAnswer>
+    <studentAnswer id="ME.17b.105.1" accuracy="incorrect">Nothing will happen because you have to have a switch in front of the negative side to have it work.</studentAnswer>
+    <studentAnswer id="ME.17b.107.1" accuracy="correct">That will happen because it will make a complete circuit with the bulb.</studentAnswer>
+    <studentAnswer id="ME.17b.111.1" accuracy="incorrect">Because the battery is hooked to the switch that why.</studentAnswer>
+    <studentAnswer id="ME.17b.115.1" accuracy="correct">It is completing the circuit, but the motor is not connected to a complete circuit, but the bulb is.</studentAnswer>
+    <studentAnswer id="ME.17b.118.1" accuracy="incorrect">Because it is not complete.</studentAnswer>
+    <studentAnswer id="ME.17b.120.1" accuracy="correct">This will happen because the switch is turning that way making a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.143.1" accuracy="correct">Because it makes a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.149.1" accuracy="incorrect">It is like turning on a light switch.</studentAnswer>
+    <studentAnswer id="ME.17b.155.1" accuracy="correct">That would happen because the bulb is on the left and the electricity will be flowing that way.</studentAnswer>
+    <studentAnswer id="ME.17b.159.1" accuracy="correct">It lets electricity go through.</studentAnswer>
+    <studentAnswer id="ME.17b.173.1" accuracy="correct">It will happen because electricity is flowing to the light bulb.</studentAnswer>
+    <studentAnswer id="ME.17b.179.1" accuracy="correct">That will happen because the switch will touch the wire and electricity will be able to flow.</studentAnswer>
+    <studentAnswer id="ME.17b.180.1" accuracy="correct">It will happen because the motor and the bulb are not connected on the same wires.</studentAnswer>
+    <studentAnswer id="ME.17b.183.1" accuracy="correct">It is a circle.</studentAnswer>
+    <studentAnswer id="ME.17b.189.1" accuracy="correct">She will make a circle.</studentAnswer>
+    <studentAnswer id="ME.17b.191.1" accuracy="incorrect">It will happen because right now it is a closed circuit, so if she moves it to the left it will be an open circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.192.1" accuracy="incorrect">That will happen because there is an open circuit so the electricity will travel to the source.</studentAnswer>
+    <studentAnswer id="ME.17b.193.1" accuracy="incorrect">Well, it is going out too far, far enough to not work.</studentAnswer>
+    <studentAnswer id="ME.17b.195.1" accuracy="incorrect">It will happen because it is in a running place.</studentAnswer>
+    <studentAnswer id="ME.17b.206.1" accuracy="correct">It will happen because the switch is channeling the electricity to the light bulb.</studentAnswer>
+    <studentAnswer id="ME.17b.247.1" accuracy="incorrect">Because if she would just move the it will light up the light bulb.</studentAnswer>
+    <studentAnswer id="ME.17b.251.1" accuracy="correct">That happens because if you move it to the left she just closed that circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.253.1" accuracy="incorrect">Because left is to turn on and right is to turn off.</studentAnswer>
+    <studentAnswer id="ME.17b.256.1" accuracy="incorrect">Because the D-cell is in the middle.</studentAnswer>
+    <studentAnswer id="ME.17b.276.1" accuracy="incorrect">If she move the battery back it will light up.</studentAnswer>
+    <studentAnswer id="ME.17b.277.1" accuracy="incorrect">That is one circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.278.1" accuracy="correct">That will happen because the switch will be closed.</studentAnswer>
+    <studentAnswer id="ME.17b.280.1" accuracy="correct">Because it is closed and when it is closed it runs.</studentAnswer>
+    <studentAnswer id="ME.17b.291.1" accuracy="incorrect">I learned it in class.</studentAnswer>
+    <studentAnswer id="ME.17b.292.1" accuracy="incorrect">Because the bulb is not in a circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.313.1" accuracy="incorrect">Because it could not be a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.17b.314.1" accuracy="incorrect">I think that because it is able to do that.</studentAnswer>
+    <studentAnswer id="ME.17b.327.1" accuracy="incorrect">Because it is on an.</studentAnswer>
+    <studentAnswer id="ME.17b.328.1" accuracy="correct">It will because as long as there is a connection and it goes from the negative to the positive.</studentAnswer>
+  </studentAnswers>
+</question>

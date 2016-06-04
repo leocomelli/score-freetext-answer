@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_26p" module="PS">
+  <questionText>Kate said: "An object has to move to produce sound." Do you agree with her? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_26p-a1">Agree. Vibrations are movements. Vibrations produce sound.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.26.152.1" accuracy="incorrect">Yes I do agree because there are some that have to shake.</studentAnswer>
+    <studentAnswer id="PS.26.319.1" accuracy="incorrect">No! Because a TV makes sound and does not move.</studentAnswer>
+    <studentAnswer id="PS.26.454.1" accuracy="correct">I agree with Kate because a vibration has to move And in order for sound to be made it needs to vibrate.</studentAnswer>
+    <studentAnswer id="PS.26.524.1" accuracy="correct">I agree because it has to vibrate and vibrating is moving.</studentAnswer>
+  </studentAnswers>
+</question>

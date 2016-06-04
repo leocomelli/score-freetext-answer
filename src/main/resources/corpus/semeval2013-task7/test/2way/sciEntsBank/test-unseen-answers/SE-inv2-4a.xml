@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_4a" module="SE">
+  <questionText>What is a heat sink?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_4a-a1">A heat sink is any material that absorbs (a lot of) heat.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.4a.327.1" accuracy="incorrect">A material that goes slowly and energy goes slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.407.1" accuracy="incorrect">Something the heat sinks into.</studentAnswer>
+    <studentAnswer id="SE.4a.506.1" accuracy="incorrect">Sand is heat sink.</studentAnswer>
+    <studentAnswer id="SE.4a.521.1" accuracy="incorrect">A system that takes a long time to heat up and a long time to cool off.</studentAnswer>
+  </studentAnswers>
+</question>

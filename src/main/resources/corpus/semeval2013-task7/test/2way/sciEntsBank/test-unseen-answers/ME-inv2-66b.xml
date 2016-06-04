@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_66b" module="ME">
+  <questionText>Look at the circuit in the picture. The gap between the D-cell and the switch needs to be connected. Can you use a piece of aluminum foil to make the connection? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_66b-a1">Yes, aluminum foil is a metal and all metals conduct. The aluminum foil would complete the circuit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.66b.143.1" accuracy="incorrect">Yes because it is aluminum.</studentAnswer>
+    <studentAnswer id="ME.66b.178.1" accuracy="correct">Yes, it has metal in it.</studentAnswer>
+    <studentAnswer id="ME.66b.207.1" accuracy="incorrect">No because it is not wires.</studentAnswer>
+    <studentAnswer id="ME.66b.227.1" accuracy="incorrect">No, because it cannot attract electricity or get power.</studentAnswer>
+  </studentAnswers>
+</question>

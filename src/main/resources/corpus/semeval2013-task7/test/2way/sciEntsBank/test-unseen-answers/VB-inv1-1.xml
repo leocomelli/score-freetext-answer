@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_1" module="VB">
+  <questionText>How do you define a controlled experiment?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_1-a1">An experiment is controlled if only one variable is changed at a time.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.1.381.1" accuracy="correct">A controlled experiment is where you change a variable.</studentAnswer>
+    <studentAnswer id="VB.1.511.1" accuracy="incorrect">You just work with the experiment and get it over with.</studentAnswer>
+    <studentAnswer id="VB.1.632.1" accuracy="incorrect">To find the answer.</studentAnswer>
+    <studentAnswer id="VB.1.634.1" accuracy="correct">Only change one variable.</studentAnswer>
+  </studentAnswers>
+</question>

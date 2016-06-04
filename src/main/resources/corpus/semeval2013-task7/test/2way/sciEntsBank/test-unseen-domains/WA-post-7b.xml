@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_7b" module="WA">
+  <questionText>Look at the picture of a block of wood in a cup of water. What evidence indicates that the block of wood is less dense than the water?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_7b-a1">The block of wood floats because the wood is less dense than water.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.7b.173.1" accuracy="incorrect">The block of wood is the same density of the water because the cube is kind of floating.</studentAnswer>
+    <studentAnswer id="WA.7b.174.1" accuracy="correct">The water is able to hold the block of wood up.</studentAnswer>
+    <studentAnswer id="WA.7b.176.1" accuracy="incorrect">Well, saying less dense is like saying not as heavy. So the block of wood is probably soaked up water and is lighter.</studentAnswer>
+    <studentAnswer id="WA.7b.179.1" accuracy="incorrect">It is denser because it is more under water.</studentAnswer>
+    <studentAnswer id="WA.7b.180.1" accuracy="incorrect">The block is floating and that means that it is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.7b.183.1" accuracy="correct">Because if it is less dense it would float.</studentAnswer>
+    <studentAnswer id="WA.7b.186.1" accuracy="correct">The block is floating so it is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.187.1" accuracy="incorrect">The block is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.7b.188.1" accuracy="correct">When something is less dense it floats when something is more dense it sinks.</studentAnswer>
+    <studentAnswer id="WA.7b.191.1" accuracy="correct">Well because the block is floating so that makes less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.210.1" accuracy="incorrect">The water is less dense because it is floating on the water.</studentAnswer>
+    <studentAnswer id="WA.7b.216.1" accuracy="correct">The wood is floating and that means it is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.227.1" accuracy="correct">It floats.</studentAnswer>
+    <studentAnswer id="WA.7b.228.1" accuracy="correct">A: because we did a experiment and the wooden bead floated.</studentAnswer>
+    <studentAnswer id="WA.7b.231.1" accuracy="correct">My evidence is that the wooden block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.241.1" accuracy="correct">My evidence is the block of wood is floating so it is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.7b.243.1" accuracy="incorrect">I picked B because they have the same dense.</studentAnswer>
+    <studentAnswer id="WA.7b.244.1" accuracy="correct">The block of wood is less dense than the water is true because the block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.246.1" accuracy="correct">My evidence is that if the block was more dense then it would not float it would sink.</studentAnswer>
+    <studentAnswer id="WA.7b.248.1" accuracy="correct">Because in the picture the block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.259.1" accuracy="correct">Because when something floats that mean it is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.260.1" accuracy="correct">My evidence is that less dense things float.</studentAnswer>
+    <studentAnswer id="WA.7b.261.1" accuracy="correct">It floats.</studentAnswer>
+    <studentAnswer id="WA.7b.264.1" accuracy="correct">Because the block of wood is floating so that means it is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.267.1" accuracy="correct">If block of wood was more denser it would to the bottom.</studentAnswer>
+    <studentAnswer id="WA.7b.277.1" accuracy="incorrect">When you put a sugar is float in the water.</studentAnswer>
+    <studentAnswer id="WA.7b.281.1" accuracy="incorrect">Because the block is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.286.1" accuracy="incorrect">A block of wood is not that heavy.</studentAnswer>
+    <studentAnswer id="WA.7b.287.1" accuracy="correct">The block float on the water because it was less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.295.1" accuracy="incorrect">I know that wood is less dense because I see it all the time and in class.</studentAnswer>
+    <studentAnswer id="WA.7b.301.1" accuracy="correct">The block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.351.1" accuracy="incorrect">It is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.7b.359.1" accuracy="correct">The block weighs less than the water.</studentAnswer>
+    <studentAnswer id="WA.7b.365.1" accuracy="correct">Anything that floats to the top is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.369.1" accuracy="correct">Because the block floats. The block of wood is less dense than the water because the block of wood is floating on top of the water.</studentAnswer>
+    <studentAnswer id="WA.7b.382.1" accuracy="incorrect">I look the picture.</studentAnswer>
+    <studentAnswer id="WA.7b.383.1" accuracy="correct">Because the block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.384.1" accuracy="correct">It floats.</studentAnswer>
+    <studentAnswer id="WA.7b.385.1" accuracy="correct">When something floats on top it always is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.387.1" accuracy="correct">The block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.388.1" accuracy="correct">It is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.389.1" accuracy="correct">The block of wood floats in the water.</studentAnswer>
+    <studentAnswer id="WA.7b.390.1" accuracy="correct">If the block is less dense than the water, it would float. If it is more dense than the water, it would sink.</studentAnswer>
+    <studentAnswer id="WA.7b.391.1" accuracy="correct">The block of wood floats, which gives you evidence that it is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.7b.392.1" accuracy="correct">The block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.393.1" accuracy="correct">The block of wood is less dense than water because it is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.395.1" accuracy="correct">The block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.397.1" accuracy="incorrect">The block is heavier than water and it is hard to touch than water.</studentAnswer>
+    <studentAnswer id="WA.7b.417.1" accuracy="correct">My evidence is that when an object or liquid is less dense it floats to the top, or is at the top and vice versa.</studentAnswer>
+    <studentAnswer id="WA.7b.422.1" accuracy="incorrect">My evidence is that the water is more dense and the wood is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.423.1" accuracy="correct">I know that the block of wood is less dense than the water because when something is less dense it floats.</studentAnswer>
+    <studentAnswer id="WA.7b.425.1" accuracy="correct">It is because it is at the top.</studentAnswer>
+    <studentAnswer id="WA.7b.427.1" accuracy="correct">The wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.429.1" accuracy="correct">The wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.430.1" accuracy="correct">It is less dense because it is floating. If it were more dense it would sink.</studentAnswer>
+    <studentAnswer id="WA.7b.454.1" accuracy="correct">The block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.455.1" accuracy="correct">The block is less dense the water because it floated.</studentAnswer>
+    <studentAnswer id="WA.7b.460.1" accuracy="correct">The block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.462.1" accuracy="correct">The block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.463.1" accuracy="correct">The wood is floating so it is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.465.1" accuracy="correct">The block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.486.1" accuracy="correct">It floats.</studentAnswer>
+    <studentAnswer id="WA.7b.488.1" accuracy="correct">It is at the top of the cup if it is less dense it will float.</studentAnswer>
+    <studentAnswer id="WA.7b.493.1" accuracy="correct">Its floating.</studentAnswer>
+    <studentAnswer id="WA.7b.495.1" accuracy="correct">The block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.497.1" accuracy="correct">The block floats.</studentAnswer>
+    <studentAnswer id="WA.7b.504.1" accuracy="incorrect">Wood is light.</studentAnswer>
+    <studentAnswer id="WA.7b.506.1" accuracy="correct">The block of wood is half in the water and half out.</studentAnswer>
+    <studentAnswer id="WA.7b.523.1" accuracy="correct">The block of wood is floating in the water.</studentAnswer>
+    <studentAnswer id="WA.7b.526.1" accuracy="correct">Because it floats.</studentAnswer>
+    <studentAnswer id="WA.7b.527.1" accuracy="correct">Because the wood is floating because the wood is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.529.1" accuracy="correct">The block is floating. If the block is denser it would sink.</studentAnswer>
+    <studentAnswer id="WA.7b.530.1" accuracy="correct">The wood is less dense because it floats.</studentAnswer>
+    <studentAnswer id="WA.7b.531.1" accuracy="correct">It is floating so it is got to be less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.532.1" accuracy="incorrect">The wooden block is less dense because the surface area is where you put it.</studentAnswer>
+    <studentAnswer id="WA.7b.541.1" accuracy="correct">Because it floats.</studentAnswer>
+    <studentAnswer id="WA.7b.556.1" accuracy="correct">The block of wood floats, and if it was denser, It would sink.</studentAnswer>
+    <studentAnswer id="WA.7b.559.1" accuracy="correct">Because when the thing I less dense it will float.</studentAnswer>
+    <studentAnswer id="WA.7b.561.1" accuracy="correct">It is floating and when something it is less dense.</studentAnswer>
+    <studentAnswer id="WA.7b.563.1" accuracy="correct">When something floats it is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.7b.567.1" accuracy="correct">The block floats and if something floats in water it is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.7b.572.1" accuracy="correct">Because the block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.576.1" accuracy="incorrect">You can see that some of the wood.</studentAnswer>
+    <studentAnswer id="WA.7b.594.1" accuracy="correct">Because the block is floating and its impossible for water to sink.</studentAnswer>
+    <studentAnswer id="WA.7b.595.1" accuracy="correct">I think the block is less dense because it is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.596.1" accuracy="incorrect">Less dense means it wants to expand. If it were denser it would want to contact and sink to a tight space at the bottom, but the wood floated and expanded as much as it could.</studentAnswer>
+    <studentAnswer id="WA.7b.597.1" accuracy="correct">Because if the block of wood was denser it would sink but it floated.</studentAnswer>
+    <studentAnswer id="WA.7b.601.1" accuracy="correct">Because the lock floats.</studentAnswer>
+    <studentAnswer id="WA.7b.604.1" accuracy="correct">The block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.607.1" accuracy="correct">Because dense it would sink.</studentAnswer>
+    <studentAnswer id="WA.7b.610.1" accuracy="correct">The block of wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.627.1" accuracy="correct">The wood block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.634.1" accuracy="correct">Because the block of wood is floating and that means it is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.7b.635.1" accuracy="correct">Because the cube is one the to of the water.</studentAnswer>
+    <studentAnswer id="WA.7b.636.1" accuracy="correct">The wood is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.638.1" accuracy="correct">Less dense because the block is floating on the water.</studentAnswer>
+    <studentAnswer id="WA.7b.640.1" accuracy="correct">Because the block is floating in the water.</studentAnswer>
+    <studentAnswer id="WA.7b.642.1" accuracy="correct">Because the block is floating.</studentAnswer>
+    <studentAnswer id="WA.7b.647.1" accuracy="correct">The same because it is not sinking it is not way up on top of the water. Holy part is up and half is down.</studentAnswer>
+  </studentAnswers>
+</question>

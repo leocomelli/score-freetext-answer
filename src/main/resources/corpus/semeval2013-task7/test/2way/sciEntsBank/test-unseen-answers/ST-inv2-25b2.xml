@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ST_25b2" module="ST">
+  <questionText>Look at the picture of the bean seedling shortly after germination. Describe the function of each of the parts: cotyledon.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_25b2-a1">The cotyledon provides food for the plant until the plant can make food for itself.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.25b2.383.1" accuracy="correct">To give food to the baby plant.</studentAnswer>
+    <studentAnswer id="ST.25b2.462.1" accuracy="correct">It holds food for the plant before the roots grow.</studentAnswer>
+    <studentAnswer id="ST.25b2.471.1" accuracy="incorrect">Food storage.</studentAnswer>
+    <studentAnswer id="ST.25b2.576.1" accuracy="incorrect">Store food.</studentAnswer>
+  </studentAnswers>
+</question>

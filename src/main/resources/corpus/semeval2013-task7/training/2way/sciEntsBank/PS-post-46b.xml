@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="PS_46b" module="PS">
+  <questionText>Why was the siren's sound designed to have this property?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_46b-a1">So that people notice the sound.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.46b.101.1" accuracy="correct">Because so it can tell people to get out of the way in case of a fire.</studentAnswer>
+    <studentAnswer id="PS.46b.107.1" accuracy="incorrect">Because for the sound.</studentAnswer>
+    <studentAnswer id="PS.46b.114.1" accuracy="incorrect">Because when a house is on fire the fire people turn on their sirens.</studentAnswer>
+    <studentAnswer id="PS.46b.118.1" accuracy="correct">Would by a sound. Because it was high and low enough for someone to hear.</studentAnswer>
+    <studentAnswer id="PS.46b.145.1" accuracy="correct">So people can hear.</studentAnswer>
+    <studentAnswer id="PS.46b.154.1" accuracy="correct">Because if someone called 911 they could hear that they are coming.</studentAnswer>
+    <studentAnswer id="PS.46b.171.1" accuracy="correct">So when people in cars are driving it tells them to get out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.181.1" accuracy="correct">So everyone can hear it.</studentAnswer>
+    <studentAnswer id="PS.46b.184.1" accuracy="incorrect">Because the fire alarm would when a house is on fire.</studentAnswer>
+    <studentAnswer id="PS.46b.212.1" accuracy="correct">So people would move if it was an emergency.</studentAnswer>
+    <studentAnswer id="PS.46b.222.1" accuracy="correct">So if people heard this high pitch they would know to move or get out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.225.1" accuracy="correct">So people would know to get out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.253.1" accuracy="incorrect">Because it is a big pitch.</studentAnswer>
+    <studentAnswer id="PS.46b.255.1" accuracy="correct">So people know there is an emergency.</studentAnswer>
+    <studentAnswer id="PS.46b.263.1" accuracy="correct">Because high pitch is louder. So everyone can hear it because there is a fire.</studentAnswer>
+    <studentAnswer id="PS.46b.319.1" accuracy="correct">It gets cars out of the way. So they can get to the fire faster.</studentAnswer>
+    <studentAnswer id="PS.46b.323.1" accuracy="incorrect">I think siren.</studentAnswer>
+    <studentAnswer id="PS.46b.391.1" accuracy="correct">So people know to move.</studentAnswer>
+    <studentAnswer id="PS.46b.396.1" accuracy="correct">To get people out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.452.1" accuracy="correct">To get people's attention.</studentAnswer>
+    <studentAnswer id="PS.46b.455.1" accuracy="correct">To warn people.</studentAnswer>
+    <studentAnswer id="PS.46b.459.1" accuracy="correct">So people can hear it and pull over.</studentAnswer>
+    <studentAnswer id="PS.46b.466.1" accuracy="correct">To let the people know there are trouble so they need to hurry in the traffic.</studentAnswer>
+    <studentAnswer id="PS.46b.494.1" accuracy="correct">So people could know to get out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.497.1" accuracy="incorrect">If something Bad happening to somebody.</studentAnswer>
+    <studentAnswer id="PS.46b.508.1" accuracy="incorrect">For the fire drill.</studentAnswer>
+    <studentAnswer id="PS.46b.523.1" accuracy="correct">Because the car needs to get to someplace very quick.</studentAnswer>
+    <studentAnswer id="PS.46b.532.1" accuracy="correct">They have that so people can get out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.539.1" accuracy="correct">So people can hear it and get out of the way. To make people get out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.596.1" accuracy="correct">To let the people and people in trouble to know.</studentAnswer>
+    <studentAnswer id="PS.46b.602.1" accuracy="correct">I think a loud volume so that people hear it not to but the siren does not sound so loud.</studentAnswer>
+    <studentAnswer id="PS.46b.610.1" accuracy="correct">To tell people to move.</studentAnswer>
+    <studentAnswer id="PS.46b.629.1" accuracy="correct">It had a high pitch to warn people.</studentAnswer>
+    <studentAnswer id="PS.46b.641.1" accuracy="incorrect">Because he does not want noise.</studentAnswer>
+    <studentAnswer id="PS.46b.644.1" accuracy="correct">So people know to get out of the way.</studentAnswer>
+  </studentAnswers>
+</question>

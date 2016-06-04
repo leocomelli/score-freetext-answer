@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="FN_26b" module="FN">
+  <questionText>What is the evidence in this experiment that OJ1 or OJ2 had more acid?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_26b-a1">The syringe for OJ1 rose higher because OJ1 produced more gas, so OJ1 has more acid than OJ2.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.26b.113.1" accuracy="incorrect">The syringe popped up higher.</studentAnswer>
+    <studentAnswer id="FN.26b.119.1" accuracy="incorrect">The evidence is that OJ1 has a higher dot.</studentAnswer>
+    <studentAnswer id="FN.26b.121.1" accuracy="incorrect">The evidence is that it has more in the syringe.</studentAnswer>
+    <studentAnswer id="FN.26b.123.1" accuracy="incorrect">The evidence is carbon dioxide.</studentAnswer>
+    <studentAnswer id="FN.26b.139.1" accuracy="correct">OJ1 has more acid because the dot is higher than OJ2's dot.</studentAnswer>
+    <studentAnswer id="FN.26b.148.1" accuracy="incorrect">The little siky dot on OJ1 is higher than OJ2.</studentAnswer>
+    <studentAnswer id="FN.26b.151.1" accuracy="correct">The plunger went higher which means there is more acid.</studentAnswer>
+    <studentAnswer id="FN.26b.154.1" accuracy="incorrect">The evidence was that OJ1 was higher than OJ2.</studentAnswer>
+    <studentAnswer id="FN.26b.157.1" accuracy="correct">Because the acid made OJ1 go up higher than the OJ2 in the tube.</studentAnswer>
+    <studentAnswer id="FN.26b.160.1" accuracy="correct">Because OJ1 is higher up than OJ2 so that means it has more acid.</studentAnswer>
+    <studentAnswer id="FN.26b.161.1" accuracy="incorrect">The evidence is that water has a higher concentration of acid.</studentAnswer>
+    <studentAnswer id="FN.26b.171.1" accuracy="incorrect">OJ1 has a little bit more than 0.5. OJ2 is less than OJ1 and has about 0.5 or in between 0.25 and 0.5 of orange juice added.</studentAnswer>
+    <studentAnswer id="FN.26b.188.1" accuracy="incorrect">It is higher than OJ2.</studentAnswer>
+    <studentAnswer id="FN.26b.213.1" accuracy="correct">OJ1 has more acid because it has more amount of gas in the syringes. The more the gas the more acid it has.</studentAnswer>
+    <studentAnswer id="FN.26b.219.1" accuracy="incorrect">That the more carbon dioxide means that it is an acid.</studentAnswer>
+    <studentAnswer id="FN.26b.221.1" accuracy="incorrect">Because the acid in carbon dioxide was higher than the carbon dioxide of OJ2.</studentAnswer>
+    <studentAnswer id="FN.26b.223.1" accuracy="incorrect">Its little meter.</studentAnswer>
+    <studentAnswer id="FN.26b.224.1" accuracy="incorrect">If you look on the chart the dot is higher, so it has more vitamin C.</studentAnswer>
+    <studentAnswer id="FN.26b.226.1" accuracy="correct">OJ1's syringe filled up with carbon dioxide more than OJ2 did, making OJ1 have more acid.</studentAnswer>
+    <studentAnswer id="FN.26b.230.1" accuracy="correct">The evidence is that OJ1 has more acid because it is higher.</studentAnswer>
+    <studentAnswer id="FN.26b.247.1" accuracy="incorrect">OJ1 because it went higher on the picture.</studentAnswer>
+    <studentAnswer id="FN.26b.257.1" accuracy="incorrect">It had more fizz and pressure.</studentAnswer>
+    <studentAnswer id="FN.26b.262.1" accuracy="incorrect">I know this because OJ1 is higher than OJ2 is.</studentAnswer>
+    <studentAnswer id="FN.26b.264.1" accuracy="incorrect">The evidence is that if it is higher it has more gas the lower the less gas.</studentAnswer>
+    <studentAnswer id="FN.26b.267.1" accuracy="correct">There is more gas in the syringes.</studentAnswer>
+    <studentAnswer id="FN.26b.290.1" accuracy="incorrect">OJ1 has more than 0.5 but OJ2 has a little more than 0.25.</studentAnswer>
+    <studentAnswer id="FN.26b.294.1" accuracy="incorrect">OJ1 is more than 0.5 full but OJ2 is less than 0.5 full.</studentAnswer>
+    <studentAnswer id="FN.26b.306.1" accuracy="incorrect">The evidence is that the syringe will pop up, whatever number it lands on that is how much acid it contains.</studentAnswer>
+    <studentAnswer id="FN.26b.311.1" accuracy="incorrect">OJ1 is on the 0.5 and OJ2 is in between the 0.5 and the 0.25.</studentAnswer>
+    <studentAnswer id="FN.26b.313.1" accuracy="incorrect">Because OJ1 has a more amount of acid.</studentAnswer>
+    <studentAnswer id="FN.26b.323.1" accuracy="incorrect">It is higher.</studentAnswer>
+    <studentAnswer id="FN.26b.324.1" accuracy="incorrect">The syringe on OJ1 rose higher than on OJ2.</studentAnswer>
+    <studentAnswer id="FN.26b.326.1" accuracy="incorrect">The syringes in the OJ2 has less gas and the OJ1 is higher in OJ1.</studentAnswer>
+    <studentAnswer id="FN.26b.328.1" accuracy="incorrect">Because it reacted the most.</studentAnswer>
+    <studentAnswer id="FN.26b.330.1" accuracy="correct">The syringe that contains more gas indicates that it has more acid.</studentAnswer>
+    <studentAnswer id="FN.26b.337.1" accuracy="incorrect">OJ1 was above 0.5 and OJ2 was in between 0.25 to 0.5.</studentAnswer>
+    <studentAnswer id="FN.26b.338.1" accuracy="incorrect">The OJ1 has a marker in a higher spot than OJ2 which means OJ1 produced more gas than OJ2.</studentAnswer>
+    <studentAnswer id="FN.26b.348.1" accuracy="incorrect">The evidence is the syringe went higher up with OJ1 than with OJ2.</studentAnswer>
+    <studentAnswer id="FN.26b.351.1" accuracy="incorrect">The evidence is the OJ1 has more vitamin C in it.</studentAnswer>
+    <studentAnswer id="FN.26b.364.1" accuracy="incorrect">Which juice has a higher concentration of acid.</studentAnswer>
+  </studentAnswers>
+</question>

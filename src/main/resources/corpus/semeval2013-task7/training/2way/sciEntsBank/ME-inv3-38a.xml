@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_38a" module="ME">
+  <questionText>Trace over the complete circuit with your pencil to show where it is. Even though there is a complete circuit, the bulb will not light. Why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_38a-a1">The circuit does not include both contact points on the bulb holder, so the electricity can not go through the bulb.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.38a.101.1" accuracy="incorrect">It will not get light because the negative is getting to the motor.</studentAnswer>
+    <studentAnswer id="ME.38a.102.1" accuracy="correct">It will not light because one wire has to go in one side and one wire has to go in the other.</studentAnswer>
+    <studentAnswer id="ME.38a.105.1" accuracy="correct">There is not 2 wires for each little clip. There needs to be one coming from one clip and another coming from the other clip.</studentAnswer>
+    <studentAnswer id="ME.38a.107.1" accuracy="correct">The bulb will not light because one of the wires have to touch the other clip.</studentAnswer>
+    <studentAnswer id="ME.38a.111.1" accuracy="incorrect">Because the electricity is going to the motor.</studentAnswer>
+    <studentAnswer id="ME.38a.119.1" accuracy="incorrect">The bulb will not light because there is not enough electricity.</studentAnswer>
+    <studentAnswer id="ME.38a.120.1" accuracy="correct">It will not because there has to be a wire in each wire holder.</studentAnswer>
+    <studentAnswer id="ME.38a.121.1" accuracy="incorrect">The cord from the battery is not on both sides.</studentAnswer>
+    <studentAnswer id="ME.38a.140.1" accuracy="incorrect">Because the bulb will not have enough energy because of the light bulb.</studentAnswer>
+    <studentAnswer id="ME.38a.143.1" accuracy="incorrect">Because the positive wire is taking the energy right away.</studentAnswer>
+    <studentAnswer id="ME.38a.144.1" accuracy="incorrect">Because, the electricity goes through the wrong way the second time.</studentAnswer>
+    <studentAnswer id="ME.38a.146.1" accuracy="incorrect">There are 2 wires that should not be there the motor wires.</studentAnswer>
+    <studentAnswer id="ME.38a.147.1" accuracy="incorrect">It going in a coil.</studentAnswer>
+    <studentAnswer id="ME.38a.149.1" accuracy="incorrect">The wires are not even.</studentAnswer>
+    <studentAnswer id="ME.38a.154.1" accuracy="incorrect">It is not connected properly because the wires are not connected properly on the motor.</studentAnswer>
+    <studentAnswer id="ME.38a.155.1" accuracy="incorrect">The bulb will no because the other wire is not connected.</studentAnswer>
+    <studentAnswer id="ME.38a.159.1" accuracy="incorrect">There is not enough energy.</studentAnswer>
+    <studentAnswer id="ME.38a.173.1" accuracy="incorrect">The battery does not have enough power or the power is not getting to the bulb.</studentAnswer>
+    <studentAnswer id="ME.38a.178.1" accuracy="incorrect">The motor is not running.</studentAnswer>
+    <studentAnswer id="ME.38a.179.1" accuracy="incorrect">It will not light because when the electricity cannot flow through the wires.</studentAnswer>
+    <studentAnswer id="ME.38a.180.1" accuracy="incorrect">The bulb will not light up because they are all not connected and this does not make a circuit.</studentAnswer>
+    <studentAnswer id="ME.38a.181.1" accuracy="incorrect">Because it is not in a circle.</studentAnswer>
+    <studentAnswer id="ME.38a.195.1" accuracy="incorrect">It is in both the same circuit.</studentAnswer>
+    <studentAnswer id="ME.38a.206.1" accuracy="correct">The light bulb needs both plus and minus to be on different parts of the holder.</studentAnswer>
+    <studentAnswer id="ME.38a.208.1" accuracy="incorrect">It is not connected.</studentAnswer>
+    <studentAnswer id="ME.38a.215.1" accuracy="incorrect">More power goes to the motor.</studentAnswer>
+    <studentAnswer id="ME.38a.225.1" accuracy="incorrect">The wires are not connecting to the bulb.</studentAnswer>
+    <studentAnswer id="ME.38a.226.1" accuracy="correct">The bulb will not light because the positive and negative wires are hooked on the same hook.</studentAnswer>
+    <studentAnswer id="ME.38a.253.1" accuracy="incorrect">It does not work because the wire are not propel on the spring thing.</studentAnswer>
+    <studentAnswer id="ME.38a.254.1" accuracy="incorrect">Yes even though it is not a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.38a.256.1" accuracy="incorrect">No because both wires are on both place.</studentAnswer>
+    <studentAnswer id="ME.38a.314.1" accuracy="incorrect">Some of the wires are disconnect.</studentAnswer>
+    <studentAnswer id="ME.38a.323.1" accuracy="correct">It will not light because the bulbs wires are not connected to both sockets.</studentAnswer>
+    <studentAnswer id="ME.38a.324.1" accuracy="incorrect">Because the motor got all the power.</studentAnswer>
+    <studentAnswer id="ME.38a.327.1" accuracy="incorrect">Because one side is hooked to the motor.</studentAnswer>
+    <studentAnswer id="ME.38a.328.1" accuracy="incorrect">The bulb will not work because the negative and the positive cannot go in the same way.</studentAnswer>
+  </studentAnswers>
+</question>

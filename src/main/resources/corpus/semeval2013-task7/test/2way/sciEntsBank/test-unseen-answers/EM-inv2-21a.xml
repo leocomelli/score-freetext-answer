@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_21a" module="EM">
+  <questionText>Georgia found one brown mineral and one black mineral. How can she test them for hardness using only the 2 minerals (no tools)?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_21a-a1">Rub the minerals together and see which one scratches the other.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.21a.403.1" accuracy="incorrect">She can rub them against each other.</studentAnswer>
+    <studentAnswer id="EM.21a.557.1" accuracy="incorrect">Rubbing them together.</studentAnswer>
+    <studentAnswer id="EM.21a.593.1" accuracy="correct">Rub one of the minerals against the other one and see if it has a mark or a scratch.</studentAnswer>
+    <studentAnswer id="EM.21a.637.1" accuracy="correct">Rub them together and see if one scratches the other!</studentAnswer>
+  </studentAnswers>
+</question>

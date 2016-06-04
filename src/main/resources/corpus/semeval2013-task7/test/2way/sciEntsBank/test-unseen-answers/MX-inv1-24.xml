@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_24" module="MX">
+  <questionText>How do you know when a solid and a liquid form a solution?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_24-a1">The solid dissolves (seems to disappear) and the liquid remains clear.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.24.418.1" accuracy="correct">Because you can see through it, and the mixture will dissolve into it.</studentAnswer>
+    <studentAnswer id="MX.24.468.1" accuracy="incorrect">You can not see the solid no more because it is going and you cannot see the solution.</studentAnswer>
+    <studentAnswer id="MX.24.527.1" accuracy="incorrect">You know when the solid cannot be seen.</studentAnswer>
+    <studentAnswer id="MX.24.566.1" accuracy="incorrect">When the solid dissolves into the liquid.</studentAnswer>
+  </studentAnswers>
+</question>

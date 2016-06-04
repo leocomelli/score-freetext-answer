@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_16b" module="WA">
+  <questionText>Why does the level of the water in the straw go up when the bottle-and-straw thermometer is heated?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_16b-a1">Water expands when water is heated.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.16b.171.1" accuracy="incorrect">Because the hotness is causing the thermometer temperature go down.</studentAnswer>
+    <studentAnswer id="WA.16b.173.1" accuracy="correct">This happens because when something is heated and because it has less density the temperature goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.174.1" accuracy="correct">The water expands when heated so when you heat up the water the water goes up the straw.</studentAnswer>
+    <studentAnswer id="WA.16b.175.1" accuracy="correct">Because hot water expands and cold water contracts.</studentAnswer>
+    <studentAnswer id="WA.16b.176.1" accuracy="incorrect">Because all the molecules do not like hot water so they go somewhere else the only way to go is up.</studentAnswer>
+    <studentAnswer id="WA.16b.177.1" accuracy="correct">It goes up because the heat pushes it up. It cannot go anywhere but up. It is also less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.178.1" accuracy="incorrect">Because hot water makes stuff hot. Hot water with warm water makes it and evaporate.</studentAnswer>
+    <studentAnswer id="WA.16b.180.1" accuracy="correct">Because the warm water is less dense so it goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.182.1" accuracy="correct">This happens because hot water is less dense than regular water so the water volume starts to go up or starts to expand.</studentAnswer>
+    <studentAnswer id="WA.16b.187.1" accuracy="incorrect">Because hot water has a lot of density so it goes down.</studentAnswer>
+    <studentAnswer id="WA.16b.194.1" accuracy="incorrect">Because when water is heated water has nowhere else to go besides up so the water goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.195.1" accuracy="incorrect">The hot water heats the thermometer.</studentAnswer>
+    <studentAnswer id="WA.16b.198.1" accuracy="correct">Because heated water is less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.206.1" accuracy="correct">Since the water in the thermometer is heated, it becomes less compact; causing the water level to expand.</studentAnswer>
+    <studentAnswer id="WA.16b.209.1" accuracy="correct">When water is heated the water level goes up because of the density. Less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.210.1" accuracy="correct">Because hot water is less dense than room temperature so it will rise.</studentAnswer>
+    <studentAnswer id="WA.16b.211.1" accuracy="correct">It happens because hot water expands when it is heated.</studentAnswer>
+    <studentAnswer id="WA.16b.214.1" accuracy="incorrect">The water goes down, because it does not take up as much space.</studentAnswer>
+    <studentAnswer id="WA.16b.215.1" accuracy="incorrect">Because if it were a thermometer hot water is hot so it would rise.</studentAnswer>
+    <studentAnswer id="WA.16b.216.1" accuracy="incorrect">The straw was in the water and sucked in some water.</studentAnswer>
+    <studentAnswer id="WA.16b.217.1" accuracy="correct">It happens because it is expanding.</studentAnswer>
+    <studentAnswer id="WA.16b.218.1" accuracy="correct">Because it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.222.1" accuracy="incorrect">Density.</studentAnswer>
+    <studentAnswer id="WA.16b.230.1" accuracy="correct">It goes up because it is less dense than regular water.</studentAnswer>
+    <studentAnswer id="WA.16b.241.1" accuracy="correct">Because the water is less dense so it forces it to expand.</studentAnswer>
+    <studentAnswer id="WA.16b.243.1" accuracy="incorrect">Well it happens by heating it.</studentAnswer>
+    <studentAnswer id="WA.16b.246.1" accuracy="correct">Because the water expands.</studentAnswer>
+    <studentAnswer id="WA.16b.247.1" accuracy="correct">It happens because when water gets hot it expands making the thermometer level to rise.</studentAnswer>
+    <studentAnswer id="WA.16b.254.1" accuracy="correct">The water goes up because it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.256.1" accuracy="correct">It happens because warm water is less dense than cold so when cold goes up hot water goes down.</studentAnswer>
+    <studentAnswer id="WA.16b.261.1" accuracy="correct">The water is heated so the water expands.</studentAnswer>
+    <studentAnswer id="WA.16b.263.1" accuracy="correct">This happens because the heated water is expanding.</studentAnswer>
+    <studentAnswer id="WA.16b.267.1" accuracy="incorrect">When room temperature water is touching hot water it will go up.</studentAnswer>
+    <studentAnswer id="WA.16b.276.1" accuracy="correct">The water expands when heated.</studentAnswer>
+    <studentAnswer id="WA.16b.278.1" accuracy="correct">The water inside expands when the water on the outside is hot.</studentAnswer>
+    <studentAnswer id="WA.16b.279.1" accuracy="correct">This happens because water expands when heated.</studentAnswer>
+    <studentAnswer id="WA.16b.280.1" accuracy="incorrect">Because when you heat something up it goes higher and higher.</studentAnswer>
+    <studentAnswer id="WA.16b.287.1" accuracy="correct">Because when it is in hot water it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.288.1" accuracy="correct">When water is heated it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.300.1" accuracy="incorrect">Because the hotter it is the higher it goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.301.1" accuracy="incorrect">It is like when steam comes out of the dish washer the steam starts going up not down. Because steam is less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.350.1" accuracy="incorrect">Because there is a lot of hot water.</studentAnswer>
+    <studentAnswer id="WA.16b.351.1" accuracy="incorrect">Because it is warm water.</studentAnswer>
+    <studentAnswer id="WA.16b.352.1" accuracy="correct">The water goes up because hot water is less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.356.1" accuracy="incorrect">Because when it is heated the hot or cold water goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.359.1" accuracy="correct">Because the hot water expands.</studentAnswer>
+    <studentAnswer id="WA.16b.360.1" accuracy="correct">The water level goes up because the hot water is less dense so it floats to the top.</studentAnswer>
+    <studentAnswer id="WA.16b.365.1" accuracy="correct">Because hot water expands meaning it floats and that it is less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.368.1" accuracy="correct">Because hot water is less dense and it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.417.1" accuracy="correct">This happens because when the water is heated it expands or gets bigger.</studentAnswer>
+    <studentAnswer id="WA.16b.422.1" accuracy="correct">When water is heated it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.426.1" accuracy="correct">Because the hot water is less dense than room temperature water. The water expands when the thermometer is placed in hot water.</studentAnswer>
+    <studentAnswer id="WA.16b.428.1" accuracy="correct">Because warmth rises and since it is warm water the warmth is trying to get out.</studentAnswer>
+    <studentAnswer id="WA.16b.430.1" accuracy="correct">The hot water expands.</studentAnswer>
+    <studentAnswer id="WA.16b.432.1" accuracy="incorrect">The water turns warm and it grows because warm water is dense so it has to go to the top.</studentAnswer>
+    <studentAnswer id="WA.16b.433.1" accuracy="correct">Because when the water is heated the warmer water is less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.436.1" accuracy="correct">The water expands when heated which means it takes more room.</studentAnswer>
+    <studentAnswer id="WA.16b.437.1" accuracy="correct">Water expands when heated.</studentAnswer>
+    <studentAnswer id="WA.16b.452.1" accuracy="correct">It pushes it up because it expands and pushes it up.</studentAnswer>
+    <studentAnswer id="WA.16b.453.1" accuracy="incorrect">Because there was hot water in the bottle with green in it and hot water can go up from steam.</studentAnswer>
+    <studentAnswer id="WA.16b.459.1" accuracy="incorrect">It is like a thermometer and since the hot water is denser it makes the cold water up because it has to expand.</studentAnswer>
+    <studentAnswer id="WA.16b.460.1" accuracy="correct">Because hot water is less dense so it goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.463.1" accuracy="incorrect">The warm water is denser than the regular water and that makes it to go up.</studentAnswer>
+    <studentAnswer id="WA.16b.467.1" accuracy="correct">When water is heated it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.469.1" accuracy="correct">The volume of the hot water pushes the water.</studentAnswer>
+    <studentAnswer id="WA.16b.487.1" accuracy="correct">Because the molecules are heated and move away from each other.</studentAnswer>
+    <studentAnswer id="WA.16b.500.1" accuracy="correct">The water becomes less dense so it spreads out.</studentAnswer>
+    <studentAnswer id="WA.16b.501.1" accuracy="correct">When the molecules get hot they want to jump around. So the water goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.503.1" accuracy="incorrect">Because the hotness causes it to go up.</studentAnswer>
+    <studentAnswer id="WA.16b.507.1" accuracy="incorrect">Because with a thermometer when it is hotter the temperature goes higher.</studentAnswer>
+    <studentAnswer id="WA.16b.509.1" accuracy="correct">Because when molecules get warm, they want to spread out so the water rises.</studentAnswer>
+    <studentAnswer id="WA.16b.510.1" accuracy="correct">Because when water molecules are warm they like to expand.</studentAnswer>
+    <studentAnswer id="WA.16b.525.1" accuracy="incorrect">Because when you put hot water into room temperature water it will rise up. Because the water in the bottle is cold and not in the bottle is not cold.</studentAnswer>
+    <studentAnswer id="WA.16b.526.1" accuracy="correct">Because the water in the thermometer is room temperature water and hot water is less dense than room temperature water causing it to float or rise.</studentAnswer>
+    <studentAnswer id="WA.16b.529.1" accuracy="correct">It happens because warm water is less dense so it will go up.</studentAnswer>
+    <studentAnswer id="WA.16b.530.1" accuracy="correct">Because the warm water is less dense so it expands.</studentAnswer>
+    <studentAnswer id="WA.16b.559.1" accuracy="correct">Because it is making it expand.</studentAnswer>
+    <studentAnswer id="WA.16b.564.1" accuracy="incorrect">Because when I put it in the water it stays the same.</studentAnswer>
+    <studentAnswer id="WA.16b.566.1" accuracy="incorrect">The hot water is more dense it is getting more dense.</studentAnswer>
+    <studentAnswer id="WA.16b.567.1" accuracy="correct">Because hot water expands.</studentAnswer>
+    <studentAnswer id="WA.16b.569.1" accuracy="correct">When the water in the bottle is heated it goes up because it has no other place to go which means it is less dense which is expanding.</studentAnswer>
+    <studentAnswer id="WA.16b.591.1" accuracy="correct">Because the hot water is less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.596.1" accuracy="incorrect">Because warm water is denser than cold water. When a substance is denser it squeezes up in a small space.</studentAnswer>
+    <studentAnswer id="WA.16b.597.1" accuracy="correct">Because the hot water is less dense than room temperature water and when temperatures get warmer they go up.</studentAnswer>
+    <studentAnswer id="WA.16b.598.1" accuracy="incorrect">Because it is a thermometer and hot water goes up and cold water goes down.</studentAnswer>
+    <studentAnswer id="WA.16b.601.1" accuracy="correct">Because the is so warm that when you put a straw the water goes up.</studentAnswer>
+    <studentAnswer id="WA.16b.604.1" accuracy="incorrect">Because when water is heated it goes up and makes steam.</studentAnswer>
+    <studentAnswer id="WA.16b.607.1" accuracy="incorrect">Hot water is more dense.</studentAnswer>
+    <studentAnswer id="WA.16b.608.1" accuracy="incorrect">Because the water is hot very hot not like cold water.</studentAnswer>
+    <studentAnswer id="WA.16b.629.1" accuracy="correct">Because the hotness shoots it up.</studentAnswer>
+    <studentAnswer id="WA.16b.630.1" accuracy="incorrect">Because hot gives it nowhere else to go.</studentAnswer>
+    <studentAnswer id="WA.16b.632.1" accuracy="correct">Because the atoms spread and make it higher, so the atoms take up more space.</studentAnswer>
+    <studentAnswer id="WA.16b.633.1" accuracy="incorrect">It goes up because it is warm.</studentAnswer>
+    <studentAnswer id="WA.16b.636.1" accuracy="correct">When water gets heated it expands and gets larger.</studentAnswer>
+    <studentAnswer id="WA.16b.637.1" accuracy="correct">Because hot water is less dense.</studentAnswer>
+    <studentAnswer id="WA.16b.638.1" accuracy="correct">Because it has nowhere else to go but up and it expands and takes up more space.</studentAnswer>
+    <studentAnswer id="WA.16b.640.1" accuracy="incorrect">Because it put pressure and it pushed it up it maybe can be surface tension.</studentAnswer>
+    <studentAnswer id="WA.16b.641.1" accuracy="correct">Because hot water is less dense than cold water so it goes up and surface tension.</studentAnswer>
+    <studentAnswer id="WA.16b.642.1" accuracy="correct">Because the water expands.</studentAnswer>
+    <studentAnswer id="WA.16b.643.1" accuracy="correct">This happens because hot water expands which goes higher.</studentAnswer>
+  </studentAnswers>
+</question>

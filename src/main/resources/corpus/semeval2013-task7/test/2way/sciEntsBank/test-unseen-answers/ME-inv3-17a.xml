@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_17a" module="ME">
+  <questionText>Denise made a circuit to light a bulb or run a motor. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. What will happen when she moves the switch to the left?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17a-a1">The bulb will light.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17a.155.1" accuracy="correct">The light bulb will turn on.</studentAnswer>
+    <studentAnswer id="ME.17a.311.1" accuracy="correct">The light bulb will light up.</studentAnswer>
+    <studentAnswer id="ME.17a.323.1" accuracy="correct">When she moves the switch to the left the bulb will light.</studentAnswer>
+    <studentAnswer id="ME.17a.324.1" accuracy="incorrect">It might lose power.</studentAnswer>
+  </studentAnswers>
+</question>

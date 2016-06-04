@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="EV_21" module="EV">
+  <questionText>Ms. Larson's class found the best condition to hatch brine-shrimp eggs: 2 spoons of salt in 200 milliliters of water. The class decided to hatch more eggs. Ms. Larson mixed a new solution using 2 spoons of salt in 200 milliliters of water. Later, she discovered she had used a slightly different size spoon to measure the salt. Even with this different solution, some eggs still hatched. Why did some eggs still hatch?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EV_21-a1">The different salt solution is within the range of tolerance for brine shrimp eggs to hatch.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EV.21.106.1" accuracy="correct">Because some eggs can handle more salt but some eggs cannot handle more salt.</studentAnswer>
+    <studentAnswer id="EV.21.110.1" accuracy="incorrect">If it turns yellow.</studentAnswer>
+    <studentAnswer id="EV.21.111.1" accuracy="incorrect">They hatched because they still put in 2 spoons of salt and 200 milliliters of water.</studentAnswer>
+    <studentAnswer id="EV.21.112.1" accuracy="incorrect">Because not all the eggs would of just died because it is just salt, not poison.</studentAnswer>
+    <studentAnswer id="EV.21.118.1" accuracy="incorrect">Because it was still viable.</studentAnswer>
+    <studentAnswer id="EV.21.121.1" accuracy="correct">Because they can hatch with one to 3 spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.21.124.1" accuracy="incorrect">Because it is supposed to.</studentAnswer>
+    <studentAnswer id="EV.21.125.1" accuracy="incorrect">Brine shrimp like salt.</studentAnswer>
+    <studentAnswer id="EV.21.128.1" accuracy="correct">Some eggs still hatched because brine shrimp are very salt tolerant.</studentAnswer>
+    <studentAnswer id="EV.21.129.1" accuracy="correct">Because it was still in the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.21.130.1" accuracy="incorrect">She did not put that much salt in.</studentAnswer>
+    <studentAnswer id="EV.21.131.1" accuracy="correct">I think some eggs still hatched because they could tolerate that much salt.</studentAnswer>
+    <studentAnswer id="EV.21.132.1" accuracy="correct">Because some could have different tolerances for salt.</studentAnswer>
+    <studentAnswer id="EV.21.133.1" accuracy="correct">The brine shrimp eggs still hatched because brine shrimp's eggs can hatch in an even saltier environment than 2 spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.21.136.1" accuracy="correct">Some had still was the as much as it can handle.</studentAnswer>
+    <studentAnswer id="EV.21.140.1" accuracy="correct">Because it was in the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.21.144.1" accuracy="incorrect">Because, they probably had the right amount to grow.</studentAnswer>
+    <studentAnswer id="EV.21.145.1" accuracy="correct">Because brine shrimp can still live in a little bit more than just 2 spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.21.146.1" accuracy="incorrect">It probably made the process faster.</studentAnswer>
+    <studentAnswer id="EV.21.148.1" accuracy="incorrect">Because there was still salt in the water.</studentAnswer>
+    <studentAnswer id="EV.21.150.1" accuracy="incorrect">Because if there is salt still in the water the brine shrimp might still hatch.</studentAnswer>
+    <studentAnswer id="EV.21.153.1" accuracy="incorrect">It takes I think brine shrimp at least one years to hatch or less.</studentAnswer>
+    <studentAnswer id="EV.21.154.1" accuracy="incorrect">Because the water still has some salinity or salt in it.</studentAnswer>
+    <studentAnswer id="EV.21.158.1" accuracy="incorrect">Because of the water and salt mixed in still.</studentAnswer>
+    <studentAnswer id="EV.21.159.1" accuracy="correct">Because they can probably handle more salt than others.</studentAnswer>
+    <studentAnswer id="EV.21.163.1" accuracy="incorrect">Because she only put 2 spoons of salt and some eggs hatched because it was not the right amount of salt.</studentAnswer>
+    <studentAnswer id="EV.21.171.1" accuracy="correct">Slightly mean only a little more or less. Since it was only a little more or less they still hatched.</studentAnswer>
+    <studentAnswer id="EV.21.172.1" accuracy="incorrect">Maybe because it is still 2 spoons of salt. Maybe it worked because it still has 2 spoons of salt but a little bit more because the spoon was probably bigger.</studentAnswer>
+    <studentAnswer id="EV.21.180.1" accuracy="incorrect">Because my class did a experiment and put less spoons of salt, but something still hatched but not as much as 2 spoons.</studentAnswer>
+    <studentAnswer id="EV.21.182.1" accuracy="incorrect">Some eggs still hatched because the most salt the better.</studentAnswer>
+    <studentAnswer id="EV.21.183.1" accuracy="incorrect">Because, they put water and a lot of salt, so they will hatch more and more.</studentAnswer>
+    <studentAnswer id="EV.21.185.1" accuracy="incorrect">Eggs hatched because the eggs from the first time hatched when Mrs. Larson added more salt in a different size spoon it was too much salt. That is why some of them did not hatch.</studentAnswer>
+    <studentAnswer id="EV.21.194.1" accuracy="incorrect">Some eggs still hatched because they did more and because they did it right.</studentAnswer>
+    <studentAnswer id="EV.21.195.1" accuracy="incorrect">There was probably just a salt in it.</studentAnswer>
+    <studentAnswer id="EV.21.196.1" accuracy="incorrect">Because of the leftover salt. And egg inside. And she probably put a lot of salt.</studentAnswer>
+    <studentAnswer id="EV.21.206.1" accuracy="correct">They hatched because they had a more optimum amount of salt.</studentAnswer>
+    <studentAnswer id="EV.21.208.1" accuracy="incorrect">The size of the spoon of salt.</studentAnswer>
+    <studentAnswer id="EV.21.211.1" accuracy="incorrect">Maybe she did not add extra salt.</studentAnswer>
+    <studentAnswer id="EV.21.214.1" accuracy="incorrect">Because of the salt.</studentAnswer>
+    <studentAnswer id="EV.21.219.1" accuracy="incorrect">Some eggs hatched because you do not need a certain amount of spoons of salt unless there is not too much.</studentAnswer>
+    <studentAnswer id="EV.21.222.1" accuracy="correct">Some eggs still hatched because those eggs can tolerate that much salt and water.</studentAnswer>
+    <studentAnswer id="EV.21.226.1" accuracy="incorrect">Because brine shrimp hatch in saltwater, and because she put salt in the water they will hatch.</studentAnswer>
+    <studentAnswer id="EV.21.241.1" accuracy="incorrect">Because the spoon could have been smaller than the other spoon.</studentAnswer>
+    <studentAnswer id="EV.21.243.1" accuracy="correct">Some eggs liked the environment.</studentAnswer>
+    <studentAnswer id="EV.21.244.1" accuracy="correct">Since the 2 spoons with the new spoon was still in the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.21.245.1" accuracy="incorrect">Some eggs still hatched, because of the salt.</studentAnswer>
+    <studentAnswer id="EV.21.250.1" accuracy="incorrect">The eggs hatched since the water was not saturated.</studentAnswer>
+    <studentAnswer id="EV.21.254.1" accuracy="incorrect">She still put salt in the cups and she did not.</studentAnswer>
+    <studentAnswer id="EV.21.255.1" accuracy="correct">The water must have dissolved some of the salt and the amount of salt that was left over must have been enough for the brine shrimp eggs to hatch and to tolerate.</studentAnswer>
+    <studentAnswer id="EV.21.256.1" accuracy="correct">Because it is just a little more than before.</studentAnswer>
+    <studentAnswer id="EV.21.263.1" accuracy="incorrect">Because maybe she only put one spoon of salt and it was the same amount of salt of 2 spoons.</studentAnswer>
+    <studentAnswer id="EV.21.264.1" accuracy="incorrect">Because even though she used a different spoon the salt amount might have changed slightly.</studentAnswer>
+    <studentAnswer id="EV.21.265.1" accuracy="incorrect">Some eggs still hatched because it was still in saltwater.</studentAnswer>
+    <studentAnswer id="EV.21.276.1" accuracy="incorrect">She put too much water or too much salt.</studentAnswer>
+    <studentAnswer id="EV.21.278.1" accuracy="incorrect">Because it still had salt in it and brine shrimp need it.</studentAnswer>
+    <studentAnswer id="EV.21.279.1" accuracy="incorrect">Because the water diluted some of the salt.</studentAnswer>
+    <studentAnswer id="EV.21.288.1" accuracy="correct">Because the amount of salt is still in the brine shrimp's range of tolerance, one spoon of milliliters to 2 spoons of milliliters.</studentAnswer>
+    <studentAnswer id="EV.21.289.1" accuracy="incorrect">Because there was probably too much salt in one place and just right in another.</studentAnswer>
+    <studentAnswer id="EV.21.298.1" accuracy="incorrect">They hatched because the eggs had the right amount of water and the right amount of water.</studentAnswer>
+    <studentAnswer id="EV.21.301.1" accuracy="correct">Because it still in the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.21.316.1" accuracy="correct">Because it was close to the optimum condition so that way some still hatched.</studentAnswer>
+    <studentAnswer id="EV.21.317.1" accuracy="correct">Some eggs still hatched because maybe the brine shrimp liked that amount of salt.</studentAnswer>
+    <studentAnswer id="EV.21.326.1" accuracy="incorrect">Some eggs hatch because brine shrimp live in saltwater so some of them hatch because of the saltwater in it.</studentAnswer>
+    <studentAnswer id="EV.21.331.1" accuracy="incorrect">Some eggs hatched because the optimum condition was 2 spoons of salt. She added 2 spoons of salt but she used a different sized spoon.</studentAnswer>
+    <studentAnswer id="EV.21.418.1" accuracy="incorrect">She used more salt than she wanted to.</studentAnswer>
+    <studentAnswer id="EV.21.419.1" accuracy="correct">Because the range of tolerance of salt is 2 spoons to 4 or 5 with that size spoons.</studentAnswer>
+    <studentAnswer id="EV.21.423.1" accuracy="correct">As long as there is the right or more amount of salt, eggs will hatch.</studentAnswer>
+    <studentAnswer id="EV.21.425.1" accuracy="incorrect">Because there was still salt in there and if there is salt then they will hatch.</studentAnswer>
+    <studentAnswer id="EV.21.427.1" accuracy="correct">Because 2 spoons of salt was the best and just a little would not hurt the eggs. It was like our experiment, though they had different salinity levels they all hatched, except for cup 0.</studentAnswer>
+    <studentAnswer id="EV.21.431.1" accuracy="incorrect">Because it was a little past the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.21.433.1" accuracy="incorrect">More eggs need more salt.</studentAnswer>
+    <studentAnswer id="EV.21.436.1" accuracy="incorrect">The eggs still hatched because she still put the salt but with a different amount.</studentAnswer>
+    <studentAnswer id="EV.21.437.1" accuracy="incorrect">Because salty water can hatch shrimp eggs, and maybe if there is too much salt the eggs might not even hatch.</studentAnswer>
+    <studentAnswer id="EV.21.444.1" accuracy="incorrect">Because there was salt and some eggs are viable.</studentAnswer>
+    <studentAnswer id="EV.21.446.1" accuracy="incorrect">She had just added a little more salt which she might have not tested.</studentAnswer>
+    <studentAnswer id="EV.21.523.1" accuracy="correct">Because some shrimp have a bigger range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.21.524.1" accuracy="correct">The water was all in the same range and the water was the same so they could of hatched.</studentAnswer>
+    <studentAnswer id="EV.21.526.1" accuracy="correct">The eggs do have a tolerance of hatching. Not all will hatch because of the different solution in the water.</studentAnswer>
+    <studentAnswer id="EV.21.527.1" accuracy="incorrect">Because the spoons were just a little bit different. One was a little bit bigger than the other. Because they have to live in saltwater or they would die.</studentAnswer>
+    <studentAnswer id="EV.21.529.1" accuracy="correct">Because that spoon size was in the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.21.530.1" accuracy="correct">Maybe because the salt amount was maybe in its range of tolerance of salt. So only a little bit hatched.</studentAnswer>
+    <studentAnswer id="EV.21.531.1" accuracy="incorrect">Because maybe she put too much or too little.</studentAnswer>
+    <studentAnswer id="EV.21.532.1" accuracy="incorrect">I think that some of the eggs will hatch and some are not.</studentAnswer>
+    <studentAnswer id="EV.21.533.1" accuracy="incorrect">Because he put more salt in one so some did not hatch.</studentAnswer>
+    <studentAnswer id="EV.21.534.1" accuracy="incorrect">Because even if she used a bigger size spoon she still used saltwater.</studentAnswer>
+    <studentAnswer id="EV.21.535.1" accuracy="correct">Well probably some brine shrimp have more range of tolerance of salt.</studentAnswer>
+    <studentAnswer id="EV.21.537.1" accuracy="incorrect">Because the spoons might have just been twice the size. And instead of 2 spoons it is 4 if it is double.</studentAnswer>
+    <studentAnswer id="EV.21.541.1" accuracy="incorrect">Because the spoons were just a little bit different one was a little bit bigger than the other. Because they have to live in saltwater or they will die.</studentAnswer>
+    <studentAnswer id="EV.21.542.1" accuracy="correct">The salt was all in the same range and so was the water.</studentAnswer>
+    <studentAnswer id="EV.21.543.1" accuracy="incorrect">The spoon might have been the twice of the size.</studentAnswer>
+    <studentAnswer id="EV.21.547.1" accuracy="incorrect">Because there is still salt in the cups.</studentAnswer>
+    <studentAnswer id="EV.21.548.1" accuracy="incorrect">Not a lot of salt.</studentAnswer>
+    <studentAnswer id="EV.21.549.1" accuracy="incorrect">If she put 100 milliliters of salt in the brine shrimp will hatch or not.</studentAnswer>
+    <studentAnswer id="EV.21.632.1" accuracy="incorrect">As long as you do not use too much of a different size.</studentAnswer>
+    <studentAnswer id="EV.21.639.1" accuracy="correct">Some eggs can still hatch because it can still hatch even with more salt.</studentAnswer>
+    <studentAnswer id="EV.21.640.1" accuracy="incorrect">Because the spoon was smaller.</studentAnswer>
+    <studentAnswer id="EV.21.642.1" accuracy="incorrect">Because the water would still have some salt in it. So the brine shrimp hatched because they are attracted to salt.</studentAnswer>
+    <studentAnswer id="EV.21.643.1" accuracy="incorrect">Some of the eggs might have hatched because of the salt and brine shrimp live in salty water, saltier than the ocean.</studentAnswer>
+    <studentAnswer id="EV.21.646.1" accuracy="incorrect">Because maybe she did use the right one later. How about the spoon was bigger that is why.</studentAnswer>
+    <studentAnswer id="EV.21.647.1" accuracy="incorrect">Some eggs hatched because there was salt in the water. Salt helps brine shrimp hatch.</studentAnswer>
+  </studentAnswers>
+</question>

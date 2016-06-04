@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_6b" module="ME">
+  <questionText>Look at the diagram of a circuit at the right. Will the motor run? Why?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_6b-a1">The circuit is not complete. The electrical pathway is broken.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.6b.107.1" accuracy="correct">I choose no because the wires are not connecting.</studentAnswer>
+    <studentAnswer id="ME.6b.148.1" accuracy="correct">It does not make a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.176.1" accuracy="correct">I chose this answer because they are missing a wire.</studentAnswer>
+    <studentAnswer id="ME.6b.195.1" accuracy="correct">The circuit is open.</studentAnswer>
+  </studentAnswers>
+</question>

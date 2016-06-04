@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_46b" module="MX">
+  <questionText>Nigel made solutions in the bottles as shown below. Solution A was 2 spoons solute in 50 milliliters water and was clear with no material on the bottom. Solution B was 4 spoons solute in 100 milliliters water and was clear with no material on the bottom. Nigel took 50 milliliters of solution from bottle A and put it in cup A and 50 milliliters of solution from bottle B and put it into cup B. He put the cups on each side of the balance. Which picture shows what would happen? A is heavier than B, B is heavier than A, (A and B are the same weight). Explain your choice.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_46b-a1">The solutions have the same concentration (2 spoons in 50 milliliters is the same as 4 spoons in 100 milliliters) so the mass would also be the same.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.46b.385.1" accuracy="incorrect">Because they are equally concentrated and they both have some of water.</studentAnswer>
+    <studentAnswer id="MX.46b.399.1" accuracy="correct">There is 2 times as much of the same solution in B as in A therefore equal volumes would weigh the same.</studentAnswer>
+    <studentAnswer id="MX.46b.455.1" accuracy="incorrect">Taking 50 milliliters from solution B would equal solution A.</studentAnswer>
+    <studentAnswer id="MX.46b.525.1" accuracy="incorrect">Solution B is just double solution A.</studentAnswer>
+  </studentAnswers>
+</question>

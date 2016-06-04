@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MS_39" module="MS">
+  <questionText>Why is it important to use a standard unit when making a measurement?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_39-a1">So people know exactly what the measurement means. A standard is necessary so everyone measures using the same unit and everyone gets the same measurement.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.39.105.1" accuracy="correct">You might get more medicine than you needed.</studentAnswer>
+    <studentAnswer id="MS.39.107.1" accuracy="correct">Because then the tallies that you use will not make sense.</studentAnswer>
+    <studentAnswer id="MS.39.110.1" accuracy="correct">They use it all around the world. And it is important.</studentAnswer>
+    <studentAnswer id="MS.39.113.1" accuracy="correct">If you do not use a standard unit you might not get the right answer you may not even get one that is close.</studentAnswer>
+    <studentAnswer id="MS.39.141.1" accuracy="incorrect">Last time we were using our hand to measure the table and our hand we small and some of our kids was big.</studentAnswer>
+    <studentAnswer id="MS.39.144.1" accuracy="correct">If you do not use one you and your partner will not get accurate answers.</studentAnswer>
+    <studentAnswer id="MS.39.153.1" accuracy="incorrect">So you can find the actual answer to a question that you have.</studentAnswer>
+    <studentAnswer id="MS.39.172.1" accuracy="correct">It is important to use a standard unit of measurement because if you do not it will not be correct.</studentAnswer>
+    <studentAnswer id="MS.39.174.1" accuracy="incorrect">Because if you do not you will get the wrong measurement.</studentAnswer>
+    <studentAnswer id="MS.39.190.1" accuracy="correct">Because if you do not use it you may get the wrong answer.</studentAnswer>
+    <studentAnswer id="MS.39.276.1" accuracy="incorrect">We use standard units because if somebody makes bottles of water the put at the bottom how many liters it is.</studentAnswer>
+    <studentAnswer id="MS.39.278.1" accuracy="correct">So everyone would get the same answers. It is the same for everybody.</studentAnswer>
+    <studentAnswer id="MS.39.294.1" accuracy="correct">I think because if we do not use a standard unit we would get the answer wrong.</studentAnswer>
+    <studentAnswer id="MS.39.311.1" accuracy="correct">Because it will help a lot. It will never change. It is the same all over the world too.</studentAnswer>
+    <studentAnswer id="MS.39.322.1" accuracy="incorrect">You can make it too long or too short if you do not do it.</studentAnswer>
+    <studentAnswer id="MS.39.347.1" accuracy="incorrect">So you can get the measurement the same thing as everyone else.</studentAnswer>
+    <studentAnswer id="MS.39.354.1" accuracy="incorrect">So you can get the best answers. You need it because you will end up with 2 different answers.</studentAnswer>
+    <studentAnswer id="MS.39.381.1" accuracy="correct">Because if you do not use a standard you get the answer wrong.</studentAnswer>
+    <studentAnswer id="MS.39.387.1" accuracy="correct">So everybody agrees on it.</studentAnswer>
+    <studentAnswer id="MS.39.393.1" accuracy="incorrect">Because you might not know how much it is!</studentAnswer>
+    <studentAnswer id="MS.39.400.1" accuracy="incorrect">Because if you had no standard of measurement you could not measure anything.</studentAnswer>
+    <studentAnswer id="MS.39.417.1" accuracy="correct">Because if you use paperclips that would be wrong because they come in different sizes. And if you use your hand it will also be wrong because you hand could be big or small.</studentAnswer>
+    <studentAnswer id="MS.39.420.1" accuracy="correct">So you get correct measurements.</studentAnswer>
+    <studentAnswer id="MS.39.435.1" accuracy="incorrect">Because it is better using it so you will not get it wrong.</studentAnswer>
+    <studentAnswer id="MS.39.463.1" accuracy="incorrect">Because if you do not get the right answer. Because we are in the class. And we might in the same group in the class.</studentAnswer>
+    <studentAnswer id="MS.39.486.1" accuracy="incorrect">Because if you do not know how many to put.</studentAnswer>
+    <studentAnswer id="MS.39.496.1" accuracy="incorrect">Because if you do not use it will not be right.</studentAnswer>
+    <studentAnswer id="MS.39.499.1" accuracy="correct">If you do not they would know if you are talking centimeters, liters, milliliters, meters, kilograms, or grams.</studentAnswer>
+    <studentAnswer id="MS.39.503.1" accuracy="incorrect">Because you will learn metric unit faster.</studentAnswer>
+    <studentAnswer id="MS.39.521.1" accuracy="correct">So others know what you mean.</studentAnswer>
+    <studentAnswer id="MS.39.523.1" accuracy="incorrect">Well you cannot use straws.</studentAnswer>
+    <studentAnswer id="MS.39.532.1" accuracy="incorrect">So others will know.</studentAnswer>
+    <studentAnswer id="MS.39.566.1" accuracy="incorrect">So everybody get it right or get the same answer.</studentAnswer>
+    <studentAnswer id="MS.39.592.1" accuracy="incorrect">So that you can make an exact and accurate measurement.</studentAnswer>
+    <studentAnswer id="MS.39.595.1" accuracy="incorrect">Because if you used vials would be different sizes.</studentAnswer>
+    <studentAnswer id="MS.39.607.1" accuracy="correct">We use a standard unit so we do not get the measurement worth.</studentAnswer>
+  </studentAnswers>
+</question>

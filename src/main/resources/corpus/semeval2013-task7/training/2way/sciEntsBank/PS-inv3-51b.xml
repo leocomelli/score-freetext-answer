@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="PS_51b" module="PS">
+  <questionText>Katie got a guitar for her birthday. She experimented with the strings and found she could change their sounds. Katie also discovered that when she pressed down on a string with her finger, making the string shorter, the sound again changed. Describe how the sound was different when the string was shortened.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_51b-a1">When the string was shorter, the pitch was higher.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.51b.101.1" accuracy="incorrect">It will not make loud pluck like the other strings.</studentAnswer>
+    <studentAnswer id="PS.51b.107.1" accuracy="incorrect">If it was shorter it would have a low sound.</studentAnswer>
+    <studentAnswer id="PS.51b.114.1" accuracy="incorrect">When you pluck the first string it makes a low pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.118.1" accuracy="incorrect">At first it would make noise slower than the shorter one because it would be shorter noise.</studentAnswer>
+    <studentAnswer id="PS.51b.138.1" accuracy="correct">It was a higher pitch!</studentAnswer>
+    <studentAnswer id="PS.51b.145.1" accuracy="correct">Which side has more string is a lower pitch. Whichever side has more string it has a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.154.1" accuracy="correct">Because when you give it less room to vibrate it makes a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.171.1" accuracy="correct">It got a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.176.1" accuracy="correct">It is a high pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.183.1" accuracy="correct">A bigger string makes a lower pitch and a little string would have a high pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.191.1" accuracy="correct">It would make a high pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.195.1" accuracy="correct">It is going to be higher.</studentAnswer>
+    <studentAnswer id="PS.51b.212.1" accuracy="incorrect">When it vibrates it goes so fast but it hits the string.</studentAnswer>
+    <studentAnswer id="PS.51b.223.1" accuracy="correct">The pitch would be higher because the vibrations do not travel as long.</studentAnswer>
+    <studentAnswer id="PS.51b.230.1" accuracy="correct">It was tighter so it made a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.244.1" accuracy="incorrect">When it is shortened the string is not that long so it makes a different sound.</studentAnswer>
+    <studentAnswer id="PS.51b.261.1" accuracy="correct">It gets higher when it is short and lower when it is longer.</studentAnswer>
+    <studentAnswer id="PS.51b.313.1" accuracy="correct">It got shorter and shorter so it was higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.317.1" accuracy="incorrect">The sound was lower. It had more room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.51b.334.1" accuracy="correct">It would be a High pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.391.1" accuracy="incorrect">The string made a low pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.401.1" accuracy="correct">When kate shortened the string that string would have a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.452.1" accuracy="correct">It got higher.</studentAnswer>
+    <studentAnswer id="PS.51b.455.1" accuracy="correct">The sound had a higher pitch because it had faster vibrations.</studentAnswer>
+    <studentAnswer id="PS.51b.464.1" accuracy="incorrect">I think the string would be tighter.</studentAnswer>
+    <studentAnswer id="PS.51b.486.1" accuracy="incorrect">It turns really really loud.</studentAnswer>
+    <studentAnswer id="PS.51b.495.1" accuracy="correct">It sounded high.</studentAnswer>
+    <studentAnswer id="PS.51b.524.1" accuracy="correct">The shorter the the higher the pitch because it less to travel through.</studentAnswer>
+    <studentAnswer id="PS.51b.531.1" accuracy="correct">And the shorter the string also the higher pitch it makes.</studentAnswer>
+    <studentAnswer id="PS.51b.539.1" accuracy="correct">The shorter the string the higher the sound.</studentAnswer>
+    <studentAnswer id="PS.51b.593.1" accuracy="incorrect">When you make the string small the volume is louder.</studentAnswer>
+    <studentAnswer id="PS.51b.602.1" accuracy="incorrect">It will have a lower sound than when you let go.</studentAnswer>
+    <studentAnswer id="PS.51b.626.1" accuracy="incorrect">The sound was lower.</studentAnswer>
+    <studentAnswer id="PS.51b.641.1" accuracy="incorrect">When you pull your string it makes a sound.</studentAnswer>
+    <studentAnswer id="PS.51b.643.1" accuracy="correct">IT High When it Shorter.</studentAnswer>
+  </studentAnswers>
+</question>

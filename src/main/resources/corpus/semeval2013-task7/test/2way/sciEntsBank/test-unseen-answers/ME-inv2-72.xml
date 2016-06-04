@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_72" module="ME">
+  <questionText>Only one circuit below will light the bulb. Which one will work? Why is that the only circuit that will work?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_72-a1">That circuit is the only circuit that uses all of the correct contact points.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.72.115.1" accuracy="correct">One wire needs to be touching the bottom and you can put another wire or battery on the side or the other way around. In this picture a wire is touching the bottom and the D-cell is touching the side.</studentAnswer>
+    <studentAnswer id="ME.72.189.1" accuracy="correct">It is because the wire is touching the right part of the bulb. The electricity is flowing.</studentAnswer>
+    <studentAnswer id="ME.72.212.1" accuracy="incorrect">The only circuit that will work is A.</studentAnswer>
+    <studentAnswer id="ME.72.241.1" accuracy="correct">The wire is on the D-cell are on the light bulb.</studentAnswer>
+  </studentAnswers>
+</question>

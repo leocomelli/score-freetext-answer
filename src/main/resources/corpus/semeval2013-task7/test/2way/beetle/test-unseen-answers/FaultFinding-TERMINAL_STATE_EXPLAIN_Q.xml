@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="TERMINAL_STATE_EXPLAIN_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>Why do you think those terminals and the negative battery terminal are in the same state?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer133" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS1">Terminals 1, 2 and 3 are connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer134" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS2">Terminals 1, 2 and 3 are not separated from the negative battery terminal by a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer135" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS3">Terminals 1, 2 and 3 are not connected to the positive battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer136" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS4">Terminals 1, 2 and 3 are separated from the positive battery terminal by a gap</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="2" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj8-l1.qa162" accuracy="correct">because they are connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj9-l1.qa132" accuracy="incorrect">1, 2, and 3 have 0 volts. The negative battery terminal has 0 volts.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj9-l1.qa134" accuracy="incorrect">1, 2, and 3 show 0 volts.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer135" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj13-l1.qa157" accuracy="correct">because they are not connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj14-l1.qa154" accuracy="incorrect">Because there is a gap caused by damaged bulb B.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj24-l1.qa148" accuracy="incorrect">they are zero</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj26-l1.qa166" accuracy="incorrect">a terminal is connected to the negative</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj31-l1.qa143" accuracy="incorrect">they are on the other side of the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj36-l1.qa152" accuracy="incorrect">1 2 and 3 are on the negative side</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj42-l1.qa149" accuracy="incorrect">The path is not closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj46-l1.qa151" accuracy="incorrect">a connected to negative</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj47-l1.qa167" accuracy="incorrect">They are closest to each other</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb12-l1.qa122" accuracy="incorrect">yes</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb13-l1.qa119" accuracy="incorrect">Because the other side of the terminal is 1.5 volts.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb27-l1.qa117" accuracy="incorrect">because the path in the circuit to the positive battery terminal is disrupted by bulb B</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb32-l1.qa121" accuracy="incorrect">Because they all read as not receiving electricity from the negative terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb37-l1.qa117" accuracy="incorrect">There is a gap between the negative and positive due to Blub B</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb42-l1.qa120" accuracy="incorrect">because their voltages are 0, indicating there is no difference between the states</studentAnswer>
+  </studentAnswers>
+</question>

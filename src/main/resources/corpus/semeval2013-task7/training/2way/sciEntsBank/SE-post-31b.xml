@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_31b" module="SE">
+  <questionText>Julie and David each built a solar water heater. Both solar water heaters were 10 centimeters x 10 centimeters x 30 centimeters. Both water heaters were painted black on the inside bottom and filled to the top with 3 liters of room temperature water. Both water heaters were set in the sun. They checked the temperatures every 5 minutes and made the table below. Which box did Julie build, A or B? What evidence supports your answer?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_31b-a1">A. The water in Julie's heater got hotter faster (or had a greater temperature change in 20 minutes). The collector in heater A has the greater surface area so the water in A would get hotter faster than the water in B.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.31b.105.1" accuracy="correct">A. Because it is larger. B is very skinny.</studentAnswer>
+    <studentAnswer id="SE.31b.118.1" accuracy="correct">A. Box A got hotter because the temperature in the graph helped me decide.</studentAnswer>
+    <studentAnswer id="SE.31b.126.1" accuracy="correct">A. Her box got the hottest so it had to be A. It had to be A because it was laying down and the sun could get in it more faster than David's.</studentAnswer>
+    <studentAnswer id="SE.31b.129.1" accuracy="incorrect">A. The results help me find this out.</studentAnswer>
+    <studentAnswer id="SE.31b.139.1" accuracy="correct">A. Julie's box had more black so the box was hotter because the more black the more the heat the black absorb. So that is why I chose Julie's because in my graph hers was the highest.</studentAnswer>
+    <studentAnswer id="SE.31b.150.1" accuracy="incorrect">A. I looked at the chart.</studentAnswer>
+    <studentAnswer id="SE.31b.160.1" accuracy="correct">A. It has higher results and her box is long and of course skinny.</studentAnswer>
+    <studentAnswer id="SE.31b.191.1" accuracy="correct">A. Solar water heater A was painted more black so that one got hotter.</studentAnswer>
+    <studentAnswer id="SE.31b.250.1" accuracy="incorrect">Both. They are both have the same centimeters but A is down and B is up so A and B are the same but different.</studentAnswer>
+    <studentAnswer id="SE.31b.257.1" accuracy="correct">A. The box had a bigger black spot to hold and attract more heat.</studentAnswer>
+    <studentAnswer id="SE.31b.258.1" accuracy="correct">A. Because more heat would go into the small box than the long big box.</studentAnswer>
+    <studentAnswer id="SE.31b.265.1" accuracy="incorrect">A. I think Julie is A because when first temperature. I did her first so I think she is A.</studentAnswer>
+    <studentAnswer id="SE.31b.314.1" accuracy="incorrect">B. Because Julie's has bigger numbers in the chart and letter B looks bigger but with the same amount of everything.</studentAnswer>
+    <studentAnswer id="SE.31b.315.1" accuracy="correct">A. A because black is shown more on the bottom and so the black absorbed the heat.</studentAnswer>
+    <studentAnswer id="SE.31b.320.1" accuracy="incorrect">B. Because his temperature is more taller than David because they are different by how they are.</studentAnswer>
+    <studentAnswer id="SE.31b.331.1" accuracy="incorrect">B. Because B is more taller and it has a smaller top and it is not that extended like A. A is a transfer rate of heat. B preserves more solar energy.</studentAnswer>
+    <studentAnswer id="SE.31b.393.1" accuracy="incorrect">A. Water can heat up faster in a wide tank because the water is not deep. Julie has the hottest degree Celsius.</studentAnswer>
+    <studentAnswer id="SE.31b.405.1" accuracy="correct">A. Box A is laid horizontally. The sun is hitting mostly the top. Box A has a bigger top than box B. Thus making box A hotter.</studentAnswer>
+    <studentAnswer id="SE.31b.406.1" accuracy="correct">A. A is set flat down on the ground spreading the water around and it has a larger black space which will absorb more heat heating the water faster.</studentAnswer>
+    <studentAnswer id="SE.31b.407.1" accuracy="correct">A. I choose A because it heated up faster and was spread out so it heated up faster.</studentAnswer>
+    <studentAnswer id="SE.31b.430.1" accuracy="correct">A. Since more of hers were on the ground on something dark it would absorb more heat because dark colors absorb more heat.</studentAnswer>
+    <studentAnswer id="SE.31b.443.1" accuracy="correct">A. The evidence that supports my answer is A box because with a long section colored black, the solar heater would absorb more heat and the temperature under Julie's name because the temperature is hotter than David's.</studentAnswer>
+    <studentAnswer id="SE.31b.492.1" accuracy="correct">A. Because her box got the highest temperature. And it had more room to heat it up.</studentAnswer>
+    <studentAnswer id="SE.31b.494.1" accuracy="correct">A. The evidence that supports my answer is that box A had more black in it and the sun would absorb box A more.</studentAnswer>
+    <studentAnswer id="SE.31b.521.1" accuracy="correct">A. I picked A because the inside had more black space.</studentAnswer>
+    <studentAnswer id="SE.31b.525.1" accuracy="correct">A. Because there is more black tarp and under Julie it has higher temperatures. And more black heats up faster so Julie's is A.</studentAnswer>
+    <studentAnswer id="SE.31b.529.1" accuracy="incorrect">A. Because the solar energy meets the collector sooner because it is shorter, so it heats up quicker.</studentAnswer>
+    <studentAnswer id="SE.31b.531.1" accuracy="correct">A. Julie's temperature went higher than David because she has more square units of solar collectors.</studentAnswer>
+    <studentAnswer id="SE.31b.536.1" accuracy="correct">A. Well the more area black covers the hotter it will get. Just like in the table. Since A covers more I thought that A would be a perfect match with the table.</studentAnswer>
+    <studentAnswer id="SE.31b.548.1" accuracy="correct">A. Because the more black tarp you have, the hotter it is going to get.</studentAnswer>
+    <studentAnswer id="SE.31b.574.1" accuracy="correct">A. Because the bigger box heats up fast and Julie's temperatures were high.</studentAnswer>
+    <studentAnswer id="SE.31b.594.1" accuracy="correct">A. Because she had higher temperatures than David.</studentAnswer>
+    <studentAnswer id="SE.31b.597.1" accuracy="correct">A. The evidence that supports my answer is the chart or table. I looked at both the temperatures and solar water heaters and I decide, using the chart or table, that A is Julie's.</studentAnswer>
+    <studentAnswer id="SE.31b.608.1" accuracy="correct">A. Julie made box A because her temperatures were high. Box A has more black than box B. So box A will absorb more heat since it has more black.</studentAnswer>
+    <studentAnswer id="SE.31b.610.1" accuracy="correct">A. It is box A because the box has more black than the other box and it absorbs the sun is heat.</studentAnswer>
+    <studentAnswer id="SE.31b.611.1" accuracy="correct">A. A because it has more black painted than in box B so A absorbs more than B.</studentAnswer>
+  </studentAnswers>
+</question>

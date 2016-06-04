@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="SE_22b" module="SE">
+  <questionText>Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. What does the graph tell you about the effect of using blue versus red collectors?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_22b-a1">Solar water heaters with blue collectors heat up faster than solar water heaters with red collectors.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.22b.112.1" accuracy="correct">Blue is very attracted to the heat whether it is covered or not. Red is not attracted.</studentAnswer>
+    <studentAnswer id="SE.22b.124.1" accuracy="correct">Blue will get hotter because it is a dark color and red is not.</studentAnswer>
+    <studentAnswer id="SE.22b.127.1" accuracy="correct">The blue absorbs most of the sun and red did not absorb most of the sun.</studentAnswer>
+    <studentAnswer id="SE.22b.128.1" accuracy="incorrect">That blue it is more dark than red.</studentAnswer>
+    <studentAnswer id="SE.22b.129.1" accuracy="correct">The blue covered got hotter and in the same amount of time than the red.</studentAnswer>
+    <studentAnswer id="SE.22b.139.1" accuracy="correct">Blue versus are warmer than red versus.</studentAnswer>
+    <studentAnswer id="SE.22b.141.1" accuracy="correct">Blue is more darker so it absorbs more heat and that is why it is bigger.</studentAnswer>
+    <studentAnswer id="SE.22b.148.1" accuracy="correct">It warms better.</studentAnswer>
+    <studentAnswer id="SE.22b.149.1" accuracy="correct">That the blue will heat up faster than the red because the blue is darker.</studentAnswer>
+    <studentAnswer id="SE.22b.151.1" accuracy="incorrect">Because the blue uncovered and the red covered is like the same like the blue uncovered.</studentAnswer>
+    <studentAnswer id="SE.22b.155.1" accuracy="incorrect">That the blue might be darker than the red.</studentAnswer>
+    <studentAnswer id="SE.22b.164.1" accuracy="incorrect">Because blue uncovered does not attract that much heat like the red one does.</studentAnswer>
+    <studentAnswer id="SE.22b.175.1" accuracy="correct">The blue collects more heat, because it is more darker than red.</studentAnswer>
+    <studentAnswer id="SE.22b.177.1" accuracy="correct">The blue color is kind of a color black and darker than red so that why the blue heat more than the red one.</studentAnswer>
+    <studentAnswer id="SE.22b.179.1" accuracy="correct">The blue gets hotter than the red maybe because the blue is darker than the red.</studentAnswer>
+    <studentAnswer id="SE.22b.242.1" accuracy="correct">The blue gathers more heat than the red.</studentAnswer>
+    <studentAnswer id="SE.22b.254.1" accuracy="correct">Blue heats water better.</studentAnswer>
+    <studentAnswer id="SE.22b.311.1" accuracy="incorrect">It is more better than using other colors.</studentAnswer>
+    <studentAnswer id="SE.22b.313.1" accuracy="correct">If a color is dark it will heat up more than a light one so blue was dark red was light.</studentAnswer>
+    <studentAnswer id="SE.22b.319.1" accuracy="correct">That heat up more fast than other.</studentAnswer>
+    <studentAnswer id="SE.22b.325.1" accuracy="correct">It tells me that the blue is winning and not the red.</studentAnswer>
+    <studentAnswer id="SE.22b.331.1" accuracy="correct">The blue heats up more than the red by just a little bit, so that tells the blue collects more solar energy.</studentAnswer>
+    <studentAnswer id="SE.22b.341.1" accuracy="incorrect">That blue is really high and that the red does not cover nothing so that means he is last.</studentAnswer>
+    <studentAnswer id="SE.22b.393.1" accuracy="correct">Blue absorb more heat than the red.</studentAnswer>
+    <studentAnswer id="SE.22b.396.1" accuracy="correct">That blue must be darker soil will absorb more than the red.</studentAnswer>
+    <studentAnswer id="SE.22b.398.1" accuracy="correct">The blue collectors had the highest effect it heated the most and the fastest.</studentAnswer>
+    <studentAnswer id="SE.22b.402.1" accuracy="correct">The graph tells me that blue will heat up faster than red, probably because blue is darker, which attracts heat faster.</studentAnswer>
+    <studentAnswer id="SE.22b.419.1" accuracy="correct">It tells me that blue heats the water more.</studentAnswer>
+    <studentAnswer id="SE.22b.434.1" accuracy="correct">It tells me that the blue collectors heat up faster than the blue collectors.</studentAnswer>
+    <studentAnswer id="SE.22b.439.1" accuracy="correct">The effect of using a blue cover can heat it up faster than red. Blue is also darker than red.</studentAnswer>
+    <studentAnswer id="SE.22b.440.1" accuracy="correct">Since red is lighter color it does not absorb much like white, but blue is darker so it is a little like black.</studentAnswer>
+    <studentAnswer id="SE.22b.441.1" accuracy="correct">The graph tells that the blue covered collected more heat than the red covered.</studentAnswer>
+    <studentAnswer id="SE.22b.531.1" accuracy="correct">Using blue collectors heat up quicker than red collectors.</studentAnswer>
+    <studentAnswer id="SE.22b.570.1" accuracy="correct">Tells me that blue covered and uncovered is hotter than red cover and uncovered.</studentAnswer>
+    <studentAnswer id="SE.22b.594.1" accuracy="correct">That the blue heats more than the red.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="PS_15bp" module="PS">
+  <questionText>Below are pictures of wind instruments. You blow air through them to produce sounds. Why does [the saxophone] make the lowest sounds?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_15bp-a1">The saxophone has the longest and fattest tube.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.15bp.104.1" accuracy="incorrect">Because it is a horn that make like the mm.</studentAnswer>
+    <studentAnswer id="PS.15bp.107.1" accuracy="incorrect">Because it is the shortest one and it do not have that much time to come up.</studentAnswer>
+    <studentAnswer id="PS.15bp.114.1" accuracy="incorrect">Because the big circle makes a low pitch.</studentAnswer>
+    <studentAnswer id="PS.15bp.118.1" accuracy="correct">Because it is the biggest and it takes longer to make loud sound.</studentAnswer>
+    <studentAnswer id="PS.15bp.138.1" accuracy="correct">Because it is a bigger instrument, wider and solid. Well those are the only ones I have learned.</studentAnswer>
+    <studentAnswer id="PS.15bp.142.1" accuracy="correct">Because it is the biggest instrument and the bigger it is the bigger vibrations and the bigger vibrations the lower it sounds.</studentAnswer>
+    <studentAnswer id="PS.15bp.152.1" accuracy="correct">Because it is bigger and I heard one before.</studentAnswer>
+    <studentAnswer id="PS.15bp.158.1" accuracy="incorrect">Because it is an instrument of the orchestra.</studentAnswer>
+    <studentAnswer id="PS.15bp.171.1" accuracy="incorrect">Because it has a curved thing.</studentAnswer>
+    <studentAnswer id="PS.15bp.176.1" accuracy="correct">Because it is the biggest one.</studentAnswer>
+    <studentAnswer id="PS.15bp.183.1" accuracy="incorrect">Because it is the smallest.</studentAnswer>
+    <studentAnswer id="PS.15bp.191.1" accuracy="correct">Because it is the biggest one because the air can not go through it very fast.</studentAnswer>
+    <studentAnswer id="PS.15bp.194.1" accuracy="incorrect">The low has make the highest sound and the highest make the lower sound.</studentAnswer>
+    <studentAnswer id="PS.15bp.212.1" accuracy="correct">It is so big it has a lot of room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.15bp.222.1" accuracy="correct">Because the sound has more room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.15bp.249.1" accuracy="correct">The bigger it is the lower the sound the smaller it is the higher the sound.</studentAnswer>
+    <studentAnswer id="PS.15bp.255.1" accuracy="incorrect">Because it has more amplification.</studentAnswer>
+    <studentAnswer id="PS.15bp.320.1" accuracy="correct">Because it is the biggest.</studentAnswer>
+    <studentAnswer id="PS.15bp.384.1" accuracy="incorrect">Because it has a little hole.</studentAnswer>
+    <studentAnswer id="PS.15bp.452.1" accuracy="incorrect">Because it is the longest and it takes a while for it to make sound.</studentAnswer>
+    <studentAnswer id="PS.15bp.457.1" accuracy="incorrect">It makes the lowest sound because it vibrates slower from having to travel far.</studentAnswer>
+    <studentAnswer id="PS.15bp.461.1" accuracy="correct">Because it is the biggest out of all the instruments.</studentAnswer>
+    <studentAnswer id="PS.15bp.486.1" accuracy="incorrect">Because the instrument is thicker than the others.</studentAnswer>
+    <studentAnswer id="PS.15bp.494.1" accuracy="incorrect">Because the lower it is the lower for big.</studentAnswer>
+    <studentAnswer id="PS.15bp.502.1" accuracy="correct">Because the sound waves had a short time to set to the bottom, because it is bigger.</studentAnswer>
+    <studentAnswer id="PS.15bp.524.1" accuracy="incorrect">Because it has to travel longer.</studentAnswer>
+    <studentAnswer id="PS.15bp.532.1" accuracy="correct">It makes the lowest sound because it is bigger and vibrates slower.</studentAnswer>
+    <studentAnswer id="PS.15bp.539.1" accuracy="incorrect">This is why it makes the lower sound the one I circled goes down and then up that might be why.</studentAnswer>
+    <studentAnswer id="PS.15bp.562.1" accuracy="correct">I think that is the correct answer because is bigger.</studentAnswer>
+    <studentAnswer id="PS.15bp.567.1" accuracy="correct">Because it is a big one so it is going to make the lowest sound.</studentAnswer>
+    <studentAnswer id="PS.15bp.571.1" accuracy="correct">Because if it is large then it makes a lower sound.</studentAnswer>
+    <studentAnswer id="PS.15bp.593.1" accuracy="correct">Because the bigger it is the lower the sound gets.</studentAnswer>
+    <studentAnswer id="PS.15bp.605.1" accuracy="incorrect">Because it is the longest instrument. The air takes a longer time to travel out.</studentAnswer>
+    <studentAnswer id="PS.15bp.629.1" accuracy="incorrect">Because it has the longest way to travel.</studentAnswer>
+    <studentAnswer id="PS.15bp.641.1" accuracy="incorrect">Because is little instruments and I already played it once.</studentAnswer>
+  </studentAnswers>
+</question>

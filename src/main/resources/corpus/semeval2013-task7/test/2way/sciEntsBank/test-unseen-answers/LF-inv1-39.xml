@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_39" module="LF">
+  <questionText>Don wants to make a map of his neighborhood that fits into his notebook. He has a photograph of the neighborhood but it is too large. Complete the description of how Don can draw an accurate map that fits into his notebook: 1. Put an overlay grid over the model. 2. ____ 3. Draw a smaller grid with the same number of squares in your notebook. 4. ____ 5. Create a key to go with the map.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_39-a1">2: Trace the features from the photograph onto the overlay grid. 4: Transfer the features to the matching squares on the smaller grid in your notebook.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.39.394.1" accuracy="incorrect">2. Then put the tape on the side, then trace your neighborhood.</studentAnswer>
+    <studentAnswer id="LF.39.443.1" accuracy="incorrect">2. Make a model then copy it. 4. Trace it then make the closer together.</studentAnswer>
+    <studentAnswer id="LF.39.517.1" accuracy="incorrect">2. Trace the things on the overlay grid. 4. Draw all the things that was on the overlay grid onto the map.</studentAnswer>
+    <studentAnswer id="LF.39.583.1" accuracy="incorrect">2. Trace the homes, train tracks, and trees.</studentAnswer>
+  </studentAnswers>
+</question>

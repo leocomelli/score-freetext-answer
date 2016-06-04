@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_79" module="ME">
+  <questionText>Kurt was investigating which objects stick to magnets. He made an entry in his science notebook and drew a picture to help explain what he did. Look what I did! I picked up a paperclip with a magnet. Then that paperclip picked up another one, and then another one. And they weren't hooked together either. All they had to do was touch each other. Explain to Kurt why he was able to pick up all those paperclips, even though the magnet was only touching the first one.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_79-a1">When a paperclip sticks to a magnet, the paperclip turns into a temporary magnet, so the paperclip can stick to other paperclips and other things made of iron.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.79.178.1" accuracy="incorrect">The magnet has more power so it is able to hold more.</studentAnswer>
+    <studentAnswer id="ME.79.181.1" accuracy="incorrect">Because the magnetism is flowing.</studentAnswer>
+    <studentAnswer id="ME.79.254.1" accuracy="correct">Dear Kurt, that paperclip became a temporary magnet that is why you could pick up 3 magnets.</studentAnswer>
+    <studentAnswer id="ME.79.327.1" accuracy="incorrect">It is an induced magnetism.</studentAnswer>
+  </studentAnswers>
+</question>

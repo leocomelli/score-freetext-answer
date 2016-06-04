@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_65a" module="ME">
+  <questionText>Look at the schematic diagram. What will happen to the other 2 bulbs if the middle bulb burns out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_65a-a1">If the middle bulb burns out the other 2 bulbs will stay lit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.65a.149.1" accuracy="correct">Nothing will happen.</studentAnswer>
+    <studentAnswer id="ME.65a.207.1" accuracy="incorrect">The others will not work.</studentAnswer>
+    <studentAnswer id="ME.65a.217.1" accuracy="incorrect">The other bulbs will burn out too.</studentAnswer>
+    <studentAnswer id="ME.65a.292.1" accuracy="incorrect">The bulb will go off.</studentAnswer>
+  </studentAnswers>
+</question>

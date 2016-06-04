@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="VB_5c" module="VB">
+  <questionText>Explain in one sentence what each graph tells you. Graph C) size of ice cube versus time.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_5c-a1">As time increases, the size of the ice cube decreases.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.5c.384.1" accuracy="incorrect">This tells me that the ice cube is melting.</studentAnswer>
+    <studentAnswer id="VB.5c.388.1" accuracy="correct">How long it takes for an ice cube to melt.</studentAnswer>
+    <studentAnswer id="VB.5c.394.1" accuracy="correct">The graph tells you the amount of time it took to make the ice cubes the sizes that they are.</studentAnswer>
+    <studentAnswer id="VB.5c.397.1" accuracy="incorrect">The ice cube gets smaller and smaller.</studentAnswer>
+    <studentAnswer id="VB.5c.399.1" accuracy="correct">As the time increases the size of ice cubes decreases.</studentAnswer>
+    <studentAnswer id="VB.5c.406.1" accuracy="incorrect">The size of the ice cube went down.</studentAnswer>
+    <studentAnswer id="VB.5c.416.1" accuracy="incorrect">This one show me the size of a ice cube and I think maybe how long it took to grow into a certain size.</studentAnswer>
+    <studentAnswer id="VB.5c.423.1" accuracy="incorrect">The size of the ice cube and how many times it melts.</studentAnswer>
+    <studentAnswer id="VB.5c.431.1" accuracy="incorrect">I think the graph tells me that the data decreases.</studentAnswer>
+    <studentAnswer id="VB.5c.440.1" accuracy="correct">That an ice cube melts with time.</studentAnswer>
+    <studentAnswer id="VB.5c.444.1" accuracy="incorrect">I think this graph tell me the times is about 25 seconds and size of ice cube is about 30.</studentAnswer>
+    <studentAnswer id="VB.5c.452.1" accuracy="incorrect">The bigger the ice cube the slower. The smaller is fast.</studentAnswer>
+    <studentAnswer id="VB.5c.462.1" accuracy="incorrect">This graph shows you that there is an equal amount of time.</studentAnswer>
+    <studentAnswer id="VB.5c.466.1" accuracy="correct">This graph tells you what size ice cube melts faster in a certain amount of time.</studentAnswer>
+    <studentAnswer id="VB.5c.469.1" accuracy="correct">The more the time the less size of the ice cube.</studentAnswer>
+    <studentAnswer id="VB.5c.475.1" accuracy="correct">It tells you the size of the ice cube and the time.</studentAnswer>
+    <studentAnswer id="VB.5c.477.1" accuracy="correct">This graph is telling me the size of ice cubes they got in a certain amount of time.</studentAnswer>
+    <studentAnswer id="VB.5c.481.1" accuracy="correct">The size of the ice cube was at first solid but then it started melting and getting smaller and smaller in a certain amount of time.</studentAnswer>
+    <studentAnswer id="VB.5c.483.1" accuracy="correct">The ice cube will get smaller when time goes by.</studentAnswer>
+    <studentAnswer id="VB.5c.486.1" accuracy="incorrect">As time goes on size of ice cube stays the same.</studentAnswer>
+    <studentAnswer id="VB.5c.489.1" accuracy="correct">As time goes on the size of ice cube goes down.</studentAnswer>
+    <studentAnswer id="VB.5c.495.1" accuracy="correct">As time goes on the ice cube decreasing because it is melting.</studentAnswer>
+    <studentAnswer id="VB.5c.497.1" accuracy="correct">As time goes on the size of the ice cube goes diagonal but it does not touch the line.</studentAnswer>
+    <studentAnswer id="VB.5c.498.1" accuracy="correct">As time goes on the size of ice cube decreases.</studentAnswer>
+    <studentAnswer id="VB.5c.501.1" accuracy="incorrect">The ice cubes are decreasing.</studentAnswer>
+    <studentAnswer id="VB.5c.503.1" accuracy="correct">As time goes on the size of ice cubes goes down.</studentAnswer>
+    <studentAnswer id="VB.5c.506.1" accuracy="correct">As time goes on the size of the ice cube melts.</studentAnswer>
+    <studentAnswer id="VB.5c.511.1" accuracy="incorrect">As the ice cube sits it will melt faster.</studentAnswer>
+    <studentAnswer id="VB.5c.525.1" accuracy="incorrect">As time goes on the size of ice cube stays the same.</studentAnswer>
+    <studentAnswer id="VB.5c.530.1" accuracy="correct">As time goes on the size of ice cubes decrease.</studentAnswer>
+    <studentAnswer id="VB.5c.533.1" accuracy="correct">As time goes on the ice cube decreases.</studentAnswer>
+    <studentAnswer id="VB.5c.535.1" accuracy="correct">As time goes on the ice cubes decrease.</studentAnswer>
+    <studentAnswer id="VB.5c.537.1" accuracy="correct">As time goes on the size of ice cubes will melt until it is all gone.</studentAnswer>
+    <studentAnswer id="VB.5c.542.1" accuracy="correct">As time goes on the size of ice cubes is decreasing.</studentAnswer>
+    <studentAnswer id="VB.5c.545.1" accuracy="correct">As time goes on the size of ice cubes is decreasing.</studentAnswer>
+    <studentAnswer id="VB.5c.626.1" accuracy="correct">Time is increasing while ice is decreasing.</studentAnswer>
+    <studentAnswer id="VB.5c.628.1" accuracy="incorrect">I think the ice cube is more like melting.</studentAnswer>
+    <studentAnswer id="VB.5c.632.1" accuracy="correct">The size of the ice cube decreasing and the time is increasing.</studentAnswer>
+    <studentAnswer id="VB.5c.634.1" accuracy="incorrect">Also, this one is decreasing.</studentAnswer>
+    <studentAnswer id="VB.5c.638.1" accuracy="correct">Time is increasing was the cube is decreasing.</studentAnswer>
+  </studentAnswers>
+</question>

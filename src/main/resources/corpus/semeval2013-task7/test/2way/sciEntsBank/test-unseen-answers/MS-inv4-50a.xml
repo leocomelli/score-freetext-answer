@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MS_50a" module="MS">
+  <questionText>Jen was talking on the phone with her Uncle Bill who lives in Canada. When she asked him how the weather was, he said it was nice and warm, about 28 degrees. What unit is Uncle Bill using to report the temperature?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_50a-a1">Bill must have been using degrees Celsius if 28 is a warm temperature.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.50a.101.1" accuracy="incorrect">A mass.</studentAnswer>
+    <studentAnswer id="MS.50a.277.1" accuracy="correct">He is using a Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.496.1" accuracy="incorrect">Thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.499.1" accuracy="correct">Celsius.</studentAnswer>
+  </studentAnswers>
+</question>

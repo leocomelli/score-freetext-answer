@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_22" module="WA">
+  <questionText>Which of these processes are involved in causing rain? A. evaporation B. condensation C. both evaporation and condensation. Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_22-a1">Water evaporates to form vapor. The vapor condenses to form raindrops.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.22.171.1" accuracy="correct">The reason condensation makes rain is because a lake evaporates and then it condenses and then it rains back into the lake.</studentAnswer>
+    <studentAnswer id="WA.22.181.1" accuracy="incorrect">Evaporation because when water evaporates it is the water that will become rain and if water did not evaporate there would be no rain.</studentAnswer>
+    <studentAnswer id="WA.22.182.1" accuracy="correct">Both evaporation and condensation are processes that involve causing rain because first, when there is a cup of water, the sun would evaporate the water and turn it into water vapor, then the water vapor would touch a cool surface and start condensation. Then the condensation would go to the clouds and cause rain.</studentAnswer>
+    <studentAnswer id="WA.22.189.1" accuracy="correct">Because first it evaporates then it turns into condensation then it rains.</studentAnswer>
+    <studentAnswer id="WA.22.190.1" accuracy="incorrect">Condensation is involved in causing rain is because when rain falls it is called precipitation and then falls on a cool surface and that is called condensation.</studentAnswer>
+    <studentAnswer id="WA.22.191.1" accuracy="incorrect">Well when the water is anywhere evaporation picks up the water and turns it into water vapor and so on and so on.</studentAnswer>
+    <studentAnswer id="WA.22.194.1" accuracy="incorrect">Because evaporation evaporates goes up in the air and makes clouds forms a bigger cloud and that cloud gets role of water and then it rains.</studentAnswer>
+    <studentAnswer id="WA.22.195.1" accuracy="incorrect">Because evaporation and condensation can go into the clouds.</studentAnswer>
+    <studentAnswer id="WA.22.207.1" accuracy="correct">I chose both evaporation and condensation because when water evaporates it turns into water vapor when there is enough it forms rain clouds then condensation happens and forms rain.</studentAnswer>
+    <studentAnswer id="WA.22.208.1" accuracy="incorrect">Because the water from the 38 grams went into the air and became clouds and make the air more sticky.</studentAnswer>
+    <studentAnswer id="WA.22.212.1" accuracy="incorrect">Was evaporation makes a cloud full of water vapor then that cloud becomes rain.</studentAnswer>
+    <studentAnswer id="WA.22.214.1" accuracy="correct">Well evaporation makes water go into the air which sometimes go into clouds, and condensation makes water rain down on us.</studentAnswer>
+    <studentAnswer id="WA.22.218.1" accuracy="correct">Because water evaporates and makes condensation and condensation makes clouds and clouds make rain.</studentAnswer>
+    <studentAnswer id="WA.22.221.1" accuracy="incorrect">Because but evaporation is air condensation is like cloud and rain.</studentAnswer>
+    <studentAnswer id="WA.22.223.1" accuracy="correct">Because evaporation causes the water to go up in the air, and condensation makes clouds which eventually form precipitation or rain.</studentAnswer>
+    <studentAnswer id="WA.22.226.1" accuracy="correct">Evaporation evaporates water into clouds. Condensation makes clouds.</studentAnswer>
+    <studentAnswer id="WA.22.227.1" accuracy="incorrect">Because water gets evaporated.</studentAnswer>
+    <studentAnswer id="WA.22.229.1" accuracy="correct">They both have something to do with rain because evaporation evaporates the water into the air and makes it water vapor. The water vapor condenses and makes clouds filled with water and then the cloud touches a cool surface and condensation makes the liquid water back into water and it rains.</studentAnswer>
+    <studentAnswer id="WA.22.232.1" accuracy="incorrect">I chose C evaporation and condensation because one cannot happen without the other.</studentAnswer>
+    <studentAnswer id="WA.22.243.1" accuracy="incorrect">I picked a because that is it causes rain.</studentAnswer>
+    <studentAnswer id="WA.22.244.1" accuracy="correct">They are both involved because water evaporate to the clouds, the it rains, then it condensates.</studentAnswer>
+    <studentAnswer id="WA.22.249.1" accuracy="correct">Because water will evaporate from a cool place and water vapor will go into the clouds and will hit a cool place and form condensation.</studentAnswer>
+    <studentAnswer id="WA.22.251.1" accuracy="incorrect">The reason why I chose this answer is because condensation causes fog.</studentAnswer>
+    <studentAnswer id="WA.22.252.1" accuracy="correct">Evaporation and condensation happen in the rain because the water evaporates from the ground and hits a cooler surface and turns into condensation.</studentAnswer>
+    <studentAnswer id="WA.22.256.1" accuracy="incorrect">I choose this answer because in the water cycle from the ocean some water evaporates into a cloud until it cannot hold it anymore and then it rains.</studentAnswer>
+    <studentAnswer id="WA.22.261.1" accuracy="incorrect">Evaporation is a process involving rain because the water evaporates and turns into clouds.</studentAnswer>
+    <studentAnswer id="WA.22.262.1" accuracy="incorrect">I picked A because the water evaporates then goes into the cloud that cools it down then it rains then it starts all over again.</studentAnswer>
+    <studentAnswer id="WA.22.265.1" accuracy="incorrect">Evaporation in the sky it evaporation into the sky it make rain.</studentAnswer>
+    <studentAnswer id="WA.22.266.1" accuracy="incorrect">I think C. Because water evaporates and goes in the clouds and falls down as rain.</studentAnswer>
+    <studentAnswer id="WA.22.279.1" accuracy="correct">Both evaporation and condensation are involved in causing rain. Evaporation forms clouds and condensation makes it rain.</studentAnswer>
+    <studentAnswer id="WA.22.287.1" accuracy="incorrect">Because evaporation is when water goes into the air.</studentAnswer>
+    <studentAnswer id="WA.22.294.1" accuracy="incorrect">The water from lakes, rivers, oceans, canals, evaporates into the clouds and when the clouds get full of water it rains.</studentAnswer>
+    <studentAnswer id="WA.22.299.1" accuracy="incorrect">Because the air in the cloud condensed into rain and the rain came down on the earth.</studentAnswer>
+    <studentAnswer id="WA.22.301.1" accuracy="correct">You need both, evaporation and condensation to make it rain. It goes like this. First it rains, second the water goes into the ocean. The water heats up and evaporates in the air. Then in the clouds it cools. Then it condenses and rains again.</studentAnswer>
+    <studentAnswer id="WA.22.348.1" accuracy="incorrect">When water evaporates it goes to the clouds and the cloud gets heavy and it rains.</studentAnswer>
+    <studentAnswer id="WA.22.352.1" accuracy="correct">Evaporation is when the water vapor goes into the clouds. Condensation is when the water vapor turns into water.</studentAnswer>
+    <studentAnswer id="WA.22.360.1" accuracy="incorrect">Evaporation and condensation are both involved in causing rain. Because, to have clouds water has to evaporate. And to rain the water in the cloud gets too heavy so it rains that is called condensation.</studentAnswer>
+    <studentAnswer id="WA.22.362.1" accuracy="correct">Because the water cycle says it warms up, evaporates through the clouds, and cools, then it is condensation.</studentAnswer>
+    <studentAnswer id="WA.22.364.1" accuracy="incorrect">I picked C. Because to cause rain it would have to have both evaporation and condensation.</studentAnswer>
+    <studentAnswer id="WA.22.367.1" accuracy="incorrect">It needs evaporation to get the water, then the clouds soak it all up until it cannot hold any more. Then when it rains it is called condensation.</studentAnswer>
+    <studentAnswer id="WA.22.368.1" accuracy="incorrect">Because the water needs to evaporate and go into the clouds or air to fall down and make condensation.</studentAnswer>
+    <studentAnswer id="WA.22.383.1" accuracy="correct">Because evaporation makes the cloud, while condensation lets the cloud lose water.</studentAnswer>
+    <studentAnswer id="WA.22.384.1" accuracy="incorrect">First water has to evaporate into the air. When it builds up in the clouds it rains.</studentAnswer>
+    <studentAnswer id="WA.22.385.1" accuracy="correct">Because to get water in the clouds you need water vapor which is evaporated and then to get rain you need condensation.</studentAnswer>
+    <studentAnswer id="WA.22.416.1" accuracy="correct">To get the rain water into clouds, the water has to evaporate into vapor. As clouds to make rain come down the vapor has to condense. Then rain falls and the process starts over.</studentAnswer>
+    <studentAnswer id="WA.22.418.1" accuracy="correct">In order to rain you need evaporation because the water evaporates into the air and you need condensation to rain it down.</studentAnswer>
+    <studentAnswer id="WA.22.423.1" accuracy="incorrect">Both evaporation and condensation, because, evaporation forms condensation which goes to the clouds and then the clouds rain and then the process starts over again.</studentAnswer>
+    <studentAnswer id="WA.22.426.1" accuracy="correct">Evaporation turns water in water vapor so water vapor get in the clouds. Condensation make water vapor turns into water and rain.</studentAnswer>
+    <studentAnswer id="WA.22.427.1" accuracy="incorrect">How it rains is it evaporates and then it rains from the clouds.</studentAnswer>
+    <studentAnswer id="WA.22.428.1" accuracy="incorrect">To make rain clouds you need water, water vapor is water that has been evaporated.</studentAnswer>
+    <studentAnswer id="WA.22.430.1" accuracy="correct">When evaporation it up in the air when the air cools and then water to water condensation and fall to the ground as rain.</studentAnswer>
+    <studentAnswer id="WA.22.432.1" accuracy="incorrect">Evaporation because when water evaporates it goes into the air and forms clouds. The rain rains down from the clouds.</studentAnswer>
+    <studentAnswer id="WA.22.435.1" accuracy="correct">Water needs to evaporate into the sky and then condense into clouds which causes rain to fall.</studentAnswer>
+    <studentAnswer id="WA.22.436.1" accuracy="correct">Since when water evaporates it goes in clouds then when it condenses and it comes down as rain.</studentAnswer>
+    <studentAnswer id="WA.22.451.1" accuracy="correct">Because you need condensation in the clouds for it to rain and if it does not evaporate it will not be able to rain.</studentAnswer>
+    <studentAnswer id="WA.22.454.1" accuracy="correct">Because condensation is when water vapor changes to water which is rain. Evaporation is when water changes to water vapor going up to the clouds.</studentAnswer>
+    <studentAnswer id="WA.22.455.1" accuracy="correct">Because the water on the ground evaporated became water vapor came to the clouds, the water condensed plus rained.</studentAnswer>
+    <studentAnswer id="WA.22.458.1" accuracy="incorrect">Because when it is water vapor it turns into rain back into water.</studentAnswer>
+    <studentAnswer id="WA.22.459.1" accuracy="incorrect">If water never evaporated condensation could never happen.</studentAnswer>
+    <studentAnswer id="WA.22.466.1" accuracy="correct">Because you need the water to evaporate then condensation makes it turn back into water and then it rains.</studentAnswer>
+    <studentAnswer id="WA.22.468.1" accuracy="incorrect">I said evaporation because condensation it gets on the outside of the cup and evaporation with when water goes into the sky.</studentAnswer>
+    <studentAnswer id="WA.22.487.1" accuracy="correct">Because evaporation is when water goes into the air and travels to the atmosphere then condenses becomes water again to make a cloud.</studentAnswer>
+    <studentAnswer id="WA.22.490.1" accuracy="incorrect">Because it goes into the air and into the clouds and the clouds rain that water that evaporates.</studentAnswer>
+    <studentAnswer id="WA.22.492.1" accuracy="correct">Because when water evaporates it goes up and when you get a lot up there it condenses and comes down as rain, snow, sleet, hail?</studentAnswer>
+    <studentAnswer id="WA.22.493.1" accuracy="incorrect">Because when cool water melts hot water.</studentAnswer>
+    <studentAnswer id="WA.22.495.1" accuracy="correct">Because evaporation causes water vapor to form clouds, then condensation turns water vapor into the rain that falls from the sky.</studentAnswer>
+    <studentAnswer id="WA.22.503.1" accuracy="incorrect">I do not know what condensations means, that is why I picked it, because evaporation means water just disappears.</studentAnswer>
+    <studentAnswer id="WA.22.504.1" accuracy="correct">Because, when it rains it is called condensation and when it evaporates up to the clouds it rains again. So it makes the water cycle.</studentAnswer>
+    <studentAnswer id="WA.22.505.1" accuracy="incorrect">The water has to evaporate into the clouds and condenses rain.</studentAnswer>
+    <studentAnswer id="WA.22.506.1" accuracy="correct">Liquid water evaporate from earth up into the air. Then it forms clouds, and become a liquid or condense. Then it will precipitate, or fall as rain.</studentAnswer>
+    <studentAnswer id="WA.22.521.1" accuracy="incorrect">C, because you have to have the whole cycle for rain to happen.</studentAnswer>
+    <studentAnswer id="WA.22.522.1" accuracy="incorrect">Evaporation and condensation have to happen so precipitation can happen.</studentAnswer>
+    <studentAnswer id="WA.22.524.1" accuracy="correct">Because evaporation gets the water up into the air and condensation makes the water vapor drops of water and soon after that it rains.</studentAnswer>
+    <studentAnswer id="WA.22.529.1" accuracy="incorrect">The water cycle. You need to have passed evaporation and condensation to have precipitation or rain fall.</studentAnswer>
+    <studentAnswer id="WA.22.530.1" accuracy="correct">Because, water has to evaporate to create clouds, and condensate to rain.</studentAnswer>
+    <studentAnswer id="WA.22.531.1" accuracy="incorrect">Evaporation makes the clouds pouring, and condensation is the clouds!</studentAnswer>
+    <studentAnswer id="WA.22.532.1" accuracy="incorrect">Both evaporation and condensation because they both have to do something with rain.</studentAnswer>
+    <studentAnswer id="WA.22.533.1" accuracy="correct">Because to make rain water has to evaporate from the ocean and then there has to be condensation for rain to be made.</studentAnswer>
+    <studentAnswer id="WA.22.534.1" accuracy="correct">Clouds are what causes rain. The water that made the clouds evaporated and then condensed.</studentAnswer>
+    <studentAnswer id="WA.22.535.1" accuracy="incorrect">Because water evaporates and rises in the air to form clouds.</studentAnswer>
+    <studentAnswer id="WA.22.537.1" accuracy="incorrect">Water evaporates from the ground and condense into clouds and eventually into rain.</studentAnswer>
+    <studentAnswer id="WA.22.542.1" accuracy="incorrect">Evaporation and condensation cause rain to happen.</studentAnswer>
+    <studentAnswer id="WA.22.558.1" accuracy="incorrect">Rain can be in a puddle and evaporate.</studentAnswer>
+    <studentAnswer id="WA.22.561.1" accuracy="incorrect">I think that because if the evaporation did not happen how could the clouds form then get heavier a rain? So that's why I think so.</studentAnswer>
+    <studentAnswer id="WA.22.565.1" accuracy="correct">Evaporation sends the water into the atmosphere, condensation forms a cloud and rain comes from clouds and rain is called precipitation.</studentAnswer>
+    <studentAnswer id="WA.22.569.1" accuracy="incorrect">The water in the clouds condenses back into precipitation and precipitation is rain or snow.</studentAnswer>
+    <studentAnswer id="WA.22.575.1" accuracy="incorrect">Both because evaporation makes clouds and the condensation in the clouds gets so heavy it precipitates rains.</studentAnswer>
+    <studentAnswer id="WA.22.576.1" accuracy="incorrect">Because it turns from water liquid to gas. Called condensation.</studentAnswer>
+    <studentAnswer id="WA.22.595.1" accuracy="incorrect">When the evaporation takes places the condensation make the droplets on the window.</studentAnswer>
+    <studentAnswer id="WA.22.599.1" accuracy="incorrect">Because at my house when it rains by the next day it had evaporate and left condensation on our windows.</studentAnswer>
+    <studentAnswer id="WA.22.604.1" accuracy="correct">I think both are because evaporation brings up groundwater and then it condenses which makes rain so yes it is C.</studentAnswer>
+    <studentAnswer id="WA.22.610.1" accuracy="incorrect">Because if you put some color water in a cup with no lid it will evaporate then when it is in the clouds it will rain down.</studentAnswer>
+    <studentAnswer id="WA.22.627.1" accuracy="incorrect">Evaporation because it cannot rain if the water does not go into the air. Clouds.</studentAnswer>
+    <studentAnswer id="WA.22.628.1" accuracy="incorrect">I disagree. Evaporation happens in every temperature. But has more evaporating in High temperature.</studentAnswer>
+    <studentAnswer id="WA.22.630.1" accuracy="incorrect">I looked at a chart.</studentAnswer>
+    <studentAnswer id="WA.22.632.1" accuracy="incorrect">Because when water vapor is in the air the rain falls down and turns into condensation.</studentAnswer>
+    <studentAnswer id="WA.22.634.1" accuracy="incorrect">Because when water evaporates it goes to the clouds so it gets fuller when it is really full it causes rain.</studentAnswer>
+    <studentAnswer id="WA.22.641.1" accuracy="incorrect">Evaporation because it goes up in the cloud and then it rains.</studentAnswer>
+    <studentAnswer id="WA.22.642.1" accuracy="correct">Because it evaporated up to the air then it becomes condense the turns to cloud. Then starts to rain.</studentAnswer>
+    <studentAnswer id="WA.22.643.1" accuracy="incorrect">Condensation when the rain falls it goes under the ground than evaporation.</studentAnswer>
+  </studentAnswers>
+</question>

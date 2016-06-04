@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_47b" module="SE">
+  <questionText>Sue bought a white wading pool for her grandchildren. She wanted to heat up the water as fast as possible. She thought that if she put plastic sheeting in the bottom of the pool it might heat up the water faster. She had a sheet of yellow plastic and a sheet of dark green plastic. What should Sue do to heat the water as fast as possible? A. Put the yellow sheeting on the bottom of the pool. (B. Put the dark green sheeting on the bottom of the pool.) C. Put no sheeting on the bottom of the pool; leave it white. Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_47b-a1">Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.47b.117.1" accuracy="correct">Why I chose the dark green sheeting was because the darker color absorbs heat.</studentAnswer>
+    <studentAnswer id="SE.47b.150.1" accuracy="incorrect">It is darker and it will probably heat faster.</studentAnswer>
+    <studentAnswer id="SE.47b.151.1" accuracy="correct">Because dark green is a dark color like black that way dark green absorbs more heat.</studentAnswer>
+    <studentAnswer id="SE.47b.157.1" accuracy="correct">Because if you put dark green, it will absorb the heat from the sun fast, because it is a dark color.</studentAnswer>
+    <studentAnswer id="SE.47b.165.1" accuracy="incorrect">She should use the dark green because it will absorb more heat.</studentAnswer>
+    <studentAnswer id="SE.47b.192.1" accuracy="incorrect">When they put a piece of plastic bag on the bottom it will heat up a little bit.</studentAnswer>
+    <studentAnswer id="SE.47b.247.1" accuracy="incorrect">The darker the color the faster it would heat up.</studentAnswer>
+    <studentAnswer id="SE.47b.265.1" accuracy="incorrect">Because it is dark green and dark colors heat faster than light colors.</studentAnswer>
+    <studentAnswer id="SE.47b.331.1" accuracy="correct">The green is almost like black and the darker the sheeting is its color attracts the sun and heats up the pool.</studentAnswer>
+    <studentAnswer id="SE.47b.332.1" accuracy="incorrect">I chose that one because the sun might reflect it back and almost every dark color are the ones who makes it hot.</studentAnswer>
+    <studentAnswer id="SE.47b.335.1" accuracy="incorrect">I pick B because I think it is ok alright.</studentAnswer>
+    <studentAnswer id="SE.47b.384.1" accuracy="incorrect">Because the dark green will absorb the heat.</studentAnswer>
+    <studentAnswer id="SE.47b.386.1" accuracy="correct">If she uses dark plastic the water will heat up more quickly.</studentAnswer>
+    <studentAnswer id="SE.47b.388.1" accuracy="correct">Because dark green absorbs heat and yellow reflects heat.</studentAnswer>
+    <studentAnswer id="SE.47b.418.1" accuracy="incorrect">Because the darker plastic will absorb the heat and it will heat the pool faster.</studentAnswer>
+    <studentAnswer id="SE.47b.419.1" accuracy="correct">I chose dark green because dark colors attract the sun.</studentAnswer>
+    <studentAnswer id="SE.47b.493.1" accuracy="incorrect">Because the color black or dark colors will absorb the heat then transfer it to the water.</studentAnswer>
+    <studentAnswer id="SE.47b.494.1" accuracy="correct">I chose to put the green plastic because if the color is dark then the sun gets attracted to the dark color which makes it heat up faster.</studentAnswer>
+    <studentAnswer id="SE.47b.497.1" accuracy="correct">I choose B because if you use a light color the solar energy will reflect off it if you use a dark color it will absorb the solar energy.</studentAnswer>
+    <studentAnswer id="SE.47b.499.1" accuracy="incorrect">Darker colors will heat up faster.</studentAnswer>
+    <studentAnswer id="SE.47b.502.1" accuracy="correct">I chose B because dark green is the darkest color and dark colors absorbs the sun's energy.</studentAnswer>
+    <studentAnswer id="SE.47b.505.1" accuracy="incorrect">Because dark colors absorb heat and energy.</studentAnswer>
+    <studentAnswer id="SE.47b.507.1" accuracy="incorrect">Because dark colors absorb the heat, and light colors do not. They reflect them.</studentAnswer>
+    <studentAnswer id="SE.47b.508.1" accuracy="incorrect">Because yellow is a light color and would reflect the sun's energy.</studentAnswer>
+    <studentAnswer id="SE.47b.510.1" accuracy="incorrect">I chose that answer because yellow reflects heat and dark stuff keep heat.</studentAnswer>
+    <studentAnswer id="SE.47b.513.1" accuracy="correct">Because when you have a dark color it absorbs more of the heat, so that is why Sue should put dark green at the bottom of the pool.</studentAnswer>
+    <studentAnswer id="SE.47b.514.1" accuracy="incorrect">The darker the plastic the quicker the water will heat up.</studentAnswer>
+    <studentAnswer id="SE.47b.515.1" accuracy="incorrect">Dark green is a darker color than yellow, therefore it will heat hotter and faster.</studentAnswer>
+    <studentAnswer id="SE.47b.521.1" accuracy="incorrect">I chose it because dark green is darker than yellow, and because the green absorbs heat and yellow reflects.</studentAnswer>
+    <studentAnswer id="SE.47b.527.1" accuracy="incorrect">A dark color can be reflected by the sun and it could heat up the wading pool's water.</studentAnswer>
+    <studentAnswer id="SE.47b.530.1" accuracy="incorrect">Because dark color absorbs more sunlight.</studentAnswer>
+    <studentAnswer id="SE.47b.536.1" accuracy="correct">Dark green because darker colors heat faster they attract the sun.</studentAnswer>
+    <studentAnswer id="SE.47b.547.1" accuracy="incorrect">Because it is darker than yellow so it might attract to the sun to make the pool hotter.</studentAnswer>
+    <studentAnswer id="SE.47b.558.1" accuracy="incorrect">Because heat is absorbed by dark colors.</studentAnswer>
+    <studentAnswer id="SE.47b.572.1" accuracy="incorrect">Because the darker the color the faster it will heat up.</studentAnswer>
+    <studentAnswer id="SE.47b.613.1" accuracy="incorrect">Anything that is dark could be just like black.</studentAnswer>
+  </studentAnswers>
+</question>

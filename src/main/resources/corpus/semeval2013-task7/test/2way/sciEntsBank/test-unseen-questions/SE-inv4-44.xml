@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="SE_44" module="SE">
+  <questionText>One way of modifying your solar house was to include a heat sink such as a container of water or masses of rock. What is the advantage of including a heat sink in a house?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_44-a1">A heat sink would absorb heat during the daytime and release the heat during the nighttime to keep the house warmer longer.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.44.103.1" accuracy="incorrect">It gains more heat.</studentAnswer>
+    <studentAnswer id="SE.44.119.1" accuracy="incorrect">The house would be warmer.</studentAnswer>
+    <studentAnswer id="SE.44.123.1" accuracy="incorrect">The advantage is that when you are including a heat sink it takes up some space.</studentAnswer>
+    <studentAnswer id="SE.44.126.1" accuracy="incorrect">The advantage is the water and rocks would not probably warm up the house that much.</studentAnswer>
+    <studentAnswer id="SE.44.150.1" accuracy="incorrect">It will get warmer.</studentAnswer>
+    <studentAnswer id="SE.44.171.1" accuracy="correct">A heat sink can absorb an enormous amount of heat and takes a long time to cool down.</studentAnswer>
+    <studentAnswer id="SE.44.175.1" accuracy="correct">The advantage is to heat up slowly and keep the temperature high then it heats down slowly and is still a little high.</studentAnswer>
+    <studentAnswer id="SE.44.177.1" accuracy="incorrect">If the rock container my home. I think it will be cold. They are going to have no sun or heat.</studentAnswer>
+    <studentAnswer id="SE.44.242.1" accuracy="incorrect">I think it depends what you are using.</studentAnswer>
+    <studentAnswer id="SE.44.243.1" accuracy="correct">It would be hotter at night.</studentAnswer>
+    <studentAnswer id="SE.44.268.1" accuracy="incorrect">I did not do the heat sink, but I did do the insulation. The insulation is to not let heat to come out of the house.</studentAnswer>
+    <studentAnswer id="SE.44.318.1" accuracy="correct">The heat sink absorbs heat slowly and releases it slowly, so the hot air would stay inside the house longer.</studentAnswer>
+    <studentAnswer id="SE.44.331.1" accuracy="correct">To keep the temperature how you want it to be by absorbing solar energy slowly and releasing it slowly. Like if you want it to be warm inside and it is cold outside you can put carpet inside your house.</studentAnswer>
+    <studentAnswer id="SE.44.335.1" accuracy="incorrect">A thermometer then we check it every 5 minutes and it always changes the temperature and the time.</studentAnswer>
+    <studentAnswer id="SE.44.336.1" accuracy="incorrect">Because Linda's room faces the sun and as the sun shines in the window the room will heat up.</studentAnswer>
+    <studentAnswer id="SE.44.339.1" accuracy="incorrect">It depends the color of your house if the house is black the heat sink in a house will be hot, if the house is white your heat sink it would be cooler.</studentAnswer>
+    <studentAnswer id="SE.44.382.1" accuracy="incorrect">That the house will be cooler.</studentAnswer>
+    <studentAnswer id="SE.44.384.1" accuracy="incorrect">The house will stay cool.</studentAnswer>
+    <studentAnswer id="SE.44.389.1" accuracy="incorrect">The house would heat up a little faster.</studentAnswer>
+    <studentAnswer id="SE.44.394.1" accuracy="incorrect">So if it is heating it will turn the water hot and if it is cool it will keep the water cold.</studentAnswer>
+    <studentAnswer id="SE.44.399.1" accuracy="incorrect">You could keep more warmth.</studentAnswer>
+    <studentAnswer id="SE.44.419.1" accuracy="incorrect">The advantage is that it keeps your house warm.</studentAnswer>
+    <studentAnswer id="SE.44.427.1" accuracy="correct">The advantage of including a heat sink in our solar houses would be that it would keep the heat in one place and release it slower.</studentAnswer>
+    <studentAnswer id="SE.44.436.1" accuracy="incorrect">The advantage of having a heat sink in your house is that the heat slowly rises.</studentAnswer>
+    <studentAnswer id="SE.44.443.1" accuracy="incorrect">The advantage of having a heat sink is that a heat sink absorbs more heat than a house without anything.</studentAnswer>
+    <studentAnswer id="SE.44.489.1" accuracy="correct">One of the advantages of having a heat sink in the solar house was that it would absorb heat and release it slowly so the house would stay warm.</studentAnswer>
+    <studentAnswer id="SE.44.494.1" accuracy="incorrect">The advantage of including a heat sink in a house would be that the house would probably stay warm.</studentAnswer>
+    <studentAnswer id="SE.44.499.1" accuracy="incorrect">I used a black piece of paper and it was put on the bottom of the floor.</studentAnswer>
+    <studentAnswer id="SE.44.503.1" accuracy="correct">As the house heats up so does the heat sink then at night fall the heat sink transfers heat into the air keeping it warmer than the others.</studentAnswer>
+    <studentAnswer id="SE.44.504.1" accuracy="correct">When the water or masses of rock absorb heat they transfer it slowly enough that it keeps the room or area warmer.</studentAnswer>
+    <studentAnswer id="SE.44.525.1" accuracy="incorrect">Not very good because a house gathers a lot of solar energy so it really does not need one.</studentAnswer>
+    <studentAnswer id="SE.44.527.1" accuracy="incorrect">The water will be burning or boiling.</studentAnswer>
+    <studentAnswer id="SE.44.529.1" accuracy="correct">It would keep your house hotter longer because the heat sink releases energy slowly and will continue to give off heat even if the sun has set.</studentAnswer>
+    <studentAnswer id="SE.44.532.1" accuracy="incorrect">You could be cooler.</studentAnswer>
+    <studentAnswer id="SE.44.537.1" accuracy="correct">The advantage will be that the house will get hotter because the heat sink is absorbing the heat and is letting it release the heat slowly.</studentAnswer>
+    <studentAnswer id="SE.44.563.1" accuracy="incorrect">The advantage is that a heat sink can absorb the heat and energy!</studentAnswer>
+    <studentAnswer id="SE.44.564.1" accuracy="incorrect">Heat sink will you power and you do not pay money for power.</studentAnswer>
+    <studentAnswer id="SE.44.565.1" accuracy="incorrect">When your house is cold it is hard to get more cold.</studentAnswer>
+    <studentAnswer id="SE.44.592.1" accuracy="incorrect">The good thing about having a heat sink in the house is that it keeps your house warm and it absorbs heat.</studentAnswer>
+    <studentAnswer id="SE.44.604.1" accuracy="incorrect">The advantage of including a heat sink inside the house will keep the house cool because heat sinks do not absorb a lot of heat.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MS_14b" module="MS">
+  <questionText>Look at the picture below [which shows a balance tipped down on the side containing a ball; the right cup has 20 grams and 10 grams mass pieces]. The mass of the ball is one of the following. It must be A. 20 grams. B. 30 grams. (C. 40 grams.) Explain why you chose the answer that you did.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_14b-a1">There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.14b.101.1" accuracy="incorrect">He can use is volume because he can use it.</studentAnswer>
+    <studentAnswer id="MS.14b.108.1" accuracy="incorrect">Because I added the 20 and the 10.</studentAnswer>
+    <studentAnswer id="MS.14b.112.1" accuracy="incorrect">Because it is already 30 and it is too heavy. So 20.</studentAnswer>
+    <studentAnswer id="MS.14b.136.1" accuracy="incorrect">I chose the answer because I needed to add it together.</studentAnswer>
+    <studentAnswer id="MS.14b.143.1" accuracy="incorrect">The ball is too heavy.</studentAnswer>
+    <studentAnswer id="MS.14b.146.1" accuracy="correct">I chose this answer because it could not be 30 grams because the ball is lower so it must be 40 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.152.1" accuracy="incorrect">I chose this answer because one of the blocks said 20 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.171.1" accuracy="incorrect">Because if you have a 20 mass piece and a 10 mass piece you have 40 grams all together.</studentAnswer>
+    <studentAnswer id="MS.14b.174.1" accuracy="incorrect">I counted the grams and got 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.183.1" accuracy="incorrect">I got this answer because I counted 20 grams and 10 grams and it equaled 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.190.1" accuracy="incorrect">Because 20 grams plus 10 grams equals 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.276.1" accuracy="incorrect">I chose 20 grams because there is 20 grams plus 10 grams 30 grams that way I know how much is it.</studentAnswer>
+    <studentAnswer id="MS.14b.282.1" accuracy="incorrect">Because it was the cups that I saw and it was 20 grams and 10 grams to see.</studentAnswer>
+    <studentAnswer id="MS.14b.291.1" accuracy="incorrect">I think that is the answer 20 plus 10 equals 30.</studentAnswer>
+    <studentAnswer id="MS.14b.315.1" accuracy="incorrect">So I would get the right answer.</studentAnswer>
+    <studentAnswer id="MS.14b.319.1" accuracy="correct">I can see the ball is heavier than 30 grams because it is not a perfect balance and the level is not perfect.</studentAnswer>
+    <studentAnswer id="MS.14b.347.1" accuracy="incorrect">Because 30 is not high enough.</studentAnswer>
+    <studentAnswer id="MS.14b.360.1" accuracy="incorrect">I chose this answer because in the mass has 20 and 10 grams and the equals 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.382.1" accuracy="incorrect">That they ball in the cup and the mass pieces are in this cup. 20 grams plus 10 grams equals 30.</studentAnswer>
+    <studentAnswer id="MS.14b.391.1" accuracy="correct">I chose it because there is a 20 grams piece and a 10 grams piece but the ball is not even with the other side so it must weigh more.</studentAnswer>
+    <studentAnswer id="MS.14b.396.1" accuracy="incorrect">Because the mass pieces gives you the answer.</studentAnswer>
+    <studentAnswer id="MS.14b.398.1" accuracy="correct">I chose it because the mass pieces are 30 grams. So I did the highest number.</studentAnswer>
+    <studentAnswer id="MS.14b.400.1" accuracy="incorrect">Because it is very simple I added 20 plus 10 and it equaled 30 grams. And that is how I got my answer.</studentAnswer>
+    <studentAnswer id="MS.14b.417.1" accuracy="correct">Because in the cup there are 30 grams. So I picked 40 because 30 grams is not enough so I put 40 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.426.1" accuracy="incorrect">Because I carried a ball before and it felt like to me it is 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.452.1" accuracy="incorrect">I put answer b because 20 plus 10 equals 30.</studentAnswer>
+    <studentAnswer id="MS.14b.463.1" accuracy="incorrect">Because if you see it is that because I chose it.</studentAnswer>
+    <studentAnswer id="MS.14b.488.1" accuracy="incorrect">Because 20 grams plus 10 grams equals 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.501.1" accuracy="correct">Because a ball is heavy, and if you put in 10 grams it will probably weight.</studentAnswer>
+    <studentAnswer id="MS.14b.532.1" accuracy="correct">20 plus 10 equals 30 and that is smaller than the ball which must be C.</studentAnswer>
+    <studentAnswer id="MS.14b.566.1" accuracy="incorrect">Because 20 grams plus 10 grams equals 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.569.1" accuracy="incorrect">Because the ball cannot be 40 grams or 20 grams it has to be 30 grams because the ball it little.</studentAnswer>
+    <studentAnswer id="MS.14b.592.1" accuracy="incorrect">Because there is no standard unit.</studentAnswer>
+    <studentAnswer id="MS.14b.594.1" accuracy="incorrect">Because 30 grams and 20 grams is much big.</studentAnswer>
+    <studentAnswer id="MS.14b.595.1" accuracy="incorrect">20 grams plus 10 grams equals 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.599.1" accuracy="incorrect">Because 20 grams and 10 grams is 30 grams.</studentAnswer>
+  </studentAnswers>
+</question>

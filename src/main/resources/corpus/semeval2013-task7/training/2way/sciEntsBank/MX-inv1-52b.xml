@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MX_52b" module="MX">
+  <questionText>Emily put 20 milliliters of a mystery solution in an evaporation dish. When all the water was gone, she drew the picture of the dish you see here.  Using the crystal-shape key below, what chemical do you think was dissolved in the solution? A. Epsom salt B. Sodium thiosulfate (C. Alum) D. None of the above. Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_52b-a1">Emily's crystals are the same shape as the alum crystals shown on the key.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.52b.385.1" accuracy="incorrect">Because it look a lot like alum.</studentAnswer>
+    <studentAnswer id="MX.52b.389.1" accuracy="incorrect">I chose it because I looked at the key below and I saw the same shape.</studentAnswer>
+    <studentAnswer id="MX.52b.391.1" accuracy="incorrect">Because they are the same shape.</studentAnswer>
+    <studentAnswer id="MX.52b.396.1" accuracy="correct">Because the particles in her dish, look like the ones in the box down below labeled alum.</studentAnswer>
+    <studentAnswer id="MX.52b.400.1" accuracy="correct">Because on the key alum is a hexagon and a hexagon in the middle with lines going from each point to the point on the hexagon inside.</studentAnswer>
+    <studentAnswer id="MX.52b.416.1" accuracy="incorrect">I chose alum because it looks like alum and the mystery solution have the same pattern.</studentAnswer>
+    <studentAnswer id="MX.52b.431.1" accuracy="incorrect">Because you see the picture in the dish and it looks the same.</studentAnswer>
+    <studentAnswer id="MX.52b.456.1" accuracy="correct">I looked at the crystal shape key and it looks most like alum.</studentAnswer>
+    <studentAnswer id="MX.52b.460.1" accuracy="incorrect">Because they look the same.</studentAnswer>
+    <studentAnswer id="MX.52b.465.1" accuracy="incorrect">Well I look at the key below and I saw the same way it looked at the top.</studentAnswer>
+    <studentAnswer id="MX.52b.468.1" accuracy="incorrect">Because that is what it is call and we talks about that is what it is call.</studentAnswer>
+    <studentAnswer id="MX.52b.471.1" accuracy="incorrect">Because I thought it was the best answer.</studentAnswer>
+    <studentAnswer id="MX.52b.473.1" accuracy="correct">I looked at the pictures below and one of them looked like mystery solution looked at it said alum I picked alum.</studentAnswer>
+    <studentAnswer id="MX.52b.486.1" accuracy="incorrect">Because crystals look like a small amount and have lines on the side something each crystal has its own shape.</studentAnswer>
+    <studentAnswer id="MX.52b.490.1" accuracy="incorrect">I looked at the pictures and words and I tried to see which one matched the crystals in the circle.</studentAnswer>
+    <studentAnswer id="MX.52b.493.1" accuracy="incorrect">Because picture tips of crystal like the same.</studentAnswer>
+    <studentAnswer id="MX.52b.503.1" accuracy="incorrect">Because that is the picture Emily drew. Crystals have different shapes.</studentAnswer>
+    <studentAnswer id="MX.52b.528.1" accuracy="incorrect">You can see it on the pictures.</studentAnswer>
+    <studentAnswer id="MX.52b.533.1" accuracy="incorrect">Just a wild guess.</studentAnswer>
+    <studentAnswer id="MX.52b.539.1" accuracy="incorrect">Because it showed what alum looks like at the bottom.</studentAnswer>
+    <studentAnswer id="MX.52b.556.1" accuracy="incorrect">Because they look the same.</studentAnswer>
+    <studentAnswer id="MX.52b.557.1" accuracy="incorrect">Because they look like they have the same properties.</studentAnswer>
+    <studentAnswer id="MX.52b.559.1" accuracy="incorrect">I chose that answer, because the picture look the same.</studentAnswer>
+    <studentAnswer id="MX.52b.565.1" accuracy="correct">Because picture show the exact same thing as alum in the picture below.</studentAnswer>
+    <studentAnswer id="MX.52b.595.1" accuracy="incorrect">Because they look the same.</studentAnswer>
+    <studentAnswer id="MX.52b.600.1" accuracy="incorrect">The alum has the same pattern and it looks the same.</studentAnswer>
+    <studentAnswer id="MX.52b.601.1" accuracy="incorrect">I chose that answer because it looks the same like the drawing in the circle.</studentAnswer>
+    <studentAnswer id="MX.52b.606.1" accuracy="incorrect">Because it shows the pictures below.</studentAnswer>
+    <studentAnswer id="MX.52b.611.1" accuracy="incorrect">I chose that answer because when I look down the picture it look the same as the picture up there.</studentAnswer>
+    <studentAnswer id="MX.52b.612.1" accuracy="incorrect">Because the picture down below of Epsom salt has no lines or anything.</studentAnswer>
+    <studentAnswer id="MX.52b.626.1" accuracy="incorrect">Because her drawing looks the same as the one in the shape key.</studentAnswer>
+    <studentAnswer id="MX.52b.633.1" accuracy="correct">The alum in the picture below is a tall hexagon the crystal in the picture above is also a tall hexagon so it led me to the conclusion that they are the same.</studentAnswer>
+    <studentAnswer id="MX.52b.638.1" accuracy="correct">Because alum looks like the picture above.</studentAnswer>
+    <studentAnswer id="MX.52b.639.1" accuracy="correct">Because it looks like alum but more crystals.</studentAnswer>
+    <studentAnswer id="MX.52b.643.1" accuracy="incorrect">I chose it because on the key it looks the same as the crystal evaporating dish.</studentAnswer>
+    <studentAnswer id="MX.52b.648.1" accuracy="incorrect">It looks closer than the other.</studentAnswer>
+  </studentAnswers>
+</question>

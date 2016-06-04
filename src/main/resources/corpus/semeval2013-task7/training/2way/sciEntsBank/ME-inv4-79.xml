@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_79" module="ME">
+  <questionText>Kurt was investigating which objects stick to magnets. He made an entry in his science notebook and drew a picture to help explain what he did. Look what I did! I picked up a paperclip with a magnet. Then that paperclip picked up another one, and then another one. And they weren't hooked together either. All they had to do was touch each other. Explain to Kurt why he was able to pick up all those paperclips, even though the magnet was only touching the first one.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_79-a1">When a paperclip sticks to a magnet, the paperclip turns into a temporary magnet, so the paperclip can stick to other paperclips and other things made of iron.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.79.107.1" accuracy="correct">The magnet magnetized the first one, then it a temporary magnet and then the next one.</studentAnswer>
+    <studentAnswer id="ME.79.111.1" accuracy="incorrect">He magnetized it for a minute.</studentAnswer>
+    <studentAnswer id="ME.79.113.1" accuracy="incorrect">Because it lets magnetism through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.120.1" accuracy="correct">He was able to do that because the magnetism traveled through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.123.1" accuracy="correct">The magnetism went through the first paperclip to the rest.</studentAnswer>
+    <studentAnswer id="ME.79.140.1" accuracy="incorrect">When you pick up a object that object acts like it is a magnet.</studentAnswer>
+    <studentAnswer id="ME.79.141.1" accuracy="correct">Because if the magnet touches the one paperclip became a temporary magnet and when another paperclip hooked that other paperclip worked like a magnet.</studentAnswer>
+    <studentAnswer id="ME.79.142.1" accuracy="incorrect">The magnet's force go through the first paperclip to the last paperclip.</studentAnswer>
+    <studentAnswer id="ME.79.148.1" accuracy="correct">When the first paperclip touched the magnet it became a temporary magnet that is what happened to each of the paperclips as it touched the one before it.</studentAnswer>
+    <studentAnswer id="ME.79.152.1" accuracy="correct">The magnet was turning the paperclips into temporary magnets.</studentAnswer>
+    <studentAnswer id="ME.79.154.1" accuracy="correct">It was possible because the magnetic force from the magnet ran through the first paperclip almost making that paperclip like a magnet so it was able to pick up more.</studentAnswer>
+    <studentAnswer id="ME.79.155.1" accuracy="incorrect">Kurt you were able to pick up that magnet because the energy of the first one was able to pick up more because of the energy.</studentAnswer>
+    <studentAnswer id="ME.79.159.1" accuracy="incorrect">The magnetism is going through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.173.1" accuracy="incorrect">He rubs the paperclip on the magnet and it flow power through one, 2, 3 paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.174.1" accuracy="correct">Kurt was able to pick up all those paperclips because they are iron and magnetism can flow through iron.</studentAnswer>
+    <studentAnswer id="ME.79.180.1" accuracy="correct">It was able to pick up all the rest because the magnetism flow through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.185.1" accuracy="incorrect">He is able to by letting the force go through the paperclips and making them all attract not repel because hand makes a repel and that is a magnetism of science.</studentAnswer>
+    <studentAnswer id="ME.79.190.1" accuracy="incorrect">He was able to because the magnetism was going through the paperclip.</studentAnswer>
+    <studentAnswer id="ME.79.191.1" accuracy="incorrect">Well it can do that because the florescent is flowing through all of the paperclips, that is why.</studentAnswer>
+    <studentAnswer id="ME.79.195.1" accuracy="incorrect">The magnetism goes through the paperclip.</studentAnswer>
+    <studentAnswer id="ME.79.206.1" accuracy="incorrect">The magnetism force flows through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.207.1" accuracy="incorrect">The magnet sends magnet through one paperclip to another.</studentAnswer>
+    <studentAnswer id="ME.79.208.1" accuracy="incorrect">The magnetic force went through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.212.1" accuracy="incorrect">The magnetic force flows through all the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.214.1" accuracy="correct">He was able to do that because the magnetic force flows through the paperclips and creates a temporary magnet.</studentAnswer>
+    <studentAnswer id="ME.79.216.1" accuracy="incorrect">The magnet made the paperclips stick on because the magnetism flowing through.</studentAnswer>
+    <studentAnswer id="ME.79.217.1" accuracy="incorrect">The magnet has enough power.</studentAnswer>
+    <studentAnswer id="ME.79.224.1" accuracy="incorrect">It picked it up because the paperclips was a magnet.</studentAnswer>
+    <studentAnswer id="ME.79.226.1" accuracy="incorrect">The magnet hook all of those paperclips together because the magnetic electricity travels through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.228.1" accuracy="incorrect">The force went through the paperclips so that made it able to pick up all those paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.245.1" accuracy="correct">He did that because the magnet has a lot of power so it picked up on paperclip then that paperclip is a temporary magnet and passes the power.</studentAnswer>
+    <studentAnswer id="ME.79.250.1" accuracy="incorrect">The magnet has enough power to pick up more things. What happens is the magnetic field goes around and the clips sticks to clip and then that clips up another and so forth.</studentAnswer>
+    <studentAnswer id="ME.79.284.1" accuracy="incorrect">They could pick up paperclips because the magnetism went through the paperclips.</studentAnswer>
+    <studentAnswer id="ME.79.311.1" accuracy="incorrect">It is flowing though the magnet so it works.</studentAnswer>
+    <studentAnswer id="ME.79.314.1" accuracy="incorrect">The first paperclips gets strong and give it to these conduct and they are one.</studentAnswer>
+    <studentAnswer id="ME.79.324.1" accuracy="correct">The paperclip is attaching like a temporary magnet.</studentAnswer>
+  </studentAnswers>
+</question>

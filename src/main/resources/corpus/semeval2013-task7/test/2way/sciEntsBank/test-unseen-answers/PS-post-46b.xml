@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_46b" module="PS">
+  <questionText>Why was the siren's sound designed to have this property?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_46b-a1">So that people notice the sound.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.46b.141.1" accuracy="correct">To get cars out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.333.1" accuracy="correct">Because to warn people to get out of the way.</studentAnswer>
+    <studentAnswer id="PS.46b.563.1" accuracy="correct">It is so loud about 2 blocks away can hear it.</studentAnswer>
+    <studentAnswer id="PS.46b.603.1" accuracy="correct">So the cars and people would know that a is burning or is stuck in a small place so the peoples and cars could get out of the way for the fire engine could get through.</studentAnswer>
+  </studentAnswers>
+</question>

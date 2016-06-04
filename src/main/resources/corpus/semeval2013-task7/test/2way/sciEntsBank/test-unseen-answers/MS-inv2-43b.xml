@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MS_43b" module="MS">
+  <questionText>2 groups used marbles to weigh the same apple. Jin's group found the apple weighed 35 marbles and Bee's group found the same apple weighed 60 marbles. Both groups used the correct procedure. What should the groups do to make their results more useful?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_43b-a1">Use a standard unit of mass like grams.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.43b.143.1" accuracy="incorrect">They should zero their balances.</studentAnswer>
+    <studentAnswer id="MS.43b.174.1" accuracy="incorrect">Get the same marbles.</studentAnswer>
+    <studentAnswer id="MS.43b.417.1" accuracy="incorrect">They should zero it out before they put the apple in.</studentAnswer>
+    <studentAnswer id="MS.43b.532.1" accuracy="correct">Use grams.</studentAnswer>
+  </studentAnswers>
+</question>

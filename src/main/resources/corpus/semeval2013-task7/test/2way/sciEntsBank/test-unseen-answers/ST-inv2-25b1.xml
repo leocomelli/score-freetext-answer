@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ST_25b1" module="ST">
+  <questionText>Look at the picture of the bean seedling shortly after germination. Describe the function of each of the parts: seed coat.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_25b1-a1">The seed coat protects the seed until the plant begins to grow.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.25b1.426.1" accuracy="correct">To protect it.</studentAnswer>
+    <studentAnswer id="ST.25b1.456.1" accuracy="correct">To protect the seed.</studentAnswer>
+    <studentAnswer id="ST.25b1.522.1" accuracy="correct">It protects the cotyledon.</studentAnswer>
+    <studentAnswer id="ST.25b1.591.1" accuracy="correct">To protect the seed.</studentAnswer>
+  </studentAnswers>
+</question>

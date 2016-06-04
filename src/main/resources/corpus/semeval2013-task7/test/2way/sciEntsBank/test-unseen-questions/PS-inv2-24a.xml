@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="PS_24a" module="PS">
+  <questionText>After playing the FOSS-ulele, David wrote his results in his lab notebook: I'm confused. When I pull down and tighten the string on the FOSS-ulele, then pluck the string, the pitch sounds HIGHER than it did before. But aren't I making the string longer when I pull the string? I thought a longer length produced a LOWER pitch. What's going on here? What is causing the pitch to be higher? Write a note to David to tell him why the pitch gets higher rather than lower.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_24a-a1">The string is tighter, so the pitch is higher. The string between the cup and the table is not longer.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.24a.104.1" accuracy="incorrect">Because cup is in the middle and it is the lowest.</studentAnswer>
+    <studentAnswer id="PS.24a.105.1" accuracy="correct">The reason why is because when the string gets tighter The sound gets higher and when The string is loose it make a lower sound.</studentAnswer>
+    <studentAnswer id="PS.24a.107.1" accuracy="incorrect">The cup is making the pitch higher.</studentAnswer>
+    <studentAnswer id="PS.24a.110.1" accuracy="incorrect">By plucking the string and once you pluck the small string it will be high.</studentAnswer>
+    <studentAnswer id="PS.24a.111.1" accuracy="incorrect">The pitch gets higher when the string is shorter and the pitch gets lower when the string is longer.</studentAnswer>
+    <studentAnswer id="PS.24a.114.1" accuracy="incorrect">Because when you put the cup down it makes a high pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.118.1" accuracy="incorrect">When you pull the string down it makes a higher. And when you pull up it makes a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.138.1" accuracy="correct">It is tighter and if it is tighter it produces a higher pitch. If he plucked it at the end of the string it would vibrate faster.</studentAnswer>
+    <studentAnswer id="PS.24a.141.1" accuracy="correct">Because there is more tension.</studentAnswer>
+    <studentAnswer id="PS.24a.142.1" accuracy="correct">Dear David the more tight it becomes the more higher the pitch. It is not about the length.</studentAnswer>
+    <studentAnswer id="PS.24a.145.1" accuracy="correct">The tighter the string the higher the pitch. It is not about the length.</studentAnswer>
+    <studentAnswer id="PS.24a.146.1" accuracy="correct">Because it is like a rubber band hard you pull it the higher pitch it gets.</studentAnswer>
+    <studentAnswer id="PS.24a.152.1" accuracy="correct">Because the string is tighter.</studentAnswer>
+    <studentAnswer id="PS.24a.154.1" accuracy="correct">By pulling the string.</studentAnswer>
+    <studentAnswer id="PS.24a.157.1" accuracy="correct">The pitch has to be softer. When you tighten the string it gets higher and when you loosen it gets lower.</studentAnswer>
+    <studentAnswer id="PS.24a.171.1" accuracy="incorrect">It vibrates longer.</studentAnswer>
+    <studentAnswer id="PS.24a.172.1" accuracy="incorrect">It has more string to vibrate.</studentAnswer>
+    <studentAnswer id="PS.24a.176.1" accuracy="incorrect">What is causing the pitch to be higher is the short string.</studentAnswer>
+    <studentAnswer id="PS.24a.181.1" accuracy="correct">Because the string is tighter so it makes a higher sound David.</studentAnswer>
+    <studentAnswer id="PS.24a.183.1" accuracy="correct">The pitch get higher when you put a lot of tension on the string.</studentAnswer>
+    <studentAnswer id="PS.24a.184.1" accuracy="incorrect">A low one.</studentAnswer>
+    <studentAnswer id="PS.24a.185.1" accuracy="incorrect">The string gets longer.</studentAnswer>
+    <studentAnswer id="PS.24a.191.1" accuracy="correct">Because he tightened the string too hard.</studentAnswer>
+    <studentAnswer id="PS.24a.192.1" accuracy="incorrect">Dear David, the longer string is the Lower pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.193.1" accuracy="incorrect">The short string is high and the long one is lower.</studentAnswer>
+    <studentAnswer id="PS.24a.194.1" accuracy="incorrect">Well I think That because maybe He has a skinny string.</studentAnswer>
+    <studentAnswer id="PS.24a.195.1" accuracy="incorrect">I think it is because David pulled the string to the edge so it makes a higher sound.</studentAnswer>
+    <studentAnswer id="PS.24a.212.1" accuracy="incorrect">A long length is a high pitch because it has more room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.24a.217.1" accuracy="correct">You put too much tension on it.</studentAnswer>
+    <studentAnswer id="PS.24a.221.1" accuracy="correct">When you tighten something it gets tighter so it makes a higher pitch and when something tighten the string the more it can vibrate the more it can vibrate the higher the pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.222.1" accuracy="correct">I think you are plucking the string tighter so it is a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.223.1" accuracy="correct">The pitch is higher because there is more tension.</studentAnswer>
+    <studentAnswer id="PS.24a.225.1" accuracy="incorrect">Dear David the pitch gets higher because the string is shorter.</studentAnswer>
+    <studentAnswer id="PS.24a.228.1" accuracy="correct">David, the cup makes the string tight.</studentAnswer>
+    <studentAnswer id="PS.24a.230.1" accuracy="correct">When you pull it tighter the faster the string moves so it makes a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.241.1" accuracy="correct">Pulling The string gives it a higher pitch if you pull it harder it makes a even higher pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.249.1" accuracy="incorrect">Because when it is tighter there is less tension. So it makes a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.255.1" accuracy="correct">Because you are tightening the string and you get higher pitches.</studentAnswer>
+    <studentAnswer id="PS.24a.261.1" accuracy="correct">Because if you pull down it makes the string tighter and when it is tight it make a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.263.1" accuracy="correct">When you tighten the string and pluck it it is higher pitch but when you loosen it up it is low pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.314.1" accuracy="incorrect">Because it has less room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.24a.316.1" accuracy="incorrect">The cup is causing it to be a higher sound.</studentAnswer>
+    <studentAnswer id="PS.24a.317.1" accuracy="correct">Because when you tighten it more it has less room to vibrate it gets higher.</studentAnswer>
+    <studentAnswer id="PS.24a.319.1" accuracy="incorrect">A quarter past left of the cup.</studentAnswer>
+    <studentAnswer id="PS.24a.320.1" accuracy="incorrect">Because he might pluck it when it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.24a.323.1" accuracy="incorrect">Because the string needs to be short.</studentAnswer>
+    <studentAnswer id="PS.24a.328.1" accuracy="correct">The tighter it is the higher the pitch is.</studentAnswer>
+    <studentAnswer id="PS.24a.329.1" accuracy="incorrect">Maybe the string is skinnier.</studentAnswer>
+    <studentAnswer id="PS.24a.332.1" accuracy="correct">Because it is so tight.</studentAnswer>
+    <studentAnswer id="PS.24a.334.1" accuracy="incorrect">When he pulls the string back farther back it will make a note.</studentAnswer>
+    <studentAnswer id="PS.24a.384.1" accuracy="incorrect">By the volume.</studentAnswer>
+    <studentAnswer id="PS.24a.391.1" accuracy="correct">The more tension the string has the higher the pitch gets.</studentAnswer>
+    <studentAnswer id="PS.24a.401.1" accuracy="incorrect">You are not making the string longer.</studentAnswer>
+    <studentAnswer id="PS.24a.452.1" accuracy="incorrect">Because it also got tighter which makes it higher.</studentAnswer>
+    <studentAnswer id="PS.24a.454.1" accuracy="correct">When you tighten the string, it still stays the same. But the vibration can travel faster.</studentAnswer>
+    <studentAnswer id="PS.24a.455.1" accuracy="incorrect">When you pulled the string lower, it is making where you pluck the FOSS-ukulele shorter. You are not plucking the string that you pull down.</studentAnswer>
+    <studentAnswer id="PS.24a.457.1" accuracy="correct">The pitch gets higher because it is being tightened when the string is tightened it makes it also vibrate faster!</studentAnswer>
+    <studentAnswer id="PS.24a.459.1" accuracy="correct">When you pull the string tighter it is shorter because if it was looser it would go down then up and the sound would get lost on the way.</studentAnswer>
+    <studentAnswer id="PS.24a.461.1" accuracy="correct">It is, the pitch, is getting higher because you are adding more tension.</studentAnswer>
+    <studentAnswer id="PS.24a.464.1" accuracy="correct">When you pull the string tighter it makes it louder because it has a shorter way to go so it is faster.</studentAnswer>
+    <studentAnswer id="PS.24a.466.1" accuracy="correct">Because the tension is increasing when you pull the stick down. And the string has blocked the vibrations right here.</studentAnswer>
+    <studentAnswer id="PS.24a.468.1" accuracy="incorrect">The pitch is high when the string is short because when you pluck the short string the sound travels through the string and make a high pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.469.1" accuracy="correct">David, when you pull down the string you are not making the string lower. When you tighten the string and pluck the string, like you did the vibrations are going to travel faster and as high frequency means high pitch then the sound you are going to hear is going to be high pitched.</studentAnswer>
+    <studentAnswer id="PS.24a.486.1" accuracy="incorrect">The short string makes a high sound and the long string makes it a low sound.</studentAnswer>
+    <studentAnswer id="PS.24a.488.1" accuracy="incorrect">Because the vibration is faster when it is small and when it is longer the vibration is slow to travel.</studentAnswer>
+    <studentAnswer id="PS.24a.490.1" accuracy="correct">The pitch is higher because you tightened the string more.</studentAnswer>
+    <studentAnswer id="PS.24a.491.1" accuracy="incorrect">David pitch is not happening tension is happening okay so calm down.</studentAnswer>
+    <studentAnswer id="PS.24a.494.1" accuracy="correct">Tension. David this is why because when you tighten it and pluck it will get higher just the way it is.</studentAnswer>
+    <studentAnswer id="PS.24a.495.1" accuracy="incorrect">David this is why because you do not listen to your teacher. If the string is long, the pitch will be high.</studentAnswer>
+    <studentAnswer id="PS.24a.497.1" accuracy="correct">Because when you pull it tighter to the short side the pitch get higher.</studentAnswer>
+    <studentAnswer id="PS.24a.499.1" accuracy="correct">Because the tension is tighter.</studentAnswer>
+    <studentAnswer id="PS.24a.501.1" accuracy="correct">It because the tension.</studentAnswer>
+    <studentAnswer id="PS.24a.502.1" accuracy="incorrect">This is why the pitch is getting louder because you made it tighter and longer.</studentAnswer>
+    <studentAnswer id="PS.24a.504.1" accuracy="incorrect">Because it is a long string.</studentAnswer>
+    <studentAnswer id="PS.24a.505.1" accuracy="incorrect">Because you are not pull the string.</studentAnswer>
+    <studentAnswer id="PS.24a.508.1" accuracy="correct">The pitch is getting high because you pull the string harder.</studentAnswer>
+    <studentAnswer id="PS.24a.509.1" accuracy="incorrect">The pitch gets higher when you pluck it hard.</studentAnswer>
+    <studentAnswer id="PS.24a.524.1" accuracy="correct">Dear David the string length does not change it travels faster because it is to tight to stay in place.</studentAnswer>
+    <studentAnswer id="PS.24a.526.1" accuracy="incorrect">Dear David the pitch gets higher because you have to pluck the sound source.</studentAnswer>
+    <studentAnswer id="PS.24a.528.1" accuracy="correct">The pitch gets higher because of the tension. When you pull harder on the string, it gets higher. Tension is how tight something is.</studentAnswer>
+    <studentAnswer id="PS.24a.531.1" accuracy="incorrect">Dear David the pitch is getting higher because you are making it shorter that is why.</studentAnswer>
+    <studentAnswer id="PS.24a.532.1" accuracy="correct">Dear David, it sounds higher because you tighten it when you pull.</studentAnswer>
+    <studentAnswer id="PS.24a.533.1" accuracy="correct">Dear David, The pitch gets higher because when the string is tight, it makes higher.</studentAnswer>
+    <studentAnswer id="PS.24a.536.1" accuracy="correct">Dear David, the pitch gets higher because you pull it tighter so it makes a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.539.1" accuracy="correct">Dear David The pitch gets higher because the tighter you pull tighter it get.</studentAnswer>
+    <studentAnswer id="PS.24a.557.1" accuracy="correct">Because it is tighter so it does not have much room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.24a.561.1" accuracy="incorrect">The string cause the pitch to be higher.</studentAnswer>
+    <studentAnswer id="PS.24a.562.1" accuracy="incorrect">The low string would make a higher sound and the high string would make a low sound.</studentAnswer>
+    <studentAnswer id="PS.24a.567.1" accuracy="incorrect">The small pitch is higher because the small one is causing the sound.</studentAnswer>
+    <studentAnswer id="PS.24a.574.1" accuracy="incorrect">Because it cause vibration.</studentAnswer>
+    <studentAnswer id="PS.24a.593.1" accuracy="correct">Because you pulled the string harder.</studentAnswer>
+    <studentAnswer id="PS.24a.595.1" accuracy="incorrect">Because it probably not getting pulled high enough.</studentAnswer>
+    <studentAnswer id="PS.24a.596.1" accuracy="incorrect">So David you can not figure out what if you tightening one string and then loose it and pluck.</studentAnswer>
+    <studentAnswer id="PS.24a.599.1" accuracy="correct">The pitch is higher because you are pulling the string harder so it is higher but if you pull the string looser you will get a lower sound.</studentAnswer>
+    <studentAnswer id="PS.24a.600.1" accuracy="incorrect">The string get lower because the string is tight.</studentAnswer>
+    <studentAnswer id="PS.24a.602.1" accuracy="incorrect">It could be that he plucked harder than before.</studentAnswer>
+    <studentAnswer id="PS.24a.603.1" accuracy="incorrect">Something small goes faster and lower but something big goes slower and higher.</studentAnswer>
+    <studentAnswer id="PS.24a.605.1" accuracy="incorrect">Maybe when you pull it tighter and the string gets a little bit loose so it made a higher sound.</studentAnswer>
+    <studentAnswer id="PS.24a.607.1" accuracy="correct">It gets higher because when you tighten it up, the tension gets high up.</studentAnswer>
+    <studentAnswer id="PS.24a.610.1" accuracy="incorrect">Well you are actually making the string shorter because see the vibration is stopping at the table side. Look. But you were right on the pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.626.1" accuracy="incorrect">Dear David, it has a higher pitch because the vibrations.</studentAnswer>
+    <studentAnswer id="PS.24a.629.1" accuracy="correct">It makes a high pitch because the string is tight so it makes a higher pitch if the long string was loose it would make a low pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.633.1" accuracy="correct">Because it is more tight and short and then it is high.</studentAnswer>
+    <studentAnswer id="PS.24a.641.1" accuracy="incorrect">It make a high pitch.</studentAnswer>
+    <studentAnswer id="PS.24a.644.1" accuracy="incorrect">It matters where you pluck it not how long the string is.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="MX_18" module="MX">
+  <questionText>A solution of water and material A is clear. A solution of water and material B is also clear. When the 2 solutions are mixed, a white solid settles to the bottom, leaving a clear liquid. What does the white solid indicate?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_18-a1">A chemical reaction occurred. [The white solid is a precipitate (a new material) which indicates the reaction.]</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.18.106.1" accuracy="incorrect">It dissolved in the water.</studentAnswer>
+    <studentAnswer id="MX.18.119.1" accuracy="incorrect">The chemical that stayed down there.</studentAnswer>
+    <studentAnswer id="MX.18.146.1" accuracy="incorrect">The chemical that saturated down there.</studentAnswer>
+    <studentAnswer id="MX.18.151.1" accuracy="incorrect">That is not a solution it is a mixture.</studentAnswer>
+    <studentAnswer id="MX.18.219.1" accuracy="incorrect">It creates a precipitate a new chemical who you mix 2 different chemicals and that creates a precipitate.</studentAnswer>
+    <studentAnswer id="MX.18.248.1" accuracy="incorrect">The white solid indicates by being a mixture.</studentAnswer>
+    <studentAnswer id="MX.18.255.1" accuracy="incorrect">The white solid indicates that the white solid went to the bottom.</studentAnswer>
+    <studentAnswer id="MX.18.277.1" accuracy="incorrect">A solution.</studentAnswer>
+    <studentAnswer id="MX.18.283.1" accuracy="incorrect">To evaporate.</studentAnswer>
+    <studentAnswer id="MX.18.291.1" accuracy="incorrect">The material that you put in the water did not dissolve because it is too heavy.</studentAnswer>
+    <studentAnswer id="MX.18.364.1" accuracy="incorrect">The white solid had settles and so the 2 solutions would be a mixture.</studentAnswer>
+    <studentAnswer id="MX.18.366.1" accuracy="incorrect">All of the thing that you put in will go to the bottom leaving a clear liquid.</studentAnswer>
+    <studentAnswer id="MX.18.381.1" accuracy="incorrect">There is a precipitate on the bottom.</studentAnswer>
+    <studentAnswer id="MX.18.387.1" accuracy="incorrect">It is a product on the bottom of the cap.</studentAnswer>
+    <studentAnswer id="MX.18.422.1" accuracy="incorrect">Well when you mix the 2 solutions it became a different mixture.</studentAnswer>
+    <studentAnswer id="MX.18.426.1" accuracy="incorrect">That it is a new solid material.</studentAnswer>
+    <studentAnswer id="MX.18.428.1" accuracy="correct">Chemical reaction.</studentAnswer>
+    <studentAnswer id="MX.18.439.1" accuracy="correct">A chemical reaction.</studentAnswer>
+    <studentAnswer id="MX.18.453.1" accuracy="incorrect">It indicates a precipitate.</studentAnswer>
+    <studentAnswer id="MX.18.456.1" accuracy="incorrect">That white solid indicates a precipitate.</studentAnswer>
+    <studentAnswer id="MX.18.458.1" accuracy="incorrect">It saturated in the cup.</studentAnswer>
+    <studentAnswer id="MX.18.463.1" accuracy="incorrect">That it is a precipitate because if they mixed materials, together and there was a cherry and there is a new material then that is a precipitate.</studentAnswer>
+    <studentAnswer id="MX.18.468.1" accuracy="incorrect">Because that one that you are say that you are so to 46 that or no.</studentAnswer>
+    <studentAnswer id="MX.18.490.1" accuracy="incorrect">That the water cannot hold any more solute. It is saturated.</studentAnswer>
+    <studentAnswer id="MX.18.492.1" accuracy="incorrect">That the white solid is C.</studentAnswer>
+    <studentAnswer id="MX.18.493.1" accuracy="incorrect">A new product that is called a precipitate.</studentAnswer>
+    <studentAnswer id="MX.18.496.1" accuracy="incorrect">That you have made a saturated solution.</studentAnswer>
+    <studentAnswer id="MX.18.503.1" accuracy="incorrect">The white solid indicates that a precipitate has occurred.</studentAnswer>
+    <studentAnswer id="MX.18.504.1" accuracy="incorrect">A precipitant.</studentAnswer>
+    <studentAnswer id="MX.18.542.1" accuracy="incorrect">Salt.</studentAnswer>
+    <studentAnswer id="MX.18.572.1" accuracy="incorrect">It was solution and a mixture. It promptly got cold or hot at the bottom.</studentAnswer>
+    <studentAnswer id="MX.18.601.1" accuracy="incorrect">Saturation.</studentAnswer>
+    <studentAnswer id="MX.18.636.1" accuracy="incorrect">The white solid indicates the crystals.</studentAnswer>
+    <studentAnswer id="MX.18.639.1" accuracy="correct">It indicates that it turned into a solution and mixture that got mixed then produced chemical also.</studentAnswer>
+    <studentAnswer id="MX.18.996.1" accuracy="incorrect">We kept on glassing because it become clear.</studentAnswer>
+  </studentAnswers>
+</question>

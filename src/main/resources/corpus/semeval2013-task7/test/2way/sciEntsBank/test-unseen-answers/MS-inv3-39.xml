@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MS_39" module="MS">
+  <questionText>Why is it important to use a standard unit when making a measurement?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_39-a1">So people know exactly what the measurement means. A standard is necessary so everyone measures using the same unit and everyone gets the same measurement.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.39.115.1" accuracy="incorrect">Because you could not make measurement without a standard unit.</studentAnswer>
+    <studentAnswer id="MS.39.569.1" accuracy="incorrect">If you have a standard measurement you can get the correct answer and you do not have the wrong answer.</studentAnswer>
+    <studentAnswer id="MS.39.598.1" accuracy="incorrect">We use a standard unit so we do not get the measurement wrong.</studentAnswer>
+    <studentAnswer id="MS.39.600.1" accuracy="incorrect">Because it is a standard unit.</studentAnswer>
+  </studentAnswers>
+</question>

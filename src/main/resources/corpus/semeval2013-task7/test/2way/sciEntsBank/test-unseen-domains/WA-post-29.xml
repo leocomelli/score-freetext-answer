@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_29" module="WA">
+  <questionText>Which is denser, hot water or cold water? How can you tell from lowering vials of hot water and cold water into a cup of room temperature water?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_29-a1">Cold water is denser. Cold water sinks to the bottom of room temperature water. Hot water and less dense things float on room temperature water.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.29.172.1" accuracy="correct">Cold. I know because things that are denser than water sink. The cold water sinks, so it is denser than room temperature water.</studentAnswer>
+    <studentAnswer id="WA.29.173.1" accuracy="incorrect">Hot. Hot water is denser than room temperature water because most of the hot water will go to the top of the cup.</studentAnswer>
+    <studentAnswer id="WA.29.176.1" accuracy="incorrect">Hot. I know because the hot water goes to the bottom of the cup which means hot water is more dense than water.</studentAnswer>
+    <studentAnswer id="WA.29.179.1" accuracy="incorrect">Hot. Because hot makes water evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.29.181.1" accuracy="correct">Cold water. I know this because when you put a cup of cold water into a cup that is room temperature it goes to the bottom, whereas warm water goes to the top.</studentAnswer>
+    <studentAnswer id="WA.29.186.1" accuracy="correct">Cold. If it was less dense it would have floated to the top like the block of wood question, but it did not so it is denser.</studentAnswer>
+    <studentAnswer id="WA.29.187.1" accuracy="incorrect">Hot. Because the heat goes on top first then it starts to spread.</studentAnswer>
+    <studentAnswer id="WA.29.190.1" accuracy="correct">Cold. I know cold water is less dense because the water stayed where it was.</studentAnswer>
+    <studentAnswer id="WA.29.194.1" accuracy="incorrect">Hot. Because the hot water stayed in the vial and the cold water went into the cup.</studentAnswer>
+    <studentAnswer id="WA.29.195.1" accuracy="correct">Cold. Because cold water goes to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.196.1" accuracy="incorrect">Hot. When we did hot and cold water the hot water was more dense.</studentAnswer>
+    <studentAnswer id="WA.29.197.1" accuracy="incorrect">Cold water. Because the sun is up high and far from the earth but the moon is closer to earth so it just like the moon is down and the sun is up!</studentAnswer>
+    <studentAnswer id="WA.29.211.1" accuracy="incorrect">Hot. The hot water sunk when it hit the water.</studentAnswer>
+    <studentAnswer id="WA.29.218.1" accuracy="correct">Cold water. The hot water is on top so it is less dense than cold water.</studentAnswer>
+    <studentAnswer id="WA.29.226.1" accuracy="correct">Cold. In an experiment we did, the cold water sank to the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.29.228.1" accuracy="correct">Cold. Because if you were to put the cold in the hot, the cold water would stay, but if you were to put hot water in cold it would float.</studentAnswer>
+    <studentAnswer id="WA.29.230.1" accuracy="correct">Cold. Because cold water moves to the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.29.231.1" accuracy="incorrect">Hot. I know because hot water has more air bubbles in it because of expansion.</studentAnswer>
+    <studentAnswer id="WA.29.232.1" accuracy="incorrect">Cold. Because I did this experiment and I figured out that cold water is denser.</studentAnswer>
+    <studentAnswer id="WA.29.242.1" accuracy="correct">Cold. If you put hot and cold water in the same cup, the cold water would be at the bottom, and the one at the bottom is denser.</studentAnswer>
+    <studentAnswer id="WA.29.248.1" accuracy="incorrect">Hot. Because we experimented it.</studentAnswer>
+    <studentAnswer id="WA.29.254.1" accuracy="incorrect">Hot. Well hot water goes up.</studentAnswer>
+    <studentAnswer id="WA.29.255.1" accuracy="incorrect">Cold. I know because at school I learned that cold water is denser than hot water because we did an experiment like the one above.</studentAnswer>
+    <studentAnswer id="WA.29.381.1" accuracy="incorrect">Cold. Because it is cold water.</studentAnswer>
+    <studentAnswer id="WA.29.383.1" accuracy="incorrect">Cold. Because cold water is mostly felt at the bottom of the cup of cold water.</studentAnswer>
+    <studentAnswer id="WA.29.387.1" accuracy="correct">Cold. Because the hot water would go to the top of the cup and the cold would stay in the vial. Some may escape the vial and go to the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.29.389.1" accuracy="incorrect">Cold. I know because the cold water molecules contract instead of expand.</studentAnswer>
+    <studentAnswer id="WA.29.390.1" accuracy="correct">Cold water. I know because when you lower the vial of cold water into room temperature water, the cold water would stay in the bottom of the vial because if something is more dense, it would sink.</studentAnswer>
+    <studentAnswer id="WA.29.392.1" accuracy="incorrect">Hot. Because when you lower a vial of hot water it goes up, but when you put a vial of cold water it stays in there.</studentAnswer>
+    <studentAnswer id="WA.29.393.1" accuracy="correct">Cold. Cold water is denser because density sinks to the bottom of a cup, or anything.</studentAnswer>
+    <studentAnswer id="WA.29.395.1" accuracy="correct">Cold. Hot water goes to the top of a glass and cold water goes to the bottom or stays in the vial.</studentAnswer>
+    <studentAnswer id="WA.29.397.1" accuracy="incorrect">Hot. Cold water's temperature is cold so it will go under and not dense so it is hot water.</studentAnswer>
+    <studentAnswer id="WA.29.398.1" accuracy="correct">Cold. I know because when we put the vial of cold water into room temperature water it stayed in the vial and some went to the bottom. If it does that it means that it is more dense than hot water because the hot water went to the top of the cup, which makes it less dense.</studentAnswer>
+    <studentAnswer id="WA.29.400.1" accuracy="correct">Cold water. I know because when you lower the vial of cold water into room temperature water, the cold water would stay in the bottom of the vial because if something is more dense, it would sink.</studentAnswer>
+    <studentAnswer id="WA.29.416.1" accuracy="correct">Cold. Because the cold water stays in the vial or when it gets out, it goes to the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.29.422.1" accuracy="correct">Cold water. Hot water is less dense so it rises, and cold water is more dense because it goes to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.425.1" accuracy="incorrect">Cold. The less denser it is it would go on the top and the more denser, it goes all over the place.</studentAnswer>
+    <studentAnswer id="WA.29.426.1" accuracy="correct">Cold. Because the hot water will float on the cold water.</studentAnswer>
+    <studentAnswer id="WA.29.428.1" accuracy="correct">Cold. Because cold water stays at the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.430.1" accuracy="correct">Cold. Because cold water sinks.</studentAnswer>
+    <studentAnswer id="WA.29.433.1" accuracy="correct">Cold. When something is denser, it sinks. The hot water floated up, but the cold water stayed down.</studentAnswer>
+    <studentAnswer id="WA.29.434.1" accuracy="incorrect">Cold. Because when you put the cold water in the water it melt.</studentAnswer>
+    <studentAnswer id="WA.29.436.1" accuracy="correct">Cold. I know because the hot water goes to the top of the water which means it is less dense so then that means cold water is more dense.</studentAnswer>
+    <studentAnswer id="WA.29.451.1" accuracy="incorrect">Cold. Because we did an experiment and that is what happened.</studentAnswer>
+    <studentAnswer id="WA.29.454.1" accuracy="correct">Cold. Because the cold water stays in the cup.</studentAnswer>
+    <studentAnswer id="WA.29.456.1" accuracy="incorrect">Hot. Because the hot water went to the top.</studentAnswer>
+    <studentAnswer id="WA.29.457.1" accuracy="correct">Cold. Cold water goes to the bottom of the cup. Hot water goes to the top of the cup.</studentAnswer>
+    <studentAnswer id="WA.29.458.1" accuracy="correct">Cold. Because it went to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.460.1" accuracy="incorrect">Hot. I know because the hot water is at the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.29.461.1" accuracy="correct">Cold. Cold water sinks to the bottom of a room temperature cup of water.</studentAnswer>
+    <studentAnswer id="WA.29.463.1" accuracy="correct">Cold. Cold water sinks to the bottom and the hot water does not.</studentAnswer>
+    <studentAnswer id="WA.29.465.1" accuracy="incorrect">Hot. The hot water went to the top.</studentAnswer>
+    <studentAnswer id="WA.29.469.1" accuracy="correct">Cold. Because if the cold water was blue and you put it in, it sinks to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.486.1" accuracy="correct">Cold. If something is denser than something, it sinks.</studentAnswer>
+    <studentAnswer id="WA.29.487.1" accuracy="correct">Cold. Because it sinks and that means it is heavier and that means it is denser.</studentAnswer>
+    <studentAnswer id="WA.29.490.1" accuracy="incorrect">Cold. Because hot water is less dense than cold water.</studentAnswer>
+    <studentAnswer id="WA.29.493.1" accuracy="incorrect">Cold. Cold water is denser than hot water.</studentAnswer>
+    <studentAnswer id="WA.29.498.1" accuracy="correct">Cold. Cold water goes to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.501.1" accuracy="incorrect">Cold. Because when hot water is boiling the water wants to get out of the cup so it evaporates. But when you have freezing water it freezes and turns to ice.</studentAnswer>
+    <studentAnswer id="WA.29.503.1" accuracy="correct">Cold. The hot water floated and the cold water sank.</studentAnswer>
+    <studentAnswer id="WA.29.505.1" accuracy="incorrect">Hot. Heat rises and floats.</studentAnswer>
+    <studentAnswer id="WA.29.506.1" accuracy="incorrect">Cold. Because when water molecules are cooled, they want to come close together or contract. This makes it denser.</studentAnswer>
+    <studentAnswer id="WA.29.509.1" accuracy="correct">Cold water. Because the hot water goes out of the vial and the cold stays weighed down because it is more tightly packed.</studentAnswer>
+    <studentAnswer id="WA.29.510.1" accuracy="incorrect">Hot. Warm water expands to the top and when water molecules are cold they come together to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.524.1" accuracy="incorrect">Cold. Because we did the experiment in class.</studentAnswer>
+    <studentAnswer id="WA.29.527.1" accuracy="correct">Cold. Because when something is denser it sinks and in this case the it is the cold water. The cold water sank or stayed in the vial but the hot water floated to the top. Hot water is less dense.</studentAnswer>
+    <studentAnswer id="WA.29.528.1" accuracy="incorrect">Hot. Because when something is less dense than water it expands and weighs less and floats. When water is denser it sinks because it contracts and gets lighter than water and sinks.</studentAnswer>
+    <studentAnswer id="WA.29.531.1" accuracy="incorrect">Hot. Because the water like almost sank.</studentAnswer>
+    <studentAnswer id="WA.29.532.1" accuracy="incorrect">Cold. Because cold water is denser and the hot water less dense.</studentAnswer>
+    <studentAnswer id="WA.29.535.1" accuracy="incorrect">Hot. When a toy is denser it floats. When a toy is less dense it sinks which is the exact opposite.</studentAnswer>
+    <studentAnswer id="WA.29.536.1" accuracy="correct">Cold. The cold water does not float up like the hot water does. Mostly it just stays in the vial.</studentAnswer>
+    <studentAnswer id="WA.29.541.1" accuracy="incorrect">Cold. Because when something is denser it means there is this little space and a lot of stuff in it.</studentAnswer>
+    <studentAnswer id="WA.29.542.1" accuracy="correct">Cold. I know because when something is less dense it floats and if something sinks it is dense.</studentAnswer>
+    <studentAnswer id="WA.29.556.1" accuracy="correct">Cold. Because when you lower a vial of cold water into room temperature water, it sinks to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.557.1" accuracy="incorrect">Cold. Because the cold water is more dense than the water.</studentAnswer>
+    <studentAnswer id="WA.29.563.1" accuracy="correct">Cold. Because the cold water goes down and when something goes down it is denser.</studentAnswer>
+    <studentAnswer id="WA.29.567.1" accuracy="correct">Cold. Because cold water sinks in room temperature water and when something sinks in water it is denser than water.</studentAnswer>
+    <studentAnswer id="WA.29.572.1" accuracy="incorrect">Neither. Because I did it in class before.</studentAnswer>
+    <studentAnswer id="WA.29.576.1" accuracy="incorrect">Cold. Because when cold water gets cool it cont.</studentAnswer>
+    <studentAnswer id="WA.29.591.1" accuracy="incorrect">Hot. Because done this same thing before.</studentAnswer>
+    <studentAnswer id="WA.29.596.1" accuracy="incorrect">Hot. Because denser means it wants to contract. Less dense means it wants to expand. The hot water contracted and squeezed to the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.598.1" accuracy="correct">Cold. Cold water goes to the bottom of the room temperature water. The room temperature water tries to push the cold water so it can take over the vial.</studentAnswer>
+    <studentAnswer id="WA.29.600.1" accuracy="incorrect">Hot. Because dense means fills up more space.</studentAnswer>
+    <studentAnswer id="WA.29.601.1" accuracy="incorrect">Hot. Because the hot water is so hot the water rises.</studentAnswer>
+    <studentAnswer id="WA.29.604.1" accuracy="correct">Cold. The cold water goes down and the warm water goes up.</studentAnswer>
+    <studentAnswer id="WA.29.607.1" accuracy="correct">Cold. Hot water goes up but cold water goes down.</studentAnswer>
+    <studentAnswer id="WA.29.610.1" accuracy="incorrect">Cold. Because when you put the vial in cold water it went down.</studentAnswer>
+    <studentAnswer id="WA.29.612.1" accuracy="incorrect">Hot. Because you can put something in a cold one and hot it sinks in an hot water.</studentAnswer>
+    <studentAnswer id="WA.29.627.1" accuracy="incorrect">Hot. Because when we did our experiment the hot water floated and the cold water stayed at the bottom.</studentAnswer>
+    <studentAnswer id="WA.29.629.1" accuracy="correct">Cold. Because hot water floats and cold water sinks.</studentAnswer>
+    <studentAnswer id="WA.29.630.1" accuracy="incorrect">Because if the water floats, it is less dense. If it goes down to the bottom, it is denser.</studentAnswer>
+    <studentAnswer id="WA.29.631.1" accuracy="correct">Cold. Because hot water floats which means it is less dense than cold water. Cold water sinks which means it is denser than hot water.</studentAnswer>
+    <studentAnswer id="WA.29.635.1" accuracy="incorrect">Cold. Because cold water is denser.</studentAnswer>
+    <studentAnswer id="WA.29.638.1" accuracy="correct">Cold. Because cold sinks to the bottom and hot floats.</studentAnswer>
+    <studentAnswer id="WA.29.639.1" accuracy="correct">Cold. Because the more denser something is it goes to the bottom and that is what cold water does.</studentAnswer>
+    <studentAnswer id="WA.29.642.1" accuracy="correct">Cold. Because cold water contracts so it sinks. But hot it expands, it is lighter so it floats.</studentAnswer>
+    <studentAnswer id="WA.29.645.1" accuracy="correct">Cold. Because cold water sinks.</studentAnswer>
+    <studentAnswer id="WA.29.646.1" accuracy="correct">Cold. Because the cold went straight to the bottom and the hot went straight to the top.</studentAnswer>
+    <studentAnswer id="WA.29.647.1" accuracy="correct">Cold. Because when you put cold water into room temperature it would stay dense and it will not float up to mix around with room temperature.</studentAnswer>
+    <studentAnswer id="WA.29.648.1" accuracy="correct">Cold. Because the cold water sank in the cup and the hot water floated.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<question id="LP_16d" module="LP">
+  <questionText>Look at the illustration of the pulley system at the right to answer the questions. What additional disadvantages might there be to this system compared to a single fixed pulley system?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LP_16d-a1">You have to pull up in this system.  In the single fixed pulley system, you get a directional advantage.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LP.16d.106.1" accuracy="incorrect">It is harder to use this system than to use a single fixed pulley system.</studentAnswer>
+    <studentAnswer id="LP.16d.137.1" accuracy="correct">You have to pull up and in the other system you will pull down.</studentAnswer>
+    <studentAnswer id="LP.16d.142.1" accuracy="incorrect">The system is single movable system but the single fixed is easier to pull down.</studentAnswer>
+    <studentAnswer id="LP.16d.149.1" accuracy="incorrect">Pull down.</studentAnswer>
+    <studentAnswer id="LP.16d.152.1" accuracy="correct">It has direction advantage it can go up and down.</studentAnswer>
+    <studentAnswer id="LP.16d.179.1" accuracy="correct">In a single fixed gravity creates a directional advantage. But in this one gravity pulls against you when pulling up.</studentAnswer>
+    <studentAnswer id="LP.16d.212.1" accuracy="incorrect">You have to pull more ropes and a single fixed requires more effort.</studentAnswer>
+    <studentAnswer id="LP.16d.214.1" accuracy="incorrect">You have to use more effort because you pull down.</studentAnswer>
+    <studentAnswer id="LP.16d.244.1" accuracy="incorrect">The amount of ropes supporting it.</studentAnswer>
+    <studentAnswer id="LP.16d.263.1" accuracy="incorrect">Single fixed pulley system a smaller effort and only one mechanical advantage.</studentAnswer>
+    <studentAnswer id="LP.16d.290.1" accuracy="incorrect">Single fixed only has one rope connected to the load.</studentAnswer>
+    <studentAnswer id="LP.16d.314.1" accuracy="incorrect">It would make it harder because if you divide 360 by how many supporting ropes a single fixed pulley has which is one then it would be 360 newtons for the effort that is 180 newtons harder to lift the load.</studentAnswer>
+    <studentAnswer id="LP.16d.333.1" accuracy="incorrect">There are more materials.</studentAnswer>
+    <studentAnswer id="LP.16d.346.1" accuracy="incorrect">You do not have to pull much rope with the single fixed but it is heavier.</studentAnswer>
+    <studentAnswer id="LP.16d.350.1" accuracy="correct">The other disadvantage to this system is the effort is going up, so gravity is working against you.</studentAnswer>
+    <studentAnswer id="LP.16d.353.1" accuracy="incorrect">The disadvantage is distance in this one and in a single fixed it is that the load's weight stays the same the whole time.</studentAnswer>
+    <studentAnswer id="LP.16d.354.1" accuracy="incorrect">This system would take longer to set up.</studentAnswer>
+    <studentAnswer id="LP.16d.356.1" accuracy="incorrect">Another disadvantage would be you have to pull more rope to get it where you want it to go.</studentAnswer>
+    <studentAnswer id="LP.16d.357.1" accuracy="correct">The effort is going up which makes it harder.</studentAnswer>
+    <studentAnswer id="LP.16d.364.1" accuracy="correct">You would have to pull 3 times as much on this than you would a single fixed. Also, it is easier to pull down than up.</studentAnswer>
+    <studentAnswer id="LP.16d.382.1" accuracy="correct">In a single fixed you have directional advantage, and you pull the rope as far as the load moves, but a single fixed or single movable up has no directional advantage, and you have to pull the rope 3 times as far.</studentAnswer>
+    <studentAnswer id="LP.16d.385.1" accuracy="correct">You have to pull up. It may give you mechanical advantage, but it does not give you directional advantage so it takes just as much work.</studentAnswer>
+    <studentAnswer id="LP.16d.387.1" accuracy="correct">Single fixed you can pull down, which does not give you a mechanical advantage. But you do not pull the rope farther than the load.</studentAnswer>
+    <studentAnswer id="LP.16d.389.1" accuracy="correct">This pulley system gives you a mechanical advantage the single fixed gives directional advantage.</studentAnswer>
+    <studentAnswer id="LP.16d.419.1" accuracy="incorrect">Distance.</studentAnswer>
+    <studentAnswer id="LP.16d.498.1" accuracy="incorrect">Another disadvantage might be that you cannot lift the load as high as you can in the single fixed because you are using more string.</studentAnswer>
+    <studentAnswer id="LP.16d.499.1" accuracy="incorrect">You have to pull twice as much rope to lift the load.</studentAnswer>
+    <studentAnswer id="LP.16d.571.1" accuracy="correct">A mechanical advantage. A single fixed pulley gives you a directional advantage.</studentAnswer>
+    <studentAnswer id="LP.16d.592.1" accuracy="correct">Another disadvantage might be the size of the load. 360 newtons is quite a large load to be pulling upward!</studentAnswer>
+    <studentAnswer id="LP.16d.610.1" accuracy="incorrect">You have to use less effort.</studentAnswer>
+    <studentAnswer id="LP.16d.631.1" accuracy="correct">Compared to a single fixed pulley system, you would not have a directional advantage.</studentAnswer>
+    <studentAnswer id="LP.16d.632.1" accuracy="correct">You do not have a directional advantage.</studentAnswer>
+    <studentAnswer id="LP.16d.638.1" accuracy="correct">You have to pull up on this pulley system. On the single fixed you get a directional advantage.</studentAnswer>
+    <studentAnswer id="LP.16d.647.1" accuracy="correct">This system has a directional disadvantage and the single fixed has a mechanical disadvantage.</studentAnswer>
+  </studentAnswers>
+</question>

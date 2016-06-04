@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="LF_28a2" module="LF">
+  <questionText>Use the "slope" and "no slope" stream-table maps and logs on the facing page to answer these questions. What information do you get from the stream-table logs that you do not get from the stream-table maps?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_28a2-a1">You can see how much time is taken for the earth materials to move.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.28a2.381.1" accuracy="incorrect">The minutes and seconds of when the events happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.403.1" accuracy="incorrect">What time everything happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.412.1" accuracy="incorrect">Whether it is slope or not.</studentAnswer>
+    <studentAnswer id="LF.28a2.416.1" accuracy="incorrect">That how much is the land that moved.</studentAnswer>
+    <studentAnswer id="LF.28a2.422.1" accuracy="correct">The information I got from the stream table but not from the stream tables are when earth materials slump and hole under the water source.</studentAnswer>
+    <studentAnswer id="LF.28a2.430.1" accuracy="incorrect">What the who form.</studentAnswer>
+    <studentAnswer id="LF.28a2.432.1" accuracy="incorrect">More info of the experiment.</studentAnswer>
+    <studentAnswer id="LF.28a2.472.1" accuracy="incorrect">When the event happens and time between them.</studentAnswer>
+    <studentAnswer id="LF.28a2.473.1" accuracy="incorrect">On the stream table logs show when each event happened on the map show where each events looks like.</studentAnswer>
+    <studentAnswer id="LF.28a2.474.1" accuracy="incorrect">You can get information and time of how fast where and how.</studentAnswer>
+    <studentAnswer id="LF.28a2.522.1" accuracy="incorrect">Clay sand pebbles.</studentAnswer>
+    <studentAnswer id="LF.28a2.525.1" accuracy="incorrect">What time something happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.556.1" accuracy="correct">In a log it tells how is the canyons, deltas, erosions are happening at times. And it shows what the important times are there.</studentAnswer>
+    <studentAnswer id="LF.28a2.569.1" accuracy="incorrect">On the stream table log I got the times of everything.</studentAnswer>
+    <studentAnswer id="LF.28a2.595.1" accuracy="incorrect">When important events happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.596.1" accuracy="incorrect">You get from a stream table log is a log that tells main events in a certain time and not from a stream table map.</studentAnswer>
+    <studentAnswer id="LF.28a2.600.1" accuracy="incorrect">You get the time in which things happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.608.1" accuracy="incorrect">You get what time an important event happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.688.1" accuracy="incorrect">You can see when all the important happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.743.1" accuracy="incorrect">You get a chart telling you what happened during the time periods.</studentAnswer>
+    <studentAnswer id="LF.28a2.752.1" accuracy="incorrect">You get to see how long it took.</studentAnswer>
+    <studentAnswer id="LF.28a2.778.1" accuracy="incorrect">They explain it in words instead of using pictures.</studentAnswer>
+    <studentAnswer id="LF.28a2.808.1" accuracy="correct">The time the erosion and deposition happens.</studentAnswer>
+    <studentAnswer id="LF.28a2.826.1" accuracy="incorrect">You can see what time the events occurred.</studentAnswer>
+    <studentAnswer id="LF.28a2.839.1" accuracy="incorrect">The information I get from the stream table logs that I do not get from the maps is how long it took for it to form.</studentAnswer>
+    <studentAnswer id="LF.28a2.841.1" accuracy="incorrect">Elapsed time.</studentAnswer>
+    <studentAnswer id="LF.28a2.845.1" accuracy="incorrect">The information that you get from stream table logs rather from stream table maps is a log showing you the events of how the slope started from beginning to end.</studentAnswer>
+    <studentAnswer id="LF.28a2.846.1" accuracy="incorrect">What you get from the logs are the times.</studentAnswer>
+    <studentAnswer id="LF.28a2.855.1" accuracy="incorrect">Stream table logs show time while maps do not.</studentAnswer>
+    <studentAnswer id="LF.28a2.873.1" accuracy="incorrect">The information you get is that you do not see the hole in the materials sand.</studentAnswer>
+    <studentAnswer id="LF.28a2.885.1" accuracy="incorrect">You cannot see in the maps, the time where the things happen.</studentAnswer>
+    <studentAnswer id="LF.28a2.886.1" accuracy="incorrect">The time it happens.</studentAnswer>
+    <studentAnswer id="LF.28a2.923.1" accuracy="incorrect">The information that you do get is what happens and what form.</studentAnswer>
+    <studentAnswer id="LF.28a2.928.1" accuracy="incorrect">The information I did not get from the stream table logs that I did not get from the stream table maps was the events in order of time.</studentAnswer>
+    <studentAnswer id="LF.28a2.929.1" accuracy="incorrect">The information you get from a stream table log that you do not get on a stream table map are the keys that tells you what is what.</studentAnswer>
+    <studentAnswer id="LF.28a2.931.1" accuracy="incorrect">Is that the stream table log is much straight and more details.</studentAnswer>
+  </studentAnswers>
+</question>

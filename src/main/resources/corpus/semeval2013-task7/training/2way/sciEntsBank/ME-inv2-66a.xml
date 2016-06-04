@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_66a" module="ME">
+  <questionText>Look at the circuit in the picture. The gap between the D-cell and the switch needs to be connected. Can you use a piece of string to make the connection? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_66a-a1">No, string is an insulator, so the pathway would not be completed.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.66a.101.1" accuracy="incorrect">No because a string is not made of iron or steel.</studentAnswer>
+    <studentAnswer id="ME.66a.102.1" accuracy="incorrect">It would not work. It would have to be a wire to be able to work because it is not metal.</studentAnswer>
+    <studentAnswer id="ME.66a.107.1" accuracy="correct">No, because string is not made of metal and it cannot conduct electricity.</studentAnswer>
+    <studentAnswer id="ME.66a.108.1" accuracy="correct">No because it need to be made of metal to conduct electricity.</studentAnswer>
+    <studentAnswer id="ME.66a.111.1" accuracy="incorrect">No because the electricity will not go through the string because it has to be some steel or iron.</studentAnswer>
+    <studentAnswer id="ME.66a.113.1" accuracy="correct">Because it will not let electricity through the string.</studentAnswer>
+    <studentAnswer id="ME.66a.118.1" accuracy="incorrect">No it is not metal.</studentAnswer>
+    <studentAnswer id="ME.66a.119.1" accuracy="correct">No because a piece of string is not a conductor.</studentAnswer>
+    <studentAnswer id="ME.66a.120.1" accuracy="correct">No, because Electricity can only go thorough objects that contain metal.</studentAnswer>
+    <studentAnswer id="ME.66a.121.1" accuracy="incorrect">No, It has to be a wire to connect. The wire has things in it to connect it.</studentAnswer>
+    <studentAnswer id="ME.66a.140.1" accuracy="correct">No because string cannot hold the electricity through it.</studentAnswer>
+    <studentAnswer id="ME.66a.143.1" accuracy="correct">No because it is not metal and it does not allow electricity to get through.</studentAnswer>
+    <studentAnswer id="ME.66a.148.1" accuracy="incorrect">No. The string is not made of metal.</studentAnswer>
+    <studentAnswer id="ME.66a.153.1" accuracy="correct">You cannot because a piece of string is not steel metal or iron so it cannot go through.</studentAnswer>
+    <studentAnswer id="ME.66a.155.1" accuracy="incorrect">You could not do that because the circuit would not make it.</studentAnswer>
+    <studentAnswer id="ME.66a.159.1" accuracy="incorrect">No, because it is made of thread.</studentAnswer>
+    <studentAnswer id="ME.66a.173.1" accuracy="incorrect">No because the string had not metal or iron.</studentAnswer>
+    <studentAnswer id="ME.66a.174.1" accuracy="incorrect">No, it will not work because you have to have some kind of metal to make it work.</studentAnswer>
+    <studentAnswer id="ME.66a.178.1" accuracy="incorrect">No it has to hook up to the D-cell.</studentAnswer>
+    <studentAnswer id="ME.66a.181.1" accuracy="correct">You cannot because it is an insulator.</studentAnswer>
+    <studentAnswer id="ME.66a.183.1" accuracy="correct">No, because electricity does not flow through string.</studentAnswer>
+    <studentAnswer id="ME.66a.191.1" accuracy="correct">It could not because electricity cannot go through sting.</studentAnswer>
+    <studentAnswer id="ME.66a.208.1" accuracy="correct">No, because a piece of string does not have electricity in it.</studentAnswer>
+    <studentAnswer id="ME.66a.216.1" accuracy="incorrect">No! You need another wire to connection.</studentAnswer>
+    <studentAnswer id="ME.66a.225.1" accuracy="correct">No, because it needs a path of electricity. It would need a wire.</studentAnswer>
+    <studentAnswer id="ME.66a.227.1" accuracy="incorrect">No, because it does not have a wire and it cannot get energy.</studentAnswer>
+    <studentAnswer id="ME.66a.228.1" accuracy="correct">No because a piece of string is not something made of wire and cannot carry electricity through that type of material.</studentAnswer>
+    <studentAnswer id="ME.66a.245.1" accuracy="incorrect">No, because it does not have any metal.</studentAnswer>
+    <studentAnswer id="ME.66a.247.1" accuracy="incorrect">Yes and why is that up put in the 2 holes and the you can make electricity.</studentAnswer>
+    <studentAnswer id="ME.66a.250.1" accuracy="correct">No, because the electricity cannot flow through the yarn.</studentAnswer>
+    <studentAnswer id="ME.66a.251.1" accuracy="correct">No, you cannot. That is because it does not conduct electricity.</studentAnswer>
+    <studentAnswer id="ME.66a.253.1" accuracy="incorrect">No because you need to have a aluminum foil.</studentAnswer>
+    <studentAnswer id="ME.66a.278.1" accuracy="correct">You cannot use a piece of string because it has no electricity in it.</studentAnswer>
+    <studentAnswer id="ME.66a.292.1" accuracy="incorrect">No because it is a String.</studentAnswer>
+    <studentAnswer id="ME.66a.293.1" accuracy="incorrect">No because the string is not a wire.</studentAnswer>
+    <studentAnswer id="ME.66a.323.1" accuracy="correct">You cannot use a piece of string to make a connection because only aluminum, iron, steel and brass can.</studentAnswer>
+  </studentAnswers>
+</question>

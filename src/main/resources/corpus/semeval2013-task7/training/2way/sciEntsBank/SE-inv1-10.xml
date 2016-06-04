@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_10" module="SE">
+  <questionText>Bryan taped a golf tee to a globe of the Earth. He shined a flashlight on the globe. The best way for Bryan to demonstrate how shadows change during the day would be to: (rotate the globe.) move the flashlight. Why would this best demonstrate how shadows change during the day?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_10-a1">Shadows change during the day because the Earth is turning. The Sun stays in one place.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.10.102.1" accuracy="incorrect">It would best show it because the earth always rotates around the sun.</studentAnswer>
+    <studentAnswer id="SE.10.105.1" accuracy="correct">Why the shadow changes during the day because our earth rotates around.</studentAnswer>
+    <studentAnswer id="SE.10.113.1" accuracy="incorrect">Because the earth rotate. And the sun moves to another way.</studentAnswer>
+    <studentAnswer id="SE.10.115.1" accuracy="correct">If the globe rotate the shadow the earth move very slow around all of us. The shadow move because like every minute when we move.</studentAnswer>
+    <studentAnswer id="SE.10.117.1" accuracy="correct">Because the earth rotates which causes the shadow to move but the sun stays where it is at.</studentAnswer>
+    <studentAnswer id="SE.10.128.1" accuracy="correct">Rotate the globe because the sun does not move is the earth that is moving.</studentAnswer>
+    <studentAnswer id="SE.10.148.1" accuracy="incorrect">When the flashlight moves, the shadow moves too.</studentAnswer>
+    <studentAnswer id="SE.10.150.1" accuracy="correct">Because it is a sign and the earth moves not the sun.</studentAnswer>
+    <studentAnswer id="SE.10.161.1" accuracy="correct">When the globe moves every minute the sun face the other way.</studentAnswer>
+    <studentAnswer id="SE.10.164.1" accuracy="incorrect">Because it rotates around the sun.</studentAnswer>
+    <studentAnswer id="SE.10.179.1" accuracy="incorrect">This would be a good demonstrate because the sun does not move the earth and the shadow would move around.</studentAnswer>
+    <studentAnswer id="SE.10.184.1" accuracy="incorrect">Because the sun is going around us while the earth spins in circles which makes it go around.</studentAnswer>
+    <studentAnswer id="SE.10.185.1" accuracy="incorrect">Because the need to tell and see what did it happen there or where and somewhere it could be.</studentAnswer>
+    <studentAnswer id="SE.10.192.1" accuracy="incorrect">The shadows are true the day because get night dark.</studentAnswer>
+    <studentAnswer id="SE.10.244.1" accuracy="incorrect">To get a small object and glue it to a flat surface. Then get outside put in the sun and record every hour until the sun goes down.</studentAnswer>
+    <studentAnswer id="SE.10.246.1" accuracy="correct">When you rotate the globe the sun is not moving. And when you think that the sun is moving it is really not. You are the one that is moving.</studentAnswer>
+    <studentAnswer id="SE.10.251.1" accuracy="correct">Because as the day goes the earth rotates.</studentAnswer>
+    <studentAnswer id="SE.10.255.1" accuracy="incorrect">The shadow change bigger and smaller because the sun is moving around the earth.</studentAnswer>
+    <studentAnswer id="SE.10.257.1" accuracy="correct">Because the earth moves and the sun does not.</studentAnswer>
+    <studentAnswer id="SE.10.317.1" accuracy="correct">Because it would show one side and the other that is why I picked rotate the globe.</studentAnswer>
+    <studentAnswer id="SE.10.322.1" accuracy="incorrect">Because the earth now rotates around the sun and at different time of the day you shadow will move.</studentAnswer>
+    <studentAnswer id="SE.10.327.1" accuracy="correct">By turning the globe.</studentAnswer>
+    <studentAnswer id="SE.10.328.1" accuracy="incorrect">The shadow in the morning is long and the sun is pointing south when it is in the morning and it in the afternoon it is start the shadow.</studentAnswer>
+    <studentAnswer id="SE.10.384.1" accuracy="correct">Because the sun does not move the earth does.</studentAnswer>
+    <studentAnswer id="SE.10.388.1" accuracy="incorrect">Because the sun does not move. It is the car that rotates. So if you move the flashlight it will get off track.</studentAnswer>
+    <studentAnswer id="SE.10.389.1" accuracy="incorrect">It will show where the light is falling to tell where the shadow will fall.</studentAnswer>
+    <studentAnswer id="SE.10.391.1" accuracy="incorrect">He would move the flashlight around and the shadow would move. If he started the globe the flashlight would just be shining on the globe and not the golf tee so he would not be figuring out how shadows change during the day.</studentAnswer>
+    <studentAnswer id="SE.10.409.1" accuracy="correct">The flashlight would represent the sun, and the sun does not rotate. However, the earth does rotate.</studentAnswer>
+    <studentAnswer id="SE.10.494.1" accuracy="correct">It would be the best to demonstrate how shadows change during the day because the sun does not move and the earth rotates around the sun. So rotating the earth would show how shadows rotate during the day.</studentAnswer>
+    <studentAnswer id="SE.10.504.1" accuracy="correct">Because it would demonstrate the earth rotating.</studentAnswer>
+    <studentAnswer id="SE.10.511.1" accuracy="correct">It would best demonstrate shadows change because the flashlight is acting as the sun, and the globe as the earth, so the earth would rotate, not the sun.</studentAnswer>
+    <studentAnswer id="SE.10.517.1" accuracy="correct">Because the earth rotates around not the sun rotates around the earth.</studentAnswer>
+    <studentAnswer id="SE.10.542.1" accuracy="incorrect">Because you can see them better and you can mark down the spot your shadow was at.</studentAnswer>
+    <studentAnswer id="SE.10.570.1" accuracy="incorrect">Because if you rotate the globe it does not do anything. When you move the flashlight the shadow and that is why I pick move the flashlight.</studentAnswer>
+    <studentAnswer id="SE.10.580.1" accuracy="correct">Because the only way it would move to a different place is if you rotate the globe. If you were just moving the flashlight it will not really do anything.</studentAnswer>
+    <studentAnswer id="SE.10.612.1" accuracy="correct">It is easy because if it was like the earth and the sun the sun does not move. It is the earth.</studentAnswer>
+  </studentAnswers>
+</question>

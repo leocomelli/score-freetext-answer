@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_1" module="MX">
+  <questionText>Gerry used a paper filter to separate a mixture of sand, salt, and water. Think about particle size and answer this question: Why did the salt go through the filter while the sand got caught?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_1-a1">The dissolved salt particles are small enough to go through the holes in the filter paper, but the sand particles are too large.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.1.532.1" accuracy="incorrect">I think it is because the salt was small enough and the sand was too big for it. The salt had gone away dissolved. Sand particles was too big.</studentAnswer>
+    <studentAnswer id="MX.1.629.1" accuracy="correct">Because the salt fit through the holes in the filter.</studentAnswer>
+    <studentAnswer id="MX.1.638.1" accuracy="incorrect">The salt is a smaller grain. The sand is more chunky and thicker so it not easy for it to go through.</studentAnswer>
+    <studentAnswer id="MX.1.639.1" accuracy="correct">Because the salt was a smaller particle than the sand.</studentAnswer>
+  </studentAnswers>
+</question>

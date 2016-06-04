@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="EM_33b" module="EM">
+  <questionText>You used 3 scratch tools in class to test minerals for hardness: your fingernail, a penny, and a paperclip. If a mineral can be scratched by a penny, you can be sure that a (paperclip) will also scratch it. Explain how you know that tool would scratch the mineral.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_33b-a1">A paperclip is harder than a penny, so if a penny can scratch a mineral, a paperclip can also scratch the mineral.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.33b.384.1" accuracy="correct">I know the paperclip would scratch it because a paperclip is harder than a penny.</studentAnswer>
+    <studentAnswer id="EM.33b.397.1" accuracy="correct">I knew that because the paperclip is harder than the penny.</studentAnswer>
+    <studentAnswer id="EM.33b.402.1" accuracy="correct">I know that the paperclip would scratch the mineral because a paperclip is harder than a penny.</studentAnswer>
+    <studentAnswer id="EM.33b.427.1" accuracy="incorrect">Because the paperclip is an easier item to scratch a rock or mineral than a penny.</studentAnswer>
+    <studentAnswer id="EM.33b.429.1" accuracy="correct">I know that a paperclip will scratch it because it is the hardest tool that we used out of a fingernail, penny and paperclip.</studentAnswer>
+    <studentAnswer id="EM.33b.432.1" accuracy="correct">I know because the paperclip is a harder tool so if a softer tool can scratch it so can the paperclip.</studentAnswer>
+    <studentAnswer id="EM.33b.433.1" accuracy="correct">The paperclip can scratch the penny and the penny cannot scratch the paperclip so the paperclip is harder.</studentAnswer>
+    <studentAnswer id="EM.33b.434.1" accuracy="correct">You can scratch the penny with the paperclip so the penny is softer and if the penny could scratch the paperclip can scratch it.</studentAnswer>
+    <studentAnswer id="EM.33b.436.1" accuracy="correct">A paperclip is harder because we scratched the penny with the paperclip. The penny got a scratch.</studentAnswer>
+    <studentAnswer id="EM.33b.437.1" accuracy="correct">I know because a paperclip is harder than the penny. I figured that out by scratching the penny with the paperclip and it was harder.</studentAnswer>
+    <studentAnswer id="EM.33b.438.1" accuracy="correct">I know because a penny is softer than a paperclip.</studentAnswer>
+    <studentAnswer id="EM.33b.444.1" accuracy="correct">I know it because if a penny could scratch it I know that a paperclip can scratch a penny so a paperclip is harder than a penny. That is how I know.</studentAnswer>
+    <studentAnswer id="EM.33b.452.1" accuracy="correct">A paperclip is harder than a penny.</studentAnswer>
+    <studentAnswer id="EM.33b.458.1" accuracy="correct">Paperclip is harder than penny. So it should be able to scratch also.</studentAnswer>
+    <studentAnswer id="EM.33b.466.1" accuracy="incorrect">If the paperclip scratches it then the penny scratches it because they are almost the same hardness.</studentAnswer>
+    <studentAnswer id="EM.33b.467.1" accuracy="correct">Because the penny is the middle hardness and the paperclip is the hardest that is how I know it should scratched.</studentAnswer>
+    <studentAnswer id="EM.33b.472.1" accuracy="correct">Because it is the hardest tool.</studentAnswer>
+    <studentAnswer id="EM.33b.473.1" accuracy="correct">We listed the tool from least hardness to hard. This is the list. Fingernail, penny, paperclip.</studentAnswer>
+    <studentAnswer id="EM.33b.477.1" accuracy="incorrect">Because if the penny can scratch it the paperclip can too.</studentAnswer>
+    <studentAnswer id="EM.33b.488.1" accuracy="incorrect">Because if it is kind of hard as a penny.</studentAnswer>
+    <studentAnswer id="EM.33b.491.1" accuracy="incorrect">If you scratched the mineral with a penny you can sure scratch it with a paperclip because the penny or washer is harder than the paperclip so the paperclip can scratch the mineral.</studentAnswer>
+    <studentAnswer id="EM.33b.492.1" accuracy="incorrect">If the hardest tool can scratch the mineral then the second hardest can.</studentAnswer>
+    <studentAnswer id="EM.33b.494.1" accuracy="correct">I would know because the paperclip is the hardest so it should scratch the mineral.</studentAnswer>
+    <studentAnswer id="EM.33b.499.1" accuracy="correct">A paperclip is harder than a penny and the paperclip is like a penny.</studentAnswer>
+    <studentAnswer id="EM.33b.500.1" accuracy="incorrect">A paperclip to scratch a mineral you will see that it will have a scratch or it did not.</studentAnswer>
+    <studentAnswer id="EM.33b.501.1" accuracy="incorrect">Because if the washer is harder and I know that the paperclip is hard.</studentAnswer>
+    <studentAnswer id="EM.33b.503.1" accuracy="incorrect">Because a paperclip is harder than the washer and if the washer can scratch the mineral then the paperclip would scratch the minerals.</studentAnswer>
+    <studentAnswer id="EM.33b.504.1" accuracy="incorrect">If a washer scratched the mineral and the paperclip is harder than the washer than it would scratch the mineral too.</studentAnswer>
+    <studentAnswer id="EM.33b.521.1" accuracy="incorrect">You can scratch a mineral but the rock has to have a soft rock to do it.</studentAnswer>
+    <studentAnswer id="EM.33b.523.1" accuracy="correct">A paperclip is the hardest so if a penny can a paperclip can.</studentAnswer>
+    <studentAnswer id="EM.33b.532.1" accuracy="incorrect">Because it is just like a penny.</studentAnswer>
+    <studentAnswer id="EM.33b.561.1" accuracy="incorrect">A paperclip is also hard and it can make a mark.</studentAnswer>
+    <studentAnswer id="EM.33b.567.1" accuracy="incorrect">You 3 tools class test for your.</studentAnswer>
+    <studentAnswer id="EM.33b.570.1" accuracy="correct">Because it is bigger and harder.</studentAnswer>
+    <studentAnswer id="EM.33b.573.1" accuracy="incorrect">Because it is harder and it cannot scratch it.</studentAnswer>
+    <studentAnswer id="EM.33b.576.1" accuracy="incorrect">Because a penny is almost like a paperclip.</studentAnswer>
+    <studentAnswer id="EM.33b.593.1" accuracy="incorrect">Because a penny is a little bit harder than a fingernail and if a penny scratches a fingernail would scratch.</studentAnswer>
+    <studentAnswer id="EM.33b.601.1" accuracy="incorrect">I know that a paperclip will scratch it because a paperclip is stronger than a penny. So if a penny can scratch it, then a paperclip can scratch it.</studentAnswer>
+    <studentAnswer id="EM.33b.602.1" accuracy="incorrect">Because a penny is harder than a fingernail so that means that a penny is like the one that is harder than a fingernail.</studentAnswer>
+    <studentAnswer id="EM.33b.609.1" accuracy="correct">Because the paperclip is the hardest tool and the penny is almost the hardest so the paperclip can scratch the mineral.</studentAnswer>
+  </studentAnswers>
+</question>

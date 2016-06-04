@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<question id="VB_12d" module="VB">
+  <questionText>Describe the relationship between the length of the string and the number of swings a swinger makes in 15 seconds.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_12d-a1">The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.12d.381.1" accuracy="correct">The longer the swinger the less swings it makes.</studentAnswer>
+    <studentAnswer id="VB.12d.388.1" accuracy="incorrect">How fast the swinger is and how far it has to travel to complete one rotation.</studentAnswer>
+    <studentAnswer id="VB.12d.401.1" accuracy="correct">The longer the string the less swings or, the shorter the string the more swings.</studentAnswer>
+    <studentAnswer id="VB.12d.406.1" accuracy="correct">The longer the string the less it swings because it takes longer to swing.</studentAnswer>
+    <studentAnswer id="VB.12d.416.1" accuracy="correct">The shorter it is it swings more, and the longer it is it swings less.</studentAnswer>
+    <studentAnswer id="VB.12d.423.1" accuracy="correct">The longer the swinging string is the less times it will swing and when it is a smaller string it goes faster.</studentAnswer>
+    <studentAnswer id="VB.12d.431.1" accuracy="correct">The shorter the string the faster it swings and the longer the string the slower it swings.</studentAnswer>
+    <studentAnswer id="VB.12d.448.1" accuracy="correct">The longer the pendulum it will not swing that much.</studentAnswer>
+    <studentAnswer id="VB.12d.452.1" accuracy="incorrect">If the swinger is longer, than it has a longer distance to swing.</studentAnswer>
+    <studentAnswer id="VB.12d.454.1" accuracy="correct">I smaller the string the more amount of numbers.</studentAnswer>
+    <studentAnswer id="VB.12d.458.1" accuracy="correct">The longer the string the less swings the shorter the more swings.</studentAnswer>
+    <studentAnswer id="VB.12d.462.1" accuracy="correct">If the string is smaller it swings more times if it is longer it swings less times.</studentAnswer>
+    <studentAnswer id="VB.12d.469.1" accuracy="correct">The longer the string, the longer the traveling distance so the less times if goes back and forth.</studentAnswer>
+    <studentAnswer id="VB.12d.475.1" accuracy="incorrect">The relationship between the string and swinger is that they are different areas and lengths.</studentAnswer>
+    <studentAnswer id="VB.12d.477.1" accuracy="incorrect">If you made your string like 25 centimeters long it would probably swing 10 to 12 times because it is sort of long and short.</studentAnswer>
+    <studentAnswer id="VB.12d.483.1" accuracy="correct">If the string is shorter, it will swing more than if the string is long.</studentAnswer>
+    <studentAnswer id="VB.12d.486.1" accuracy="correct">If the string is short it goes faster swings a lot more than a long one.</studentAnswer>
+    <studentAnswer id="VB.12d.489.1" accuracy="incorrect">The string should be short and it will go faster.</studentAnswer>
+    <studentAnswer id="VB.12d.495.1" accuracy="correct">If the string is longer it will go slower.</studentAnswer>
+    <studentAnswer id="VB.12d.497.1" accuracy="correct">The shorter the string the more times it swings.</studentAnswer>
+    <studentAnswer id="VB.12d.498.1" accuracy="correct">The smaller the string the more the swing. The longer the string less swings.</studentAnswer>
+    <studentAnswer id="VB.12d.501.1" accuracy="incorrect">That they both work together.</studentAnswer>
+    <studentAnswer id="VB.12d.503.1" accuracy="correct">Well if the string is long it swings less times but if it is short it swings more times.</studentAnswer>
+    <studentAnswer id="VB.12d.511.1" accuracy="correct">If the swinger is smaller it will swing faster if it was longer it will swing slower, If it is really really long it will only swing 5 times.</studentAnswer>
+    <studentAnswer id="VB.12d.523.1" accuracy="incorrect">It would make 30 swings in 15 seconds.</studentAnswer>
+    <studentAnswer id="VB.12d.525.1" accuracy="incorrect">It can swing 30 seconds and not stop when you swing it.</studentAnswer>
+    <studentAnswer id="VB.12d.530.1" accuracy="correct">If the string is made shorter it will swing more. If the string is made longer it will swing less.</studentAnswer>
+    <studentAnswer id="VB.12d.533.1" accuracy="correct">The bigger the length the slower it is the smaller the length is the faster.</studentAnswer>
+    <studentAnswer id="VB.12d.535.1" accuracy="incorrect">They each have to be ready to swing.</studentAnswer>
+    <studentAnswer id="VB.12d.537.1" accuracy="incorrect">If they made a swinger for like 20 inches it can swing less or high.</studentAnswer>
+    <studentAnswer id="VB.12d.539.1" accuracy="incorrect">It changes the number of the swing.</studentAnswer>
+    <studentAnswer id="VB.12d.542.1" accuracy="correct">Is because the longer the string the shorter of swings.</studentAnswer>
+    <studentAnswer id="VB.12d.626.1" accuracy="correct">The longer the less swings.</studentAnswer>
+    <studentAnswer id="VB.12d.628.1" accuracy="incorrect">In 15 seconds it will swing 12 times.</studentAnswer>
+    <studentAnswer id="VB.12d.634.1" accuracy="correct">How long the string is how much it got less swings. How short the string is how much it got more swings.</studentAnswer>
+    <studentAnswer id="VB.12d.638.1" accuracy="correct">The shorter the string the more swings the longer the string the less the swings.</studentAnswer>
+    <studentAnswer id="VB.12d.643.1" accuracy="correct">The longer the string the less swings The shorter the string the more swings.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="EM_48b" module="EM">
+  <questionText>Emily evaporated a solution and drew a picture of the crystals that remained. Using the crystal-shape key below, what was dissolved in the solution? A. Epsom salt (B. alum) C. sodium thiosulfate.  Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_48b-a1">The crystals are the same shape as the alum crystals.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.48b.105.1" accuracy="incorrect">I chose this answer because I remember what type it is because I remembered.</studentAnswer>
+    <studentAnswer id="EM.48b.112.1" accuracy="incorrect">The key on the bottom and the match.</studentAnswer>
+    <studentAnswer id="EM.48b.115.1" accuracy="incorrect">I see the same picture or shape.</studentAnswer>
+    <studentAnswer id="EM.48b.121.1" accuracy="correct">Because on the key alum is a hexagon with a box in it and lines on the net observation it is the same.</studentAnswer>
+    <studentAnswer id="EM.48b.139.1" accuracy="incorrect">Because the crystals in the circle are the same as the crystals in the alum square.</studentAnswer>
+    <studentAnswer id="EM.48b.154.1" accuracy="incorrect">The picture looks like the alum.</studentAnswer>
+    <studentAnswer id="EM.48b.179.1" accuracy="incorrect">Because of its shaped like a hexagon with a square inside.</studentAnswer>
+    <studentAnswer id="EM.48b.214.1" accuracy="correct">They have the same shape.</studentAnswer>
+    <studentAnswer id="EM.48b.216.1" accuracy="incorrect">Because I know what to do with the key.</studentAnswer>
+    <studentAnswer id="EM.48b.220.1" accuracy="incorrect">I chose the answer because in the key below in the middle is alum and it looks the same as the one above.</studentAnswer>
+    <studentAnswer id="EM.48b.241.1" accuracy="incorrect">Because it looks the same as her observation.</studentAnswer>
+    <studentAnswer id="EM.48b.252.1" accuracy="incorrect">It is the same crystals.</studentAnswer>
+    <studentAnswer id="EM.48b.279.1" accuracy="incorrect">Because they look the same.</studentAnswer>
+    <studentAnswer id="EM.48b.280.1" accuracy="incorrect">It look the same.</studentAnswer>
+    <studentAnswer id="EM.48b.354.1" accuracy="incorrect">Because it is crystals and the things look like them.</studentAnswer>
+    <studentAnswer id="EM.48b.361.1" accuracy="incorrect">It looks like little diamonds, but it is salt.</studentAnswer>
+    <studentAnswer id="EM.48b.395.1" accuracy="incorrect">I chose this answer because the picture in the circle and the picture square look the same.</studentAnswer>
+    <studentAnswer id="EM.48b.402.1" accuracy="incorrect">I chose this answer because the shape and design looks the same.</studentAnswer>
+    <studentAnswer id="EM.48b.439.1" accuracy="incorrect">I chose it because that is the only crystal that looks like alum.</studentAnswer>
+    <studentAnswer id="EM.48b.444.1" accuracy="incorrect">Alum has things inside so I look at the picture and it has things inside so I knew it was alum.</studentAnswer>
+    <studentAnswer id="EM.48b.500.1" accuracy="incorrect">Because they have the same shape and they have the same size and they have squares inside them.</studentAnswer>
+    <studentAnswer id="EM.48b.502.1" accuracy="incorrect">Because they have squares inside of it, they have lines going to the outside of it, and it has sides on the outside.</studentAnswer>
+    <studentAnswer id="EM.48b.503.1" accuracy="correct">Because it is the same shape and has the same design in it.</studentAnswer>
+    <studentAnswer id="EM.48b.509.1" accuracy="correct">Because the picture that Emily drew looks just like the alum in the crystal sheet key and they are both the same shape and have the same pattern.</studentAnswer>
+    <studentAnswer id="EM.48b.523.1" accuracy="incorrect">Alum looks exactly a like it in the dish.</studentAnswer>
+    <studentAnswer id="EM.48b.525.1" accuracy="incorrect">Because alum is the same one up there and I remembered studying it.</studentAnswer>
+    <studentAnswer id="EM.48b.530.1" accuracy="incorrect">Because Alum looks like that.</studentAnswer>
+    <studentAnswer id="EM.48b.536.1" accuracy="incorrect">Why I chose that answer is that it looks like Alum.</studentAnswer>
+    <studentAnswer id="EM.48b.557.1" accuracy="correct">Because alum has a hexagon shape.</studentAnswer>
+    <studentAnswer id="EM.48b.567.1" accuracy="incorrect">Alum answer.</studentAnswer>
+    <studentAnswer id="EM.48b.598.1" accuracy="incorrect">Because it look 3D or like a box the same shape.</studentAnswer>
+    <studentAnswer id="EM.48b.609.1" accuracy="incorrect">Because I looked at the crystals and looked at the key and compared it. Then I saw a match.</studentAnswer>
+    <studentAnswer id="EM.48b.631.1" accuracy="incorrect">It is match is.</studentAnswer>
+    <studentAnswer id="EM.48b.639.1" accuracy="incorrect">Because the alum matches.</studentAnswer>
+    <studentAnswer id="EM.48b.645.1" accuracy="incorrect">Because the picture matches.</studentAnswer>
+    <studentAnswer id="EM.48b.647.1" accuracy="incorrect">Because it has the same shape and size.</studentAnswer>
+  </studentAnswers>
+</question>

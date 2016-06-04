@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="ME_7a" module="ME">
+  <questionText>Lee has an object he wants to test to see if it is an insulator or a conductor. He is going to use the circuit you see in the picture. Explain how he can use the circuit to test the object.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_7a-a1">Lee should put one of the loose wires on one part of the object and the other loose wire on another part of the object and see if the object completes the circuit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.7a.101.1" accuracy="incorrect">He could not because the 2 wires need to be touching.</studentAnswer>
+    <studentAnswer id="ME.7a.120.1" accuracy="correct">He can use the circuit by touching the wires to the object.</studentAnswer>
+    <studentAnswer id="ME.7a.141.1" accuracy="incorrect">To see if the energy goes through it or not to make a circuit.</studentAnswer>
+    <studentAnswer id="ME.7a.146.1" accuracy="incorrect">Lee can touch the wire hangout and the meter will ran.</studentAnswer>
+    <studentAnswer id="ME.7a.147.1" accuracy="incorrect">The wire have to be together so it can work so if they out They cannot work.</studentAnswer>
+    <studentAnswer id="ME.7a.148.1" accuracy="correct">Put the 2 wires that are off the board and put them to each end of the object. If the motor runs it is a conductor. If the motor does not run it is an insulator.</studentAnswer>
+    <studentAnswer id="ME.7a.149.1" accuracy="incorrect">He can by putting the 2 wires together.</studentAnswer>
+    <studentAnswer id="ME.7a.152.1" accuracy="incorrect">Touch the wires together.</studentAnswer>
+    <studentAnswer id="ME.7a.153.1" accuracy="correct">You can touch one wire on one end and the other on the other side to see if it will run or not.</studentAnswer>
+    <studentAnswer id="ME.7a.154.1" accuracy="incorrect">He could get a piece of metal or iron and put it between the 2 wires and turn the switch on or you could put the 2 wires together and turn the switch on.</studentAnswer>
+    <studentAnswer id="ME.7a.154b.1" accuracy="correct">By putting the object on the 2 wires.</studentAnswer>
+    <studentAnswer id="ME.7a.155.1" accuracy="incorrect">He can put all the wires together to make a circle and have that run.</studentAnswer>
+    <studentAnswer id="ME.7a.173.1" accuracy="incorrect">You can touch those 2 wires together to contract electricity.</studentAnswer>
+    <studentAnswer id="ME.7a.174.1" accuracy="correct">Lee can put the object in the middle of the wires hanging down. Then you put the wires against the sides of the object.</studentAnswer>
+    <studentAnswer id="ME.7a.190.1" accuracy="incorrect">It will work.</studentAnswer>
+    <studentAnswer id="ME.7a.195.1" accuracy="incorrect">By putting the wires together.</studentAnswer>
+    <studentAnswer id="ME.7a.206.1" accuracy="incorrect">He could get a light bulb and try it out or he could get another battery.</studentAnswer>
+    <studentAnswer id="ME.7a.207.1" accuracy="incorrect">You can turn it on.</studentAnswer>
+    <studentAnswer id="ME.7a.208.1" accuracy="incorrect">By connecting 2 wires together.</studentAnswer>
+    <studentAnswer id="ME.7a.214.1" accuracy="incorrect">He can use the circuit by seeing if the object does anything if it works it is a conductor if it does not then it is an insulator.</studentAnswer>
+    <studentAnswer id="ME.7a.215.1" accuracy="incorrect">Connect the 2 wires to a light bulb.</studentAnswer>
+    <studentAnswer id="ME.7a.224.1" accuracy="incorrect">He can use the circuit to see if it will start to work.</studentAnswer>
+    <studentAnswer id="ME.7a.226.1" accuracy="incorrect">He can put the 2 wires at the bottom of the picture together and the things will start to move.</studentAnswer>
+    <studentAnswer id="ME.7a.227.1" accuracy="incorrect">He can use the circuit to test the object because all he needs to do is put the ends of wire together.</studentAnswer>
+    <studentAnswer id="ME.7a.228.1" accuracy="incorrect">He can use the circuit to test the object because the circuit will help the thing do what it is supposed to do.</studentAnswer>
+    <studentAnswer id="ME.7a.245.1" accuracy="incorrect">He can use it by putting it to an object and see if the meter will run.</studentAnswer>
+    <studentAnswer id="ME.7a.247.1" accuracy="incorrect">Start putting the wires on something and see if the motor will go put it to a metal and it might make the motor go.</studentAnswer>
+    <studentAnswer id="ME.7a.250.1" accuracy="correct">The 2 wires from the switch board and the D-cell. You take the wires and put them up to something and if the motor run it conducts electricity.</studentAnswer>
+    <studentAnswer id="ME.7a.251.1" accuracy="correct">He can put the 2 wires that are connected to the circuit and put it touching something.</studentAnswer>
+    <studentAnswer id="ME.7a.253.1" accuracy="correct">You have to put the object between the 2 wires.</studentAnswer>
+    <studentAnswer id="ME.7a.254.1" accuracy="incorrect">Lee can test some things on this objects and see if it works.</studentAnswer>
+    <studentAnswer id="ME.7a.256.1" accuracy="incorrect">Put it on something metal or a screw or a desk.</studentAnswer>
+    <studentAnswer id="ME.7a.278.1" accuracy="correct">You can put it between the 2 wires if it makes the motor work but if it does not then it is an insulator.</studentAnswer>
+    <studentAnswer id="ME.7a.314.1" accuracy="incorrect">She can put the wire to the other half of the D-cell and the switch and make it work.</studentAnswer>
+    <studentAnswer id="ME.7a.318.1" accuracy="incorrect">To run the motor use metal, but fabric will not work on it.</studentAnswer>
+  </studentAnswers>
+</question>

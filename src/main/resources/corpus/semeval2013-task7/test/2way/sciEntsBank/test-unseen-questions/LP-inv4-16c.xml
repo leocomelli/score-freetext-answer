@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="LP_16c" module="LP">
+  <questionText>Look at the illustration of the pulley system at the right to answer the questions. Explain the disadvantage of using this system compared to a single movable pulley system.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LP_16c-a1">You have to pull 3 times more rope (apply the effort over a distance 3 times farther than the distance the load moves).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LP.16c.103.1" accuracy="incorrect">The disadvantage of a single movable pulley is you have to pull or push the pulley up or down.</studentAnswer>
+    <studentAnswer id="LP.16c.111.1" accuracy="incorrect">You have to use more rope.</studentAnswer>
+    <studentAnswer id="LP.16c.120.1" accuracy="incorrect">You pull the effort up show how many Newtons you have to lift the load.</studentAnswer>
+    <studentAnswer id="LP.16c.126.1" accuracy="incorrect">You have to push or pull up or down.</studentAnswer>
+    <studentAnswer id="LP.16c.138.1" accuracy="correct">The disadvantage is that it is 3 times as much rope.</studentAnswer>
+    <studentAnswer id="LP.16c.139.1" accuracy="incorrect">You would pull 3 times.</studentAnswer>
+    <studentAnswer id="LP.16c.144.1" accuracy="correct">You have to pull 3 times as much.</studentAnswer>
+    <studentAnswer id="LP.16c.147.1" accuracy="incorrect">You would have to apply.</studentAnswer>
+    <studentAnswer id="LP.16c.153.1" accuracy="incorrect">3 times harder to pull.</studentAnswer>
+    <studentAnswer id="LP.16c.172.1" accuracy="incorrect">It takes more rope.</studentAnswer>
+    <studentAnswer id="LP.16c.174.1" accuracy="incorrect">You will have to pull the rope farther.</studentAnswer>
+    <studentAnswer id="LP.16c.221.1" accuracy="incorrect">You will have to pull more rope.</studentAnswer>
+    <studentAnswer id="LP.16c.229.1" accuracy="incorrect">Pull longer.</studentAnswer>
+    <studentAnswer id="LP.16c.241.1" accuracy="incorrect">The distance of a single movable is 20 meters instead of 30 meters of that system.</studentAnswer>
+    <studentAnswer id="LP.16c.247.1" accuracy="incorrect">You have less distance to move the load.</studentAnswer>
+    <studentAnswer id="LP.16c.254.1" accuracy="incorrect">A single movable pulley has less rope, so it does not have to travel as much from 10 meters to lift the load.</studentAnswer>
+    <studentAnswer id="LP.16c.256.1" accuracy="incorrect">The picture shows a single fixed to single moveable effort upward which needs more effort than a single moveable.</studentAnswer>
+    <studentAnswer id="LP.16c.257.1" accuracy="incorrect">The single movable does not have as many rope supporting the load.</studentAnswer>
+    <studentAnswer id="LP.16c.259.1" accuracy="incorrect">There are more ropes that you have to pull.</studentAnswer>
+    <studentAnswer id="LP.16c.281.1" accuracy="incorrect">It takes more effort to lift the load.</studentAnswer>
+    <studentAnswer id="LP.16c.290.1" accuracy="incorrect">Single movable has a better directional advantage.</studentAnswer>
+    <studentAnswer id="LP.16c.320.1" accuracy="incorrect">This requires more rope to be pulled.</studentAnswer>
+    <studentAnswer id="LP.16c.323.1" accuracy="incorrect">There is more rope so you have to pull longer.</studentAnswer>
+    <studentAnswer id="LP.16c.329.1" accuracy="incorrect">For this you have to use an extra pulley.</studentAnswer>
+    <studentAnswer id="LP.16c.332.1" accuracy="incorrect">You have to pull a lot of rope.</studentAnswer>
+    <studentAnswer id="LP.16c.346.1" accuracy="incorrect">You have to pull more rope to get it farther with the single fixed, single movable upward.</studentAnswer>
+    <studentAnswer id="LP.16c.364.1" accuracy="correct">On this system you have to pull 3 times as much compared to 2 times as much rope.</studentAnswer>
+    <studentAnswer id="LP.16c.366.1" accuracy="incorrect">You have to pull the rope twice the distance you want to move it.</studentAnswer>
+    <studentAnswer id="LP.16c.381.1" accuracy="incorrect">You must pull the rope farther.</studentAnswer>
+    <studentAnswer id="LP.16c.383.1" accuracy="incorrect">There is more rope so you would have to pull longer.</studentAnswer>
+    <studentAnswer id="LP.16c.388.1" accuracy="incorrect">The disadvantage is that you would have to go to the top of the building then go back down.</studentAnswer>
+    <studentAnswer id="LP.16c.416.1" accuracy="incorrect">The disadvantage is that it is easier to lift with a single movable because it moves up faster to where you need it.</studentAnswer>
+    <studentAnswer id="LP.16c.421.1" accuracy="incorrect">A directional advantage.</studentAnswer>
+    <studentAnswer id="LP.16c.422.1" accuracy="incorrect">You need a longer string.</studentAnswer>
+    <studentAnswer id="LP.16c.423.1" accuracy="incorrect">Mechanical.</studentAnswer>
+    <studentAnswer id="LP.16c.489.1" accuracy="incorrect">There is twice as much rope.</studentAnswer>
+    <studentAnswer id="LP.16c.600.1" accuracy="incorrect">The single fixed to single movable upward is good to use, but single movable is a lot easier for you to lift the load because there is less rope supporting it.</studentAnswer>
+    <studentAnswer id="LP.16c.605.1" accuracy="incorrect">There are 3 rope supporting the load for 2 single fixed or single movable upward effort so on a single movable there are only 2 ropes supporting the load so the reduction is greater on a single fixed or single movable upward effort.</studentAnswer>
+    <studentAnswer id="LP.16c.627.1" accuracy="correct">You lose distance, for this pulley you have to move the effort 15 centimeters to move the load 5 centimeters. For the single movable to move the load 5 centimeters you only have to move the effort 10 centimeters.</studentAnswer>
+    <studentAnswer id="LP.16c.647.1" accuracy="incorrect">This pulley has a directional disadvantage and so does the single movable.</studentAnswer>
+  </studentAnswers>
+</question>

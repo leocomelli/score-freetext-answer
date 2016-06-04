@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_51b" module="SE">
+  <questionText>Look at the 2 solar water heaters shown here. The black triangular area is the solar collector in each container. If both heaters contain the same amount of water, would you expect the temperature change in heater X to be greater than, less than, or the same as the temperature change in heater Y after 30 minutes? (Same) Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_51b-a1">The black areas in the 2 collectors (and the collectors themselves) are the same size. The amount of heat absorbed will be the same so the temperature change will also be the same.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.51b.103.1" accuracy="incorrect">Takes the same amount of space.</studentAnswer>
+    <studentAnswer id="SE.51b.108.1" accuracy="incorrect">They look the same and it could hold the same amount of water.</studentAnswer>
+    <studentAnswer id="SE.51b.114.1" accuracy="incorrect">The reason why I picked less than is because I think that Y is going to contain the different amount after 30 minutes.</studentAnswer>
+    <studentAnswer id="SE.51b.118.1" accuracy="correct">I expect the temperature would be the same because they were the same on everything.</studentAnswer>
+    <studentAnswer id="SE.51b.123.1" accuracy="correct">It really does not matter the only thing that matters is the amount of area.</studentAnswer>
+    <studentAnswer id="SE.51b.132.1" accuracy="incorrect">It is not the shape that makes the difference, it is the area.</studentAnswer>
+    <studentAnswer id="SE.51b.164.1" accuracy="incorrect">Because it has the same amount of water and heat.</studentAnswer>
+    <studentAnswer id="SE.51b.182.1" accuracy="correct">I think it will just be the same temperature. Because it is the same shape.</studentAnswer>
+    <studentAnswer id="SE.51b.191.1" accuracy="correct">X and Y both have the same solar water heater so the temperature will be the same.</studentAnswer>
+    <studentAnswer id="SE.51b.255.1" accuracy="incorrect">Because I think it might be higher.</studentAnswer>
+    <studentAnswer id="SE.51b.257.1" accuracy="incorrect">They both are the same size, have the same water amount, and are left out for the same time.</studentAnswer>
+    <studentAnswer id="SE.51b.258.1" accuracy="incorrect">Because the temperature would just go higher.</studentAnswer>
+    <studentAnswer id="SE.51b.319.1" accuracy="incorrect">Because until you get to 5 minute to 25 minute these different numbers but until the 30 it goes down and sometimes it could be the same.</studentAnswer>
+    <studentAnswer id="SE.51b.325.1" accuracy="incorrect">More? Because they are not facing at the same direction the Y is facing right and the X is facing left.</studentAnswer>
+    <studentAnswer id="SE.51b.331.1" accuracy="incorrect">I chose less than because X is a little bit more smaller.</studentAnswer>
+    <studentAnswer id="SE.51b.339.1" accuracy="incorrect">Because water really does not change very much.</studentAnswer>
+    <studentAnswer id="SE.51b.388.1" accuracy="correct">Same, because they are the same size triangles and in the same size boxes, with the same amount of water.</studentAnswer>
+    <studentAnswer id="SE.51b.389.1" accuracy="correct">I think the temperature will stay the same because they are the same shapes.</studentAnswer>
+    <studentAnswer id="SE.51b.393.1" accuracy="correct">Because the solar water heaters are the same size and there is the same amount of water in each container.</studentAnswer>
+    <studentAnswer id="SE.51b.402.1" accuracy="correct">I think they would both heat up the same because they are the same size and shape just faced a different way.</studentAnswer>
+    <studentAnswer id="SE.51b.418.1" accuracy="correct">Because they look the same so it would be the same.</studentAnswer>
+    <studentAnswer id="SE.51b.427.1" accuracy="incorrect">They both have the same amount of surface area in the container and are filled with the same amount of water.</studentAnswer>
+    <studentAnswer id="SE.51b.434.1" accuracy="correct">It would be the same because they both have the same amount of water and they are the same size.</studentAnswer>
+    <studentAnswer id="SE.51b.439.1" accuracy="correct">I think same because they both have the same amount of black and the surface area look the same, and they are both the same shape.</studentAnswer>
+    <studentAnswer id="SE.51b.441.1" accuracy="correct">I think X and Y's temperature would be the same because it is the same just flipped.</studentAnswer>
+    <studentAnswer id="SE.51b.487.1" accuracy="incorrect">It would be the same because for it to be greater than or less than it depends where you put the solar water heater.</studentAnswer>
+    <studentAnswer id="SE.51b.490.1" accuracy="incorrect">It would be greater than because the cover on X is bigger than the one on Y.</studentAnswer>
+    <studentAnswer id="SE.51b.492.1" accuracy="correct">I think it would be the same because there is no change in variables.</studentAnswer>
+    <studentAnswer id="SE.51b.508.1" accuracy="correct">It would be the same because it does not matter what position the black surface area is, it matters what size.</studentAnswer>
+    <studentAnswer id="SE.51b.511.1" accuracy="correct">I think the same because both the heaters are the same.</studentAnswer>
+    <studentAnswer id="SE.51b.529.1" accuracy="correct">They have the same surface area, just flipped so they will heat equally.</studentAnswer>
+    <studentAnswer id="SE.51b.532.1" accuracy="incorrect">The triangles are the same size.</studentAnswer>
+    <studentAnswer id="SE.51b.533.1" accuracy="correct">I chose same because they are the same figure and size. Y is facing the other way though it is still the same.</studentAnswer>
+    <studentAnswer id="SE.51b.540.1" accuracy="correct">Because they are the same size and same color so it is going to be the same temperature.</studentAnswer>
+    <studentAnswer id="SE.51b.545.1" accuracy="incorrect">Because they both have the same amount of water.</studentAnswer>
+    <studentAnswer id="SE.51b.602.1" accuracy="correct">Because if you put something in at the same time it will get the same results as the other one.</studentAnswer>
+  </studentAnswers>
+</question>

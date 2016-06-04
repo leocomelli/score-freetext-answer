@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ST_52a" module="ST">
+  <questionText>When a seed germinates, why does the root grow first?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_52a-a1">The root grows first so the root can take up water for the plant.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.52a.382.1" accuracy="correct">Because it sucks up the water as food for the plant and stem.</studentAnswer>
+    <studentAnswer id="ST.52a.386.1" accuracy="incorrect">Because they need roots to produce the leaves.</studentAnswer>
+    <studentAnswer id="ST.52a.394.1" accuracy="incorrect">It grows first to get food and nutrients.</studentAnswer>
+    <studentAnswer id="ST.52a.396.1" accuracy="correct">The root grows first because the seed needs water to grow.</studentAnswer>
+    <studentAnswer id="ST.52a.422.1" accuracy="incorrect">Because the root is the seed or the to be growing the hair.</studentAnswer>
+    <studentAnswer id="ST.52a.426.1" accuracy="incorrect">So the seed does not die.</studentAnswer>
+    <studentAnswer id="ST.52a.429.1" accuracy="incorrect">Because it need to stay it will not grow at all.</studentAnswer>
+    <studentAnswer id="ST.52a.459.1" accuracy="correct">So it can suck up water to grow.</studentAnswer>
+    <studentAnswer id="ST.52a.464.1" accuracy="correct">Because the roots go down to the water the leaves go towards the sun.</studentAnswer>
+    <studentAnswer id="ST.52a.465.1" accuracy="incorrect">To gather water for food.</studentAnswer>
+    <studentAnswer id="ST.52a.466.1" accuracy="incorrect">The root grows first because it needs to make food for the seed.</studentAnswer>
+    <studentAnswer id="ST.52a.474.1" accuracy="incorrect">When a seed germinates the root grows first to hold the plant up right.</studentAnswer>
+    <studentAnswer id="ST.52a.486.1" accuracy="incorrect">It comes out before the other.</studentAnswer>
+    <studentAnswer id="ST.52a.487.1" accuracy="correct">So it can gather water to grow.</studentAnswer>
+    <studentAnswer id="ST.52a.502.1" accuracy="incorrect">Because that is a part of the plant.</studentAnswer>
+    <studentAnswer id="ST.52a.504.1" accuracy="incorrect">The root grows fruit because root always grows first.</studentAnswer>
+    <studentAnswer id="ST.52a.526.1" accuracy="incorrect">Because the root searches for the nutrients so the embryo germinates into a stem and leaves.</studentAnswer>
+    <studentAnswer id="ST.52a.528.1" accuracy="incorrect">Root hair.</studentAnswer>
+    <studentAnswer id="ST.52a.531.1" accuracy="correct">To get water for the seed.</studentAnswer>
+    <studentAnswer id="ST.52a.532.1" accuracy="correct">Because it has to get the food and water.</studentAnswer>
+    <studentAnswer id="ST.52a.534.1" accuracy="incorrect">So it can search for food.</studentAnswer>
+    <studentAnswer id="ST.52a.539.1" accuracy="incorrect">So the root would search for water.</studentAnswer>
+    <studentAnswer id="ST.52a.557.1" accuracy="correct">The root grows first because the root suck up the water that the seed needs.</studentAnswer>
+    <studentAnswer id="ST.52a.560.1" accuracy="correct">So the plant can get water.</studentAnswer>
+    <studentAnswer id="ST.52a.569.1" accuracy="incorrect">So the seed can get out and grow.</studentAnswer>
+    <studentAnswer id="ST.52a.575.1" accuracy="incorrect">So the flower could grow on it.</studentAnswer>
+    <studentAnswer id="ST.52a.592.1" accuracy="incorrect">It is because a root produces the plant.</studentAnswer>
+    <studentAnswer id="ST.52a.594.1" accuracy="correct">The roots grow first to kind of support the plant and to soak up the water.</studentAnswer>
+    <studentAnswer id="ST.52a.596.1" accuracy="incorrect">The reason that the root grows first is because the root is the part underground and so that is why it grows first.</studentAnswer>
+    <studentAnswer id="ST.52a.598.1" accuracy="incorrect">When the seed germinates the roots grow first because it somewhat help hold the plant up because it holds on to the did sort of.</studentAnswer>
+    <studentAnswer id="ST.52a.600.1" accuracy="correct">Because that is what a plant need to grow. The roots are the part of the plant that sucks up the water.</studentAnswer>
+    <studentAnswer id="ST.52a.626.1" accuracy="correct">So the root can suck up the water.</studentAnswer>
+    <studentAnswer id="ST.52a.627.1" accuracy="incorrect">So it can soak up food.</studentAnswer>
+    <studentAnswer id="ST.52a.630.1" accuracy="incorrect">So it can keep growing so it will not.</studentAnswer>
+    <studentAnswer id="ST.52a.637.1" accuracy="incorrect">Because it grows as late.</studentAnswer>
+    <studentAnswer id="ST.52a.638.1" accuracy="correct">It has to suck up all the water so that it can grow.</studentAnswer>
+  </studentAnswers>
+</question>

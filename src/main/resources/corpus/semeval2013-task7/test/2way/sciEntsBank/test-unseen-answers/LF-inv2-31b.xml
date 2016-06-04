@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_31b" module="LF">
+  <questionText>What process forms deltas? A. Gravity B. Erosion (C. Deposition) D. Decomposition.  Explain how deltas form.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_31b-a1">Earth materials erode and are carried by flowing water (a river). The earth materials form a delta when the materials are dropped off or deposited when the water stops flowing (at the mouth of a river).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.31b.389.1" accuracy="incorrect">Water pushes sand to make a slope.</studentAnswer>
+    <studentAnswer id="LF.31b.410.1" accuracy="incorrect">By erosion.</studentAnswer>
+    <studentAnswer id="LF.31b.526.1" accuracy="incorrect">Deltas are formed by erosion and deposition.</studentAnswer>
+    <studentAnswer id="LF.31b.827.1" accuracy="incorrect">Deltas form by the water wearing down the mouth and dragging it down.</studentAnswer>
+  </studentAnswers>
+</question>

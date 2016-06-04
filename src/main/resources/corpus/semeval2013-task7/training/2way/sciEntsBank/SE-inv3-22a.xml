@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_22a" module="SE">
+  <questionText>Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. What does the graph tell you about the effect of using a cover?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_22a-a1">Water heats up faster when covered.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.22a.105.1" accuracy="correct">The blue covered was very hot.</studentAnswer>
+    <studentAnswer id="SE.22a.106.1" accuracy="incorrect">That they both are at 5, 10, 15, 20.</studentAnswer>
+    <studentAnswer id="SE.22a.110.1" accuracy="correct">The covered one get hotter than the uncovered ones.</studentAnswer>
+    <studentAnswer id="SE.22a.114.1" accuracy="incorrect">It tells about using the solar water heater on the data chart.</studentAnswer>
+    <studentAnswer id="SE.22a.127.1" accuracy="correct">The one is that are cover they heat up more sun and it gets hotter.</studentAnswer>
+    <studentAnswer id="SE.22a.130.1" accuracy="correct">That covered sometimes gets the hottest.</studentAnswer>
+    <studentAnswer id="SE.22a.155.1" accuracy="incorrect">That the sun absorbs more heat, with dark colors.</studentAnswer>
+    <studentAnswer id="SE.22a.157.1" accuracy="incorrect">Is that covered is more lighter.</studentAnswer>
+    <studentAnswer id="SE.22a.158.1" accuracy="correct">That by being covered the colors attract more heat.</studentAnswer>
+    <studentAnswer id="SE.22a.160.1" accuracy="correct">Blue was the darkest color and it was covered and that is how it got hotter.</studentAnswer>
+    <studentAnswer id="SE.22a.162.1" accuracy="correct">That the cover absorbs more heat.</studentAnswer>
+    <studentAnswer id="SE.22a.163.1" accuracy="correct">It absorbs more heat.</studentAnswer>
+    <studentAnswer id="SE.22a.179.1" accuracy="correct">It tells if you use a cover it gets hotter than not using a cover.</studentAnswer>
+    <studentAnswer id="SE.22a.188.1" accuracy="incorrect">It tells me because they are air in different position. And they are more longer than covered.</studentAnswer>
+    <studentAnswer id="SE.22a.190.1" accuracy="correct">When you cover the container you get more heat than uncovered.</studentAnswer>
+    <studentAnswer id="SE.22a.192.1" accuracy="incorrect">The blue covered have more time than red covered.</studentAnswer>
+    <studentAnswer id="SE.22a.243.1" accuracy="incorrect">How the temperature goes upward down.</studentAnswer>
+    <studentAnswer id="SE.22a.244.1" accuracy="correct">With a cover it does make it warmer but I think it depends on what color is underneath it.</studentAnswer>
+    <studentAnswer id="SE.22a.245.1" accuracy="correct">If something is covered with a dark color it will receive more heat from the sun and the heat will stay in.</studentAnswer>
+    <studentAnswer id="SE.22a.246.1" accuracy="incorrect">That the solar heat is getting hotter. And that it is up to about 20 minute almost to 25.</studentAnswer>
+    <studentAnswer id="SE.22a.335.1" accuracy="incorrect">Because it goes to the side and all different ways.</studentAnswer>
+    <studentAnswer id="SE.22a.396.1" accuracy="correct">That it will heat up faster than uncovered would.</studentAnswer>
+    <studentAnswer id="SE.22a.397.1" accuracy="correct">Heats up faster.</studentAnswer>
+    <studentAnswer id="SE.22a.399.1" accuracy="incorrect">Covering keeps the heat inside the container.</studentAnswer>
+    <studentAnswer id="SE.22a.407.1" accuracy="correct">It heats up faster.</studentAnswer>
+    <studentAnswer id="SE.22a.432.1" accuracy="incorrect">It tells me that if you use a cover the water will heat.</studentAnswer>
+    <studentAnswer id="SE.22a.439.1" accuracy="correct">It tells you that using a cover can make the water hotter because it is trap.</studentAnswer>
+    <studentAnswer id="SE.22a.499.1" accuracy="correct">It tells you that it will heat up faster.</studentAnswer>
+    <studentAnswer id="SE.22a.503.1" accuracy="correct">It the solar water heater has a cover it is going to get hotter.</studentAnswer>
+    <studentAnswer id="SE.22a.506.1" accuracy="correct">It gets hot faster with covered because when water starts to get hot no air comes in it starts to get hotter.</studentAnswer>
+    <studentAnswer id="SE.22a.528.1" accuracy="incorrect">It will kept on raising and raising.</studentAnswer>
+    <studentAnswer id="SE.22a.533.1" accuracy="correct">It tells me if you put a red uncovered it will not heat as much, If you put a red covered it will heat more than the red uncovered.</studentAnswer>
+    <studentAnswer id="SE.22a.539.1" accuracy="correct">The graph show that using a cover heats up the water on absorbs heat faster than without a cover because if it has a cover the breeze will not blow away the heat of the surface of the water.</studentAnswer>
+    <studentAnswer id="SE.22a.565.1" accuracy="incorrect">That the blue covered one is the hottest and the red uncovered one is the coldest.</studentAnswer>
+    <studentAnswer id="SE.22a.580.1" accuracy="correct">By saying that the covered one get more hotter and the darker it is it is going to end up hot.</studentAnswer>
+    <studentAnswer id="SE.22a.612.1" accuracy="correct">The graph tells us that the blue covered will get hotter because with the lid it got much more hotter.</studentAnswer>
+  </studentAnswers>
+</question>

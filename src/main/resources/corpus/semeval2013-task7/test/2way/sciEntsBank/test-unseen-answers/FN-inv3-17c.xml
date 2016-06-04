@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_17c" module="FN">
+  <questionText>Paula wants to test a food to see if it contains acid and/or sugar. When Paula added water and yeast to a sample of the food and put the mixture in a warm water bath, the mixture began to fizz and bubble. Paula tested for the other substance. What would the test results tell her?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_17c-a1">If gas (carbon dioxide) is produced, the food contains acid. If no gas is produced, the food does not contain acid.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.17c.331.1" accuracy="incorrect">What amount of sugar and acid that is in the food.</studentAnswer>
+    <studentAnswer id="FN.17c.399.1" accuracy="correct">If the syringe goes up and if it bubbles that means it has acid.</studentAnswer>
+    <studentAnswer id="FN.17c.410.1" accuracy="correct">Well if it has a lot of volume it has sugar and if the syringe goes all the way up it has acid.</studentAnswer>
+    <studentAnswer id="FN.17c.478.1" accuracy="incorrect">That the food contains acid and sugar.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_4a" module="SE">
+  <questionText>What is a heat sink?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_4a-a1">A heat sink is any material that absorbs (a lot of) heat.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.4a.107.1" accuracy="incorrect">The cement is heat sink and the wood is heat sink.</studentAnswer>
+    <studentAnswer id="SE.4a.109.1" accuracy="incorrect">Something that could hold energy.</studentAnswer>
+    <studentAnswer id="SE.4a.123.1" accuracy="correct">A heat sink is an object that can attract heat.</studentAnswer>
+    <studentAnswer id="SE.4a.126.1" accuracy="correct">Heat sink is anything that gets or contains heat.</studentAnswer>
+    <studentAnswer id="SE.4a.144.1" accuracy="incorrect">It is when the sun absorbs the water from the sand.</studentAnswer>
+    <studentAnswer id="SE.4a.159.1" accuracy="correct">A heat sink is something that traps heat in. Like water it heats up and traps the heat to make boiling water.</studentAnswer>
+    <studentAnswer id="SE.4a.174.1" accuracy="incorrect">A heat sink is a temperature the water heats up very slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.175.1" accuracy="incorrect">A heat sink heats up slowly and cools down slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.182.1" accuracy="correct">A heat sink is a material that can hold a lot of heats. Heat sink heats up materials.</studentAnswer>
+    <studentAnswer id="SE.4a.184.1" accuracy="incorrect">A heat sink is water that heats up more slowly and cools down more slowly than earth dry materials.</studentAnswer>
+    <studentAnswer id="SE.4a.190.1" accuracy="incorrect">When the temperature in the thermometer goes down or decreases.</studentAnswer>
+    <studentAnswer id="SE.4a.191.1" accuracy="correct">Something that absorbs heat and loses heat slow like water.</studentAnswer>
+    <studentAnswer id="SE.4a.261.1" accuracy="incorrect">It is something like dry soil.</studentAnswer>
+    <studentAnswer id="SE.4a.311.1" accuracy="incorrect">It is an earth material that takes energy and releases it slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.314.1" accuracy="incorrect">It is an earth material that absorbs energy slowly and releases it slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.316.1" accuracy="incorrect">A heat sink is an earth material that absorbs energy slowly and releases it slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.382.1" accuracy="correct">It is a material that decreases heat such as water.</studentAnswer>
+    <studentAnswer id="SE.4a.384.1" accuracy="incorrect">When the temperature drops.</studentAnswer>
+    <studentAnswer id="SE.4a.396.1" accuracy="incorrect">When the heat starts to go down.</studentAnswer>
+    <studentAnswer id="SE.4a.405.1" accuracy="incorrect">It is a material that may lower heat.</studentAnswer>
+    <studentAnswer id="SE.4a.408.1" accuracy="incorrect">When the temperature drops.</studentAnswer>
+    <studentAnswer id="SE.4a.409.1" accuracy="correct">A heat sink is something that absorbs sunlight quickly. Water is the best heat sink.</studentAnswer>
+    <studentAnswer id="SE.4a.429.1" accuracy="incorrect">Heat sink is when the temperature drops.</studentAnswer>
+    <studentAnswer id="SE.4a.441.1" accuracy="incorrect">A heat sink is when a temperature goes up just a little or down a little.</studentAnswer>
+    <studentAnswer id="SE.4a.443.1" accuracy="correct">A heat sink is material that takes in more heat.</studentAnswer>
+    <studentAnswer id="SE.4a.487.1" accuracy="correct">Something that can absorb heat.</studentAnswer>
+    <studentAnswer id="SE.4a.493.1" accuracy="correct">A substance that can take in and give off heat.</studentAnswer>
+    <studentAnswer id="SE.4a.513.1" accuracy="correct">A heat sink is something that absorbs heat and gives it off slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.529.1" accuracy="correct">A heat sink is a material that heats up slowly and cools down slowly.</studentAnswer>
+    <studentAnswer id="SE.4a.531.1" accuracy="correct">A heat sink is when a material heats up slowly but stays warmer longer when cooling off.</studentAnswer>
+    <studentAnswer id="SE.4a.545.1" accuracy="incorrect">A heat sink is a heat that is wet.</studentAnswer>
+    <studentAnswer id="SE.4a.564.1" accuracy="incorrect">A material that slows down another.</studentAnswer>
+    <studentAnswer id="SE.4a.598.1" accuracy="correct">A heat sink is something takes long to cool down and get hot.</studentAnswer>
+    <studentAnswer id="SE.4a.602.1" accuracy="incorrect">A heat sink is something that takes water to absorb.</studentAnswer>
+    <studentAnswer id="SE.4a.605.1" accuracy="incorrect">A heat sink is not a thing like water.</studentAnswer>
+    <studentAnswer id="SE.4a.620.1" accuracy="incorrect">A heat sink is water because it absorb the slowly and it lets go slowly.</studentAnswer>
+  </studentAnswers>
+</question>

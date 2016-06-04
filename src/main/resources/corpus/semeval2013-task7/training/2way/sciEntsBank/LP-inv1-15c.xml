@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="LP_15c" module="LP">
+  <questionText>What is the relationship between the amount of effort required to lift the load and its distance from the fulcrum?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LP_15c-a1">If the effort is applied farther from the fulcrum, less effort will lift the load.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LP.15c.105.1" accuracy="incorrect">They both relate because one equals the other for a answer.</studentAnswer>
+    <studentAnswer id="LP.15c.107.1" accuracy="incorrect">They both help the scale by weighing the load.</studentAnswer>
+    <studentAnswer id="LP.15c.111.1" accuracy="correct">The farther away the effort is the easier it is to lift the load.</studentAnswer>
+    <studentAnswer id="LP.15c.112.1" accuracy="incorrect">Its distance 15 centimeters.</studentAnswer>
+    <studentAnswer id="LP.15c.183.1" accuracy="correct">The further the effort, the less effort is needed. The closer the effort, the more is needed.</studentAnswer>
+    <studentAnswer id="LP.15c.188.1" accuracy="correct">The farther away from the fulcrum the less effort is needed and the closer to the fulcrum the more effort.</studentAnswer>
+    <studentAnswer id="LP.15c.208.1" accuracy="incorrect">The closer the effort is to the fulcrum, the harder it is to lift the load.</studentAnswer>
+    <studentAnswer id="LP.15c.290.1" accuracy="incorrect">Joule equals force times distance.</studentAnswer>
+    <studentAnswer id="LP.15c.389.1" accuracy="correct">The closer the effort is to the fulcrum the more effort it would take but the further the effort would not be as much.</studentAnswer>
+    <studentAnswer id="LP.15c.452.1" accuracy="incorrect">When the effort gets farther away from the load the weight of the effort decreases.</studentAnswer>
+    <studentAnswer id="LP.15c.455.1" accuracy="correct">When effort far from the fulcrum the load gets lighter.</studentAnswer>
+    <studentAnswer id="LP.15c.456.1" accuracy="correct">The farther away the effort is from the fulcrum the greater advantage you get.</studentAnswer>
+    <studentAnswer id="LP.15c.461.1" accuracy="incorrect">The further the fulcrum lever is, closer it is the less it weighs.</studentAnswer>
+    <studentAnswer id="LP.15c.463.1" accuracy="correct">The farther it is the easier it is.</studentAnswer>
+    <studentAnswer id="LP.15c.486.1" accuracy="incorrect">When you move the effort further away the effort increases, when you move it in the effort decreases.</studentAnswer>
+    <studentAnswer id="LP.15c.487.1" accuracy="correct">As you move out it is easier.</studentAnswer>
+    <studentAnswer id="LP.15c.488.1" accuracy="correct">The relationship between the amount of effort required and its distance from the fulcrum is as the effort increased distance from the fulcrum the effort needed decreased.</studentAnswer>
+    <studentAnswer id="LP.15c.491.1" accuracy="correct">The farther the effort is from the fulcrum the less effort is needed.</studentAnswer>
+    <studentAnswer id="LP.15c.492.1" accuracy="correct">The farther away from the fulcrum the effort decreases.</studentAnswer>
+    <studentAnswer id="LP.15c.495.1" accuracy="incorrect">Instead of going it went down.</studentAnswer>
+    <studentAnswer id="LP.15c.501.1" accuracy="incorrect">Can be use of the amount to lift the load and to adjust the lever and load.</studentAnswer>
+    <studentAnswer id="LP.15c.502.1" accuracy="incorrect">The closer the scale more effort is needed to lift the load.</studentAnswer>
+    <studentAnswer id="LP.15c.523.1" accuracy="correct">As the effort gets farther from the fulcrum it is easier to lift the load.</studentAnswer>
+    <studentAnswer id="LP.15c.524.1" accuracy="correct">The farther away from the fulcrum less effort is needed.</studentAnswer>
+    <studentAnswer id="LP.15c.534.1" accuracy="incorrect">The relationship is the farther over the effort is the harder it is to lift.</studentAnswer>
+    <studentAnswer id="LP.15c.538.1" accuracy="incorrect">It is easier to lift when the load is closer to the fulcrum.</studentAnswer>
+    <studentAnswer id="LP.15c.571.1" accuracy="incorrect">The closer the load is to the fulcrum the less Newtons. The farther away from the fulcrum the load is the more Newtons.</studentAnswer>
+    <studentAnswer id="LP.15c.573.1" accuracy="correct">The farther away the effort is from the fulcrum the less effort it takes. The closer the effort is to the fulcrum the more effort it takes.</studentAnswer>
+    <studentAnswer id="LP.15c.575.1" accuracy="incorrect">It is harder to lift when the load is far from the load.</studentAnswer>
+    <studentAnswer id="LP.15c.601.1" accuracy="correct">The distance matters in this experiment. The closer the effort is to the fulcrum, the more effort it takes to lift the fulcrum.</studentAnswer>
+    <studentAnswer id="LP.15c.603.1" accuracy="incorrect">When the load is closer to the fulcrum it is easier to lift.</studentAnswer>
+    <studentAnswer id="LP.15c.604.1" accuracy="correct">The farther away the effort is from the fulcrum the easier it is to lift the load.</studentAnswer>
+    <studentAnswer id="LP.15c.608.1" accuracy="correct">The further away the effort is from the fulcrum the easier it is to pull.</studentAnswer>
+    <studentAnswer id="LP.15c.631.1" accuracy="incorrect">It takes more effort the farther away the load is from the fulcrum.</studentAnswer>
+    <studentAnswer id="LP.15c.634.1" accuracy="correct">When it was closer it was harder and when it was farther away it was easier.</studentAnswer>
+    <studentAnswer id="LP.15c.636.1" accuracy="incorrect">If the fulcrum is too close to the effort or the other way around it is harder. Same thing with the fulcrum and the load. It is harder to move it.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_42" module="VB">
+  <questionText>Don wanted to find out if a battery powered toy truck would always travel the same distance in 10 seconds no matter how heavy a load the truck carried. He placed one or more blocks (the load) in the back of the truck and recorded his results. (Each block had the same mass.) The following graph displays his results. What is the relationship between the number of blocks and the distance traveled by the truck in 10 seconds?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_42-a1">The more blocks the truck carries, the less distance the truck travels in 10 seconds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.42.444.1" accuracy="correct">The more blocks the less far it goes the less blocks the farther it goes.</studentAnswer>
+    <studentAnswer id="VB.42.458.1" accuracy="correct">When he had 0 blocks it went 5 meters and when he had 2 it went 3 meters when had 4 it went one meter.</studentAnswer>
+    <studentAnswer id="VB.42.495.1" accuracy="correct">The more blocks he adds the more heavier it gets so the more heavier it is the more slow distance it will go.</studentAnswer>
+    <studentAnswer id="VB.42.506.1" accuracy="incorrect">The truck goes slower and slower to travel in 10 seconds.</studentAnswer>
+  </studentAnswers>
+</question>

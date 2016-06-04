@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_4bp" module="PS">
+  <questionText>Darla tied one end of a string around a doorknob and held the other end in her hand. When she plucked the string (pulled and let go quickly) she heard a sound. How would the pitch change if Darla made the string longer?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_4b-a1">When the string is longer, the pitch will be lower.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.4b.332.1" accuracy="incorrect">It would be the same.</studentAnswer>
+    <studentAnswer id="PS.4b.495.1" accuracy="correct">Low.</studentAnswer>
+    <studentAnswer id="PS.4b.595.1" accuracy="incorrect">It would of got higher because it is a longer string so if she plucked it it still would be high.</studentAnswer>
+    <studentAnswer id="PS.4b.641.1" accuracy="correct">It would be low pitch.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_6b" module="ME">
+  <questionText>Look at the diagram of a circuit at the right. Will the motor run? Why?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_6b-a1">The circuit is not complete. The electrical pathway is broken.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.6b.101.1" accuracy="correct">I chose it because all the wires have to be hooked together to make a circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.105.1" accuracy="correct">I chose no because there has to be another wire connecting the 2 or you can use a switch.</studentAnswer>
+    <studentAnswer id="ME.6b.108.1" accuracy="correct">Because there needs to be another wire.</studentAnswer>
+    <studentAnswer id="ME.6b.113.1" accuracy="correct">Because it got half of it cut off so you cannot make it go back and forth.</studentAnswer>
+    <studentAnswer id="ME.6b.120.1" accuracy="correct">No because the circuit got cut off.</studentAnswer>
+    <studentAnswer id="ME.6b.121.1" accuracy="correct">It is not in a circle.</studentAnswer>
+    <studentAnswer id="ME.6b.140.1" accuracy="correct">I chose it because there needs to be more wires on the sign.</studentAnswer>
+    <studentAnswer id="ME.6b.141.1" accuracy="incorrect">To see if the energy goes through it or not to make a circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.149.1" accuracy="correct">It does not have the wire to make it a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.178.1" accuracy="correct">It is not a circuit at all.</studentAnswer>
+    <studentAnswer id="ME.6b.181.1" accuracy="correct">Because it is not flowing in a circle.</studentAnswer>
+    <studentAnswer id="ME.6b.185.1" accuracy="correct">I chose that answer because it is not a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.191.1" accuracy="correct">I chose it because the wire is not connected right to the D-cell.</studentAnswer>
+    <studentAnswer id="ME.6b.206.1" accuracy="incorrect">There is no source.</studentAnswer>
+    <studentAnswer id="ME.6b.207.1" accuracy="incorrect">The wire cannot make the motor run.</studentAnswer>
+    <studentAnswer id="ME.6b.208.1" accuracy="correct">Because the line are not connected.</studentAnswer>
+    <studentAnswer id="ME.6b.215.1" accuracy="correct">There is an open circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.216.1" accuracy="incorrect">Because there is a no battery for the motor to work.</studentAnswer>
+    <studentAnswer id="ME.6b.220.1" accuracy="incorrect">Because the is no D-cell.</studentAnswer>
+    <studentAnswer id="ME.6b.224.1" accuracy="incorrect">I chose that answer because there is no battery.</studentAnswer>
+    <studentAnswer id="ME.6b.225.1" accuracy="correct">No, because the circuit need to be connected on both sides.</studentAnswer>
+    <studentAnswer id="ME.6b.226.1" accuracy="correct">I picked that one because the line on the left is not hooked to anything.</studentAnswer>
+    <studentAnswer id="ME.6b.227.1" accuracy="incorrect">I chose that answer because it has a positive and a negative.</studentAnswer>
+    <studentAnswer id="ME.6b.247.1" accuracy="correct">I chose no because it is not a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.250.1" accuracy="correct">I chose no because the circuit is not closed.</studentAnswer>
+    <studentAnswer id="ME.6b.251.1" accuracy="correct">I chose no because it is not a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.254.1" accuracy="incorrect">I choose that answer because there is no switch to turn it on.</studentAnswer>
+    <studentAnswer id="ME.6b.277.1" accuracy="correct">Because it is not complete.</studentAnswer>
+    <studentAnswer id="ME.6b.278.1" accuracy="correct">No, because it is not a full circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.292.1" accuracy="correct">Because it no a circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.293.1" accuracy="correct">I chose that answer because it is not a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.313.1" accuracy="incorrect">It will not work because you have to have a battery or it will not work.</studentAnswer>
+    <studentAnswer id="ME.6b.314.1" accuracy="correct">It will not work because it have a open circuit.</studentAnswer>
+    <studentAnswer id="ME.6b.318.1" accuracy="correct">It is an open circuit so it will not run.</studentAnswer>
+    <studentAnswer id="ME.6b.323.1" accuracy="correct">I chose that answer because one of the 2 ends are not touching.</studentAnswer>
+    <studentAnswer id="ME.6b.383.1" accuracy="correct">It is not a complete circuit.</studentAnswer>
+  </studentAnswers>
+</question>

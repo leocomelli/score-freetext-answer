@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="FN_17a" module="FN">
+  <questionText>Paula wants to test a food to see if it contains acid and/or sugar. When Paula added water and yeast to a sample of the food and put the mixture in a warm water bath, the mixture began to fizz and bubble. What does this chemical reaction indicate?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_17a-a1">The food contains sugar.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.17a.111.1" accuracy="incorrect">Carbon Dioxide carbon dioxide.</studentAnswer>
+    <studentAnswer id="FN.17a.119.1" accuracy="correct">There is sugar in the mixture.</studentAnswer>
+    <studentAnswer id="FN.17a.138.1" accuracy="correct">The chemical reaction indicates that it has a lot of sugar in it.</studentAnswer>
+    <studentAnswer id="FN.17a.160.1" accuracy="incorrect">It indicates that there is acid.</studentAnswer>
+    <studentAnswer id="FN.17a.161.1" accuracy="correct">The chemical reaction indicates sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.177.1" accuracy="correct">The food has sugar in it.</studentAnswer>
+    <studentAnswer id="FN.17a.181.1" accuracy="correct">Chemical reaction means it has what you are looking for, sugar, acid, fat.</studentAnswer>
+    <studentAnswer id="FN.17a.182.1" accuracy="correct">That it contains sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.184.1" accuracy="correct">That the food she tested did contain sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.185.1" accuracy="correct">This chemical indicates sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.186.1" accuracy="incorrect">It had acid.</studentAnswer>
+    <studentAnswer id="FN.17a.217.1" accuracy="correct">It indicates that sugar is in the food.</studentAnswer>
+    <studentAnswer id="FN.17a.218.1" accuracy="correct">It indicates that there is sugar in that food.</studentAnswer>
+    <studentAnswer id="FN.17a.241.1" accuracy="correct">It indicates that sugar is in the food.</studentAnswer>
+    <studentAnswer id="FN.17a.250.1" accuracy="correct">This means that there was acid and or sugar in the product.</studentAnswer>
+    <studentAnswer id="FN.17a.255.1" accuracy="incorrect">It indicates that it has food in it.</studentAnswer>
+    <studentAnswer id="FN.17a.261.1" accuracy="correct">It indicates there is sugar in the food.</studentAnswer>
+    <studentAnswer id="FN.17a.267.1" accuracy="correct">It indicates that there is sugar in the food.</studentAnswer>
+    <studentAnswer id="FN.17a.287.1" accuracy="correct">It indicates a sugar test to see how much sugar there is.</studentAnswer>
+    <studentAnswer id="FN.17a.311.1" accuracy="incorrect">It probably has a lot of acid.</studentAnswer>
+    <studentAnswer id="FN.17a.320.1" accuracy="incorrect">It indicates carbon dioxide.</studentAnswer>
+    <studentAnswer id="FN.17a.334.1" accuracy="incorrect">That is has a lot of acid and vitamin C.</studentAnswer>
+    <studentAnswer id="FN.17a.336.1" accuracy="correct">That there is sugar in the food.</studentAnswer>
+    <studentAnswer id="FN.17a.337.1" accuracy="correct">That it has a lot of acid and sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.388.1" accuracy="incorrect">The reaction indicates that it has carbon dioxide.</studentAnswer>
+    <studentAnswer id="FN.17a.390.1" accuracy="correct">The chemical reaction indicates sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.417.1" accuracy="correct">That there is acid present yeast indicates sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.439.1" accuracy="correct">That the food had sugar in it and carbon dioxide.</studentAnswer>
+    <studentAnswer id="FN.17a.457.1" accuracy="incorrect">It indicates that the it has acid in it.</studentAnswer>
+    <studentAnswer id="FN.17a.472.1" accuracy="incorrect">The reaction indicates that yeast contains acid.</studentAnswer>
+    <studentAnswer id="FN.17a.479.1" accuracy="correct">The she tested sugar and it also indicates that the water was too hot.</studentAnswer>
+    <studentAnswer id="FN.17a.481.1" accuracy="correct">The chemical indicated carbon dioxide and sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.548.1" accuracy="correct">It indicates how much sugar there is.</studentAnswer>
+    <studentAnswer id="FN.17a.550.1" accuracy="correct">The chemical reaction indicates how much sugar is in the food.</studentAnswer>
+    <studentAnswer id="FN.17a.592.1" accuracy="correct">That the food she tested had a lot of sugar and because she probably put sugar in it.</studentAnswer>
+    <studentAnswer id="FN.17a.599.1" accuracy="correct">This chemical reaction indicates that there is sugar presence in the sample of the food.</studentAnswer>
+  </studentAnswers>
+</question>

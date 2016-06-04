@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_19b" module="FN">
+  <questionText>Susan has samples of 5 different foods. Using only the results of her experiment, how will Susan know which food contains the most sugar?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_19b-a1">Susan should compare the amount of gas in each bag. The bag with the most gas contains the food with the most sugar.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.19b.216.1" accuracy="incorrect">Susan will know which food contains the most sugar by comparing the amount of carbon dioxide each food sample has.</studentAnswer>
+    <studentAnswer id="FN.19b.424.1" accuracy="incorrect">The bag will be full of carbohydrate and it will be fat.</studentAnswer>
+    <studentAnswer id="FN.19b.514.1" accuracy="correct">She will know by measuring it also whichever has more bubbles.</studentAnswer>
+    <studentAnswer id="FN.19b.532.1" accuracy="incorrect">Whichever one has the highest volume.</studentAnswer>
+  </studentAnswers>
+</question>

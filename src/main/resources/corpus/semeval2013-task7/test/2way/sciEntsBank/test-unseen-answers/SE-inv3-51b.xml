@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_51b" module="SE">
+  <questionText>Look at the 2 solar water heaters shown here. The black triangular area is the solar collector in each container. If both heaters contain the same amount of water, would you expect the temperature change in heater X to be greater than, less than, or the same as the temperature change in heater Y after 30 minutes? (Same) Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_51b-a1">The black areas in the 2 collectors (and the collectors themselves) are the same size. The amount of heat absorbed will be the same so the temperature change will also be the same.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.51b.261.1" accuracy="incorrect">The as the day go on it gets cooler because the sun is going down.</studentAnswer>
+    <studentAnswer id="SE.51b.318.1" accuracy="correct">Because the triangles and containers are the same size and color they will both absorb the same amount of heat.</studentAnswer>
+    <studentAnswer id="SE.51b.398.1" accuracy="correct">I think the same because it is the same size, same shape, same color. It is just placed differently in the container which would not have an impact.</studentAnswer>
+    <studentAnswer id="SE.51b.497.1" accuracy="correct">They would be the same because they are the exact same size in the same position with the same size of containers.</studentAnswer>
+  </studentAnswers>
+</question>

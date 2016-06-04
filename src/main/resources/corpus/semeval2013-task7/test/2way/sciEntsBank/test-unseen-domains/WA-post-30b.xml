@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_30b" module="WA">
+  <questionText>Shanna stuck one end of a clear straw into a ball of clay. She filled the straw part way with water and marked the water level. She then placed it in the freezer. Which statement describes the level of the water (ice) in the straw after it froze? (Circle the one best answer.) A. The water level went down when the water froze. B. The water level stayed the same when the water froze. C. The water level went up when the water froze. Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_30b-a1">The level went up when the water froze because water expands when water freezes.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.30b.171.1" accuracy="incorrect">It stayed the same because there was something that was covering the bottom.</studentAnswer>
+    <studentAnswer id="WA.30b.173.1" accuracy="incorrect">When Shanna put the straw into the freezer the water level went down because cold water is less dense so the level went down.</studentAnswer>
+    <studentAnswer id="WA.30b.175.1" accuracy="correct">When water freezes it contracts then expands.</studentAnswer>
+    <studentAnswer id="WA.30b.176.1" accuracy="correct">When the water freezes the water molecules are trying to be the warmest so they huddle together then expand.</studentAnswer>
+    <studentAnswer id="WA.30b.179.1" accuracy="incorrect">Because if you put ice in water it makes water level go up.</studentAnswer>
+    <studentAnswer id="WA.30b.183.1" accuracy="incorrect">Because when water freezes it goes up.</studentAnswer>
+    <studentAnswer id="WA.30b.185.1" accuracy="incorrect">Because the water is less dense.</studentAnswer>
+    <studentAnswer id="WA.30b.188.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.190.1" accuracy="incorrect">The water level went down because the water molecules come together and the water level goes down.</studentAnswer>
+    <studentAnswer id="WA.30b.191.1" accuracy="incorrect">I think it stayed the same because all it did probably just stayed the same and suddenly it froze.</studentAnswer>
+    <studentAnswer id="WA.30b.196.1" accuracy="incorrect">Because the water makes the water more flat.</studentAnswer>
+    <studentAnswer id="WA.30b.206.1" accuracy="correct">When water freezes into ice, it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.210.1" accuracy="incorrect">Because when I put my water in the fridge or freezer.</studentAnswer>
+    <studentAnswer id="WA.30b.222.1" accuracy="incorrect">It goes down because it was so cold.</studentAnswer>
+    <studentAnswer id="WA.30b.225.1" accuracy="correct">Ice has bits of air in it and expanded.</studentAnswer>
+    <studentAnswer id="WA.30b.226.1" accuracy="incorrect">When water gets cooler it contracts.</studentAnswer>
+    <studentAnswer id="WA.30b.228.1" accuracy="incorrect">C because it like needs to come into place.</studentAnswer>
+    <studentAnswer id="WA.30b.229.1" accuracy="correct">When water freezes it expands therefore making the water level expand.</studentAnswer>
+    <studentAnswer id="WA.30b.232.1" accuracy="correct">I choose C because whenever I freeze some water in cup it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.241.1" accuracy="incorrect">The water contracted because the water was cold there water would of expanded if it was hot.</studentAnswer>
+    <studentAnswer id="WA.30b.242.1" accuracy="correct">Water expands when it is frozen into ice.</studentAnswer>
+    <studentAnswer id="WA.30b.246.1" accuracy="correct">The water level went up because when water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.247.1" accuracy="correct">When water freezes it expands so the water level had to go up.</studentAnswer>
+    <studentAnswer id="WA.30b.248.1" accuracy="incorrect">When water freezes it contracts and gets smaller.</studentAnswer>
+    <studentAnswer id="WA.30b.258.1" accuracy="incorrect">The reason I chose A was because when water freezes the temperature drops which make the water turn into a solid.</studentAnswer>
+    <studentAnswer id="WA.30b.260.1" accuracy="correct">When water is frozen it expands which makes it go higher.</studentAnswer>
+    <studentAnswer id="WA.30b.261.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.262.1" accuracy="incorrect">The water probably went down because it was probably colder than the other water.</studentAnswer>
+    <studentAnswer id="WA.30b.276.1" accuracy="incorrect">Because the temperature that is cold is at the bottom.</studentAnswer>
+    <studentAnswer id="WA.30b.278.1" accuracy="incorrect">When it gets colder the water level goes down.</studentAnswer>
+    <studentAnswer id="WA.30b.279.1" accuracy="correct">When water freezes it turns to ice, ice expands. So it went up.</studentAnswer>
+    <studentAnswer id="WA.30b.284.1" accuracy="incorrect">Because the soapy water had less water.</studentAnswer>
+    <studentAnswer id="WA.30b.285.1" accuracy="incorrect">It went down because cold contracts when it is cold in the freezer or something else.</studentAnswer>
+    <studentAnswer id="WA.30b.286.1" accuracy="incorrect">The water contracted because it was less dense.</studentAnswer>
+    <studentAnswer id="WA.30b.287.1" accuracy="incorrect">Because the water was dense.</studentAnswer>
+    <studentAnswer id="WA.30b.288.1" accuracy="correct">Water expands when freezes.</studentAnswer>
+    <studentAnswer id="WA.30b.292.1" accuracy="incorrect">When it is cold the water in the straw will go down before it freeze.</studentAnswer>
+    <studentAnswer id="WA.30b.299.1" accuracy="correct">Because water expands when you freeze the water and the water goes up.</studentAnswer>
+    <studentAnswer id="WA.30b.300.1" accuracy="incorrect">The water level will go up because when it freezes it goes up.</studentAnswer>
+    <studentAnswer id="WA.30b.347.1" accuracy="correct">When water is frozen it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.358.1" accuracy="incorrect">Because it cannot go down.</studentAnswer>
+    <studentAnswer id="WA.30b.364.1" accuracy="incorrect">When water gets cold the temperature drops.</studentAnswer>
+    <studentAnswer id="WA.30b.365.1" accuracy="incorrect">When the water froze it evaporated and the temperature dropped.</studentAnswer>
+    <studentAnswer id="WA.30b.369.1" accuracy="incorrect">When it froze it went down.</studentAnswer>
+    <studentAnswer id="WA.30b.381.1" accuracy="incorrect">Because it stayed the same.</studentAnswer>
+    <studentAnswer id="WA.30b.382.1" accuracy="correct">Water get froze it took more space.</studentAnswer>
+    <studentAnswer id="WA.30b.384.1" accuracy="correct">When water freezes it expand and takes up more room.</studentAnswer>
+    <studentAnswer id="WA.30b.387.1" accuracy="correct">Because water expands when it freezes.</studentAnswer>
+    <studentAnswer id="WA.30b.388.1" accuracy="correct">Water expands when it is frozen.</studentAnswer>
+    <studentAnswer id="WA.30b.395.1" accuracy="correct">When water freezes it expands meaning there is more space between the molecules.</studentAnswer>
+    <studentAnswer id="WA.30b.396.1" accuracy="correct">Because cold water expands and needs more space, so it goes up.</studentAnswer>
+    <studentAnswer id="WA.30b.399.1" accuracy="correct">When water freezes it expands, so the water level went up.</studentAnswer>
+    <studentAnswer id="WA.30b.402.1" accuracy="correct">When water froze it is a expand more rooms.</studentAnswer>
+    <studentAnswer id="WA.30b.404.1" accuracy="correct">The water expands when it is frozen.</studentAnswer>
+    <studentAnswer id="WA.30b.416.1" accuracy="correct">Ice is more dense and takes up more room. When it froze, the ice needed more room so it went up.</studentAnswer>
+    <studentAnswer id="WA.30b.417.1" accuracy="correct">Water level went up because when water freezes to ice it expands or goes up.</studentAnswer>
+    <studentAnswer id="WA.30b.418.1" accuracy="correct">The water level went up because when water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.419.1" accuracy="correct">Cold water expands when it freeze.</studentAnswer>
+    <studentAnswer id="WA.30b.423.1" accuracy="correct">The water level went up when the water froze because it expanded.</studentAnswer>
+    <studentAnswer id="WA.30b.424.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.426.1" accuracy="incorrect">Because when water freezes, it contracts so the level went up.</studentAnswer>
+    <studentAnswer id="WA.30b.427.1" accuracy="correct">The ice goes up because it needs more space.</studentAnswer>
+    <studentAnswer id="WA.30b.429.1" accuracy="correct">Water expands well it is freezing.</studentAnswer>
+    <studentAnswer id="WA.30b.430.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.431.1" accuracy="correct">It went up because when water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.432.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.451.1" accuracy="incorrect">Ice contracts so it would be lower.</studentAnswer>
+    <studentAnswer id="WA.30b.453.1" accuracy="incorrect">Because it stays in one spot and freezes in one spot.</studentAnswer>
+    <studentAnswer id="WA.30b.458.1" accuracy="correct">Ice expands.</studentAnswer>
+    <studentAnswer id="WA.30b.460.1" accuracy="incorrect">The water level went down because the water contract.</studentAnswer>
+    <studentAnswer id="WA.30b.467.1" accuracy="correct">When water cools it condenses but when it reaches a certain point it starts to expand ice.</studentAnswer>
+    <studentAnswer id="WA.30b.524.1" accuracy="correct">Ice expand when it hit the freezing point.</studentAnswer>
+    <studentAnswer id="WA.30b.525.1" accuracy="incorrect">The water expand and goes down then expand again.</studentAnswer>
+    <studentAnswer id="WA.30b.526.1" accuracy="correct">The water went up because when water freezes it expands or gets bigger so it would go up.</studentAnswer>
+    <studentAnswer id="WA.30b.536.1" accuracy="correct">Cold water contracts but when it hits freezing it expands, so the water level rises.</studentAnswer>
+    <studentAnswer id="WA.30b.561.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.563.1" accuracy="incorrect">Whenever something freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.564.1" accuracy="incorrect">Because it froze.</studentAnswer>
+    <studentAnswer id="WA.30b.566.1" accuracy="incorrect">Water has some air so it goes down.</studentAnswer>
+    <studentAnswer id="WA.30b.575.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.591.1" accuracy="incorrect">Because It froze and spilled.</studentAnswer>
+    <studentAnswer id="WA.30b.593.1" accuracy="correct">When water freezes it bulges and makes it taller and wider.</studentAnswer>
+    <studentAnswer id="WA.30b.594.1" accuracy="incorrect">Because when you put it in cold it still evaporates but then it freezes.</studentAnswer>
+    <studentAnswer id="WA.30b.596.1" accuracy="incorrect">Ice has density at a high level so contracts when changes from liquid to solid.</studentAnswer>
+    <studentAnswer id="WA.30b.598.1" accuracy="correct">Because the ice expanded in a closed bottle of water the bottle would just crack or get stretched out but in the straw there was more room to move so the level went up.</studentAnswer>
+    <studentAnswer id="WA.30b.599.1" accuracy="incorrect">Because when I make Kool-aid I put it in the freezer it is always goes down.</studentAnswer>
+    <studentAnswer id="WA.30b.603.1" accuracy="correct">Because when she put it in the freezer and froze and expanded.</studentAnswer>
+    <studentAnswer id="WA.30b.604.1" accuracy="correct">When water freezes it expands.</studentAnswer>
+    <studentAnswer id="WA.30b.610.1" accuracy="incorrect">Because we talked about this in class when you put it in the freezer some water evaporates.</studentAnswer>
+    <studentAnswer id="WA.30b.611.1" accuracy="incorrect">Because it takes a very long time for water to evaporate just a little.</studentAnswer>
+    <studentAnswer id="WA.30b.629.1" accuracy="incorrect">Because coldness makes things go down.</studentAnswer>
+    <studentAnswer id="WA.30b.630.1" accuracy="incorrect">Because it froze not going anywhere.</studentAnswer>
+    <studentAnswer id="WA.30b.631.1" accuracy="correct">When it froze it expanded.</studentAnswer>
+    <studentAnswer id="WA.30b.632.1" accuracy="incorrect">Because cold water is dense and it also sinks, so it goes down.</studentAnswer>
+    <studentAnswer id="WA.30b.634.1" accuracy="incorrect">Because when water freezes it turns into ice. And it is cold.</studentAnswer>
+    <studentAnswer id="WA.30b.640.1" accuracy="correct">Because it expand and the water level goes up.</studentAnswer>
+    <studentAnswer id="WA.30b.643.1" accuracy="incorrect">The water could not go down because it freeze and it could not go down either.</studentAnswer>
+    <studentAnswer id="WA.30b.646.1" accuracy="incorrect">Because when water was frozen it could not move.</studentAnswer>
+    <studentAnswer id="WA.30b.647.1" accuracy="incorrect">Because the water soaked through the clay a couple of times. It went down a little.</studentAnswer>
+    <studentAnswer id="WA.30b.648.1" accuracy="correct">When ice froze it expanded and went up.</studentAnswer>
+  </studentAnswers>
+</question>

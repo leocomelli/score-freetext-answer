@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_35" module="EM">
+  <questionText>Carrie wanted to find out which was harder, a penny or a nickel, so she did a scratch test. How would this tell her which is harder?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_35-a1">The harder coin will scratch the other.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.35.421.1" accuracy="correct">You could scratch the penny against the nickel and the nickel against the penny. If one scratches the other, it is harder.</studentAnswer>
+    <studentAnswer id="EM.35.521.1" accuracy="incorrect">Find the more harder metal and the rock and penny is harder and see it want is harder.</studentAnswer>
+    <studentAnswer id="EM.35.634.1" accuracy="incorrect">If she can scratch a penny with her fingernail the nickel is harder.</studentAnswer>
+    <studentAnswer id="EM.35.643.1" accuracy="incorrect">A nickel is harder than a penny and a penny is lighter at water.</studentAnswer>
+  </studentAnswers>
+</question>

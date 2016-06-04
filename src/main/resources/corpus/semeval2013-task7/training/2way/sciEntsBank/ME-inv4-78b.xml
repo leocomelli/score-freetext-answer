@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_78b" module="ME">
+  <questionText>Look at the picture of the circuit to the right. What will happen to the motor if the light bulb burns out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_78b-a1">The motor will continue to run because the motor still has a pathway to the D-cell.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.78b.101.1" accuracy="incorrect">The motor will still run.</studentAnswer>
+    <studentAnswer id="ME.78b.105.1" accuracy="incorrect">The motor will burn out.</studentAnswer>
+    <studentAnswer id="ME.78b.107.1" accuracy="incorrect">The motor will go out too.</studentAnswer>
+    <studentAnswer id="ME.78b.119.1" accuracy="incorrect">The motor will still run.</studentAnswer>
+    <studentAnswer id="ME.78b.120.1" accuracy="incorrect">It would stay on.</studentAnswer>
+    <studentAnswer id="ME.78b.121.1" accuracy="incorrect">It would still work.</studentAnswer>
+    <studentAnswer id="ME.78b.123.1" accuracy="correct">It will run the same it is a parallel.</studentAnswer>
+    <studentAnswer id="ME.78b.142.1" accuracy="correct">The motor will keep going until the D-Cell runs out.</studentAnswer>
+    <studentAnswer id="ME.78b.144.1" accuracy="incorrect">The motor will stop running.</studentAnswer>
+    <studentAnswer id="ME.78b.146.1" accuracy="correct">The motor will still run because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.78b.148.1" accuracy="incorrect">It will still run.</studentAnswer>
+    <studentAnswer id="ME.78b.149.1" accuracy="incorrect">Nothing will happen. It will still run.</studentAnswer>
+    <studentAnswer id="ME.78b.152.1" accuracy="incorrect">They both go out.</studentAnswer>
+    <studentAnswer id="ME.78b.154.1" accuracy="incorrect">The motor will quit because it is in a series if one thing runs out the rest that are hooked up to it will not work.</studentAnswer>
+    <studentAnswer id="ME.78b.155.1" accuracy="incorrect">The motor will stay on because the wire is coming out of the positive end and the back.</studentAnswer>
+    <studentAnswer id="ME.78b.173.1" accuracy="incorrect">If the bulb shuts off the motor will turn off because it is a series circuit.</studentAnswer>
+    <studentAnswer id="ME.78b.174.1" accuracy="incorrect">The motor will stay on.</studentAnswer>
+    <studentAnswer id="ME.78b.176.1" accuracy="incorrect">The motor will not work.</studentAnswer>
+    <studentAnswer id="ME.78b.178.1" accuracy="incorrect">The motor will stop.</studentAnswer>
+    <studentAnswer id="ME.78b.180.1" accuracy="incorrect">If the light bulb burns out the motor will keep on going.</studentAnswer>
+    <studentAnswer id="ME.78b.185.1" accuracy="incorrect">The motor will keep going.</studentAnswer>
+    <studentAnswer id="ME.78b.191.1" accuracy="incorrect">The motor will still keep running.</studentAnswer>
+    <studentAnswer id="ME.78b.192.1" accuracy="incorrect">The motor will still be running.</studentAnswer>
+    <studentAnswer id="ME.78b.195.1" accuracy="incorrect">There will be no electricity.</studentAnswer>
+    <studentAnswer id="ME.78b.206.1" accuracy="incorrect">The motor will go out.</studentAnswer>
+    <studentAnswer id="ME.78b.207.1" accuracy="incorrect">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.78b.208.1" accuracy="incorrect">If the light bulb burns out, the motor will not work.</studentAnswer>
+    <studentAnswer id="ME.78b.212.1" accuracy="incorrect">The motor will stop working.</studentAnswer>
+    <studentAnswer id="ME.78b.215.1" accuracy="incorrect">It would not work.</studentAnswer>
+    <studentAnswer id="ME.78b.217.1" accuracy="incorrect">The motor will still work.</studentAnswer>
+    <studentAnswer id="ME.78b.227.1" accuracy="incorrect">Nothing will happen.</studentAnswer>
+    <studentAnswer id="ME.78b.245.1" accuracy="incorrect">The motor will stop.</studentAnswer>
+    <studentAnswer id="ME.78b.250.1" accuracy="incorrect">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.78b.311.1" accuracy="incorrect">The motor is going to keep going when the light bulb goes out.</studentAnswer>
+    <studentAnswer id="ME.78b.324.1" accuracy="incorrect">It will still run.</studentAnswer>
+    <studentAnswer id="ME.78b.327.1" accuracy="incorrect">It will still run because it is not sharing a wire like a series does.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_24a" module="SE">
+  <questionText>The drawing above shows a plaza in the afternoon. Label the west side of the drawing with a W. Label the north side of the drawing with an N. How did you know which direction was west?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_24a-a1">In the afternoon, shadows point east because the Sun is in the west. So the west side is opposite of the shadows.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.24a.102.1" accuracy="incorrect">You would know by which way the shadow is pointing to.</studentAnswer>
+    <studentAnswer id="SE.24a.104.1" accuracy="incorrect">I used the strategy never eat soggy waffles.</studentAnswer>
+    <studentAnswer id="SE.24a.106.1" accuracy="incorrect">Because the direction the shadows were facing and in my journal.</studentAnswer>
+    <studentAnswer id="SE.24a.107.1" accuracy="correct">The shadow is point east.</studentAnswer>
+    <studentAnswer id="SE.24a.111.1" accuracy="incorrect">Because the shadows.</studentAnswer>
+    <studentAnswer id="SE.24a.123.1" accuracy="incorrect">I just looked at it if it was early afternoon it would be pointing northeast and if it was late afternoon it would be point to southwest.</studentAnswer>
+    <studentAnswer id="SE.24a.134.1" accuracy="incorrect">By looking at the shadows' reflection.</studentAnswer>
+    <studentAnswer id="SE.24a.157.1" accuracy="incorrect">Because my teacher tell me never eat soggy waffles. It means north east south west.</studentAnswer>
+    <studentAnswer id="SE.24a.165.1" accuracy="incorrect">Because I used a compass.</studentAnswer>
+    <studentAnswer id="SE.24a.174.1" accuracy="incorrect">Because the sun is behind them.</studentAnswer>
+    <studentAnswer id="SE.24a.190.1" accuracy="incorrect">Because the sun is in the north.</studentAnswer>
+    <studentAnswer id="SE.24a.244.1" accuracy="incorrect">Common sense. I just know because the experiment with shadows. The letters next to the boxes of north, east, south, west are direction letters and the letter in the boxes are the ones you see on maps.</studentAnswer>
+    <studentAnswer id="SE.24a.246.1" accuracy="incorrect">I followed where I walk and it came to me and I found all the sides.</studentAnswer>
+    <studentAnswer id="SE.24a.254.1" accuracy="incorrect">West is on the left side.</studentAnswer>
+    <studentAnswer id="SE.24a.315.1" accuracy="incorrect">Because the sun rises at the east and the sun is moving.</studentAnswer>
+    <studentAnswer id="SE.24a.328.1" accuracy="incorrect">The direction of west is left that the west.</studentAnswer>
+    <studentAnswer id="SE.24a.336.1" accuracy="incorrect">Because the sun is pointing east and the shadow have to point to the north.</studentAnswer>
+    <studentAnswer id="SE.24a.340.1" accuracy="incorrect">By using a compass to tell me where it is.</studentAnswer>
+    <studentAnswer id="SE.24a.382.1" accuracy="incorrect">That is how you spell west east. West by the W. East by the E.</studentAnswer>
+    <studentAnswer id="SE.24a.386.1" accuracy="incorrect">Because that is the way the sun sets.</studentAnswer>
+    <studentAnswer id="SE.24a.388.1" accuracy="incorrect">Because when the sun is in the east your shadow is really big like in the picture. So if the sun is in the east I would know.</studentAnswer>
+    <studentAnswer id="SE.24a.389.1" accuracy="incorrect">The sun rises on the east.</studentAnswer>
+    <studentAnswer id="SE.24a.439.1" accuracy="incorrect">I know it is west because the sunrise in the east and the shadow is longer.</studentAnswer>
+    <studentAnswer id="SE.24a.441.1" accuracy="correct">The shadow is facing the east and in the afternoon the sun is shining west so the shadow is east.</studentAnswer>
+    <studentAnswer id="SE.24a.488.1" accuracy="incorrect">Because of the way the sun is showing.</studentAnswer>
+    <studentAnswer id="SE.24a.495.1" accuracy="incorrect">I knew which direction west was because in the plaza it shows all the shadows facing one way and the sun makes shadows face the opposite directions of the object, and I knew that in the afternoon the sun is in the north so it must be west above.</studentAnswer>
+    <studentAnswer id="SE.24a.504.1" accuracy="incorrect">I knew which direction was west because in the afternoon the sun is coming from the east.</studentAnswer>
+    <studentAnswer id="SE.24a.506.1" accuracy="incorrect">I knew it because west is where the sun is most of the time.</studentAnswer>
+    <studentAnswer id="SE.24a.513.1" accuracy="incorrect">Because the drawing looked like the early morning of the day and I knew that the sun rises in the east and sets in the west.</studentAnswer>
+    <studentAnswer id="SE.24a.538.1" accuracy="correct">Because the sun would probably be northwest for the shadow to face southeast.</studentAnswer>
+    <studentAnswer id="SE.24a.564.1" accuracy="incorrect">I know that north is forward and west is your left.</studentAnswer>
+    <studentAnswer id="SE.24a.597.1" accuracy="incorrect">When earth moves then the shadow will be in the west because by then the sun will be setting.</studentAnswer>
+    <studentAnswer id="SE.24a.603.1" accuracy="incorrect">West is always on your left, after that it is east.</studentAnswer>
+    <studentAnswer id="SE.24a.605.1" accuracy="incorrect">I know which direction was west is because a shadow facing west.</studentAnswer>
+    <studentAnswer id="SE.24a.611.1" accuracy="incorrect">I knew where west is because I looked at the shadow.</studentAnswer>
+    <studentAnswer id="SE.24a.614.1" accuracy="incorrect">I knew which direction was west because in class, I learned that no matter what way you are facing, west is always on the left side.</studentAnswer>
+  </studentAnswers>
+</question>

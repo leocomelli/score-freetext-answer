@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_50b" module="WA">
+  <questionText>Pete put a marble in a cup of water as shown in the picture. What evidence indicates whether the marble is more or less dense than the water?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_50b-a1">The marble is on the bottom of the cup (under the water).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.50b.172.1" accuracy="correct">My evidence is the picture. When an object is denser than water, it shrinks. The picture showed that the marble sinks, so the marble is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.175.1" accuracy="correct">When something is more dense than water it will sink which is what the marble did.</studentAnswer>
+    <studentAnswer id="WA.50b.177.1" accuracy="correct">Because it is a solid hard rock. But if it was ice it would not sink it would float.</studentAnswer>
+    <studentAnswer id="WA.50b.180.1" accuracy="correct">The marble is denser so the denser it is the more it sinks.</studentAnswer>
+    <studentAnswer id="WA.50b.185.1" accuracy="incorrect">When the red, hot water in a little cup, the water that is red goes to the bottom of the cup. When it is a little cup of blue, cold water that water stays at the top.</studentAnswer>
+    <studentAnswer id="WA.50b.188.1" accuracy="correct">When something is denser than water it sinks, and when something is less dense then it floats.</studentAnswer>
+    <studentAnswer id="WA.50b.189.1" accuracy="correct">The marble in the water is at the bottom.</studentAnswer>
+    <studentAnswer id="WA.50b.191.1" accuracy="correct">The marble is denser than the water that is why it sank.</studentAnswer>
+    <studentAnswer id="WA.50b.193.1" accuracy="correct">My evidence is that the marble sunk.</studentAnswer>
+    <studentAnswer id="WA.50b.194.1" accuracy="correct">Because a marble is heavy so it will go down.</studentAnswer>
+    <studentAnswer id="WA.50b.195.1" accuracy="correct">The marble breaks through the water surface.</studentAnswer>
+    <studentAnswer id="WA.50b.206.1" accuracy="correct">The marble sank.</studentAnswer>
+    <studentAnswer id="WA.50b.207.1" accuracy="incorrect">The marble is denser than the water because it has air bubbles.</studentAnswer>
+    <studentAnswer id="WA.50b.208.1" accuracy="correct">I chose C because when something sinks to the bottom it is more dense than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.209.1" accuracy="correct">The marble sunk.</studentAnswer>
+    <studentAnswer id="WA.50b.210.1" accuracy="correct">Well, it sank so that means it is more dense than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.211.1" accuracy="correct">The marble sinks when it is more dense.</studentAnswer>
+    <studentAnswer id="WA.50b.212.1" accuracy="correct">If the marble was less dense it would float.</studentAnswer>
+    <studentAnswer id="WA.50b.213.1" accuracy="correct">Because it was denser, so it sank.</studentAnswer>
+    <studentAnswer id="WA.50b.214.1" accuracy="incorrect">My evidence is that the marble is more compact than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.215.1" accuracy="incorrect">When we dropped a wooden ball in a cup with water we discovered it was less dense.</studentAnswer>
+    <studentAnswer id="WA.50b.216.1" accuracy="incorrect">Because it has more stuff in it.</studentAnswer>
+    <studentAnswer id="WA.50b.219.1" accuracy="incorrect">The marble is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.222.1" accuracy="incorrect">No evidence.</studentAnswer>
+    <studentAnswer id="WA.50b.223.1" accuracy="correct">Because the thing that goes down is denser than the thing that stays up.</studentAnswer>
+    <studentAnswer id="WA.50b.229.1" accuracy="correct">My evidence is that the marble is sinking.</studentAnswer>
+    <studentAnswer id="WA.50b.230.1" accuracy="correct">It went to the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.231.1" accuracy="correct">My evidence is that when an object sinks it means that it is not very compact.</studentAnswer>
+    <studentAnswer id="WA.50b.247.1" accuracy="correct">My evidence is the marble was more dense than the water so it sunk.</studentAnswer>
+    <studentAnswer id="WA.50b.248.1" accuracy="correct">My evidence is the marble is denser because it sank.</studentAnswer>
+    <studentAnswer id="WA.50b.250.1" accuracy="incorrect">If Pete puts it in cold water it will float.</studentAnswer>
+    <studentAnswer id="WA.50b.251.1" accuracy="correct">The marble sank in the water.</studentAnswer>
+    <studentAnswer id="WA.50b.252.1" accuracy="correct">The marble is denser than the water because it sank to the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.267.1" accuracy="correct">Because the marble is more heavier than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.278.1" accuracy="correct">The marble is more dense than the water because it is a solid that sinks.</studentAnswer>
+    <studentAnswer id="WA.50b.279.1" accuracy="correct">I know that denser objects sink to the bottom of the water.</studentAnswer>
+    <studentAnswer id="WA.50b.284.1" accuracy="correct">The marble is heavier than the water. The marble sunk.</studentAnswer>
+    <studentAnswer id="WA.50b.285.1" accuracy="correct">Because it sank to the bottom.</studentAnswer>
+    <studentAnswer id="WA.50b.294.1" accuracy="correct">Because the marble is at the bottom in the picture.</studentAnswer>
+    <studentAnswer id="WA.50b.295.1" accuracy="correct">The marble is denser than the water, so the marble sinks.</studentAnswer>
+    <studentAnswer id="WA.50b.300.1" accuracy="incorrect">The marble is more dense so that maybe it happened.</studentAnswer>
+    <studentAnswer id="WA.50b.301.1" accuracy="incorrect">When you hold a marble in one hand water in another you will see a marble is more heavy than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.347.1" accuracy="correct">The marble is like cold water because the marble is at the bottom of the cup. There is also less air in the marble, therefore the marble is denser than water.</studentAnswer>
+    <studentAnswer id="WA.50b.350.1" accuracy="incorrect">The water is denser than water.</studentAnswer>
+    <studentAnswer id="WA.50b.351.1" accuracy="correct">It sinks.</studentAnswer>
+    <studentAnswer id="WA.50b.354.1" accuracy="correct">The marble is denser than the water because it goes straight down.</studentAnswer>
+    <studentAnswer id="WA.50b.356.1" accuracy="incorrect">It is true I did it in third grade.</studentAnswer>
+    <studentAnswer id="WA.50b.362.1" accuracy="incorrect">The water is cold and maybe Pete made the marble cold.</studentAnswer>
+    <studentAnswer id="WA.50b.364.1" accuracy="incorrect">It is less dense because it sinks.</studentAnswer>
+    <studentAnswer id="WA.50b.370.1" accuracy="incorrect">Because the marble is heavier.</studentAnswer>
+    <studentAnswer id="WA.50b.417.1" accuracy="correct">My evidence is that the marble is at the bottom, when an object is more dense it floats to the bottom.</studentAnswer>
+    <studentAnswer id="WA.50b.419.1" accuracy="incorrect">Unknown.</studentAnswer>
+    <studentAnswer id="WA.50b.424.1" accuracy="correct">The marble is at the bottom.</studentAnswer>
+    <studentAnswer id="WA.50b.429.1" accuracy="correct">It sank and items denser sink.</studentAnswer>
+    <studentAnswer id="WA.50b.430.1" accuracy="correct">It sinks.</studentAnswer>
+    <studentAnswer id="WA.50b.433.1" accuracy="correct">Because the marble sunk and when the objects sink it means it is denser.</studentAnswer>
+    <studentAnswer id="WA.50b.437.1" accuracy="correct">Whenever a matter sinks, it means that it is denser.</studentAnswer>
+    <studentAnswer id="WA.50b.452.1" accuracy="correct">It sank because the marble is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.453.1" accuracy="incorrect">Because it is heavy and if it was a little one it could float.</studentAnswer>
+    <studentAnswer id="WA.50b.456.1" accuracy="incorrect">Because the marble is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.461.1" accuracy="correct">The marble is on the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.462.1" accuracy="correct">The marble sunk to the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.463.1" accuracy="correct">When the water is denser than the marble the marble would float but it is not so the marble is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.487.1" accuracy="correct">Because the marble sank.</studentAnswer>
+    <studentAnswer id="WA.50b.488.1" accuracy="incorrect">If water is more dense than water it will sink.</studentAnswer>
+    <studentAnswer id="WA.50b.497.1" accuracy="correct">It sunk!</studentAnswer>
+    <studentAnswer id="WA.50b.498.1" accuracy="incorrect">Less dense means it will sink to the bottom.</studentAnswer>
+    <studentAnswer id="WA.50b.500.1" accuracy="correct">It sank. If it was less dense it would float.</studentAnswer>
+    <studentAnswer id="WA.50b.501.1" accuracy="incorrect">The marble is denser than the water. Because the marble is so tightly compacted and solid.</studentAnswer>
+    <studentAnswer id="WA.50b.504.1" accuracy="correct">The marble is heavy so it will sink.</studentAnswer>
+    <studentAnswer id="WA.50b.505.1" accuracy="correct">It is at the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.510.1" accuracy="correct">My evidence is because the marble is at the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.521.1" accuracy="incorrect">See the water is less dense and the marble is denser so that is it.</studentAnswer>
+    <studentAnswer id="WA.50b.523.1" accuracy="correct">Because the marble went to the bottom.</studentAnswer>
+    <studentAnswer id="WA.50b.524.1" accuracy="correct">Because the ball sank it is denser than the water and because it is glass.</studentAnswer>
+    <studentAnswer id="WA.50b.525.1" accuracy="correct">Because when you put the marble in the water it will sink because it is less dense.</studentAnswer>
+    <studentAnswer id="WA.50b.526.1" accuracy="correct">Because it sinks, it goes down, it is denser.</studentAnswer>
+    <studentAnswer id="WA.50b.527.1" accuracy="correct">Well if the marble was less dense or the same density the marble would not have sank.</studentAnswer>
+    <studentAnswer id="WA.50b.528.1" accuracy="correct">Just like ice when something is denser than water it will sink.</studentAnswer>
+    <studentAnswer id="WA.50b.529.1" accuracy="correct">The marble sank. When something sinks it means it is denser than the water.</studentAnswer>
+    <studentAnswer id="WA.50b.530.1" accuracy="incorrect">That a marble is more dense than water.</studentAnswer>
+    <studentAnswer id="WA.50b.534.1" accuracy="correct">The marble is under water and on the bottom of the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.535.1" accuracy="correct">The marble starts to sink because it is heavier.</studentAnswer>
+    <studentAnswer id="WA.50b.542.1" accuracy="incorrect">My evidence is that all heavy things sink and all light things float.</studentAnswer>
+    <studentAnswer id="WA.50b.556.1" accuracy="incorrect">The marble sinks, and if it was denser it would float.</studentAnswer>
+    <studentAnswer id="WA.50b.557.1" accuracy="correct">Because things sink there are no holes in them.</studentAnswer>
+    <studentAnswer id="WA.50b.558.1" accuracy="correct">Because the marble is heavy.</studentAnswer>
+    <studentAnswer id="WA.50b.564.1" accuracy="incorrect">Because the water stays in the cup.</studentAnswer>
+    <studentAnswer id="WA.50b.591.1" accuracy="incorrect">Because it is heavy.</studentAnswer>
+    <studentAnswer id="WA.50b.593.1" accuracy="incorrect">It is heavy.</studentAnswer>
+    <studentAnswer id="WA.50b.604.1" accuracy="incorrect">Something sinks it is less dense.</studentAnswer>
+    <studentAnswer id="WA.50b.608.1" accuracy="incorrect">Because the smiley ball floats and a ball is heavier so it will sink.</studentAnswer>
+    <studentAnswer id="WA.50b.610.1" accuracy="correct">Because the marble is heavier then the water.</studentAnswer>
+    <studentAnswer id="WA.50b.611.1" accuracy="incorrect">No answer.</studentAnswer>
+    <studentAnswer id="WA.50b.612.1" accuracy="correct">The marble is more dense because it went down if it was less dense it will be floating on top of the water.</studentAnswer>
+    <studentAnswer id="WA.50b.630.1" accuracy="correct">It sank. If it was less dense it would float.</studentAnswer>
+    <studentAnswer id="WA.50b.635.1" accuracy="correct">Because a marble is heavy. The marble is all the way down.</studentAnswer>
+    <studentAnswer id="WA.50b.640.1" accuracy="correct">The marble is denser because it sank to the bottom.</studentAnswer>
+    <studentAnswer id="WA.50b.641.1" accuracy="correct">The marble is denser because it sinks.</studentAnswer>
+    <studentAnswer id="WA.50b.642.1" accuracy="correct">Because the marble sink so it is denser.</studentAnswer>
+  </studentAnswers>
+</question>

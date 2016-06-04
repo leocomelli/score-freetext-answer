@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_16b2" module="SE">
+  <questionText>Cory and Rachael set up 3 solar water heaters to see which would show the greatest water temperature change. The containers are shown below. Each is the same height (4 centimeters), and the same width (10 centimeters). Only the lengths are different; Container A is 10 centimeters, Container B is 30 centimeters, and Container C is 40 centimeters. They painted the plastic containers black, filled each with the same amount of water, and put a clear plastic lid on each one. Then they set them out in the sunshine. Here are the data that Cory and Rachael collected: After 10 minutes Container A was 3 degrees Celsius, Container B was 9 degrees Celsius, and Container C was 12 degrees Celsius. Use the graph paper on the next page to graph the temperature change for each container. If Cory and Rachael had a container that was the same height and width as the other containers, but 20 centimeters long, what do you think the temperature change would be after 10 minutes? (6 Celsius) How did you decide what the temperature change would be for the new container?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_16b2-a1">20 centimeters size is between 10 and 30 centimeters, so the temperature change must be less than the 30 centimeters container, but more than the 10 centimeters container. 6 degrees Celsius is halfway between.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.16b2.111.1" accuracy="incorrect">Because there is a 10 centimeters on the graph and put 10 centimeters with one and it will change because it is bigger and more space to store more heat.</studentAnswer>
+    <studentAnswer id="SE.16b2.121.1" accuracy="incorrect">It made me think but I had to choose 6 degrees Celsius. I picked between 3 and 9.</studentAnswer>
+    <studentAnswer id="SE.16b2.122.1" accuracy="correct">I just went halfway into 3 and 9 which were the 10 and 30 centimeters temperature at 10 minutes. But since 20 centimeters was 10 centimeters away from 20 and 30 so I went halfway into 3 and 9 and it was 6 because 6 is 3 spaces away from 3 and 9.</studentAnswer>
+    <studentAnswer id="SE.16b2.124.1" accuracy="incorrect">It will have the same materials like the other containers.</studentAnswer>
+    <studentAnswer id="SE.16b2.132.1" accuracy="incorrect">I used subtracting the B from A.</studentAnswer>
+    <studentAnswer id="SE.16b2.136.1" accuracy="incorrect">10 Celsius because I will think it would be much in the middle of 10 centimeters and 30 centimeters so that is why I picked 10 Celsius.</studentAnswer>
+    <studentAnswer id="SE.16b2.144.1" accuracy="incorrect">Because X 10 minute with 2 Y.</studentAnswer>
+    <studentAnswer id="SE.16b2.154.1" accuracy="incorrect">I think that it would be 10 Celsius that is changed.</studentAnswer>
+    <studentAnswer id="SE.16b2.162.1" accuracy="correct">Because on 10 centimeters is 3 and on 30 centimeters is 9 so in the middle of it is 6.</studentAnswer>
+    <studentAnswer id="SE.16b2.164.1" accuracy="incorrect">By using the graph it is saying that 12 Celsius is in the middle.</studentAnswer>
+    <studentAnswer id="SE.16b2.165.1" accuracy="correct">Because 20 centimeters is in the middle 10 centimeters and 30 centimeters so I guessed in between.</studentAnswer>
+    <studentAnswer id="SE.16b2.166.1" accuracy="correct">If the container is 20 centimeters in width the temperature should be between the 10 centimeters container and the 30 centimeters container.</studentAnswer>
+    <studentAnswer id="SE.16b2.178.1" accuracy="incorrect">I think the temperature for the new container is smaller, because one is smaller.</studentAnswer>
+    <studentAnswer id="SE.16b2.179.1" accuracy="incorrect">I think it would be 10 Celsius because it will take the container less time to get hot.</studentAnswer>
+    <studentAnswer id="SE.16b2.191.1" accuracy="correct">The new container would be in the middle of A and B. The temperature would have to be something in between 3 Celsius and 9 Celsius.</studentAnswer>
+    <studentAnswer id="SE.16b2.255.1" accuracy="incorrect">Change the container ever 20 minutes.</studentAnswer>
+    <studentAnswer id="SE.16b2.319.1" accuracy="incorrect">It will change because it could be it could change different places.</studentAnswer>
+    <studentAnswer id="SE.16b2.327.1" accuracy="incorrect">I just times it by how it is or just the way it is.</studentAnswer>
+    <studentAnswer id="SE.16b2.339.1" accuracy="incorrect">Because it went by 3 and that is why I pick that number.</studentAnswer>
+    <studentAnswer id="SE.16b2.394.1" accuracy="correct">Is by the between of 3 Celsius and 9 Celsius 6 Celsius so I looked at 10 and that is how I decided.</studentAnswer>
+    <studentAnswer id="SE.16b2.397.1" accuracy="incorrect">Because I looked at my graph to tell what it would be.</studentAnswer>
+    <studentAnswer id="SE.16b2.403.1" accuracy="incorrect">Because I looked at 10 centimeters and looked at 10 minutes and then I thought what was half of 3 and that is how I got my answer.</studentAnswer>
+    <studentAnswer id="SE.16b2.496.1" accuracy="correct">I chose 6 Celsius because you would be counting by 3's if there was a 20 centimeters long, because the length of each container was counting by 10's.</studentAnswer>
+    <studentAnswer id="SE.16b2.504.1" accuracy="correct">I decided it by saying to myself, Well 20 centimeters is in between 10 centimeters and 30 centimeters so I will make the temperature in between.</studentAnswer>
+    <studentAnswer id="SE.16b2.507.1" accuracy="correct">Well, 20 centimeters long is in between water heaters A and B, so I looked at their heating temperature between the 2 at 10 minutes then I would estimate what that middle number would be. And it is 6 Celsius.</studentAnswer>
+    <studentAnswer id="SE.16b2.508.1" accuracy="correct">I added A and B 10 minutes and divided the sum by 2 and got the average.</studentAnswer>
+    <studentAnswer id="SE.16b2.516.1" accuracy="incorrect">I decided that temperature because a 20 centimeters water heater would probably half of what it is.</studentAnswer>
+    <studentAnswer id="SE.16b2.517.1" accuracy="incorrect">Because table is going in a pattern on the 10 minute mark.</studentAnswer>
+    <studentAnswer id="SE.16b2.528.1" accuracy="incorrect">Because if you think of it it will be what you are looking for.</studentAnswer>
+    <studentAnswer id="SE.16b2.533.1" accuracy="correct">I decided it would be 6 Celsius for 10 minutes because it is counting by 3's. Also because the bigger it gets the hotter it would be.</studentAnswer>
+    <studentAnswer id="SE.16b2.542.1" accuracy="correct">Because it has the size between 10 centimeters and 3 centimeters and if you look at the table the temperature should be the middle.</studentAnswer>
+    <studentAnswer id="SE.16b2.583.1" accuracy="incorrect">The one that is 20 centimeters longer will not get as hot. Because it is longer. Because the longer it is the more time it takes.</studentAnswer>
+    <studentAnswer id="SE.16b2.593.1" accuracy="incorrect">I decided what the temperature was going to be because if you look at 10 minutes it will look like its going up by 3's.</studentAnswer>
+    <studentAnswer id="SE.16b2.603.1" accuracy="incorrect">I decide that the temperature is going to be less.</studentAnswer>
+    <studentAnswer id="SE.16b2.610.1" accuracy="incorrect">It would be less because it will be smaller than the other solar heater except the 10 centimeters one.</studentAnswer>
+    <studentAnswer id="SE.16b2.612.1" accuracy="incorrect">I think the new temperature change would be 6 because I look at it it looks like it adding by 3 so that I would think would be the temperature change.</studentAnswer>
+  </studentAnswers>
+</question>

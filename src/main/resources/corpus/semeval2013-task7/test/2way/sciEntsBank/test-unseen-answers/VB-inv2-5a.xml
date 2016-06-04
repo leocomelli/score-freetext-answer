@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_5a" module="VB">
+  <questionText>Explain in one sentence what each graph tells you. Graph A) number of tree rings versus time.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_5a-a1">As time increases, the number of tree rings also increases.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.5a.452.1" accuracy="incorrect">The more tree rings the faster. The less, the slower.</studentAnswer>
+    <studentAnswer id="VB.5a.466.1" accuracy="incorrect">This graph tells you how many tree rings grow on a tree in a certain amount of time.</studentAnswer>
+    <studentAnswer id="VB.5a.481.1" accuracy="correct">This graph shows that the number of tree rings was increasing by a certain amount of time.</studentAnswer>
+    <studentAnswer id="VB.5a.634.1" accuracy="incorrect">They look like it increases.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="MX_11c" module="MX">
+  <questionText>Jim used a solid and water to make Mixtures one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. Is the concentration of Mixture 5 less than, greater than, or the same as the concentration of Mixture 4? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11c-a1">The concentrations are the same because both mixtures are saturated.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11c.101.1" accuracy="incorrect">Greater than because mixture 5 has the same amount of water with more spoons of solid.</studentAnswer>
+    <studentAnswer id="MX.11c.113.1" accuracy="incorrect">Greater than because it have 5 spoon of clear material.</studentAnswer>
+    <studentAnswer id="MX.11c.151.1" accuracy="incorrect">Mixture 5 because they have the same amount of water but mixture 5 has more spoon.</studentAnswer>
+    <studentAnswer id="MX.11c.243.1" accuracy="incorrect">Greater than mixture 4.</studentAnswer>
+    <studentAnswer id="MX.11c.255.1" accuracy="incorrect">It is the same because it has the same stuff at the bottom.</studentAnswer>
+    <studentAnswer id="MX.11c.347.1" accuracy="correct">The same because in the picture of mixture 4 and 5, they show the same salt on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11c.364.1" accuracy="incorrect">They are the same and equal concentrated.</studentAnswer>
+    <studentAnswer id="MX.11c.381.1" accuracy="correct">Mixtures is the same concentration, because both of the mixtures are saturated.</studentAnswer>
+    <studentAnswer id="MX.11c.384.1" accuracy="incorrect">It is greater than because mixture 4 has more room to dissolve than mixture 5.</studentAnswer>
+    <studentAnswer id="MX.11c.386.1" accuracy="correct">The same, because both solutions have the same saturation point so they have the same concentration and amount of solid.</studentAnswer>
+    <studentAnswer id="MX.11c.390.1" accuracy="correct">The same because they both reached the saturation point.</studentAnswer>
+    <studentAnswer id="MX.11c.399.1" accuracy="correct">They are the same amount concentrated because they have the same amount of water and dissolved material.</studentAnswer>
+    <studentAnswer id="MX.11c.416.1" accuracy="incorrect">It is greater than because they have the same amount of water but 5 has one more spoon than 4.</studentAnswer>
+    <studentAnswer id="MX.11c.418.1" accuracy="correct">They are the same because once a solution is saturated it is at its highest level of concentration.</studentAnswer>
+    <studentAnswer id="MX.11c.423.1" accuracy="correct">The same because once a solution is saturated it is at its highest level of concentration.</studentAnswer>
+    <studentAnswer id="MX.11c.425.1" accuracy="incorrect">The concentration is more in 5 because it has more material in it.</studentAnswer>
+    <studentAnswer id="MX.11c.432.1" accuracy="incorrect">Greater than.</studentAnswer>
+    <studentAnswer id="MX.11c.433.1" accuracy="correct">They are the same because when a solution is saturated, it is at its highest point of concentration.</studentAnswer>
+    <studentAnswer id="MX.11c.439.1" accuracy="correct">They are the same because when the solution is saturated it is at its highest point of concentration.</studentAnswer>
+    <studentAnswer id="MX.11c.456.1" accuracy="correct">The same because both solutions are saturated.</studentAnswer>
+    <studentAnswer id="MX.11c.460.1" accuracy="incorrect">No because 5 has more scoops than 4.</studentAnswer>
+    <studentAnswer id="MX.11c.463.1" accuracy="correct">Same because if they all have the same water and 4 is concentrated with 4 scoops and 5 with 5 scoops then the solubility is the same because of the same amount of water become crystal.</studentAnswer>
+    <studentAnswer id="MX.11c.465.1" accuracy="incorrect">Same as mixture 4 because you cannot see them.</studentAnswer>
+    <studentAnswer id="MX.11c.469.1" accuracy="incorrect">Mixture 5 is greater than mixture 4 because it has the same amount of water and at the bottom it is both clear material but it does not have the same amount of solid.</studentAnswer>
+    <studentAnswer id="MX.11c.502.1" accuracy="incorrect">No because there is one extra spoon in 5.</studentAnswer>
+    <studentAnswer id="MX.11c.531.1" accuracy="correct">Same because they are both saturated and it can only hold an equal amount.</studentAnswer>
+    <studentAnswer id="MX.11c.533.1" accuracy="incorrect">Greater than because it has more scoops.</studentAnswer>
+    <studentAnswer id="MX.11c.557.1" accuracy="incorrect">The same because it has the same amount of water.</studentAnswer>
+    <studentAnswer id="MX.11c.560.1" accuracy="correct">Same. Because they are both saturated.</studentAnswer>
+    <studentAnswer id="MX.11c.572.1" accuracy="incorrect">The same because they both have the same amount of water.</studentAnswer>
+    <studentAnswer id="MX.11c.575.1" accuracy="incorrect">The same because once a solution is saturated it is at its greatest concentration.</studentAnswer>
+    <studentAnswer id="MX.11c.626.1" accuracy="incorrect">One, 2, 3 they all are clear with no material on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11c.633.1" accuracy="correct">They both have material on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11c.635.1" accuracy="correct">Same they both are clear and there is material on bottom.</studentAnswer>
+    <studentAnswer id="MX.11c.636.1" accuracy="incorrect">It is greater than because it has one more spoon of the solid.</studentAnswer>
+  </studentAnswers>
+</question>

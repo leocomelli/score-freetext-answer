@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_40a" module="VB">
+  <questionText>Jack made a lifeboat out of a large paper cup. He decided to measure how far the boat sank when different numbers of marbles were added. His data are shown in the table. Identify the standard for Jack's experiment.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_40a-a1">The boat with 0 marbles is the standard in this experiment.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.40a.120.1" accuracy="correct">0 marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.138.1" accuracy="incorrect">10.</studentAnswer>
+    <studentAnswer id="VB.40a.249.1" accuracy="incorrect">10 marbles and 5.8 amount the boat sank.</studentAnswer>
+    <studentAnswer id="VB.40a.417.1" accuracy="incorrect">The more Jack put in the lower the boat became under the water.</studentAnswer>
+  </studentAnswers>
+</question>

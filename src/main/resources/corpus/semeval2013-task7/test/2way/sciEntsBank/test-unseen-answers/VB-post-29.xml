@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_29" module="VB">
+  <questionText>When conducting a controlled experiment, why do you use a standard?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_29-a1">A standard is used for comparison to determine how changing one variable changes the results.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.29.429.1" accuracy="incorrect">In a controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.29.432.1" accuracy="incorrect">You need to have a standard so you can tell the difference of what the experiment was and so you can tell how far it went.</studentAnswer>
+    <studentAnswer id="VB.29.462.1" accuracy="incorrect">You use a standard because you know it will be controlled if you do something random it might not work and that is not a controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.29.511.1" accuracy="incorrect">So when you start with the standard it will help you understand more of the experiment.</studentAnswer>
+  </studentAnswers>
+</question>

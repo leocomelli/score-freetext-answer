@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_26" module="EM">
+  <questionText>Salt crystals form when the water evaporates from saltwater. Describe the salt crystals.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_26-a1">The salt crystals are squares with Xs on top.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.26.225.1" accuracy="incorrect">Salt crystals are small and white.</studentAnswer>
+    <studentAnswer id="EM.26.388.1" accuracy="correct">They are square with Xs in the middle.</studentAnswer>
+    <studentAnswer id="EM.26.424.1" accuracy="incorrect">The salt crystal evaporates when water gets by them.</studentAnswer>
+    <studentAnswer id="EM.26.487.1" accuracy="correct">The salt crystals will look like small squares with Xs.</studentAnswer>
+  </studentAnswers>
+</question>

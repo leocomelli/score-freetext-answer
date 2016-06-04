@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_46" module="EM">
+  <questionText>Describe how you can tell the difference between the crystals from the calcite test and salt crystals when you observe them in an evaporation dish.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_46-a1">The crystals have different shapes. Salt crystals are square with little Xs. The calcite crystals are shaped like needles (long and skinny).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.46.171.1" accuracy="incorrect">Calcite crystals are flaky and salt crystals were not flaky. They are square instead.</studentAnswer>
+    <studentAnswer id="EM.46.185.1" accuracy="incorrect">Calcite crystals look different than salt crystals.</studentAnswer>
+    <studentAnswer id="EM.46.401.1" accuracy="incorrect">The mock rock is smelt like flour but the crystals did not.</studentAnswer>
+    <studentAnswer id="EM.46.527.1" accuracy="incorrect">Crystals are already there so calcite will leave different crystals behind.</studentAnswer>
+  </studentAnswers>
+</question>

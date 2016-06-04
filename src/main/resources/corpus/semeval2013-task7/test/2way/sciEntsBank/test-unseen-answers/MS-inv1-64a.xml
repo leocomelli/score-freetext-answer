@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MS_64a" module="MS">
+  <questionText>Greta used her hand to measure the length of the whiteboard in her classroom. She found that it was 14 hands long. Andre measured the whiteboard and found that it was 16 hands long. Explain why Greta and Andre got different measurements.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_64a-a1">Greta and Andre have different sized hands.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.64a.153.1" accuracy="correct">Greta's hand is probably longer than Andre's hand.</studentAnswer>
+    <studentAnswer id="MS.64a.315.1" accuracy="correct">Because Greta's hands are small. And Andre's hands are big.</studentAnswer>
+    <studentAnswer id="MS.64a.459.1" accuracy="correct">Because they are older than the other and their hand have different hands, or one of them opened their finger and the other did not.</studentAnswer>
+    <studentAnswer id="MS.64a.535.1" accuracy="correct">I think different hands size.</studentAnswer>
+  </studentAnswers>
+</question>

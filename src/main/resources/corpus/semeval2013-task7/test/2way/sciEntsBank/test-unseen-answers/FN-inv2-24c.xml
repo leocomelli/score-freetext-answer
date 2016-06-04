@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_24c" module="FN">
+  <questionText>Diva's father told her she should not eat so many cookies because they were pure sugar. Diva decided to investigate the amount of sugar in Fruity Cream cookies. She performed the sugar test on 4 grams of pure sugar and on 4 grams of Fruity Cream cookies. The results are pictured at the right. Why did Diva need to test pure sugar?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_24c-a1">Diva needs to know how much gas pure sugar produced in order to decide whether the cookies are pure sugar. Diva needs to make a controlled experiment.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.24c.293.1" accuracy="incorrect">To see if Fruity Cream cookies are full of sugar like her father said.</studentAnswer>
+    <studentAnswer id="FN.24c.339.1" accuracy="incorrect">Yeast, warm water, and some containers.</studentAnswer>
+    <studentAnswer id="FN.24c.386.1" accuracy="incorrect">To compare them and see how much less sugar Fruity Cream cookies.</studentAnswer>
+    <studentAnswer id="FN.24c.466.1" accuracy="incorrect">Because her dad told her that is pure sugar.</studentAnswer>
+  </studentAnswers>
+</question>

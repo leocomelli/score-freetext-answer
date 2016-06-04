@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_45b" module="EM">
+  <questionText>You used several methods to separate and identify the substances in mock rocks. How did you separate the salt from the water?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_45b-a1">The water was evaporated, leaving the salt.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.45b.299.1" accuracy="correct">We evaporated the water.</studentAnswer>
+    <studentAnswer id="EM.45b.387.1" accuracy="correct">We poured just the water into another thing and let the water evaporate.</studentAnswer>
+    <studentAnswer id="EM.45b.452.1" accuracy="incorrect">We kept the salt in the vial and put the water in the Petri dish.</studentAnswer>
+    <studentAnswer id="EM.45b.533.1" accuracy="incorrect">Get all the water out.</studentAnswer>
+  </studentAnswers>
+</question>

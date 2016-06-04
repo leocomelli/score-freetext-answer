@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_59b" module="HB">
+  <questionText>Lee was walking his dog, Max. When a cat ran past them, Max ran after the cat, pulling Lee to the ground. What was Max's response?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_59b-a1">Max's response was to run after the cat.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.59b.136.1" accuracy="incorrect">Stopping.</studentAnswer>
+    <studentAnswer id="HB.59b.138.1" accuracy="incorrect">That the brain told him to move.</studentAnswer>
+    <studentAnswer id="HB.59b.141.1" accuracy="incorrect">Run.</studentAnswer>
+    <studentAnswer id="HB.59b.144.1" accuracy="correct">Run after the cat pulling Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.147.1" accuracy="correct">Running after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.148.1" accuracy="correct">Max ran after the cat pulling Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.172.1" accuracy="correct">He ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.173.1" accuracy="incorrect">To fall to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.178.1" accuracy="incorrect">Moving.</studentAnswer>
+    <studentAnswer id="HB.59b.180.1" accuracy="correct">The response is that he ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.183.1" accuracy="correct">Max ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.209.1" accuracy="incorrect">Lee pulled max to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.215.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.216.1" accuracy="correct">Ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.219.1" accuracy="correct">Max ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.220.1" accuracy="correct">Running after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.243.1" accuracy="correct">Max's response was he ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.251.1" accuracy="correct">Max's response is chasing the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.254.1" accuracy="correct">Max's response was chasing the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.257.1" accuracy="correct">Max's response is chasing the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.259.1" accuracy="correct">He ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.268.1" accuracy="correct">Max ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.277.1" accuracy="correct">To find and get the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.280.1" accuracy="correct">He ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.283.1" accuracy="correct">To run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.284.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.285.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.289.1" accuracy="correct">Max's response was to run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.292.1" accuracy="correct">Max's response was to run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.313.1" accuracy="correct">The response is that Max ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.328.1" accuracy="correct">Max's response was to run after the cat, pulling Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.331.1" accuracy="incorrect">His response was sight.</studentAnswer>
+    <studentAnswer id="HB.59b.357.1" accuracy="correct">Max's response was running after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.359.1" accuracy="correct">Max's response was chasing the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.364.1" accuracy="correct">Max's response was to run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.385.1" accuracy="incorrect">Max's response was stop.</studentAnswer>
+    <studentAnswer id="HB.59b.387.1" accuracy="incorrect">The response was ow or whoa.</studentAnswer>
+    <studentAnswer id="HB.59b.389.1" accuracy="incorrect">Bite.</studentAnswer>
+    <studentAnswer id="HB.59b.390.1" accuracy="incorrect">Pulling Lee.</studentAnswer>
+    <studentAnswer id="HB.59b.393.1" accuracy="correct">The response was for Max to run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.394.1" accuracy="correct">Max's response was to run.</studentAnswer>
+    <studentAnswer id="HB.59b.418.1" accuracy="correct">His response was to run after the cat and he pulled Lee down.</studentAnswer>
+    <studentAnswer id="HB.59b.424.1" accuracy="correct">Max's response was to go and chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.425.1" accuracy="incorrect">Max's response was fast.</studentAnswer>
+    <studentAnswer id="HB.59b.427.1" accuracy="correct">Max, the dog, saw the cat with his eyes. So he ran after the cat, and Lee felt he was being pulled down.</studentAnswer>
+    <studentAnswer id="HB.59b.428.1" accuracy="incorrect">Max's response was to pull Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.429.1" accuracy="incorrect">Pulling Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.430.1" accuracy="correct">Max's response was that Max ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.433.1" accuracy="correct">The response was running after the cat and pulling Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.437.1" accuracy="correct">Running after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.438.1" accuracy="correct">Max's response was to chase it.</studentAnswer>
+    <studentAnswer id="HB.59b.451.1" accuracy="incorrect">Max's response is to growl and bark at the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.454.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.457.1" accuracy="correct">Dogs chase cats so when he saw it he chased the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.459.1" accuracy="correct">Chased the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.460.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.461.1" accuracy="correct">To go chase after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.462.1" accuracy="incorrect">I think his response was vision.</studentAnswer>
+    <studentAnswer id="HB.59b.463.1" accuracy="incorrect">Ruff and he was probably thinking got to kill that cat.</studentAnswer>
+    <studentAnswer id="HB.59b.467.1" accuracy="correct">He wanted to chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.471.1" accuracy="incorrect">Bark! Bark!</studentAnswer>
+    <studentAnswer id="HB.59b.490.1" accuracy="correct">To go chase it.</studentAnswer>
+    <studentAnswer id="HB.59b.493.1" accuracy="correct">Chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.494.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.495.1" accuracy="correct">Run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.496.1" accuracy="correct">Run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.498.1" accuracy="correct">Ran after the cat pulling Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.499.1" accuracy="correct">Max's response was he ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.502.1" accuracy="correct">Max's response was to start chasing that cat.</studentAnswer>
+    <studentAnswer id="HB.59b.504.1" accuracy="incorrect">To run.</studentAnswer>
+    <studentAnswer id="HB.59b.505.1" accuracy="correct">Max's response was chase after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.521.1" accuracy="correct">Max's response was to chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.523.1" accuracy="correct">Max ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.524.1" accuracy="correct">Max ran after the cat and pulled Lee to the ground.</studentAnswer>
+    <studentAnswer id="HB.59b.525.1" accuracy="correct">He ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.528.1" accuracy="correct">To go get the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.532.1" accuracy="incorrect">To follow.</studentAnswer>
+    <studentAnswer id="HB.59b.535.1" accuracy="incorrect">Legs.</studentAnswer>
+    <studentAnswer id="HB.59b.564.1" accuracy="correct">Max's response was to run after the cat and that was it.</studentAnswer>
+    <studentAnswer id="HB.59b.566.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.572.1" accuracy="correct">Max's response is run away and chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.575.1" accuracy="correct">Run towards the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.593.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.594.1" accuracy="incorrect">To run away.</studentAnswer>
+    <studentAnswer id="HB.59b.595.1" accuracy="correct">To get the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.603.1" accuracy="correct">Running after what he saw.</studentAnswer>
+    <studentAnswer id="HB.59b.604.1" accuracy="correct">Max's response was to chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.605.1" accuracy="correct">Chasing the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.606.1" accuracy="incorrect">Saw the cat run.</studentAnswer>
+    <studentAnswer id="HB.59b.608.1" accuracy="correct">The response was to chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.610.1" accuracy="correct">Run after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.611.1" accuracy="incorrect">Chase.</studentAnswer>
+    <studentAnswer id="HB.59b.628.1" accuracy="correct">Running after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.641.1" accuracy="correct">Max's response is chasing the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.644.1" accuracy="correct">Running after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.650.1" accuracy="correct">Max's response was chasing the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.652.1" accuracy="correct">To chase the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.976.1" accuracy="correct">Max's response was running after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.988.1" accuracy="correct">Max ran after the cat.</studentAnswer>
+    <studentAnswer id="HB.59b.990.1" accuracy="incorrect">Touch.</studentAnswer>
+  </studentAnswers>
+</question>

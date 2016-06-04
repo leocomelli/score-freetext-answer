@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_30" module="ME">
+  <questionText>Sometimes a red stoplight changes to green only when a car stops at the light. A type of magnet hidden under the surface of the road triggers the light to turn green. What is it about the car that could trigger a magnet to send a signal to the light?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_30-a1">A car is made of a lot of iron or steel.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.30.146.1" accuracy="incorrect">When you stop Do not you see a white line. I think this has a magnet under it.</studentAnswer>
+    <studentAnswer id="ME.30.227.1" accuracy="incorrect">That is because a car is made of metal and the magnet attract to metal.</studentAnswer>
+    <studentAnswer id="ME.30.247.1" accuracy="incorrect">There is a magnet that turns the color of the signal light that makes it turn red, yellow, green.</studentAnswer>
+    <studentAnswer id="ME.30.291.1" accuracy="incorrect">The light turn red will repel, if the light green.</studentAnswer>
+  </studentAnswers>
+</question>

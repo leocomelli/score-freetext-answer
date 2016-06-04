@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_66b" module="ME">
+  <questionText>Look at the circuit in the picture. The gap between the D-cell and the switch needs to be connected. Can you use a piece of aluminum foil to make the connection? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_66b-a1">Yes, aluminum foil is a metal and all metals conduct. The aluminum foil would complete the circuit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.66b.101.1" accuracy="correct">Yes because a piece of foil is not steel.</studentAnswer>
+    <studentAnswer id="ME.66b.107.1" accuracy="correct">Yes, because it is made of some kind of metal and it can conduct electricity.</studentAnswer>
+    <studentAnswer id="ME.66b.111.1" accuracy="incorrect">Yes the electrical well go through it is some kind of steel or iron.</studentAnswer>
+    <studentAnswer id="ME.66b.113.1" accuracy="incorrect">Yes because it lets electricity flow through.</studentAnswer>
+    <studentAnswer id="ME.66b.118.1" accuracy="correct">Yes it is metal.</studentAnswer>
+    <studentAnswer id="ME.66b.119.1" accuracy="correct">Yes because it is a conductor.</studentAnswer>
+    <studentAnswer id="ME.66b.140.1" accuracy="incorrect">Yes because that object can hold electricity throughout.</studentAnswer>
+    <studentAnswer id="ME.66b.141.1" accuracy="incorrect">No, because it is not made out of metal.</studentAnswer>
+    <studentAnswer id="ME.66b.142.1" accuracy="correct">Yes because it has iron in it.</studentAnswer>
+    <studentAnswer id="ME.66b.146.1" accuracy="incorrect">Yes and no it has to have iron in it.</studentAnswer>
+    <studentAnswer id="ME.66b.154.1" accuracy="correct">Yes you can because it has metal conductors have to have metal in them to work.</studentAnswer>
+    <studentAnswer id="ME.66b.176.1" accuracy="correct">Yes because aluminum is a type of metal.</studentAnswer>
+    <studentAnswer id="ME.66b.179.1" accuracy="correct">Yes you can because it does have metal in it.</studentAnswer>
+    <studentAnswer id="ME.66b.180.1" accuracy="incorrect">No because it will not let electricity flow and it is not metal.</studentAnswer>
+    <studentAnswer id="ME.66b.181.1" accuracy="correct">Yes you can because it is a conductor.</studentAnswer>
+    <studentAnswer id="ME.66b.190.1" accuracy="correct">Yes, because it has a little bit of metal in it.</studentAnswer>
+    <studentAnswer id="ME.66b.191.1" accuracy="incorrect">Yes you could because electricity could go through aluminum foil.</studentAnswer>
+    <studentAnswer id="ME.66b.192.1" accuracy="incorrect">Yes you could because the aluminum foil will go through the circuit.</studentAnswer>
+    <studentAnswer id="ME.66b.206.1" accuracy="incorrect">Yes because foil can very well convert electricity.</studentAnswer>
+    <studentAnswer id="ME.66b.208.1" accuracy="incorrect">No, because it does not have electricity in it.</studentAnswer>
+    <studentAnswer id="ME.66b.214.1" accuracy="correct">Yes you could because it is a type of a conductor.</studentAnswer>
+    <studentAnswer id="ME.66b.215.1" accuracy="correct">Yes, because electricity can go through foil.</studentAnswer>
+    <studentAnswer id="ME.66b.216.1" accuracy="incorrect">No, if you use aluminum foil it still will not work.</studentAnswer>
+    <studentAnswer id="ME.66b.220.1" accuracy="incorrect">No you need a wire to make the connection.</studentAnswer>
+    <studentAnswer id="ME.66b.224.1" accuracy="incorrect">You can try, but I think it would not work.</studentAnswer>
+    <studentAnswer id="ME.66b.225.1" accuracy="incorrect">No, because aluminum foil still does not have a path of electricity.</studentAnswer>
+    <studentAnswer id="ME.66b.226.1" accuracy="correct">Yes because aluminum foil is different than string and foil is metal.</studentAnswer>
+    <studentAnswer id="ME.66b.228.1" accuracy="incorrect">No, because aluminum is just like paper and paper cannot light up things either.</studentAnswer>
+    <studentAnswer id="ME.66b.245.1" accuracy="incorrect">No, because it is not big enough.</studentAnswer>
+    <studentAnswer id="ME.66b.247.1" accuracy="correct">Yes why because aluminum is foil and foil is metal.</studentAnswer>
+    <studentAnswer id="ME.66b.250.1" accuracy="incorrect">Yes, because the electricity can flow through aluminum.</studentAnswer>
+    <studentAnswer id="ME.66b.251.1" accuracy="correct">Yes, you can. That is because aluminum is a conductor of electricity.</studentAnswer>
+    <studentAnswer id="ME.66b.253.1" accuracy="incorrect">Yes. Because aluminum foil is good conductor.</studentAnswer>
+    <studentAnswer id="ME.66b.280.1" accuracy="incorrect">Yes because aluminum foil is a conductor.</studentAnswer>
+    <studentAnswer id="ME.66b.314.1" accuracy="incorrect">Why not it will not work because aluminum foil do not have no wire to go through.</studentAnswer>
+    <studentAnswer id="ME.66b.323.1" accuracy="incorrect">You can use a piece of aluminum foil because it will connection.</studentAnswer>
+  </studentAnswers>
+</question>

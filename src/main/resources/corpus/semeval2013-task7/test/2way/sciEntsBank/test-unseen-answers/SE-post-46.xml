@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_46" module="SE">
+  <questionText>Amber predicted that a black covered box would heat up faster than a white covered box. She took 2 identical shoe boxes and wrapped one with white paper and the other with black paper. She punched a hole in each box, stuck a thermometer into each hole, and put both boxes in the sun. Every 5 minutes, Amber recorded the temperature in each box. Will the data support Amber's prediction? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_46-a1">Yes. Black absorbs more heat (energy) than white. White reflects more heat (energy) than black. Therefore the black covered box will heat up faster than the white covered box.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.46.499.1" accuracy="incorrect">Yes. Black is a hotter color than white.</studentAnswer>
+    <studentAnswer id="SE.46.501.1" accuracy="incorrect">Yes. Yes, it would because since she put them both in the sun and stuck a thermometer in both then she will know which box will heat up faster, and she will see if her prediction is correct.</studentAnswer>
+    <studentAnswer id="SE.46.603.1" accuracy="correct">Yes. Yes because black absorbs the heat more than white.</studentAnswer>
+    <studentAnswer id="SE.46.605.1" accuracy="correct">Yes. Yes, because black absorbs heat from the sun.</studentAnswer>
+  </studentAnswers>
+</question>

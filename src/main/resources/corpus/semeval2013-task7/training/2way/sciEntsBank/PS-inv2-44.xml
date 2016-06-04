@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<question id="PS_44" module="PS">
+  <questionText>A harp has strings of different lengths. Describe how the sound of a short string being plucked (pulled and let go quickly) is different from the sound of a long string being plucked.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_44-a1">If the string is shorter, the pitch will be higher. If the string is longer, the pitch will be lower.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.44.104.1" accuracy="correct">The small string has the highest pitch than the long one.</studentAnswer>
+    <studentAnswer id="PS.44.105.1" accuracy="correct">It is different because the little string makes a height sound.</studentAnswer>
+    <studentAnswer id="PS.44.107.1" accuracy="correct">The long string is low. And the short string is high.</studentAnswer>
+    <studentAnswer id="PS.44.110.1" accuracy="correct">If the small one is high the big one is low that is what it is for the harp.</studentAnswer>
+    <studentAnswer id="PS.44.111.1" accuracy="correct">The short string, will make a high sound and a long string will make a low sound. The short string and the long string are different because they are high and low.</studentAnswer>
+    <studentAnswer id="PS.44.114.1" accuracy="incorrect">If you pluck it make a volume.</studentAnswer>
+    <studentAnswer id="PS.44.118.1" accuracy="correct">A short string being plucked is different than the long string being plucked because the long string has the lowest pitch. And the shortest has the highest pitch.</studentAnswer>
+    <studentAnswer id="PS.44.138.1" accuracy="correct">A little string has a high pitch and a big string has a low pitch.</studentAnswer>
+    <studentAnswer id="PS.44.141.1" accuracy="correct">A short string the vibrations go faster so there is a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.44.142.1" accuracy="correct">It is different because the short string has a high pitch and the long string has a low pitch.</studentAnswer>
+    <studentAnswer id="PS.44.146.1" accuracy="correct">Short string high pitch, long string low pitch.</studentAnswer>
+    <studentAnswer id="PS.44.152.1" accuracy="correct">Because the long one has a lower pitch the littler one has a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.44.154.1" accuracy="correct">How it different is the shorter string has a higher pitch and the long string make a low pitch.</studentAnswer>
+    <studentAnswer id="PS.44.157.1" accuracy="correct">The long string is lower and the short string is louder.</studentAnswer>
+    <studentAnswer id="PS.44.160.1" accuracy="correct">A long string makes a low sound and a short string makes a high sound.</studentAnswer>
+    <studentAnswer id="PS.44.171.1" accuracy="incorrect">The siren makes it louder.</studentAnswer>
+    <studentAnswer id="PS.44.176.1" accuracy="correct">The long one makes a lower sound but the short one be higher.</studentAnswer>
+    <studentAnswer id="PS.44.181.1" accuracy="incorrect">A shorter string makes a lower pitch and a longer string makes a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.44.183.1" accuracy="correct">Smaller string has high pitch and bigger string has lower pitch.</studentAnswer>
+    <studentAnswer id="PS.44.184.1" accuracy="incorrect">It will be too low if you pluck the short string. It is loud when you pluck the long string.</studentAnswer>
+    <studentAnswer id="PS.44.185.1" accuracy="correct">Lowest string has the highest pitch. Highest string has the lowest pitch.</studentAnswer>
+    <studentAnswer id="PS.44.189.1" accuracy="correct">Because if you pluck a short string it will make a high pitch.</studentAnswer>
+    <studentAnswer id="PS.44.191.1" accuracy="incorrect">The littler string is louder then the big string.</studentAnswer>
+    <studentAnswer id="PS.44.192.1" accuracy="correct">When you plucked the shorter string it makes a higher.</studentAnswer>
+    <studentAnswer id="PS.44.193.1" accuracy="correct">The short string is high and the long one is lower.</studentAnswer>
+    <studentAnswer id="PS.44.195.1" accuracy="correct">The long string is going to be lower, the shorter string is going to be higher.</studentAnswer>
+    <studentAnswer id="PS.44.212.1" accuracy="correct">The small string has a higher pitch because you pluck it and it goes so fast that it has a high pitch.</studentAnswer>
+    <studentAnswer id="PS.44.217.1" accuracy="correct">The long strings make a low pitch sound because the string is long than the others.</studentAnswer>
+    <studentAnswer id="PS.44.221.1" accuracy="correct">The sound of a short string is like a ding a long string sounds like a dong.</studentAnswer>
+    <studentAnswer id="PS.44.222.1" accuracy="correct">The longer string is lower and the shorter string is higher.</studentAnswer>
+    <studentAnswer id="PS.44.223.1" accuracy="correct">The shorter strings make a higher sound because the vibrations do not travel as long.</studentAnswer>
+    <studentAnswer id="PS.44.228.1" accuracy="correct">The short string has a higher pitch the long string has a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.44.230.1" accuracy="correct">The longer the string the lower the pitch.</studentAnswer>
+    <studentAnswer id="PS.44.241.1" accuracy="correct">The small side would have a high pitch Because it vibrates faster.</studentAnswer>
+    <studentAnswer id="PS.44.249.1" accuracy="correct">Well when you pluck the small string it is a louder pitch Because the smaller string is higher the pitch the Bigger the string the lower the pitch.</studentAnswer>
+    <studentAnswer id="PS.44.261.1" accuracy="incorrect">Long will make a higher pitch short will make a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.44.263.1" accuracy="correct">The short string has a higher pitch. The longer string has a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.44.313.1" accuracy="correct">The short string will be High and the long string will be low.</studentAnswer>
+    <studentAnswer id="PS.44.314.1" accuracy="incorrect">A short string makes a low note because it has less room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.44.316.1" accuracy="incorrect">The short one is louder than the long one.</studentAnswer>
+    <studentAnswer id="PS.44.317.1" accuracy="correct">A long string has more room to vibrate so it makes a low sound and it is opposite for a short string.</studentAnswer>
+    <studentAnswer id="PS.44.319.1" accuracy="incorrect">Because the short one has more air so when you hit it it bring a low sound.</studentAnswer>
+    <studentAnswer id="PS.44.320.1" accuracy="incorrect">The long string got more room to vibrate than the little string.</studentAnswer>
+    <studentAnswer id="PS.44.323.1" accuracy="correct">A short string is a higher pitch than lengthier string.</studentAnswer>
+    <studentAnswer id="PS.44.328.1" accuracy="correct">The longer string is low and the shorter string is high.</studentAnswer>
+    <studentAnswer id="PS.44.329.1" accuracy="correct">It could be higher.</studentAnswer>
+    <studentAnswer id="PS.44.332.1" accuracy="incorrect">The short one would be louder. The long one would be quieter.</studentAnswer>
+    <studentAnswer id="PS.44.333.1" accuracy="correct">The longer string will make a lower sound. And the smaller string makes a Higher sound.</studentAnswer>
+    <studentAnswer id="PS.44.334.1" accuracy="correct">The short string will make a sound that is high and the long string is low.</studentAnswer>
+  </studentAnswers>
+</question>

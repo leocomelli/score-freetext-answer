@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_47b" module="SE">
+  <questionText>Sue bought a white wading pool for her grandchildren. She wanted to heat up the water as fast as possible. She thought that if she put plastic sheeting in the bottom of the pool it might heat up the water faster. She had a sheet of yellow plastic and a sheet of dark green plastic. What should Sue do to heat the water as fast as possible? A. Put the yellow sheeting on the bottom of the pool. (B. Put the dark green sheeting on the bottom of the pool.) C. Put no sheeting on the bottom of the pool; leave it white. Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_47b-a1">Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.47b.132.1" accuracy="correct">Because the darker the color the hotter it gets.</studentAnswer>
+    <studentAnswer id="SE.47b.490.1" accuracy="correct">I chose this answer because dark green is a darker color and would heat faster.</studentAnswer>
+    <studentAnswer id="SE.47b.532.1" accuracy="correct">Because darker colors heat up faster.</studentAnswer>
+    <studentAnswer id="SE.47b.538.1" accuracy="correct">Because the darkest color available would transfer from absorbing the heat from the dark green.</studentAnswer>
+  </studentAnswers>
+</question>

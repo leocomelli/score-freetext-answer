@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_31" module="WA">
+  <questionText>Maria weighed a small, wet sponge. It weighed 38 grams. She left the sponge on the balance. The next day, Jose found the sponge on the balance. It weighed 22 grams. Both students weighed the sponge accurately. Why were the masses different?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_31-a1">Some water evaporated from the sponge between the time Maria weighed the sponge and the time Jose weighed the sponge.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.31.172.1" accuracy="correct">Their masses were different because the water on the sponge evaporated. If you leave water out for a certain period of time, it will evaporate.</studentAnswer>
+    <studentAnswer id="WA.31.173.1" accuracy="correct">The mass was different because water evaporated from the sponge before they weighed it again so the weight changed.</studentAnswer>
+    <studentAnswer id="WA.31.176.1" accuracy="correct">Well because the water probably evaporated 16 grams the day Maria weighed the sponge. When Jose weighed it, it was probably lighter.</studentAnswer>
+    <studentAnswer id="WA.31.177.1" accuracy="correct">They were different because if you leave water out it will evaporate. Some of the water in the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.179.1" accuracy="incorrect">Because water is really strong and it could make a sponge heavier but when it dried, water was not on the sponge no more so that made it weigh lower.</studentAnswer>
+    <studentAnswer id="WA.31.181.1" accuracy="correct">They were different because all of the water in the sponge evaporated and water is heavy so it made the sponge heavy but when it evaporated it made the sponge weigh lighter.</studentAnswer>
+    <studentAnswer id="WA.31.186.1" accuracy="correct">Overnight the water in the sponge had evaporated so that sponge weighed less.</studentAnswer>
+    <studentAnswer id="WA.31.189.1" accuracy="incorrect">Because over the hours the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.190.1" accuracy="correct">The masses were different because Maria probably left the balance by a heated source. If she had left it by a heated source, the wet sponge the water in it might have evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.194.1" accuracy="correct">Because when Maria weighed it, it had water in it and when Jose weighed it, the water had already evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.195.1" accuracy="correct">Because some of the water from the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.196.1" accuracy="correct">The water in the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.197.1" accuracy="correct">The sponge has water in it. The water evaporated and made the sponge not as heavy.</studentAnswer>
+    <studentAnswer id="WA.31.211.1" accuracy="incorrect">That happened because when you leave something out it will get evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.218.1" accuracy="incorrect">Because it evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.226.1" accuracy="correct">The masses were different because the water on the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.230.1" accuracy="correct">The masses were different because some water evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.231.1" accuracy="correct">The masses were different because some of the water in the sponge had evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.232.1" accuracy="correct">Because overnight some of the water in the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.242.1" accuracy="correct">Water has evaporated from the sponge over the night, making the sponge less heavy.</studentAnswer>
+    <studentAnswer id="WA.31.248.1" accuracy="correct">The masses were different because some of the water evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.254.1" accuracy="correct">The sponge evaporated some water.</studentAnswer>
+    <studentAnswer id="WA.31.255.1" accuracy="correct">The masses were different because when Maria left it on the balance, the water evaporated and made the sponge lighter.</studentAnswer>
+    <studentAnswer id="WA.31.257.1" accuracy="correct">The masses were different because within the next day some of the water evaporated out of the sponge, so now that it has lost some of its water, it weighs less.</studentAnswer>
+    <studentAnswer id="WA.31.258.1" accuracy="correct">The masses were different because some of the water on the damp sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.262.1" accuracy="correct">The mass was different because some water evaporated from the sponge and made it weigh less.</studentAnswer>
+    <studentAnswer id="WA.31.264.1" accuracy="incorrect">Because maybe Maria put in more water than Jose.</studentAnswer>
+    <studentAnswer id="WA.31.266.1" accuracy="correct">The masses were different because some water evaporated overnight.</studentAnswer>
+    <studentAnswer id="WA.31.267.1" accuracy="incorrect">Because the sponge was evaporating to the air.</studentAnswer>
+    <studentAnswer id="WA.31.294.1" accuracy="incorrect">Because some of the water on the towel evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.348.1" accuracy="incorrect">Because they both evaporated and lost weight.</studentAnswer>
+    <studentAnswer id="WA.31.350.1" accuracy="incorrect">Because of evaporation from the sun.</studentAnswer>
+    <studentAnswer id="WA.31.351.1" accuracy="incorrect">Because the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.355.1" accuracy="incorrect">Evaporation.</studentAnswer>
+    <studentAnswer id="WA.31.381.1" accuracy="incorrect">The wind and the water.</studentAnswer>
+    <studentAnswer id="WA.31.383.1" accuracy="incorrect">Because overnight, the water got warmer somehow.</studentAnswer>
+    <studentAnswer id="WA.31.387.1" accuracy="correct">That must have been from evaporation. The water on the sponge probably evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.390.1" accuracy="correct">Because the sponge was left there all night, so most of the water from the sponge evaporated. Maria weighed the sponge when it was still very wet, but Jose weighed it when the water had already evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.392.1" accuracy="incorrect">Because the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.395.1" accuracy="correct">Maria let the sponge sit and water from the sponge evaporated and took water out of the sponge and turned it into water vapor so the sponge got lighter since it had less mass.</studentAnswer>
+    <studentAnswer id="WA.31.397.1" accuracy="incorrect">Because the sponge dried when Maria left.</studentAnswer>
+    <studentAnswer id="WA.31.401.1" accuracy="correct">The water on the sponge was evaporated, so Jose's sponge was lighter than Maria's.</studentAnswer>
+    <studentAnswer id="WA.31.416.1" accuracy="correct">Because the water inside the sponge had partly evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.422.1" accuracy="correct">They were different because the first day the sponge was heavy with water, but the next day the water had evaporated, so it had lost weight since the day before.</studentAnswer>
+    <studentAnswer id="WA.31.425.1" accuracy="incorrect">Because Jose wet it the day before he looked at it, so it evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.426.1" accuracy="correct">Because the water in the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.428.1" accuracy="correct">Because some of the water evaporated, making it turn into water vapor.</studentAnswer>
+    <studentAnswer id="WA.31.430.1" accuracy="correct">The water evaporated. That made it weigh less.</studentAnswer>
+    <studentAnswer id="WA.31.433.1" accuracy="correct">Because the next day the water in the sponge evaporated. If she put the sponge in a case, it would not evaporate fast.</studentAnswer>
+    <studentAnswer id="WA.31.434.1" accuracy="incorrect">Because it evaporated so there is not more water in it. Water cause weight too.</studentAnswer>
+    <studentAnswer id="WA.31.436.1" accuracy="correct">The water in the sponge evaporated the next day which made it lighter.</studentAnswer>
+    <studentAnswer id="WA.31.451.1" accuracy="correct">Because the water from the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.454.1" accuracy="correct">Because some of the water in the sponge might have evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.456.1" accuracy="correct">Because some of the water evaporated from the sponge.</studentAnswer>
+    <studentAnswer id="WA.31.458.1" accuracy="correct">The water in the wet sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.460.1" accuracy="incorrect">It is called evaporation. It evaporated because it could have been in heat or the sun.</studentAnswer>
+    <studentAnswer id="WA.31.463.1" accuracy="correct">Some of the water in the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.465.1" accuracy="correct">Maria weighed the sponge when it was wet. Then the water evaporated and Jose weighed it.</studentAnswer>
+    <studentAnswer id="WA.31.469.1" accuracy="incorrect">Some of the water evaporated from the cup.</studentAnswer>
+    <studentAnswer id="WA.31.486.1" accuracy="correct">They were different because the water caused the sponge to get heavy and the next day when Jose found the sponge some of the water on the sponge has evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.487.1" accuracy="correct">Because overnight the water in the sponge evaporated so there was no water and it weighed less.</studentAnswer>
+    <studentAnswer id="WA.31.493.1" accuracy="correct">The sponge's water evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.498.1" accuracy="correct">Since it was a wet sponge, the water that was inside of it evaporated so it made it weigh less.</studentAnswer>
+    <studentAnswer id="WA.31.501.1" accuracy="correct">Because the water in the sponge start to evaporate because some of the water gets hot and contracts to the less dense molecules. So then there is less water in the sponge.</studentAnswer>
+    <studentAnswer id="WA.31.505.1" accuracy="correct">Because some water in the sponge evaporated and less water meant less weight.</studentAnswer>
+    <studentAnswer id="WA.31.506.1" accuracy="correct">Because the water in the sponge evaporated, so a bit of weight went with it.</studentAnswer>
+    <studentAnswer id="WA.31.509.1" accuracy="correct">Because some of the water evaporated. So that caused the weight of the sponge to decrease.</studentAnswer>
+    <studentAnswer id="WA.31.510.1" accuracy="incorrect">Because some of the water from Maria's cup evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.512.1" accuracy="incorrect">Because it was getting dry easily because it evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.523.1" accuracy="correct">Because the water in the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.524.1" accuracy="correct">Because some of the water evaporated overnight.</studentAnswer>
+    <studentAnswer id="WA.31.527.1" accuracy="correct">Because the water in the sponge evaporated overnight and that means it would not be as heavy.</studentAnswer>
+    <studentAnswer id="WA.31.528.1" accuracy="correct">Because some of the water in the wet sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.531.1" accuracy="correct">Well the sponge must have evaporated a little since the day before.</studentAnswer>
+    <studentAnswer id="WA.31.532.1" accuracy="correct">Because the water evaporated in the sponge.</studentAnswer>
+    <studentAnswer id="WA.31.535.1" accuracy="incorrect">Because the sponge soaks up the water in it.</studentAnswer>
+    <studentAnswer id="WA.31.536.1" accuracy="incorrect">Because water does weigh something. If the sponge is wet one day the next it will be dryer, and weigh less.</studentAnswer>
+    <studentAnswer id="WA.31.541.1" accuracy="correct">Because the water in the sponge evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.556.1" accuracy="correct">Because the water evaporated, and the sponge weighed its normal weight without water.</studentAnswer>
+    <studentAnswer id="WA.31.557.1" accuracy="incorrect">Because most is closest of evaporation.</studentAnswer>
+    <studentAnswer id="WA.31.563.1" accuracy="incorrect">Because if it was outside all the water dried up which made it weigh less. It weighed more with the water in.</studentAnswer>
+    <studentAnswer id="WA.31.565.1" accuracy="correct">The water in the sponge evaporated so it weighed less because water weighs a certain amount.</studentAnswer>
+    <studentAnswer id="WA.31.567.1" accuracy="correct">Because the water in the sponge evaporated overnight. Water is more dense than air. So when there was water in the sponge other than nothing but air in the sponge!</studentAnswer>
+    <studentAnswer id="WA.31.572.1" accuracy="correct">The masses were different because part of the water evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.576.1" accuracy="incorrect">Because some of it evaporated into the air.</studentAnswer>
+    <studentAnswer id="WA.31.591.1" accuracy="incorrect">Because when Maria weighed it was full of water but when Jose weighed it the sponge had dried.</studentAnswer>
+    <studentAnswer id="WA.31.596.1" accuracy="correct">Water can weigh a substance down. When water from the sponge is evaporated, it gets lighter.</studentAnswer>
+    <studentAnswer id="WA.31.598.1" accuracy="incorrect">Because of evaporation.</studentAnswer>
+    <studentAnswer id="WA.31.600.1" accuracy="correct">Because of evaporation the water from the sponge evaporated into the Air!</studentAnswer>
+    <studentAnswer id="WA.31.604.1" accuracy="correct">Overnight the water must have evaporated.</studentAnswer>
+    <studentAnswer id="WA.31.610.1" accuracy="correct">The masses were different because some of the sponge's water evaporated overnight.</studentAnswer>
+    <studentAnswer id="WA.31.612.1" accuracy="incorrect">Because it dried out it soaked up the water.</studentAnswer>
+    <studentAnswer id="WA.31.627.1" accuracy="correct">Because some water evaporated overnight.</studentAnswer>
+    <studentAnswer id="WA.31.629.1" accuracy="incorrect">Because overnight it probably soaked into the sponge.</studentAnswer>
+    <studentAnswer id="WA.31.630.1" accuracy="incorrect">They used different sponges.</studentAnswer>
+    <studentAnswer id="WA.31.631.1" accuracy="correct">Because some of the water evaporated from the sponge!</studentAnswer>
+    <studentAnswer id="WA.31.635.1" accuracy="correct">Because some of the water might have evaporated into the sky. It might have turned into water vapor.</studentAnswer>
+    <studentAnswer id="WA.31.638.1" accuracy="correct">Because some of the water evaporated and turned into water vapor.</studentAnswer>
+    <studentAnswer id="WA.31.639.1" accuracy="incorrect">Because it evaporated the water.</studentAnswer>
+    <studentAnswer id="WA.31.642.1" accuracy="correct">Because the water on the sponge was evaporated.</studentAnswer>
+  </studentAnswers>
+</question>

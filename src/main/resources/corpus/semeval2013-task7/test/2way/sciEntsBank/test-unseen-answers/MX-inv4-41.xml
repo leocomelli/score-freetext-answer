@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_41" module="MX">
+  <questionText>Janet found the solubility of silver chloride to be 86 grams in 50 milliliters of water. Mike found the solubility of silver nitrate to be 108 grams in 50 milliliters of water. Janet and Mike thought they must have made a mistake. They thought the solubilities of all materials in water should be the same. Is it possible that both solubilities are correct? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_41-a1">Yes, they could both be correct. Solubility is not the same for all materials.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.41.390.1" accuracy="correct">Yes because solubility means how soluble a mixture is. So they can be more or less soluble.</studentAnswer>
+    <studentAnswer id="MX.41.462.1" accuracy="incorrect">Yes.</studentAnswer>
+    <studentAnswer id="MX.41.466.1" accuracy="incorrect">No because all different solids have different solubility.</studentAnswer>
+    <studentAnswer id="MX.41.635.1" accuracy="correct">They could be different because they are not the same thing.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_11a" module="MX">
+  <questionText>Jim used a solid and water to make Mixture one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), Mixture 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), Mixture 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and Mixture 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. What evidence does Jim have that the solid and water make a solution?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11a-a1">The mixtures are all clear.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11a.392.1" accuracy="correct">That it is clear that is how he can know.</studentAnswer>
+    <studentAnswer id="MX.11a.464.1" accuracy="correct">Mixture one and 3 are both clear and nothing on bottom.</studentAnswer>
+    <studentAnswer id="MX.11a.500.1" accuracy="correct">Mixture one and 2 are clear.</studentAnswer>
+    <studentAnswer id="MX.11a.641.1" accuracy="incorrect">The mixture 4 and 5 are saturated and a mixture is not a solution until it is saturated.</studentAnswer>
+  </studentAnswers>
+</question>

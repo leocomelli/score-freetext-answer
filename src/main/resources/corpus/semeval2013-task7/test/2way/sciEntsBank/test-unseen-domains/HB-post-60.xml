@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_60" module="HB">
+  <questionText>Joe is a fast runner but he is slow at responding to the starting gun. How could Joe improve his start time?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_60-a1">Joe could practice responding to the starting gun to improve Joe's start time.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.60.136.1" accuracy="incorrect">Hearing more closely.</studentAnswer>
+    <studentAnswer id="HB.60.147.1" accuracy="incorrect">By practicing it over and over again being ready next time.</studentAnswer>
+    <studentAnswer id="HB.60.178.1" accuracy="incorrect">Practice.</studentAnswer>
+    <studentAnswer id="HB.60.206.1" accuracy="correct">Joe could improve responding to the starting gun by practicing.</studentAnswer>
+    <studentAnswer id="HB.60.212.1" accuracy="incorrect">He could practice.</studentAnswer>
+    <studentAnswer id="HB.60.216.1" accuracy="correct">Joe could improve by practice listening to the gun.</studentAnswer>
+    <studentAnswer id="HB.60.245.1" accuracy="incorrect">Joe could by practicing.</studentAnswer>
+    <studentAnswer id="HB.60.249.1" accuracy="incorrect">Not get distracted and get ready.</studentAnswer>
+    <studentAnswer id="HB.60.253.1" accuracy="correct">Joe could practice on that specific thing so he will get better.</studentAnswer>
+    <studentAnswer id="HB.60.254.1" accuracy="correct">Joe can practice on running with the gun at home.</studentAnswer>
+    <studentAnswer id="HB.60.257.1" accuracy="incorrect">Joe can practice.</studentAnswer>
+    <studentAnswer id="HB.60.259.1" accuracy="incorrect">He could go home and practice.</studentAnswer>
+    <studentAnswer id="HB.60.268.1" accuracy="incorrect">Well his stimulus in vision. He should practice with no team after school.</studentAnswer>
+    <studentAnswer id="HB.60.277.1" accuracy="correct">By get more use to the sound of the starting gun.</studentAnswer>
+    <studentAnswer id="HB.60.283.1" accuracy="correct">Practice. Have somebody yell go or something to improve.</studentAnswer>
+    <studentAnswer id="HB.60.284.1" accuracy="correct">He could practice starting races.</studentAnswer>
+    <studentAnswer id="HB.60.285.1" accuracy="incorrect">By practicing.</studentAnswer>
+    <studentAnswer id="HB.60.291.1" accuracy="correct">He could practice his response.</studentAnswer>
+    <studentAnswer id="HB.60.321.1" accuracy="incorrect">He could improve it by practicing or focusing more.</studentAnswer>
+    <studentAnswer id="HB.60.349.1" accuracy="incorrect">He could practice at his free time.</studentAnswer>
+    <studentAnswer id="HB.60.350.1" accuracy="correct">Joe your respond is going to practice the gun sound.</studentAnswer>
+    <studentAnswer id="HB.60.355.1" accuracy="correct">He could practice to get his response time better.</studentAnswer>
+    <studentAnswer id="HB.60.357.1" accuracy="correct">To practice his responding to the starting gun.</studentAnswer>
+    <studentAnswer id="HB.60.385.1" accuracy="incorrect">Joe could practice.</studentAnswer>
+    <studentAnswer id="HB.60.387.1" accuracy="incorrect">He needs to practice a lot more to get more acceleration.</studentAnswer>
+    <studentAnswer id="HB.60.388.1" accuracy="incorrect">Joe can improve by coordination.</studentAnswer>
+    <studentAnswer id="HB.60.391.1" accuracy="incorrect">Practice.</studentAnswer>
+    <studentAnswer id="HB.60.392.1" accuracy="incorrect">Joe could pay more attention to hear and listen.</studentAnswer>
+    <studentAnswer id="HB.60.418.1" accuracy="correct">Joe could improve by practicing at it more.</studentAnswer>
+    <studentAnswer id="HB.60.422.1" accuracy="incorrect">By practicing the start gun with someone.</studentAnswer>
+    <studentAnswer id="HB.60.423.1" accuracy="correct">By working on it a lot because you body gets more use to it.</studentAnswer>
+    <studentAnswer id="HB.60.424.1" accuracy="incorrect">When he sees the gun he can move right away by concentrating.</studentAnswer>
+    <studentAnswer id="HB.60.425.1" accuracy="incorrect">He could improve by practicing at home every day.</studentAnswer>
+    <studentAnswer id="HB.60.427.1" accuracy="incorrect">As soon he hears it, he runs as fast he can.</studentAnswer>
+    <studentAnswer id="HB.60.428.1" accuracy="incorrect">By counting how much seconds it takes for the man to shoot the gun.</studentAnswer>
+    <studentAnswer id="HB.60.429.1" accuracy="correct">Joe could practice with a cap gun, or something to move on a whistle.</studentAnswer>
+    <studentAnswer id="HB.60.430.1" accuracy="incorrect">I think he has to practice more and more until he gets it.</studentAnswer>
+    <studentAnswer id="HB.60.433.1" accuracy="correct">Joe could improve by practicing at home responding to the gun if he had a gun.</studentAnswer>
+    <studentAnswer id="HB.60.435.1" accuracy="incorrect">Joe should practice by being late and keep running so he does not stop.</studentAnswer>
+    <studentAnswer id="HB.60.438.1" accuracy="incorrect">He could block out everything except for the loud bang.</studentAnswer>
+    <studentAnswer id="HB.60.440.1" accuracy="incorrect">To tell his body that task to run and to tell him to move his muscles.</studentAnswer>
+    <studentAnswer id="HB.60.453.1" accuracy="incorrect">By ignoring the gun shot and just keep his mind focused on the track and ignore the cheering too.</studentAnswer>
+    <studentAnswer id="HB.60.457.1" accuracy="incorrect">He should practice his hearing and practice.</studentAnswer>
+    <studentAnswer id="HB.60.464.1" accuracy="incorrect">Working out.</studentAnswer>
+    <studentAnswer id="HB.60.467.1" accuracy="incorrect">He can improve by listening and your stimulus.</studentAnswer>
+    <studentAnswer id="HB.60.471.1" accuracy="incorrect">Practice a lot more at his house where there is some space.</studentAnswer>
+    <studentAnswer id="HB.60.489.1" accuracy="incorrect">By listening better.</studentAnswer>
+    <studentAnswer id="HB.60.494.1" accuracy="incorrect">Hearing a boom sound and hurry and move his legs and run.</studentAnswer>
+    <studentAnswer id="HB.60.496.1" accuracy="incorrect">Practicing.</studentAnswer>
+    <studentAnswer id="HB.60.498.1" accuracy="incorrect">To practice before he starts a race.</studentAnswer>
+    <studentAnswer id="HB.60.499.1" accuracy="incorrect">To go faster and practice at home.</studentAnswer>
+    <studentAnswer id="HB.60.500.1" accuracy="incorrect">To practice.</studentAnswer>
+    <studentAnswer id="HB.60.501.1" accuracy="incorrect">By practicing with afraid.</studentAnswer>
+    <studentAnswer id="HB.60.504.1" accuracy="incorrect">Practice a lot.</studentAnswer>
+    <studentAnswer id="HB.60.505.1" accuracy="correct">Practice and improve his response time.</studentAnswer>
+    <studentAnswer id="HB.60.523.1" accuracy="incorrect">He could by asking when is the gun is about to be fired.</studentAnswer>
+    <studentAnswer id="HB.60.525.1" accuracy="incorrect">He could practice a lot and see how fast he ran with a stop watch.</studentAnswer>
+    <studentAnswer id="HB.60.530.1" accuracy="incorrect">Practice at home.</studentAnswer>
+    <studentAnswer id="HB.60.536.1" accuracy="incorrect">Practice at home or with a friend.</studentAnswer>
+    <studentAnswer id="HB.60.561.1" accuracy="incorrect">Practice concentrating.</studentAnswer>
+    <studentAnswer id="HB.60.563.1" accuracy="incorrect">When he does not have running he can just keep practicing until he gets better.</studentAnswer>
+    <studentAnswer id="HB.60.565.1" accuracy="incorrect">Joe can practice and practice.</studentAnswer>
+    <studentAnswer id="HB.60.566.1" accuracy="incorrect">He should practice.</studentAnswer>
+    <studentAnswer id="HB.60.568.1" accuracy="incorrect">I think Joe should keep practicing to improve his start time.</studentAnswer>
+    <studentAnswer id="HB.60.569.1" accuracy="incorrect">By instead of using a gun he could use a whistle.</studentAnswer>
+    <studentAnswer id="HB.60.570.1" accuracy="incorrect">He could keep trying and listen really good for the gun shot.</studentAnswer>
+    <studentAnswer id="HB.60.571.1" accuracy="incorrect">Joe can practice before his running tournament.</studentAnswer>
+    <studentAnswer id="HB.60.572.1" accuracy="incorrect">Joe could practice with his family until the day of the race.</studentAnswer>
+    <studentAnswer id="HB.60.575.1" accuracy="correct">By practicing and concentrating so that Joe will have a better response time.</studentAnswer>
+    <studentAnswer id="HB.60.592.1" accuracy="incorrect">Practice.</studentAnswer>
+    <studentAnswer id="HB.60.596.1" accuracy="incorrect">He could practice.</studentAnswer>
+    <studentAnswer id="HB.60.597.1" accuracy="correct">Joe needs to practice hearing the gun.</studentAnswer>
+    <studentAnswer id="HB.60.598.1" accuracy="incorrect">Practice his start time.</studentAnswer>
+    <studentAnswer id="HB.60.600.1" accuracy="correct">Joe could improve practicing the start gun so he could be even faster.</studentAnswer>
+    <studentAnswer id="HB.60.604.1" accuracy="correct">The way Joe could improve his response time is by practicing.</studentAnswer>
+    <studentAnswer id="HB.60.606.1" accuracy="incorrect">He could practice starting.</studentAnswer>
+    <studentAnswer id="HB.60.609.1" accuracy="correct">Joe can get better with his response time start time by practicing.</studentAnswer>
+    <studentAnswer id="HB.60.613.1" accuracy="correct">Joe could practice responding at noises to improve his start time.</studentAnswer>
+    <studentAnswer id="HB.60.614.1" accuracy="incorrect">Joe can improve his start by practicing.</studentAnswer>
+    <studentAnswer id="HB.60.628.1" accuracy="correct">Joe needs to practice starting the race.</studentAnswer>
+    <studentAnswer id="HB.60.633.1" accuracy="incorrect">Joe can improve his time by practicing more.</studentAnswer>
+    <studentAnswer id="HB.60.634.1" accuracy="correct">He can practice at home and his brother and sister can make a gun sound and practice.</studentAnswer>
+    <studentAnswer id="HB.60.634b.1" accuracy="correct">Joe could practice running and more at home and his mom could say go as the gun.</studentAnswer>
+    <studentAnswer id="HB.60.636.1" accuracy="incorrect">Joe could improve his time by practicing.</studentAnswer>
+    <studentAnswer id="HB.60.637.1" accuracy="incorrect">Joe could practice moving joints.</studentAnswer>
+    <studentAnswer id="HB.60.638.1" accuracy="incorrect">Joe's improve his starting point by just using his muscles and joints.</studentAnswer>
+    <studentAnswer id="HB.60.640.1" accuracy="incorrect">He could exercise before he runs.</studentAnswer>
+    <studentAnswer id="HB.60.641.1" accuracy="correct">He could practice to the sound of the starting gun.</studentAnswer>
+    <studentAnswer id="HB.60.642.1" accuracy="incorrect">Be calm and just wait for everybody else to start their race or count down in his head.</studentAnswer>
+    <studentAnswer id="HB.60.644.1" accuracy="incorrect">Try to close his ears.</studentAnswer>
+    <studentAnswer id="HB.60.645.1" accuracy="correct">Joe could practice starting when the gun goes off.</studentAnswer>
+    <studentAnswer id="HB.60.646.1" accuracy="incorrect">To improve at responding Joe should pay more attention.</studentAnswer>
+    <studentAnswer id="HB.60.649.1" accuracy="incorrect">Watch the trigger or listen or watch the other runner.</studentAnswer>
+    <studentAnswer id="HB.60.976.1" accuracy="incorrect">Joe could pay attention to the gun then the fans.</studentAnswer>
+    <studentAnswer id="HB.60.987.1" accuracy="correct">He should let someone shoot and he should practice on that.</studentAnswer>
+    <studentAnswer id="HB.60.988.1" accuracy="incorrect">Go as low as you can behind the line.</studentAnswer>
+    <studentAnswer id="HB.60.989.1" accuracy="incorrect">By jumping then run.</studentAnswer>
+    <studentAnswer id="HB.60.991.1" accuracy="incorrect">To improve his listening maybe.</studentAnswer>
+    <studentAnswer id="HB.60.992.1" accuracy="correct">Joe can improve by practicing more at his starting point.</studentAnswer>
+    <studentAnswer id="HB.60.993.1" accuracy="incorrect">By getting a head start at the race.</studentAnswer>
+  </studentAnswers>
+</question>

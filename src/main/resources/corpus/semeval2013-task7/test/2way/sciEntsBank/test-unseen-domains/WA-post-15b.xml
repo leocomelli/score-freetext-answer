@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_15b" module="WA">
+  <questionText>Look at the 2 pictures of drops on a flat, waterproof surface. The drop on the left is soapy water and the drop on the right is plain water. What causes the soapy water to look like it does?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_15b-a1">The surface tension is broken by the soap so the soapy water drop is flat.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.15b.172.1" accuracy="correct">The soapy water got flat because the soap in it broke its surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.173.1" accuracy="incorrect">Because soapy water is denser than plain water It looks kind of flat.</studentAnswer>
+    <studentAnswer id="WA.15b.174.1" accuracy="correct">The soapy water breaks the surface tension and forms a puddle.</studentAnswer>
+    <studentAnswer id="WA.15b.176.1" accuracy="correct">Well the water and the air form but then the soap comes and it is too slippery so it breaks the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.177.1" accuracy="incorrect">The soapy water has little soap molecules that breaks in up and the water cannot stick together as well.</studentAnswer>
+    <studentAnswer id="WA.15b.178.1" accuracy="incorrect">Some of the particles are dirty and broke down.</studentAnswer>
+    <studentAnswer id="WA.15b.179.1" accuracy="incorrect">Because soap moves around water so it can make the water flat.</studentAnswer>
+    <studentAnswer id="WA.15b.183.1" accuracy="incorrect">Because the soap would hold it down.</studentAnswer>
+    <studentAnswer id="WA.15b.185.1" accuracy="incorrect">Because the person did put soap on it and so it made the dome turn flat.</studentAnswer>
+    <studentAnswer id="WA.15b.186.1" accuracy="correct">The soap broke the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.187.1" accuracy="incorrect">The soapy water has soap in it. So the soap pull the drop down and made it flat.</studentAnswer>
+    <studentAnswer id="WA.15b.188.1" accuracy="correct">The soap breaks the surface tension which makes the water spill.</studentAnswer>
+    <studentAnswer id="WA.15b.190.1" accuracy="incorrect">The soapy water looks like it does because it has something more dense than water which is soap.</studentAnswer>
+    <studentAnswer id="WA.15b.191.1" accuracy="correct">The soapy water has a lot of soap so I do not think it has a lot of water tension.</studentAnswer>
+    <studentAnswer id="WA.15b.194.1" accuracy="incorrect">The soapy water has a lot of weight so the water spreads but still stays in one bead.</studentAnswer>
+    <studentAnswer id="WA.15b.195.1" accuracy="incorrect">Soap.</studentAnswer>
+    <studentAnswer id="WA.15b.208.1" accuracy="incorrect">The chemicals in the soap made that drop break and fall to the ground.</studentAnswer>
+    <studentAnswer id="WA.15b.210.1" accuracy="incorrect">Well the soapy water has water in it.</studentAnswer>
+    <studentAnswer id="WA.15b.212.1" accuracy="correct">Soapy water breaks the surface tension and the water spills.</studentAnswer>
+    <studentAnswer id="WA.15b.218.1" accuracy="incorrect">The soap.</studentAnswer>
+    <studentAnswer id="WA.15b.219.1" accuracy="correct">The soapy water look like that because it does not have surface tension like the plain water.</studentAnswer>
+    <studentAnswer id="WA.15b.220.1" accuracy="correct">The soap breaks the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.221.1" accuracy="incorrect">Maybe because of the bubbles.</studentAnswer>
+    <studentAnswer id="WA.15b.225.1" accuracy="correct">Surface tension broke because of soap.</studentAnswer>
+    <studentAnswer id="WA.15b.226.1" accuracy="correct">The soap breaks the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.227.1" accuracy="incorrect">It does not bead.</studentAnswer>
+    <studentAnswer id="WA.15b.232.1" accuracy="correct">The reason why it Looks like it does is the soap breaks surface tension so it is flat.</studentAnswer>
+    <studentAnswer id="WA.15b.241.1" accuracy="correct">The surface tension cause it to fall, collapse, because there was soap in the water.</studentAnswer>
+    <studentAnswer id="WA.15b.247.1" accuracy="correct">The soap brakes the surface tension so there is no dome.</studentAnswer>
+    <studentAnswer id="WA.15b.248.1" accuracy="incorrect">The soapy water has soap in it and breaks the water.</studentAnswer>
+    <studentAnswer id="WA.15b.249.1" accuracy="incorrect">It looks like that because the surface tension is not wide enough to balance a big drop of water.</studentAnswer>
+    <studentAnswer id="WA.15b.255.1" accuracy="correct">The soapy water looked this way because it had no surface tension because of the bubbles.</studentAnswer>
+    <studentAnswer id="WA.15b.258.1" accuracy="incorrect">What causes the soapy water to look how it is because there is chemicals is soap so there is chemicals in the water to make it look how it is.</studentAnswer>
+    <studentAnswer id="WA.15b.260.1" accuracy="correct">The soap in the water makes the surface tension go away so it is flatter.</studentAnswer>
+    <studentAnswer id="WA.15b.262.1" accuracy="incorrect">Because the soapy water has less texture.</studentAnswer>
+    <studentAnswer id="WA.15b.263.1" accuracy="correct">Soap breaks the surface tension that is why it looks like that.</studentAnswer>
+    <studentAnswer id="WA.15b.267.1" accuracy="incorrect">It has soap and has water combined with it.</studentAnswer>
+    <studentAnswer id="WA.15b.280.1" accuracy="correct">The soapy water does not have surface tension but plain water does.</studentAnswer>
+    <studentAnswer id="WA.15b.281.1" accuracy="incorrect">Because it is soapy water and it pops.</studentAnswer>
+    <studentAnswer id="WA.15b.284.1" accuracy="incorrect">Because the soapy water had less water.</studentAnswer>
+    <studentAnswer id="WA.15b.285.1" accuracy="correct">Soap added to plain water reduces or weakens the surface tension. Salt does not effect it.</studentAnswer>
+    <studentAnswer id="WA.15b.292.1" accuracy="incorrect">The soapy water was too denser.</studentAnswer>
+    <studentAnswer id="WA.15b.294.1" accuracy="correct">The soapy water does not have surface tension skin.</studentAnswer>
+    <studentAnswer id="WA.15b.296.1" accuracy="incorrect">Soapy water is so slippery it causes it to pop.</studentAnswer>
+    <studentAnswer id="WA.15b.297.1" accuracy="incorrect">Soapy water looked like that because it was just flat on the table it did not bead together.</studentAnswer>
+    <studentAnswer id="WA.15b.300.1" accuracy="incorrect">The soap makes the dome break.</studentAnswer>
+    <studentAnswer id="WA.15b.301.1" accuracy="incorrect">The soapy water had soap in it. It cannot stack. It just formed a puddle.</studentAnswer>
+    <studentAnswer id="WA.15b.351.1" accuracy="incorrect">Soapy water.</studentAnswer>
+    <studentAnswer id="WA.15b.356.1" accuracy="incorrect">I do not know why.</studentAnswer>
+    <studentAnswer id="WA.15b.362.1" accuracy="incorrect">It has got too much soap.</studentAnswer>
+    <studentAnswer id="WA.15b.363.1" accuracy="incorrect">Because the soapy water expands.</studentAnswer>
+    <studentAnswer id="WA.15b.364.1" accuracy="incorrect">Because it is kind of slippery.</studentAnswer>
+    <studentAnswer id="WA.15b.366.1" accuracy="incorrect">The soapy water dome is flat because it is soapy and slippery.</studentAnswer>
+    <studentAnswer id="WA.15b.367.1" accuracy="correct">The soapy water Cannot form up because it does not have surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.368.1" accuracy="correct">Because soapy water breaks the dome not like plain water. Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.381.1" accuracy="incorrect">The soapy water made it go down.</studentAnswer>
+    <studentAnswer id="WA.15b.382.1" accuracy="incorrect">Heavier than plain water.</studentAnswer>
+    <studentAnswer id="WA.15b.383.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.390.1" accuracy="correct">When you add soapy water, the soap breaks the surface tension, so it is not as round.</studentAnswer>
+    <studentAnswer id="WA.15b.396.1" accuracy="incorrect">It has more weight and density.</studentAnswer>
+    <studentAnswer id="WA.15b.398.1" accuracy="correct">The soapy water looks like that because it has no surface tension because the soap breaks surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.399.1" accuracy="correct">Because soap breaks the surface tension and Becomes flat.</studentAnswer>
+    <studentAnswer id="WA.15b.451.1" accuracy="correct">The soap caused the surface tension to break.</studentAnswer>
+    <studentAnswer id="WA.15b.452.1" accuracy="incorrect">It had particles in it.</studentAnswer>
+    <studentAnswer id="WA.15b.453.1" accuracy="incorrect">Because of the soap it has something in it.</studentAnswer>
+    <studentAnswer id="WA.15b.456.1" accuracy="incorrect">Surface Tension.</studentAnswer>
+    <studentAnswer id="WA.15b.457.1" accuracy="correct">The soap because it lowers surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.458.1" accuracy="incorrect">Soap.</studentAnswer>
+    <studentAnswer id="WA.15b.459.1" accuracy="correct">Soap breaks the surface tension causing the water to spread out.</studentAnswer>
+    <studentAnswer id="WA.15b.464.1" accuracy="incorrect">The soap in the water made it heavy and broke down the water.</studentAnswer>
+    <studentAnswer id="WA.15b.466.1" accuracy="incorrect">The soap in the water.</studentAnswer>
+    <studentAnswer id="WA.15b.467.1" accuracy="correct">No surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.531.1" accuracy="incorrect">Soapy water almost breaks it in fact it does!</studentAnswer>
+    <studentAnswer id="WA.15b.532.1" accuracy="incorrect">The soapy water looks like that because it has all those bubbles which makes the surface area go down.</studentAnswer>
+    <studentAnswer id="WA.15b.533.1" accuracy="correct">The soapy water looks like that because if you put drops of soapy water on a penny it does not take as long to break the surface tension as the plain water.</studentAnswer>
+    <studentAnswer id="WA.15b.534.1" accuracy="correct">The soapy water has almost no surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.535.1" accuracy="incorrect">Soapy water breaks up the grip of the water minerals.</studentAnswer>
+    <studentAnswer id="WA.15b.536.1" accuracy="correct">The soapy water has less surface tension to hold the bubble together It breaks the bubble with one drop.</studentAnswer>
+    <studentAnswer id="WA.15b.539.1" accuracy="incorrect">Because it evaporated.</studentAnswer>
+    <studentAnswer id="WA.15b.542.1" accuracy="incorrect">The soapy water looks like that because there are chemicals in it.</studentAnswer>
+    <studentAnswer id="WA.15b.556.1" accuracy="incorrect">The soap weighs down the dome of water, causing it to look flat.</studentAnswer>
+    <studentAnswer id="WA.15b.559.1" accuracy="incorrect">It has more weight.</studentAnswer>
+    <studentAnswer id="WA.15b.560.1" accuracy="incorrect">Soapy water has soap in it so it looks flatter.</studentAnswer>
+    <studentAnswer id="WA.15b.561.1" accuracy="incorrect">The soap flattens out the drop.</studentAnswer>
+    <studentAnswer id="WA.15b.575.1" accuracy="correct">The soap broke the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.576.1" accuracy="incorrect">There more weight on it.</studentAnswer>
+    <studentAnswer id="WA.15b.577.1" accuracy="correct">The soapy water breaks the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.595.1" accuracy="incorrect">The soap is pushing it down.</studentAnswer>
+    <studentAnswer id="WA.15b.596.1" accuracy="incorrect">Air bubbles are inside the drop so it not as dense as the plain water and expands.</studentAnswer>
+    <studentAnswer id="WA.15b.597.1" accuracy="incorrect">The soap added and surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.598.1" accuracy="incorrect">The surface tension broke and spread out.</studentAnswer>
+    <studentAnswer id="WA.15b.599.1" accuracy="incorrect">Because when you put water and soap together it makes bubbles and it had more bubbles than water.</studentAnswer>
+    <studentAnswer id="WA.15b.600.1" accuracy="correct">Because soap breaks surface tension so it has no surface tension!</studentAnswer>
+    <studentAnswer id="WA.15b.626.1" accuracy="incorrect">Because of its particles.</studentAnswer>
+    <studentAnswer id="WA.15b.629.1" accuracy="incorrect">The surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.630.1" accuracy="correct">It breaks surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.632.1" accuracy="correct">The soapy water is too strong for the surface tension to hold it up.</studentAnswer>
+    <studentAnswer id="WA.15b.635.1" accuracy="correct">The soapy water break the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15b.646.1" accuracy="incorrect">Because soap is heavy.</studentAnswer>
+  </studentAnswers>
+</question>

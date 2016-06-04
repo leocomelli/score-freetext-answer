@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_29" module="VB">
+  <questionText>When conducting a controlled experiment, why do you use a standard?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_29-a1">A standard is used for comparison to determine how changing one variable changes the results.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.29.381.1" accuracy="incorrect">You have a standard because if you do not it will not be controlled.</studentAnswer>
+    <studentAnswer id="VB.29.384.1" accuracy="correct">So that you can see the results of an experiment before a variable is changed so you can compare.</studentAnswer>
+    <studentAnswer id="VB.29.388.1" accuracy="incorrect">You use a standard so you will not make a mistake and so you can compare it to differences.</studentAnswer>
+    <studentAnswer id="VB.29.394.1" accuracy="correct">You start with a standard so you can compare your standard data to your data when you change a variable.</studentAnswer>
+    <studentAnswer id="VB.29.397.1" accuracy="incorrect">So you can get the closest answer to the question.</studentAnswer>
+    <studentAnswer id="VB.29.399.1" accuracy="incorrect">So you can record and change variables to get a difference.</studentAnswer>
+    <studentAnswer id="VB.29.404.1" accuracy="correct">So that control your experiment without changing more than one variable.</studentAnswer>
+    <studentAnswer id="VB.29.407.1" accuracy="incorrect">To keep the variables controlled.</studentAnswer>
+    <studentAnswer id="VB.29.416.1" accuracy="correct">You use a standard so you can tell what happened in a controlled experiment and because you can change one variable at a time.</studentAnswer>
+    <studentAnswer id="VB.29.419.1" accuracy="correct">You would use a standard to change any variables than just one variable that can be changed.</studentAnswer>
+    <studentAnswer id="VB.29.423.1" accuracy="incorrect">You use a standard to control your procedure, like if you get it wrong you can see what you did.</studentAnswer>
+    <studentAnswer id="VB.29.440.1" accuracy="incorrect">To compare the new experiment with the standard.</studentAnswer>
+    <studentAnswer id="VB.29.444.1" accuracy="correct">You use a standard because when you change something which is a variable. That when you change it, you know when you did before.</studentAnswer>
+    <studentAnswer id="VB.29.448.1" accuracy="incorrect">You use a standard because without a standard, you can change it.</studentAnswer>
+    <studentAnswer id="VB.29.452.1" accuracy="incorrect">So you can see what you did after you do the other trials, it makes a controlled experiment to look back on when you change one variable at a time.</studentAnswer>
+    <studentAnswer id="VB.29.454.1" accuracy="correct">You use a standard to see if you can try a less amount each time you do an experiment.</studentAnswer>
+    <studentAnswer id="VB.29.458.1" accuracy="incorrect">You use a standard so that you can test it and compare with your standard. And compare with your variable.</studentAnswer>
+    <studentAnswer id="VB.29.466.1" accuracy="correct">When conducting a controlled experiment you use a standard because you compare your other results to see if it is accurate.</studentAnswer>
+    <studentAnswer id="VB.29.475.1" accuracy="incorrect">You use a standard so you can change the variable if needed in an experiment and you can also change the variable at a time.</studentAnswer>
+    <studentAnswer id="VB.29.477.1" accuracy="incorrect">You use a standard because that what you know before the experiment and the standard helps you a lot during the experiment.</studentAnswer>
+    <studentAnswer id="VB.29.481.1" accuracy="incorrect">In a controlled experiment you use a standard because when you are testing something else you will have to compare your answers. That is where a standard comes in.</studentAnswer>
+    <studentAnswer id="VB.29.486.1" accuracy="incorrect">To compare your answers.</studentAnswer>
+    <studentAnswer id="VB.29.489.1" accuracy="incorrect">We use a standard first because we could know how it went then we could use the score it went and test it again.</studentAnswer>
+    <studentAnswer id="VB.29.495.1" accuracy="incorrect">You use a standard is to know what you will do and how it will happen.</studentAnswer>
+    <studentAnswer id="VB.29.497.1" accuracy="incorrect">So when you change variables you can compare you standard and the other ones.</studentAnswer>
+    <studentAnswer id="VB.29.501.1" accuracy="incorrect">So you can test the standard and can switch one variable to make it proven.</studentAnswer>
+    <studentAnswer id="VB.29.503.1" accuracy="incorrect">Because you want to know what is the regular way and to compare the first way.</studentAnswer>
+    <studentAnswer id="VB.29.523.1" accuracy="incorrect">So you can compare your answers.</studentAnswer>
+    <studentAnswer id="VB.29.525.1" accuracy="incorrect">To compare the experiment with the standard one.</studentAnswer>
+    <studentAnswer id="VB.29.530.1" accuracy="incorrect">So when you are done you could compare.</studentAnswer>
+    <studentAnswer id="VB.29.533.1" accuracy="incorrect">So you compare at the end of the experiment.</studentAnswer>
+    <studentAnswer id="VB.29.537.1" accuracy="incorrect">To see if the standard might be faster than the other.</studentAnswer>
+    <studentAnswer id="VB.29.542.1" accuracy="incorrect">Because you can compare the results.</studentAnswer>
+    <studentAnswer id="VB.29.626.1" accuracy="incorrect">To help control the controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.29.628.1" accuracy="incorrect">To control any experiment.</studentAnswer>
+    <studentAnswer id="VB.29.634.1" accuracy="incorrect">Because without a standard you will not know the steps.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ST_54b3" module="ST">
+  <questionText>The inside of a pea seed is shown below. Describe the function of each of the parts: embryo.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_54b3-a1">The embryo contains the tiny leaves and root of the plant.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.54b3.490.1" accuracy="incorrect">The sprout that grows into a stem.</studentAnswer>
+    <studentAnswer id="ST.54b3.560.1" accuracy="incorrect">The embryo is the part of the seed that grow into the root and then the stem.</studentAnswer>
+    <studentAnswer id="ST.54b3.591.1" accuracy="incorrect">Food.</studentAnswer>
+    <studentAnswer id="ST.54b3.641.1" accuracy="incorrect">Protects stem and root.</studentAnswer>
+  </studentAnswers>
+</question>

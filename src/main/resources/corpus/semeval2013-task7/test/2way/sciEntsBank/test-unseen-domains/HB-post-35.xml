@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_35" module="HB">
+  <questionText>Describe how the muscles in the front and back of the leg work together to make the dancer's foot point.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_35-a1">The muscle in the back of the leg (the gastrocnemius) contracts and the muscle in the front of the leg (the tibia) relaxes to make the foot point.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.35.136.1" accuracy="incorrect">The muscles in the front the pulling.</studentAnswer>
+    <studentAnswer id="HB.35.138.1" accuracy="correct">The front left muscle is relaxing and the back leg muscle is contracting.</studentAnswer>
+    <studentAnswer id="HB.35.141.1" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer id="HB.35.144.1" accuracy="incorrect">The tendon is pulling the muscle causing it to contract and move.</studentAnswer>
+    <studentAnswer id="HB.35.148.1" accuracy="correct">The muscle in the back contracts and pulls the tendon and the muscle in the front relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.172.1" accuracy="incorrect">The stifulas is contracting.</studentAnswer>
+    <studentAnswer id="HB.35.176.1" accuracy="incorrect">Your muscles are stretching.</studentAnswer>
+    <studentAnswer id="HB.35.178.1" accuracy="incorrect">The back leg relaxes and the front leg contracts.</studentAnswer>
+    <studentAnswer id="HB.35.181.1" accuracy="incorrect">The tibia contracts and the gastrocnemius relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.185.1" accuracy="incorrect">The gastrocnemius is working while the front muscle is relaxing.</studentAnswer>
+    <studentAnswer id="HB.35.212.1" accuracy="correct">The back muscle contract and the front muscle relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.215.1" accuracy="incorrect">The back of the leg rest and the front of the leg work so she can stand on the tip of her toes.</studentAnswer>
+    <studentAnswer id="HB.35.219.1" accuracy="incorrect">The brain tells the foot that the foot need to point.</studentAnswer>
+    <studentAnswer id="HB.35.220.1" accuracy="incorrect">The back muscle gets bigger and the front gets longer.</studentAnswer>
+    <studentAnswer id="HB.35.222.1" accuracy="incorrect">The front and back work together by pulling together muscles to cause the foot to point.</studentAnswer>
+    <studentAnswer id="HB.35.245.1" accuracy="correct">The back muscle contracts while the front muscle expands.</studentAnswer>
+    <studentAnswer id="HB.35.249.1" accuracy="correct">The front muscle relaxes and the back muscle pulls.</studentAnswer>
+    <studentAnswer id="HB.35.253.1" accuracy="correct">The back muscle is contracting while the front muscle is relaxing. So the back muscle shrinks while the front muscle expands.</studentAnswer>
+    <studentAnswer id="HB.35.259.1" accuracy="incorrect">The bones help by your foot help to by help it point.</studentAnswer>
+    <studentAnswer id="HB.35.268.1" accuracy="incorrect">For one, I know because I am a dancer so like you were using the back muscle dose all the work. The front muscle just makes you look although but the flex and contract.</studentAnswer>
+    <studentAnswer id="HB.35.277.1" accuracy="incorrect">They need that back muscle to relax and contract so they can dance.</studentAnswer>
+    <studentAnswer id="HB.35.283.1" accuracy="correct">While the front of the leg relaxes, the back contracts - means get shorter.</studentAnswer>
+    <studentAnswer id="HB.35.291.1" accuracy="incorrect">The front left muscle helps by stretching itself and the back muscle relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.311.1" accuracy="incorrect">They work together by the front contracting, and the back relaxing.</studentAnswer>
+    <studentAnswer id="HB.35.359.1" accuracy="incorrect">The muscles that are used to help point the dancer foot because the foot has no muscles and the muscles help them point.</studentAnswer>
+    <studentAnswer id="HB.35.364.1" accuracy="incorrect">The muscle in the front and back of the leg are working by helping the dancer make her leg straight.</studentAnswer>
+    <studentAnswer id="HB.35.383.1" accuracy="incorrect">Top is relaxing and the bottom is helping the dancer point her foot.</studentAnswer>
+    <studentAnswer id="HB.35.387.1" accuracy="incorrect">They are very flexible so the relax and contract.</studentAnswer>
+    <studentAnswer id="HB.35.424.1" accuracy="incorrect">The muscle lift the leg to make the body part go up the brain tell the muscle to go up.</studentAnswer>
+    <studentAnswer id="HB.35.428.1" accuracy="incorrect">They get tight together and muscle work together to make her ankle move down to make her foot point.</studentAnswer>
+    <studentAnswer id="HB.35.430.1" accuracy="incorrect">I think the dancer's back and front leg work together because they have bones. If you do not have a bone you will not be able to move.</studentAnswer>
+    <studentAnswer id="HB.35.435.1" accuracy="correct">The muscle in the front relax and the muscle in the back tighten.</studentAnswer>
+    <studentAnswer id="HB.35.438.1" accuracy="incorrect">The back muscle and the front muscle stretch to help each other pull up the foot.</studentAnswer>
+    <studentAnswer id="HB.35.443.1" accuracy="incorrect">The front muscle makes the foot point and the back muscle make the leg stay up.</studentAnswer>
+    <studentAnswer id="HB.35.454.1" accuracy="incorrect">When the tibia contracts the foot connects.</studentAnswer>
+    <studentAnswer id="HB.35.458.1" accuracy="incorrect">The hinge joint.</studentAnswer>
+    <studentAnswer id="HB.35.460.1" accuracy="incorrect">Muscles help her point her toe.</studentAnswer>
+    <studentAnswer id="HB.35.463.1" accuracy="incorrect">What makes the dancer's foot move is the muscles they contract and relax.</studentAnswer>
+    <studentAnswer id="HB.35.464.1" accuracy="incorrect">The muscles front and back help it to stand straight and so it can balance.</studentAnswer>
+    <studentAnswer id="HB.35.471.1" accuracy="incorrect">They work together by if you start to lean one way. The opposite muscle will pull to keep the balance.</studentAnswer>
+    <studentAnswer id="HB.35.492.1" accuracy="incorrect">The muscle work by contracting and relaxing to make the toe point. Tibia by contracting and gastrocnemius is relaxing.</studentAnswer>
+    <studentAnswer id="HB.35.494.1" accuracy="incorrect">The muscle contracts and gets tighter so the foot could point.</studentAnswer>
+    <studentAnswer id="HB.35.496.1" accuracy="incorrect">To help them stay up.</studentAnswer>
+    <studentAnswer id="HB.35.497.1" accuracy="incorrect">The muscles flex to make it point they get smaller and fatter because they pull up.</studentAnswer>
+    <studentAnswer id="HB.35.498.1" accuracy="incorrect">The tibia muscle pushes up on the front. The gastrocnemius muscle also pushes up on the back of the leg to make the dancer's leg point.</studentAnswer>
+    <studentAnswer id="HB.35.500.1" accuracy="incorrect">Your joints and muscles work together to point your leg up.</studentAnswer>
+    <studentAnswer id="HB.35.502.1" accuracy="incorrect">They help the dancer lift her foot and leg up.</studentAnswer>
+    <studentAnswer id="HB.35.504.1" accuracy="incorrect">They will contract and they will relax.</studentAnswer>
+    <studentAnswer id="HB.35.525.1" accuracy="incorrect">The tendons pull each other and make it have great balance.</studentAnswer>
+    <studentAnswer id="HB.35.530.1" accuracy="incorrect">Releases it or relax.</studentAnswer>
+    <studentAnswer id="HB.35.533.1" accuracy="incorrect">The 2 muscle work together by one relaxes and the other tightens.</studentAnswer>
+    <studentAnswer id="HB.35.535.1" accuracy="incorrect">Because the front need to point forward and the back needs to point back and forth.</studentAnswer>
+    <studentAnswer id="HB.35.537.1" accuracy="incorrect">They work together so she can balance and point her foot.</studentAnswer>
+    <studentAnswer id="HB.35.563.1" accuracy="incorrect">While the front foot makes you point the front of your toe and the back makes you point the back of your toe.</studentAnswer>
+    <studentAnswer id="HB.35.568.1" accuracy="correct">I think the gastrocnemius is contracting and the tibia is lengthening to make the dancer foot point.</studentAnswer>
+    <studentAnswer id="HB.35.573.1" accuracy="incorrect">The backs of the leg has to stretch and the front of the leg bends.</studentAnswer>
+    <studentAnswer id="HB.35.575.1" accuracy="correct">The gastrocnemius contracts at the back of the leg and the tibia relaxes for the dancer's foot to point.</studentAnswer>
+    <studentAnswer id="HB.35.576.1" accuracy="correct">I think that the tibia is relaxing and the gastrocnemius is connecting.</studentAnswer>
+    <studentAnswer id="HB.35.577.1" accuracy="incorrect">First the dancer need to have muscles to help bend her foot. Second the dancer need strong muscle to help her keep her foot like that, but she needs both of her muscle to keep her on balance.</studentAnswer>
+    <studentAnswer id="HB.35.578.1" accuracy="incorrect">To point your feet you have to use your gastrocnemius and your tibia and stand straight on your foot so you can have your feet pointed straight.</studentAnswer>
+    <studentAnswer id="HB.35.579.1" accuracy="correct">The back of your leg contracts and the front relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.592.1" accuracy="correct">The back muscle contracts and the front relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.594.1" accuracy="incorrect">I think the dancer's leg is a joint that, can make it move.</studentAnswer>
+    <studentAnswer id="HB.35.596.1" accuracy="incorrect">When you stretch out your leg your foot points.</studentAnswer>
+    <studentAnswer id="HB.35.597.1" accuracy="incorrect">The tibia is contracting to the foot so it can bend while the gastrocnemius relax so the tibia can bend.</studentAnswer>
+    <studentAnswer id="HB.35.599.1" accuracy="correct">The tibia relaxes and the gastrocnemius contracts.</studentAnswer>
+    <studentAnswer id="HB.35.602.1" accuracy="incorrect">The gastrocnemius pulls up while the tibia pushes down.</studentAnswer>
+    <studentAnswer id="HB.35.603.1" accuracy="incorrect">The gastrocnemius relaxes and the tibia contracts to make the foot point.</studentAnswer>
+    <studentAnswer id="HB.35.604.1" accuracy="incorrect">The tibia helps her to point her toes by contracting. The gastrocnemius helps because it is relaxing.</studentAnswer>
+    <studentAnswer id="HB.35.606.1" accuracy="incorrect">The muscles work by the dancer stimulus to put the foot up.</studentAnswer>
+    <studentAnswer id="HB.35.609.1" accuracy="incorrect">They work together by contracting.</studentAnswer>
+    <studentAnswer id="HB.35.611.1" accuracy="incorrect">The back of the leg balances the dancer and the front contract muscle to hold her up.</studentAnswer>
+    <studentAnswer id="HB.35.613.1" accuracy="incorrect">They work together by contracting to make the dancer's foot to point.</studentAnswer>
+    <studentAnswer id="HB.35.614.1" accuracy="incorrect">The front leg muscle helps the dancer point the dancers leg the back leg muscle helps the foot point.</studentAnswer>
+    <studentAnswer id="HB.35.615.1" accuracy="incorrect">They work together by pointing the toe down.</studentAnswer>
+    <studentAnswer id="HB.35.628.1" accuracy="incorrect">It is a muscle that provides strength.</studentAnswer>
+    <studentAnswer id="HB.35.629.1" accuracy="correct">Dancer's gastrocnemius contracts their tibia relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.630.1" accuracy="correct">When I point my toe, the tibia relaxes while the gastrocnemius contracts. If you don't have both muscles working together, your leg would move.</studentAnswer>
+    <studentAnswer id="HB.35.631.1" accuracy="incorrect">The muscle work to help the dancers foot by one muscle contracts and one relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.636.1" accuracy="correct">When you point up the gastrocnemius contracts and the tibia relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.637.1" accuracy="incorrect">The dancer has a ball and socket joint.</studentAnswer>
+    <studentAnswer id="HB.35.639.1" accuracy="incorrect">With one foot up one foot down and both arms up it makes her balance on one foot.</studentAnswer>
+    <studentAnswer id="HB.35.639a.1" accuracy="incorrect">The muscle pull on the dance and the other muscles just sit there.</studentAnswer>
+    <studentAnswer id="HB.35.640.1" accuracy="incorrect">Because muscle makes it balance it has muscle in the front leg and in the back leg.</studentAnswer>
+    <studentAnswer id="HB.35.642.1" accuracy="correct">The tibia has to relax and the gastrocnemius has to contract.</studentAnswer>
+    <studentAnswer id="HB.35.644.1" accuracy="incorrect">I think you have to be flexible and point your foot all the time.</studentAnswer>
+    <studentAnswer id="HB.35.645.1" accuracy="correct">The tibia has to relax while the gastrocnemius has to contract to point the toe.</studentAnswer>
+    <studentAnswer id="HB.35.646.1" accuracy="correct">To make the dancers to point tibia relaxes while the gastrocnemius contracts.</studentAnswer>
+    <studentAnswer id="HB.35.648.1" accuracy="incorrect">I think she has to be lady because she is a dancer.</studentAnswer>
+    <studentAnswer id="HB.35.650.1" accuracy="incorrect">How the dancers foot point is on the leg muscle to help them point.</studentAnswer>
+    <studentAnswer id="HB.35.651.1" accuracy="incorrect">The way they work together is that they push against the bone to make you balance upright.</studentAnswer>
+    <studentAnswer id="HB.35.652.1" accuracy="incorrect">The work together by using their muscles from their back, front legs.</studentAnswer>
+    <studentAnswer id="HB.35.672.1" accuracy="incorrect">The front muscle tibia contracts and the back muscle gastrocnemius relaxes.</studentAnswer>
+    <studentAnswer id="HB.35.976.1" accuracy="incorrect">The front is straightening it out and forming a balance. The back is keeping them from falling backwards.</studentAnswer>
+    <studentAnswer id="HB.35.981.1" accuracy="incorrect">Well the muscle is work like this above picture I drew. Well the bone is connected to the point and that's how it works.</studentAnswer>
+    <studentAnswer id="HB.35.984.1" accuracy="incorrect">They pull together and meet in the leg to make her foot come to a point.</studentAnswer>
+    <studentAnswer id="HB.35.986.1" accuracy="incorrect">The front muscle probably helps the foot stay straight and the back muscle helps it stand.</studentAnswer>
+    <studentAnswer id="HB.35.989.1" accuracy="incorrect">The muscle push up and the heal on the foot lifts up.</studentAnswer>
+    <studentAnswer id="HB.35.992.1" accuracy="incorrect">They make their gastrocnemius go on a little far they can balance.</studentAnswer>
+    <studentAnswer id="HB.35.993.1" accuracy="incorrect">The muscles work together by both going at the same time.</studentAnswer>
+  </studentAnswers>
+</question>

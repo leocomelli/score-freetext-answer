@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="ME_74b" module="ME">
+  <questionText>The machine you see in the picture is used to load steel beams onto delivery trucks. If there are no hooks or ropes that attach the steel beams to the lifting machine, how is it possible to move the steel beams onto the trucks? How is the machine able to drop the beams onto the truck?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_74b-a1">When the electricity is turned off, the magnetism stops and the machine drops the beam onto the delivery truck.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.74b.101.1" accuracy="incorrect">It is able to because you have opposable thumbs.</studentAnswer>
+    <studentAnswer id="ME.74b.105.1" accuracy="incorrect">The machines probably has a sensor that tells it when to drop the beam.</studentAnswer>
+    <studentAnswer id="ME.74b.107.1" accuracy="incorrect">There is switch to turn it on and off.</studentAnswer>
+    <studentAnswer id="ME.74b.111.1" accuracy="incorrect">He probably has a switch hook up to it.</studentAnswer>
+    <studentAnswer id="ME.74b.118.1" accuracy="incorrect">It has a switch.</studentAnswer>
+    <studentAnswer id="ME.74b.119.1" accuracy="correct">The electromagnet is turned off.</studentAnswer>
+    <studentAnswer id="ME.74b.121.1" accuracy="incorrect">Turning a switch or pushing a button.</studentAnswer>
+    <studentAnswer id="ME.74b.123.1" accuracy="incorrect">Someone will turn off the switch.</studentAnswer>
+    <studentAnswer id="ME.74b.140.1" accuracy="correct">There is a switch that turns the truck off and on when off it has no magnetism so it drops.</studentAnswer>
+    <studentAnswer id="ME.74b.141.1" accuracy="incorrect">It is connected to a switch that turns it on and off.</studentAnswer>
+    <studentAnswer id="ME.74b.142.1" accuracy="correct">The magnet can turn on and off.</studentAnswer>
+    <studentAnswer id="ME.74b.144.1" accuracy="correct">By turning off the electricity.</studentAnswer>
+    <studentAnswer id="ME.74b.146.1" accuracy="incorrect">Well the person can cut it out and that is how it will drop.</studentAnswer>
+    <studentAnswer id="ME.74b.147.1" accuracy="incorrect">They have the switch off.</studentAnswer>
+    <studentAnswer id="ME.74b.155.1" accuracy="incorrect">The machine is able to drop onto the truck because there is a on and off switch.</studentAnswer>
+    <studentAnswer id="ME.74b.173.1" accuracy="incorrect">It is able to because they have a switch that turns it off and on.</studentAnswer>
+    <studentAnswer id="ME.74b.176.1" accuracy="correct">They turn off the magnetism.</studentAnswer>
+    <studentAnswer id="ME.74b.178.1" accuracy="incorrect">It cuts it off.</studentAnswer>
+    <studentAnswer id="ME.74b.180.1" accuracy="incorrect">It is able to because a magnet can never lose its magnetism.</studentAnswer>
+    <studentAnswer id="ME.74b.181.1" accuracy="incorrect">By turning off the switch.</studentAnswer>
+    <studentAnswer id="ME.74b.185.1" accuracy="correct">He is able to by cutting the power of the crane and the drop.</studentAnswer>
+    <studentAnswer id="ME.74b.190.1" accuracy="correct">You have to turn off the magnet.</studentAnswer>
+    <studentAnswer id="ME.74b.192.1" accuracy="correct">It is able to drop them by shutting off the electricity traveling through it so the steel beams drop.</studentAnswer>
+    <studentAnswer id="ME.74b.206.1" accuracy="incorrect">By switching the magnet poles.</studentAnswer>
+    <studentAnswer id="ME.74b.207.1" accuracy="incorrect">Not going to attach.</studentAnswer>
+    <studentAnswer id="ME.74b.208.1" accuracy="correct">Stopping the magnetic force.</studentAnswer>
+    <studentAnswer id="ME.74b.214.1" accuracy="correct">It is able to do that by cutting off the flow of electricity.</studentAnswer>
+    <studentAnswer id="ME.74b.215.1" accuracy="correct">By switching the magnet off.</studentAnswer>
+    <studentAnswer id="ME.74b.216.1" accuracy="incorrect">It is controlled with a control panel.</studentAnswer>
+    <studentAnswer id="ME.74b.224.1" accuracy="incorrect">It is able by because it is steel.</studentAnswer>
+    <studentAnswer id="ME.74b.225.1" accuracy="correct">The machine can drop its magnetic force.</studentAnswer>
+    <studentAnswer id="ME.74b.226.1" accuracy="incorrect">There is a person that pushes a button and it turns on and off.</studentAnswer>
+    <studentAnswer id="ME.74b.228.1" accuracy="correct">It is able to drop them by cutting the force between the magnet and the steel beam.</studentAnswer>
+    <studentAnswer id="ME.74b.247.1" accuracy="incorrect">They would use a controller so that they let them go and drop them.</studentAnswer>
+    <studentAnswer id="ME.74b.253.1" accuracy="incorrect">The man press this button to drop it.</studentAnswer>
+    <studentAnswer id="ME.74b.276.1" accuracy="incorrect">They will have to dump it, they do not have another way.</studentAnswer>
+    <studentAnswer id="ME.74b.293.1" accuracy="incorrect">You could pick up the beam and put it on the truck.</studentAnswer>
+    <studentAnswer id="ME.74b.313.1" accuracy="incorrect">They would have to have an on and off.</studentAnswer>
+    <studentAnswer id="ME.74b.318.1" accuracy="incorrect">The machine is able to pick up and drop off because of the electromagnet.</studentAnswer>
+    <studentAnswer id="ME.74b.325.1" accuracy="correct">The machine turns off and disconnects the electricity flow.</studentAnswer>
+    <studentAnswer id="ME.74b.328.1" accuracy="incorrect">There has to be a switch.</studentAnswer>
+  </studentAnswers>
+</question>

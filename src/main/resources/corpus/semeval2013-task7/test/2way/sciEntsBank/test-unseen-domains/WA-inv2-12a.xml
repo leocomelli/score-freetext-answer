@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_12a" module="WA">
+  <questionText>Oil, water, and corn syrup are layered in a tall, thin container. All are at the same temperature. What does the layering tell you about the density of the oil compared to water?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_12a-a1">The oil is less dense. The water is more dense.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.12a.173.1" accuracy="incorrect">It would tell me that oil water is less dense than the other liquids.</studentAnswer>
+    <studentAnswer id="WA.12a.174.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.176.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.177.1" accuracy="correct">Oil is less dense than water and it floats to the top.</studentAnswer>
+    <studentAnswer id="WA.12a.178.1" accuracy="incorrect">It looks just like water is clear, it has no smell.</studentAnswer>
+    <studentAnswer id="WA.12a.180.1" accuracy="incorrect">It tells me the corn syrup is denser than water and oil.</studentAnswer>
+    <studentAnswer id="WA.12a.181.1" accuracy="correct">The oil is the least dense because it stays on top of the water.</studentAnswer>
+    <studentAnswer id="WA.12a.189.1" accuracy="correct">That oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.195.1" accuracy="incorrect">It tell me that it is more less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.206.1" accuracy="incorrect">Oil is runnier than water.</studentAnswer>
+    <studentAnswer id="WA.12a.210.1" accuracy="correct">It tells me that oil is less dense than water or corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12a.211.1" accuracy="correct">The water is more dense than the oil.</studentAnswer>
+    <studentAnswer id="WA.12a.212.1" accuracy="correct">That it is less dense, because it is floating, expands.</studentAnswer>
+    <studentAnswer id="WA.12a.213.1" accuracy="incorrect">It is the smallest one.</studentAnswer>
+    <studentAnswer id="WA.12a.214.1" accuracy="correct">It tells me that the density is less dense.</studentAnswer>
+    <studentAnswer id="WA.12a.215.1" accuracy="incorrect">The water is less dense the oil.</studentAnswer>
+    <studentAnswer id="WA.12a.220.1" accuracy="correct">I think the oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.221.1" accuracy="correct">Corn syrup then water because oil is the least densest.</studentAnswer>
+    <studentAnswer id="WA.12a.222.1" accuracy="incorrect">It might float.</studentAnswer>
+    <studentAnswer id="WA.12a.223.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.225.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.227.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.231.1" accuracy="correct">That the oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.247.1" accuracy="correct">It tells you that oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.250.1" accuracy="correct">The oil is less dense than the water and corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12a.252.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.254.1" accuracy="correct">The water has more dense.</studentAnswer>
+    <studentAnswer id="WA.12a.265.1" accuracy="incorrect">Oil is densest least than water.</studentAnswer>
+    <studentAnswer id="WA.12a.276.1" accuracy="correct">It less dense the water because it on top of water.</studentAnswer>
+    <studentAnswer id="WA.12a.282.1" accuracy="correct">Water is denser than oil.</studentAnswer>
+    <studentAnswer id="WA.12a.286.1" accuracy="incorrect">The oil is more dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.291.1" accuracy="correct">The oil is less dense, and the water is more dense.</studentAnswer>
+    <studentAnswer id="WA.12a.294.1" accuracy="correct">The oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.296.1" accuracy="correct">The oil is less dense the water is more dense.</studentAnswer>
+    <studentAnswer id="WA.12a.299.1" accuracy="incorrect">It tells me the oil is more dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.300.1" accuracy="incorrect">The oil is more dense.</studentAnswer>
+    <studentAnswer id="WA.12a.346.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.348.1" accuracy="correct">The oil looks like it is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.349.1" accuracy="incorrect">It expand.</studentAnswer>
+    <studentAnswer id="WA.12a.350.1" accuracy="correct">The oil is less dense compared to water.</studentAnswer>
+    <studentAnswer id="WA.12a.352.1" accuracy="correct">Water is denser than oil.</studentAnswer>
+    <studentAnswer id="WA.12a.354.1" accuracy="correct">The oil is less denser than the water. The water is dense than the oil.</studentAnswer>
+    <studentAnswer id="WA.12a.356.1" accuracy="incorrect">It would be warm water.</studentAnswer>
+    <studentAnswer id="WA.12a.359.1" accuracy="incorrect">That the oil is less dense than the syrup.</studentAnswer>
+    <studentAnswer id="WA.12a.361.1" accuracy="correct">Oil is less dense water.</studentAnswer>
+    <studentAnswer id="WA.12a.362.1" accuracy="correct">The water is denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12a.366.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.370.1" accuracy="incorrect">That is will float.</studentAnswer>
+    <studentAnswer id="WA.12a.416.1" accuracy="correct">The oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.424.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.427.1" accuracy="correct">Oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12a.430.1" accuracy="correct">Oil has less density than water.</studentAnswer>
+    <studentAnswer id="WA.12a.431.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.432.1" accuracy="correct">The oil water is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.451.1" accuracy="correct">The water is more dense and the oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12a.453.1" accuracy="incorrect">Oil because the oil has something in it and water is plain.</studentAnswer>
+    <studentAnswer id="WA.12a.456.1" accuracy="correct">The oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.463.1" accuracy="correct">The water is denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12a.466.1" accuracy="correct">The water is denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12a.467.1" accuracy="correct">Water is denser that oil.</studentAnswer>
+    <studentAnswer id="WA.12a.468.1" accuracy="correct">The water is more denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12a.469.1" accuracy="incorrect">Denser.</studentAnswer>
+    <studentAnswer id="WA.12a.487.1" accuracy="correct">The oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.489.1" accuracy="correct">Oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12a.490.1" accuracy="incorrect">Water is less dense than oil.</studentAnswer>
+    <studentAnswer id="WA.12a.493.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.494.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.495.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.497.1" accuracy="correct">The oil is less dense that the water.</studentAnswer>
+    <studentAnswer id="WA.12a.498.1" accuracy="incorrect">Water is less dense than oil.</studentAnswer>
+    <studentAnswer id="WA.12a.500.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.501.1" accuracy="correct">The oil is less denser than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.503.1" accuracy="correct">The oil is less dense and water is more dense.</studentAnswer>
+    <studentAnswer id="WA.12a.509.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.524.1" accuracy="correct">That the oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.527.1" accuracy="correct">Oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.528.1" accuracy="incorrect">That oil is thicker than water.</studentAnswer>
+    <studentAnswer id="WA.12a.529.1" accuracy="correct">The oil must be less dense than the water because it is floating.</studentAnswer>
+    <studentAnswer id="WA.12a.530.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.533.1" accuracy="incorrect">It tell that the oil is densest.</studentAnswer>
+    <studentAnswer id="WA.12a.537.1" accuracy="correct">The oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.541.1" accuracy="correct">It is the less dense than the water and corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12a.556.1" accuracy="correct">The density tell me the oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.558.1" accuracy="correct">Oil is less dense than the water.</studentAnswer>
+    <studentAnswer id="WA.12a.560.1" accuracy="correct">The oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.600.1" accuracy="correct">The water is heavier.</studentAnswer>
+    <studentAnswer id="WA.12a.601.1" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer id="WA.12a.603.1" accuracy="correct">That oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.605.1" accuracy="correct">It tells me that oil is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.610.1" accuracy="incorrect">Oil is heavier than water.</studentAnswer>
+    <studentAnswer id="WA.12a.611.1" accuracy="correct">The oil is lighter than the water and the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12a.612.1" accuracy="incorrect">Corn syrup is more dense than water and oil.</studentAnswer>
+    <studentAnswer id="WA.12a.631.1" accuracy="correct">That oil is less dense than water because it floats.</studentAnswer>
+    <studentAnswer id="WA.12a.632.1" accuracy="correct">IT is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.633.1" accuracy="correct">It is less dense than water.</studentAnswer>
+    <studentAnswer id="WA.12a.635.1" accuracy="correct">Oil is less tense because it is on the top water is denser and least dense the any.</studentAnswer>
+    <studentAnswer id="WA.12a.636.1" accuracy="correct">Water is denser than oil because it sinks.</studentAnswer>
+    <studentAnswer id="WA.12a.637.1" accuracy="correct">Oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12a.639.1" accuracy="incorrect">Property.</studentAnswer>
+    <studentAnswer id="WA.12a.643.1" accuracy="incorrect">That oil is maybe dense than water maybe it heavier than water.</studentAnswer>
+  </studentAnswers>
+</question>

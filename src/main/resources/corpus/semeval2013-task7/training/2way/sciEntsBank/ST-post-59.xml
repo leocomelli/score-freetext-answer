@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ST_59" module="ST">
+  <questionText>Elena has a male lizard that has lived for several years in the habitat she provided. She knows that some lizards are territorial. Besides additional food and water, what should she be sure to include in the habitat before she adds another male lizard?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_59-a1">Elena should include a separate shelter for each lizard.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.59.382.1" accuracy="correct">Elena should add shelter.</studentAnswer>
+    <studentAnswer id="ST.59.386.1" accuracy="correct">She needs shelter.</studentAnswer>
+    <studentAnswer id="ST.59.389.1" accuracy="correct">Elena has to put homes inside of the habitat.</studentAnswer>
+    <studentAnswer id="ST.59.393.1" accuracy="correct">She needs to add another house or shelter and maybe a female.</studentAnswer>
+    <studentAnswer id="ST.59.396.1" accuracy="correct">Elena should include another home.</studentAnswer>
+    <studentAnswer id="ST.59.402.1" accuracy="correct">More shelter.</studentAnswer>
+    <studentAnswer id="ST.59.418.1" accuracy="incorrect">Put a glass in the center of the tank.</studentAnswer>
+    <studentAnswer id="ST.59.420.1" accuracy="correct">Get her own shelter for that lizard.</studentAnswer>
+    <studentAnswer id="ST.59.422.1" accuracy="correct">A lizard needs food, home, space, air, water.</studentAnswer>
+    <studentAnswer id="ST.59.423.1" accuracy="correct">A structure for the next lizard.</studentAnswer>
+    <studentAnswer id="ST.59.451.1" accuracy="correct">Elena should make special places for both of them otherwise they will fight.</studentAnswer>
+    <studentAnswer id="ST.59.453.1" accuracy="incorrect">Maybe she could put in 2 females also.</studentAnswer>
+    <studentAnswer id="ST.59.458.1" accuracy="incorrect">A new bed.</studentAnswer>
+    <studentAnswer id="ST.59.460.1" accuracy="incorrect">Some twigs, rocks and air.</studentAnswer>
+    <studentAnswer id="ST.59.465.1" accuracy="incorrect">I think she would need to put some wood need some wood.</studentAnswer>
+    <studentAnswer id="ST.59.467.1" accuracy="correct">Maybe some shelter or some grass.</studentAnswer>
+    <studentAnswer id="ST.59.469.1" accuracy="incorrect">She would have to know the food the lizards want.</studentAnswer>
+    <studentAnswer id="ST.59.488.1" accuracy="correct">She is going to need food for both of them, water, space and shelter.</studentAnswer>
+    <studentAnswer id="ST.59.491.1" accuracy="incorrect">She needs to observe her lizard.</studentAnswer>
+    <studentAnswer id="ST.59.492.1" accuracy="incorrect">Some leaves and some wood.</studentAnswer>
+    <studentAnswer id="ST.59.497.1" accuracy="incorrect">Water and food.</studentAnswer>
+    <studentAnswer id="ST.59.529.1" accuracy="correct">Another shelter.</studentAnswer>
+    <studentAnswer id="ST.59.535.1" accuracy="correct">The shelter and other basic needs.</studentAnswer>
+    <studentAnswer id="ST.59.556.1" accuracy="correct">She should add another shelter.</studentAnswer>
+    <studentAnswer id="ST.59.560.1" accuracy="correct">Well, food, water, some leaves, some dirt, a stick or 2 and some rocks and grass.</studentAnswer>
+    <studentAnswer id="ST.59.562.1" accuracy="correct">Elena should put leaves, logs, and tree branches in the habitat.</studentAnswer>
+    <studentAnswer id="ST.59.568.1" accuracy="incorrect">She should get a bigger and food and water.</studentAnswer>
+    <studentAnswer id="ST.59.570.1" accuracy="incorrect">Elena should put more food and water.</studentAnswer>
+    <studentAnswer id="ST.59.599.1" accuracy="correct">She should add shelter and space.</studentAnswer>
+    <studentAnswer id="ST.59.601.1" accuracy="incorrect">Elena should be sure to have either 2 habitats or a lot of space so each lizard does not have to fight over space.</studentAnswer>
+    <studentAnswer id="ST.59.607.1" accuracy="incorrect">She should put a prop of a lizard to see if her lizard will let it be or fight it.</studentAnswer>
+    <studentAnswer id="ST.59.628.1" accuracy="incorrect">Grass.</studentAnswer>
+    <studentAnswer id="ST.59.632.1" accuracy="incorrect">She should make sure they are nice to each other.</studentAnswer>
+    <studentAnswer id="ST.59.633.1" accuracy="correct">Shelter, space, and homes.</studentAnswer>
+    <studentAnswer id="ST.59.640.1" accuracy="correct">Another house for the lizard.</studentAnswer>
+    <studentAnswer id="ST.59.641.1" accuracy="incorrect">She or he should add more space and almost everything lizards need.</studentAnswer>
+  </studentAnswers>
+</question>

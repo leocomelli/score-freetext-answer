@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_10" module="MX">
+  <questionText>Jorge added solid material to a container of clear colorless liquid. The mixture began to bubble. Explain why Jorge knew a chemical reaction occurred.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_10-a1">Bubbling means a gas has formed. Gas is a new material. A new material indicates a reaction.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.10.389.1" accuracy="incorrect">Because it was bubbly.</studentAnswer>
+    <studentAnswer id="MX.10.431.1" accuracy="incorrect">Because it bubbled.</studentAnswer>
+    <studentAnswer id="MX.10.564.1" accuracy="correct">Jorge knew that because it was bubbly and when it bubbly it means it is gas.</studentAnswer>
+    <studentAnswer id="MX.10.574.1" accuracy="correct">Because once the 2 chemicals mixed the solution started to react by fizzing bubble.</studentAnswer>
+  </studentAnswers>
+</question>

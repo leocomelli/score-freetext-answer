@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_51a" module="PS">
+  <questionText>Katie got a guitar for her birthday. She experimented with the strings and found she could change their sounds. One way Katie could change the sound of a string was to tighten it. Describe how the sound was different when the string was tightened.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_51a-a1">When the string was tighter, the pitch was higher.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.51a.116.1" accuracy="incorrect">You tighten the string you pull a string when the other hand tighten.</studentAnswer>
+    <studentAnswer id="PS.51a.145.1" accuracy="correct">I get a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51a.255.1" accuracy="correct">If the string on the guitar was shorter it would make a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51a.488.1" accuracy="correct">It is going to sound high. And if it not tightened it going to sound low.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_6b" module="LF">
+  <questionText>Mark an X next to each of the following that can cause more erosion in a streamtable experiment. (Use a water source with a bigger hole.) Use a water source with a smaller hole.  Make the slope flatter. (Make the slope steeper.) Explain why your choices cause more erosion.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_6b-a1">A bigger hole puts more water in the stream. Increased flow moves more earth materials, increasing erosion. A steeper slope makes the water flow faster. Faster flow moves more earth materials, increasing erosion.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.6b.467.1" accuracy="incorrect">Because if you used a slope steeper it will destroy the earth material.</studentAnswer>
+    <studentAnswer id="LF.6b.680.1" accuracy="correct">I chose these choices because if there is a bigger hole then more water will flow through causing greater erosion. If the slope is steeper then the water will flow faster causing greater erosion..</studentAnswer>
+    <studentAnswer id="LF.6b.689.1" accuracy="correct">If the water source has a bigger hole it would let out more water at one time, more water more erosion. If we make a steeper slope the water will have more momentum making it stronger to carry more earth materials.</studentAnswer>
+    <studentAnswer id="LF.6b.743.1" accuracy="incorrect">Because more water would come out at once.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="II_38" module="II">
+  <questionText>Describe what you would see if a mirror were placed along a line of symmetry on a flat object.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_38-a1">The mirror would complete the image of the object and make the object appear whole.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.38.103.1" accuracy="incorrect">Is flat but when you write your letters backwards.</studentAnswer>
+    <studentAnswer id="II.38.151.1" accuracy="correct">You would see the whole shape.</studentAnswer>
+    <studentAnswer id="II.38.473.1" accuracy="incorrect">Half of the flat object.</studentAnswer>
+    <studentAnswer id="II.38.485.1" accuracy="incorrect">What the mirror is reflecting on the flat object.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_7a" module="ME">
+  <questionText>Lee has an object he wants to test to see if it is an insulator or a conductor. He is going to use the circuit you see in the picture. Explain how he can use the circuit to test the object.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_7a-a1">Lee should put one of the loose wires on one part of the object and the other loose wire on another part of the object and see if the object completes the circuit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.7a.119.1" accuracy="correct">He need to connect the wires to the object and see if the motor runs.</studentAnswer>
+    <studentAnswer id="ME.7a.178.1" accuracy="correct">He will put one part of the wire one side and the other on the other side.</studentAnswer>
+    <studentAnswer id="ME.7a.181.1" accuracy="correct">He can put the bends of the wire on the material.</studentAnswer>
+    <studentAnswer id="ME.7a.277.1" accuracy="correct">Connect the object to the wires that do not connect to each other and turn the switch on.</studentAnswer>
+  </studentAnswers>
+</question>

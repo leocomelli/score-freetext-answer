@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_16b" module="EM">
+  <questionText>Ms. Teridann, a geologist, made a chart showing the scratch-test data for 3 minerals (Mineral X, Mineral Y, and Mineral Z). She wrote "yes" if the tool scratched the mineral and wrote "no" if it did not scratch it. Topaz is a mineral that cannot be scratched by a fingernail, a penny, or a paperclip. How hard is topaz compared to minerals X, Y, and Z? Explain how you know.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_16b-a1">Topaz would be the hardest of the 4 minerals because none of the tools could scratch topaz and at least one tool could scratch each of the other minerals.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.16b.439.1" accuracy="correct">Topaz is most like mineral Z because Topaz cannot be scratched by anything and mineral Z can only be scratched by one thing.</studentAnswer>
+    <studentAnswer id="EM.16b.456.1" accuracy="correct">Topaz is harder than X, Y, and Z. Because it could not get scratched by the tools.</studentAnswer>
+    <studentAnswer id="EM.16b.593.1" accuracy="incorrect">Topaz is harder than X, Y, Z.</studentAnswer>
+    <studentAnswer id="EM.16b.645.1" accuracy="incorrect">Topaz would be the hardest because none of the tools could scratch X, Y, Z.</studentAnswer>
+  </studentAnswers>
+</question>

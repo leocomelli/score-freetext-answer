@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_33b" module="WA">
+  <questionText>Joanna's glasses "fogged up" when she went into the bathroom after her sister finished her shower. What caused the "fog" to form on her glasses?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_33b-a1">The glasses were cooler than the water vapor in the bathroom.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.33b.173.1" accuracy="correct">After Joanna's sister came out of the bathroom there was water vapor in the room. And when the water vapor touched Joanna's cold glasses the water vapor turned into condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.174.1" accuracy="correct">Condensation caused the fog to form on her glasses. The warm air touched her cold glasses and turned back into water.</studentAnswer>
+    <studentAnswer id="WA.33b.175.1" accuracy="incorrect">The evaporated water in the air condensed on her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.176.1" accuracy="incorrect">The water in the shower was probably hot and it evaporated and turned into water vapor then to condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.180.1" accuracy="incorrect">The warmness of her shower caused the condensation on her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.183.1" accuracy="correct">When water evaporates the water vapor would stick on something cold like a window.</studentAnswer>
+    <studentAnswer id="WA.33b.184.1" accuracy="incorrect">The steam from the hot shower got on her glasses and they call that fog.</studentAnswer>
+    <studentAnswer id="WA.33b.185.1" accuracy="incorrect">The hot water from her sister's shower is attracted to mirror type things and went onto her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.186.1" accuracy="correct">Well when water vapor cools it condenses. Her glasses were cool so water vapor condensed on them.</studentAnswer>
+    <studentAnswer id="WA.33b.193.1" accuracy="incorrect">Condensation caused her glasses to fog up.</studentAnswer>
+    <studentAnswer id="WA.33b.194.1" accuracy="incorrect">The hot air from the shower touched the cold window and that made condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.206.1" accuracy="correct">Her sister took a hot shower so when the water vapor touched her lenses, condensation formed.</studentAnswer>
+    <studentAnswer id="WA.33b.209.1" accuracy="correct">When water vapor touches a cold surface it creates condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.210.1" accuracy="incorrect">Well it fogged up because her glasses were probably cold and when condensation touches a cold surface it fogs up.</studentAnswer>
+    <studentAnswer id="WA.33b.211.1" accuracy="incorrect">When a cold surface hits a warmer surface it fogs up.</studentAnswer>
+    <studentAnswer id="WA.33b.212.1" accuracy="incorrect">The fog is from water vapor in the air.</studentAnswer>
+    <studentAnswer id="WA.33b.214.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.215.1" accuracy="correct">When a hot vapor touches a cold surface it turns into condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.217.1" accuracy="incorrect">Her glasses might have been room temperature or cold but when she went in a hot room her glasses fogged up.</studentAnswer>
+    <studentAnswer id="WA.33b.218.1" accuracy="incorrect">Water vapor did.</studentAnswer>
+    <studentAnswer id="WA.33b.226.1" accuracy="correct">When water vapor touches a cooler surface it creates condensation. That is what caused it.</studentAnswer>
+    <studentAnswer id="WA.33b.228.1" accuracy="incorrect">Just the humidity, I think.</studentAnswer>
+    <studentAnswer id="WA.33b.231.1" accuracy="incorrect">When warmer air touches a colder surface, it fogs up.</studentAnswer>
+    <studentAnswer id="WA.33b.232.1" accuracy="correct">What caused it was the water vapor and the steam went together and steam's hot and her glasses are room temperature so when the hot steam and water vapor hit her glasses it formed condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.242.1" accuracy="correct">The condensation happened because water vapor was hitting a cooler surface than itself glasses, therefore turning back into tiny water droplets.</studentAnswer>
+    <studentAnswer id="WA.33b.244.1" accuracy="correct">When the water vapor touches a cool surface, the glasses it will create condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.245.1" accuracy="correct">The fog was formed by condensation. Condensation is when water vapor hits a cool surface glasses it forms a fog. This fog is called condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.246.1" accuracy="incorrect">The fog was caused to form on her glasses because her glasses were a cold surface.</studentAnswer>
+    <studentAnswer id="WA.33b.250.1" accuracy="correct">When water vapor touches a colder surface little water droplets form.</studentAnswer>
+    <studentAnswer id="WA.33b.251.1" accuracy="incorrect">It caused from hitting a cold surface which is called surface area.</studentAnswer>
+    <studentAnswer id="WA.33b.255.1" accuracy="correct">The fog on her glasses was condensation. It happened by hot water vapor touched a cooler surface her glasses. It then turned into liquid form again.</studentAnswer>
+    <studentAnswer id="WA.33b.260.1" accuracy="correct">The fog formed on her glasses because the water that had evaporated from her sister's shower was hotter than the air around it so it went to a cooler surface and turned into fog.</studentAnswer>
+    <studentAnswer id="WA.33b.263.1" accuracy="incorrect">It was cold surface on her glasses so condensation hit her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.276.1" accuracy="incorrect">Evaporating and condensing into water vapor.</studentAnswer>
+    <studentAnswer id="WA.33b.280.1" accuracy="correct">The fog formed on her glasses because the water from the shower was hot and the glasses which were cold.</studentAnswer>
+    <studentAnswer id="WA.33b.282.1" accuracy="incorrect">The water vapor steam turned back to a liquid.</studentAnswer>
+    <studentAnswer id="WA.33b.284.1" accuracy="incorrect">On Mrs. Kleese's glasses the steam in her coffee was suffocation.</studentAnswer>
+    <studentAnswer id="WA.33b.285.1" accuracy="incorrect">The water and the air formed on her glasses because the water evaporated from the shower and the water went on her glasses and the air did too so that is what happened to her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.287.1" accuracy="incorrect">The water caused the fog.</studentAnswer>
+    <studentAnswer id="WA.33b.288.1" accuracy="incorrect">When the air from the bathroom touched the glasses it turned back into a liquid, because the glasses were cool.</studentAnswer>
+    <studentAnswer id="WA.33b.292.1" accuracy="incorrect">Heat caused it.</studentAnswer>
+    <studentAnswer id="WA.33b.296.1" accuracy="incorrect">When something hot hits something cold it turns into fog.</studentAnswer>
+    <studentAnswer id="WA.33b.346.1" accuracy="incorrect">The water.</studentAnswer>
+    <studentAnswer id="WA.33b.347.1" accuracy="correct">The hot steam hit the cool surface of Joanna's glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.350.1" accuracy="incorrect">The heat the shower makes things fog.</studentAnswer>
+    <studentAnswer id="WA.33b.351.1" accuracy="incorrect">They were glass.</studentAnswer>
+    <studentAnswer id="WA.33b.358.1" accuracy="incorrect">Because of the hotness of the water. It evaporated.</studentAnswer>
+    <studentAnswer id="WA.33b.366.1" accuracy="incorrect">The hot steam from the shower.</studentAnswer>
+    <studentAnswer id="WA.33b.367.1" accuracy="incorrect">Because it was hot in the bathroom.</studentAnswer>
+    <studentAnswer id="WA.33b.368.1" accuracy="incorrect">The steam in the shower flew to her glasses and formed condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.369.1" accuracy="incorrect">The fog attaches to mirrors and glasses stuff like that.</studentAnswer>
+    <studentAnswer id="WA.33b.381.1" accuracy="incorrect">The warmness.</studentAnswer>
+    <studentAnswer id="WA.33b.382.1" accuracy="incorrect">Glass was cold but it gets hot.</studentAnswer>
+    <studentAnswer id="WA.33b.383.1" accuracy="correct">Her glasses were cold. And the beads of water collect on the glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.384.1" accuracy="incorrect">When the steam from the shower met the cold air it condensed on her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.388.1" accuracy="incorrect">The shower's water evaporated and then it condensed onto Joanna's glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.390.1" accuracy="correct">The water vapor that was in the air touched the cool surface of Joanna's glasses, so the water vapor condensed on her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.391.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.392.1" accuracy="incorrect">When the temperature drops.</studentAnswer>
+    <studentAnswer id="WA.33b.393.1" accuracy="incorrect">The fog formed on her glasses because of condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.395.1" accuracy="incorrect">Her glasses were a different temperature so the vapor stuck to them.</studentAnswer>
+    <studentAnswer id="WA.33b.397.1" accuracy="incorrect">Because after shower, it can be smoking because beads of water evaporation.</studentAnswer>
+    <studentAnswer id="WA.33b.398.1" accuracy="correct">She had fog on her glasses because her glasses had a colder surface than the water vapor from the shower so they fogged up.</studentAnswer>
+    <studentAnswer id="WA.33b.399.1" accuracy="incorrect">Condensation, when water condenses and touches a cool surface it becomes water vapor.</studentAnswer>
+    <studentAnswer id="WA.33b.458.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.459.1" accuracy="correct">Her glasses were a cold surface and condensation rests on cold objects.</studentAnswer>
+    <studentAnswer id="WA.33b.466.1" accuracy="incorrect">Her sister's shower made condensation so then the condensation formed on her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.525.1" accuracy="incorrect">Because the temperature was too hot and because the surface area causes the water to turn into water vapor.</studentAnswer>
+    <studentAnswer id="WA.33b.528.1" accuracy="incorrect">The reason fog came up is because the water vapor gas from the steam from her sister's shower just like a mirror would have.</studentAnswer>
+    <studentAnswer id="WA.33b.529.1" accuracy="incorrect">It formed because hot water and cold water came together to form fog.</studentAnswer>
+    <studentAnswer id="WA.33b.532.1" accuracy="incorrect">The steaming hot water is fogging up her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.533.1" accuracy="incorrect">Water vapor and liquid is what caused the foam on her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.535.1" accuracy="incorrect">It is condensation is tiny droplets that fogs glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.541.1" accuracy="incorrect">When cold and warm hit together.</studentAnswer>
+    <studentAnswer id="WA.33b.542.1" accuracy="incorrect">What caused the fog to get on her glasses was heat from the shower.</studentAnswer>
+    <studentAnswer id="WA.33b.556.1" accuracy="correct">Water vapor in the air touching a cool surface, and turning back into tiny beads.</studentAnswer>
+    <studentAnswer id="WA.33b.557.1" accuracy="incorrect">Because of water vapor.</studentAnswer>
+    <studentAnswer id="WA.33b.560.1" accuracy="incorrect">When hot water is on it forms condensation on the mirrors, so it formed on her glasses too.</studentAnswer>
+    <studentAnswer id="WA.33b.561.1" accuracy="correct">The hot water's steam touched the cool surface of her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.563.1" accuracy="incorrect">The water went onto the mirror it stuck there for awhile it caused condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.564.1" accuracy="incorrect">Because her glasses were in the shower and it got wet.</studentAnswer>
+    <studentAnswer id="WA.33b.566.1" accuracy="incorrect">When the hot water is on forms condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.567.1" accuracy="correct">The glass are most likely cold so when she enters a warm room all the water goes to her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.569.1" accuracy="incorrect">Her glasses were colder than the air temp.</studentAnswer>
+    <studentAnswer id="WA.33b.575.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.576.1" accuracy="incorrect">If it is cold outside in hot inside.</studentAnswer>
+    <studentAnswer id="WA.33b.577.1" accuracy="incorrect">It condensed to some areas.</studentAnswer>
+    <studentAnswer id="WA.33b.593.1" accuracy="incorrect">Hot water.</studentAnswer>
+    <studentAnswer id="WA.33b.594.1" accuracy="incorrect">Because when water gets heated it turns into water vapor and there is no clouds so the water to make rain so that is how come the fog was on her glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.605.1" accuracy="incorrect">Because when glasses mixes with steam the steam fogs up the glass on the way up.</studentAnswer>
+    <studentAnswer id="WA.33b.608.1" accuracy="incorrect">It caused because of the hot heat of the shower.</studentAnswer>
+    <studentAnswer id="WA.33b.609.1" accuracy="correct">When the warm water vapor collided with the cool surface of her glasses, it condensed.</studentAnswer>
+    <studentAnswer id="WA.33b.629.1" accuracy="incorrect">How it was caused by the steam and by condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.631.1" accuracy="correct">The warm water vapor touching the cold glasses.</studentAnswer>
+    <studentAnswer id="WA.33b.637.1" accuracy="incorrect">Her glasses surface tension.</studentAnswer>
+    <studentAnswer id="WA.33b.638.1" accuracy="correct">The hot water from the shower hit the glass on the glasses that were cold hit together it formed fog!</studentAnswer>
+    <studentAnswer id="WA.33b.639.1" accuracy="incorrect">Water being hot.</studentAnswer>
+    <studentAnswer id="WA.33b.640.1" accuracy="incorrect">Because when something cold touches room temperature it forms condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.641.1" accuracy="incorrect">It is when hot water is on the glasses and water vapor likes hot water so it sticks and makes condensation.</studentAnswer>
+    <studentAnswer id="WA.33b.642.1" accuracy="correct">The glass was cold so when warm water vapor hits it is condensation.</studentAnswer>
+  </studentAnswers>
+</question>

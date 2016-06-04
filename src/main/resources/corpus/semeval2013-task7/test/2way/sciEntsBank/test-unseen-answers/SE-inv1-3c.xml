@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_3c" module="SE">
+  <questionText>Why does the tree shown in the picture have a shadow?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_3c-a1">The tree blocks the light from the Sun.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.3c.134.1" accuracy="incorrect">The light makes the shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.154.1" accuracy="incorrect">The tree picture is look like the tree is in east.</studentAnswer>
+    <studentAnswer id="SE.3c.314.1" accuracy="incorrect">Because it is dark and the sun is on east direction.</studentAnswer>
+    <studentAnswer id="SE.3c.501.1" accuracy="incorrect">Because since the sun is out it gives it a shadow.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="II_24b" module="II">
+  <questionText>Design a way to use carbon printing to find out if 2 Labrador retrievers have the same paw patterns. How will you know if the 2 dogs have paw patterns that are the same?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_24b-a1">Compare prints to see if the patterns are the same.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.24b.383.1" accuracy="incorrect">I will use carbon printing to know.</studentAnswer>
+    <studentAnswer id="II.24b.387.1" accuracy="incorrect">I will know when the dogs are asleep.</studentAnswer>
+    <studentAnswer id="II.24b.395.1" accuracy="correct">They will look exactly the same, same size same pattern.</studentAnswer>
+    <studentAnswer id="II.24b.399.1" accuracy="correct">So you can see if the bags have the same paw.</studentAnswer>
+    <studentAnswer id="II.24b.402.1" accuracy="incorrect">Some dogs more cracks on their paws.</studentAnswer>
+    <studentAnswer id="II.24b.403.1" accuracy="incorrect">I will by looking if the dogs have paw prints.</studentAnswer>
+    <studentAnswer id="II.24b.406.1" accuracy="incorrect">Look at microscope.</studentAnswer>
+    <studentAnswer id="II.24b.417.1" accuracy="incorrect">Study them both.</studentAnswer>
+    <studentAnswer id="II.24b.422.1" accuracy="correct">If they look the same.</studentAnswer>
+    <studentAnswer id="II.24b.424.1" accuracy="correct">By looking at the patterns.</studentAnswer>
+    <studentAnswer id="II.24b.428.1" accuracy="incorrect">I tell what is he mean.</studentAnswer>
+    <studentAnswer id="II.24b.431.1" accuracy="incorrect">The carbon printings will look the same.</studentAnswer>
+    <studentAnswer id="II.24b.433.1" accuracy="incorrect">It is the different dog and is not the same.</studentAnswer>
+    <studentAnswer id="II.24b.441.1" accuracy="incorrect">Their paw prints will be the same.</studentAnswer>
+    <studentAnswer id="II.24b.458.1" accuracy="correct">They will both have either arches, loops, or whorls. That is how they will be the same.</studentAnswer>
+    <studentAnswer id="II.24b.460.1" accuracy="incorrect">By comparing the 2 prints.</studentAnswer>
+    <studentAnswer id="II.24b.467.1" accuracy="incorrect">You look real hard to see that either their toes are separated or they have print on them.</studentAnswer>
+    <studentAnswer id="II.24b.472.1" accuracy="correct">Identify them with a magnifying glass and see if they are the same.</studentAnswer>
+    <studentAnswer id="II.24b.480.1" accuracy="incorrect">If you discover if the dogs have the something is a loop arch or a whorl for the dog.</studentAnswer>
+    <studentAnswer id="II.24b.521.1" accuracy="incorrect">The finger texture, shape.</studentAnswer>
+    <studentAnswer id="II.24b.528.1" accuracy="incorrect">Maybe they both have arches but not in the same way.</studentAnswer>
+    <studentAnswer id="II.24b.540.1" accuracy="correct">By telling if it is a whorl a loop or an arch.</studentAnswer>
+    <studentAnswer id="II.24b.543.1" accuracy="incorrect">They came from the same kind of dogs.</studentAnswer>
+    <studentAnswer id="II.24b.556.1" accuracy="incorrect">If they are the same dog.</studentAnswer>
+    <studentAnswer id="II.24b.558.1" accuracy="incorrect">You can see the designs.</studentAnswer>
+    <studentAnswer id="II.24b.564.1" accuracy="correct">You can tell if the 2 dogs' paw prints are the same if it is the same as exactly the same dog.</studentAnswer>
+    <studentAnswer id="II.24b.568.1" accuracy="incorrect">No 2 prints are the same.</studentAnswer>
+    <studentAnswer id="II.24b.571.1" accuracy="incorrect">The dog's name will be on the paper so you know which dog it came from.</studentAnswer>
+    <studentAnswer id="II.24b.573.1" accuracy="correct">You will compare the paw prints.</studentAnswer>
+    <studentAnswer id="II.24b.578.1" accuracy="incorrect">They have the same curves and shapes.</studentAnswer>
+    <studentAnswer id="II.24b.582.1" accuracy="correct">If they have the same kind of arch, loop, or whorl.</studentAnswer>
+    <studentAnswer id="II.24b.593.1" accuracy="incorrect">You would be able to try the print.</studentAnswer>
+    <studentAnswer id="II.24b.599.1" accuracy="incorrect">We cannot tell if they have the same fingerprint we cannot tell if 2 have the same fingerprint.</studentAnswer>
+    <studentAnswer id="II.24b.603.1" accuracy="correct">You could scan both pieces of paper and look at the ridges and grooves in the prints.</studentAnswer>
+    <studentAnswer id="II.24b.613.1" accuracy="incorrect">I would look at them to tell.</studentAnswer>
+    <studentAnswer id="II.24b.615.1" accuracy="correct">To put the tape on it and look to see if it is the same type.</studentAnswer>
+  </studentAnswers>
+</question>

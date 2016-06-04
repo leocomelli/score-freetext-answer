@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_18" module="MX">
+  <questionText>A solution of water and material A is clear. A solution of water and material B is also clear. When the 2 solutions are mixed, a white solid settles to the bottom, leaving a clear liquid. What does the white solid indicate?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_18-a1">A chemical reaction occurred. [The white solid is a precipitate (a new material) which indicates the reaction.]</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.18.176.1" accuracy="incorrect">That indicates that there is a precipitate on the sides.</studentAnswer>
+    <studentAnswer id="MX.18.429.1" accuracy="correct">It is a reaction.</studentAnswer>
+    <studentAnswer id="MX.18.557.1" accuracy="incorrect">That indicates the 2 thing mixed together became a precipitate.</studentAnswer>
+    <studentAnswer id="MX.18.575.1" accuracy="correct">There was a chemical reaction and a precipitate was formed.</studentAnswer>
+  </studentAnswers>
+</question>

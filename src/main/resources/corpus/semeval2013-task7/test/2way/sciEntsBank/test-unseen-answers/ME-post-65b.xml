@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_65b" module="ME">
+  <questionText>Look at the schematic diagram including a D-cell battery and 3 bulbs. Why do the other 2 bulbs stay lit if the middle bulb burns out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_65b-a1">The circuit is parallel, so each bulb has its own pathway to the D-cell battery, so the bulbs that do not burn out continue to shine.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.65b.102.1" accuracy="correct">It is a parallel that is why just that one will go out.</studentAnswer>
+    <studentAnswer id="ME.65b.148.1" accuracy="correct">It is a parallel circuit and each light bulb has its own path to the D-Cell or power supply.</studentAnswer>
+    <studentAnswer id="ME.65b.173.1" accuracy="correct">It will happen because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65b.212.1" accuracy="incorrect">I chose this answer because it is a series.</studentAnswer>
+  </studentAnswers>
+</question>

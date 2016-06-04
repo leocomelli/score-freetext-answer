@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MS_64a" module="MS">
+  <questionText>Greta used her hand to measure the length of the whiteboard in her classroom. She found that it was 14 hands long. Andre measured the whiteboard and found that it was 16 hands long. Explain why Greta and Andre got different measurements.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_64a-a1">Greta and Andre have different sized hands.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.64a.103.1" accuracy="correct">They got different measurements because their hands are different sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.115.1" accuracy="correct">They got different measurements because their hands could be different sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.119.1" accuracy="correct">Because hands can be different sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.136.1" accuracy="correct">Maybe Andre's hand is bigger than Greta's hand.</studentAnswer>
+    <studentAnswer id="MS.64a.143.1" accuracy="correct">Greta could have had a bigger hand.</studentAnswer>
+    <studentAnswer id="MS.64a.147.1" accuracy="correct">They both have different hand length.</studentAnswer>
+    <studentAnswer id="MS.64a.171.1" accuracy="incorrect">It was not a standard unit of measurement.</studentAnswer>
+    <studentAnswer id="MS.64a.173.1" accuracy="correct">Greta and Andre got different measurements because Andre's hand was much smaller than Greta's hand.</studentAnswer>
+    <studentAnswer id="MS.64a.179.1" accuracy="correct">Greta had a smaller hand than him.</studentAnswer>
+    <studentAnswer id="MS.64a.190.1" accuracy="correct">Maybe because one of their hands are bigger one of their hands are smaller.</studentAnswer>
+    <studentAnswer id="MS.64a.276.1" accuracy="correct">Maybe she had bigger hands.</studentAnswer>
+    <studentAnswer id="MS.64a.278.1" accuracy="correct">Because their hands were different sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.286.1" accuracy="correct">Because the hands are not the same size.</studentAnswer>
+    <studentAnswer id="MS.64a.293.1" accuracy="incorrect">Greta used his hands. Andre used the white board. They should use the same thing.</studentAnswer>
+    <studentAnswer id="MS.64a.319.1" accuracy="correct">Their hands could be different length.</studentAnswer>
+    <studentAnswer id="MS.64a.347.1" accuracy="correct">Their hands are different sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.351.1" accuracy="incorrect">Because the white boards were different sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.360.1" accuracy="correct">Maybe their hands were too big and too little.</studentAnswer>
+    <studentAnswer id="MS.64a.381.1" accuracy="correct">They have bigger or smaller sized hands.</studentAnswer>
+    <studentAnswer id="MS.64a.391.1" accuracy="correct">It was because they have different hand sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.396.1" accuracy="correct">Because one of their hands are different sizes.</studentAnswer>
+    <studentAnswer id="MS.64a.401.1" accuracy="correct">Because their hands were not the same size.</studentAnswer>
+    <studentAnswer id="MS.64a.417.1" accuracy="correct">Because they have different hands and not the same.</studentAnswer>
+    <studentAnswer id="MS.64a.418.1" accuracy="incorrect">Because one of their arms is bigger.</studentAnswer>
+    <studentAnswer id="MS.64a.426.1" accuracy="incorrect">Because she might open her hands why does not she use a ruler.</studentAnswer>
+    <studentAnswer id="MS.64a.433.1" accuracy="incorrect">Because they used their hands and if they use their hands they can have use the hand then your hands can get tired.</studentAnswer>
+    <studentAnswer id="MS.64a.452.1" accuracy="correct">Andre's hand were smaller.</studentAnswer>
+    <studentAnswer id="MS.64a.495.1" accuracy="correct">Their hand are bigger than each others.</studentAnswer>
+    <studentAnswer id="MS.64a.499.1" accuracy="correct">They got different measurements because Andre has bigger hands than Greta.</studentAnswer>
+    <studentAnswer id="MS.64a.502.1" accuracy="correct">Maybe Greta has a bigger hand and Andre smaller hand.</studentAnswer>
+    <studentAnswer id="MS.64a.504.1" accuracy="correct">Because maybe the hand of Greta is too small. And Andre's hand is bigger.</studentAnswer>
+    <studentAnswer id="MS.64a.521.1" accuracy="incorrect">Greta is taller and Andre is shorter.</studentAnswer>
+    <studentAnswer id="MS.64a.566.1" accuracy="correct">Their hand are not the same. Maybe Greta hands are big than Andre's.</studentAnswer>
+    <studentAnswer id="MS.64a.569.1" accuracy="correct">It is because Greta has bigger hands and Andre has little hands.</studentAnswer>
+    <studentAnswer id="MS.64a.592.1" accuracy="correct">Greta might have bigger hands.</studentAnswer>
+    <studentAnswer id="MS.64a.595.1" accuracy="correct">Hands are not standard units.</studentAnswer>
+  </studentAnswers>
+</question>

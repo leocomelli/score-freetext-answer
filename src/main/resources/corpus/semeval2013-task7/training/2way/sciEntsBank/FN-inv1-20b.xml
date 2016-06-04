@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="FN_20b" module="FN">
+  <questionText>Anna wants to compare the fat in walnuts and peanuts. Using only the results from her experiment, how will Anna know which one, walnuts or peanuts, has more fat? The experiment has the following procedure: Measure out equal masses of walnuts and peanuts (for example, one gram). Smash the samples uniformly in the same size area on brown paper. Wait (the same time for each).</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_20b-a1">Anna should compare the size of the grease spots. The sample with the larger grease spot has more fat.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.20b.101.1" accuracy="correct">Using only the results from her experiment, Anna will know which one has more fat in it by the larger the grease spot the more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.114.1" accuracy="correct">The way Anna will know is the bigger the spot the more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.123.1" accuracy="correct">She will know which one has the most fat is checking the size of the grease spots.</studentAnswer>
+    <studentAnswer id="FN.20b.148.1" accuracy="correct">Look at the grease that is on it and what has the most grease has the most fat.</studentAnswer>
+    <studentAnswer id="FN.20b.156.1" accuracy="correct">The bigger the grease spot the more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.160.1" accuracy="correct">She will know because the one with a big spot has more fat than the other one.</studentAnswer>
+    <studentAnswer id="FN.20b.181.1" accuracy="correct">She can tell by how big each grease spot is so if walnuts had more fat it would have a bigger grease spot.</studentAnswer>
+    <studentAnswer id="FN.20b.218.1" accuracy="incorrect">Whichever one is higher on the graph has more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.265.1" accuracy="correct">You can tell which one has more fat by looking at the brown piece of paper and the biggest grease spot has more fat in it.</studentAnswer>
+    <studentAnswer id="FN.20b.277.1" accuracy="incorrect">The one that has more fat on the paper.</studentAnswer>
+    <studentAnswer id="FN.20b.280.1" accuracy="incorrect">Anna will know by mix and dividing it and she will get a percentage of how much fat is in walnuts and peanuts.</studentAnswer>
+    <studentAnswer id="FN.20b.311.1" accuracy="correct">The nut with the largest grease spot has the most fat.</studentAnswer>
+    <studentAnswer id="FN.20b.318.1" accuracy="correct">Whichever one has more oil spread out on the paper towel has the most fat.</studentAnswer>
+    <studentAnswer id="FN.20b.329.1" accuracy="incorrect">She will know by the grease mark on the brown piece of paper.</studentAnswer>
+    <studentAnswer id="FN.20b.332.1" accuracy="correct">The one that has the bigger grease stain.</studentAnswer>
+    <studentAnswer id="FN.20b.333.1" accuracy="correct">Anna would know by looking at the 2 pieces of paper and seeing the paper that has more grease on it. The one that has more grease on it has more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.364.1" accuracy="incorrect">Let it sit for a day and if there was a grease spot that is how she would find out.</studentAnswer>
+    <studentAnswer id="FN.20b.381.1" accuracy="correct">By the time 2 days are up both indicators will have a grease spot, both representing a walnut and a peanut the one with the biggest grease spot has the most fat.</studentAnswer>
+    <studentAnswer id="FN.20b.388.1" accuracy="correct">She will get the results with the biggest grease spot. For the most fat.</studentAnswer>
+    <studentAnswer id="FN.20b.402.1" accuracy="incorrect">Then she will know that walnut or peanuts has more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.407.1" accuracy="correct">Anna will measure the grease spot then she will figure out which one has more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.428.1" accuracy="incorrect">By waiting for 2 days from morning until night, then you will see which one is fattier.</studentAnswer>
+    <studentAnswer id="FN.20b.437.1" accuracy="incorrect">Peanut has more than walnut.</studentAnswer>
+    <studentAnswer id="FN.20b.464.1" accuracy="correct">The brown paper will look wet and that will tell you which one has more fat in them.</studentAnswer>
+    <studentAnswer id="FN.20b.488.1" accuracy="correct">The more grease the more fat there is.</studentAnswer>
+    <studentAnswer id="FN.20b.491.1" accuracy="correct">You get grid paper and put it on the grease spot and count the square in the grease spot.</studentAnswer>
+    <studentAnswer id="FN.20b.508.1" accuracy="correct">It will show a grease spot. Then you get a graph paper then it will show how many percent it has.</studentAnswer>
+    <studentAnswer id="FN.20b.522.1" accuracy="incorrect">On your indicator whichever had more grease spots.</studentAnswer>
+    <studentAnswer id="FN.20b.528.1" accuracy="incorrect">Look at the grease marks.</studentAnswer>
+    <studentAnswer id="FN.20b.531.1" accuracy="correct">You take the grid chart over each food sample and count the squares that is filled with grease marks.</studentAnswer>
+    <studentAnswer id="FN.20b.538.1" accuracy="correct">The grease marks will show her which one has more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.558.1" accuracy="correct">Anna will know which food has more fat by the grease spots on the brown paper.</studentAnswer>
+    <studentAnswer id="FN.20b.587.1" accuracy="correct">The one that has more grease will have more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.605.1" accuracy="incorrect">First you need a square centimeter chart. Put it in the circle and add them. The cross that are half add them to each other.</studentAnswer>
+    <studentAnswer id="FN.20b.611.1" accuracy="correct">They should see which has more grease.</studentAnswer>
+    <studentAnswer id="FN.20b.616.1" accuracy="incorrect">Lay the crushed walnuts and peanuts on brown paper.</studentAnswer>
+  </studentAnswers>
+</question>

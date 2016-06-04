@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_22a" module="SE">
+  <questionText>Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. What does the graph tell you about the effect of using a cover?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_22a-a1">Water heats up faster when covered.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.22a.382.1" accuracy="correct">That the uncovered items are colder than the covered items.</studentAnswer>
+    <studentAnswer id="SE.22a.523.1" accuracy="correct">If the heater is covered the water is hotter faster.</studentAnswer>
+    <studentAnswer id="SE.22a.532.1" accuracy="incorrect">The covered container can conceal heat.</studentAnswer>
+    <studentAnswer id="SE.22a.561.1" accuracy="correct">That it maybe gets hotter than uncovered.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_15c" module="VB">
+  <questionText>3 girls wanted to see who could throw a ball the farthest. Each girl brought her favorite ball to the park. Ling brought her basketball, Diana brought her football, and Rachael brought her baseball. They made a line on the playground. They all had to throw the ball from that line. Ling took 2 steps up to the line and threw her basketball. Diana stood at the line and threw her football. Rachael got a running start and threw her baseball when she reached the line. Rachael threw her ball the farthest. Describe what the girls need to do to make the contest a controlled experiment (fair test).</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_15c-a1">All variables except the girl need to be held constant (controlled). The girls all need to throw the same ball and use the same launch technique.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.15c.381.1" accuracy="correct">They need to have the same ball and throw the ball at the same place.</studentAnswer>
+    <studentAnswer id="VB.15c.388.1" accuracy="correct">They need to use the same ball and they need to throw the same way.</studentAnswer>
+    <studentAnswer id="VB.15c.394.1" accuracy="correct">They need to use the same ball and throw it from the same spot without running to the line, taking steps to the line, or one person just standing at the line.</studentAnswer>
+    <studentAnswer id="VB.15c.399.1" accuracy="correct">Nobody get a running start and they all use the same ball to make it fair.</studentAnswer>
+    <studentAnswer id="VB.15c.404.1" accuracy="correct">They need to throw the same kind of ball, they need to throw at the same place and they need to get the same speed.</studentAnswer>
+    <studentAnswer id="VB.15c.407.1" accuracy="incorrect">They need the same kind of ball and with the same weight and to stand still when throwing the ball.</studentAnswer>
+    <studentAnswer id="VB.15c.416.1" accuracy="incorrect">They need to have thrown it at the same place which they did they need one variable changed that could be different balls or the same ball but different size.</studentAnswer>
+    <studentAnswer id="VB.15c.419.1" accuracy="incorrect">To make the balls the same thing so it is a fair game to play. Like a baseball, basketball or a football to throw.</studentAnswer>
+    <studentAnswer id="VB.15c.423.1" accuracy="incorrect">Ling and Diana should change their experiments to a baseball because the baseball won.</studentAnswer>
+    <studentAnswer id="VB.15c.432.1" accuracy="incorrect">To have the same ball and throw the same place. And the weight of the ball. And how hard you throw it.</studentAnswer>
+    <studentAnswer id="VB.15c.440.1" accuracy="correct">The balls all need to be the same and they all have to stand and throw.</studentAnswer>
+    <studentAnswer id="VB.15c.448.1" accuracy="incorrect">Make a line that is very straight. All use same ball. All stand at line. Throw at same time. Record data.</studentAnswer>
+    <studentAnswer id="VB.15c.452.1" accuracy="incorrect">They need to use the same kind of balls and they need the same procedure of throwing.</studentAnswer>
+    <studentAnswer id="VB.15c.462.1" accuracy="correct">Where they throw the ball, use the same ball, they all get a running start.</studentAnswer>
+    <studentAnswer id="VB.15c.466.1" accuracy="incorrect">To make the contest a controlled experiment the girls need to take the same amount of steps.</studentAnswer>
+    <studentAnswer id="VB.15c.475.1" accuracy="incorrect">The girls needed to change each variable at a time, like starting at the same position, all 3 of them, and the mass of the balls.</studentAnswer>
+    <studentAnswer id="VB.15c.481.1" accuracy="correct">The girls have to have the same type of ball and also take the same amount of steps when they are throwing it.</studentAnswer>
+    <studentAnswer id="VB.15c.486.1" accuracy="incorrect">They can just throw from the line and not run.</studentAnswer>
+    <studentAnswer id="VB.15c.495.1" accuracy="incorrect">Use all of the same balls.</studentAnswer>
+    <studentAnswer id="VB.15c.497.1" accuracy="correct">They have to have the same balls. They have to throw the ball in the same way.</studentAnswer>
+    <studentAnswer id="VB.15c.503.1" accuracy="incorrect">First they all do the standard way then they throw the same ball and write then they do that again 2 times with the other balls then finally they write it and compare.</studentAnswer>
+    <studentAnswer id="VB.15c.511.1" accuracy="incorrect">They needed to use their position.</studentAnswer>
+    <studentAnswer id="VB.15c.523.1" accuracy="incorrect">They all have a ball and they all stand at the same place.</studentAnswer>
+    <studentAnswer id="VB.15c.530.1" accuracy="incorrect">They should all stand at the line and throw.</studentAnswer>
+    <studentAnswer id="VB.15c.533.1" accuracy="incorrect">Same ball and stand on the line.</studentAnswer>
+    <studentAnswer id="VB.15c.535.1" accuracy="incorrect">The balls and the line that tells them to go.</studentAnswer>
+    <studentAnswer id="VB.15c.537.1" accuracy="incorrect">They had to throw their ball first at the same time.</studentAnswer>
+    <studentAnswer id="VB.15c.539.1" accuracy="incorrect">They should all start in the line.</studentAnswer>
+    <studentAnswer id="VB.15c.542.1" accuracy="incorrect">What the 3 girls need to do is stand straight and same sized ball.</studentAnswer>
+    <studentAnswer id="VB.15c.545.1" accuracy="incorrect">Throw the ball at the same time.</studentAnswer>
+    <studentAnswer id="VB.15c.626.1" accuracy="incorrect">Stay at the line, use one ball, everyone get a 2 step, throw.</studentAnswer>
+    <studentAnswer id="VB.15c.634.1" accuracy="incorrect">Same sized balls. Take 2 steps then throw.</studentAnswer>
+    <studentAnswer id="VB.15c.636.1" accuracy="incorrect">They all needed to have the same ball.</studentAnswer>
+    <studentAnswer id="VB.15c.638.1" accuracy="correct">They should all use the same ball they should all take 2 steps.</studentAnswer>
+    <studentAnswer id="VB.15c.639.1" accuracy="incorrect">Do not take any steps, have the same kind of ball.</studentAnswer>
+    <studentAnswer id="VB.15c.643.1" accuracy="incorrect">Starting in the same place. Using the same kind of ball.</studentAnswer>
+  </studentAnswers>
+</question>

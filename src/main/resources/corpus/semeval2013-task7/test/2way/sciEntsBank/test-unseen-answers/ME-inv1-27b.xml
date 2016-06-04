@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_27b" module="ME">
+  <questionText>How can you use a magnet to find out if the key is iron or aluminum?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_27b-a1">If the key sticks, the key is iron; if the key does not stick the key is aluminum.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.27b.101.1" accuracy="correct">You will know because if it sticks it is iron if it does not it is aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.115.1" accuracy="correct">If it attracts, it is iron. If it does not, it is aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.141.1" accuracy="correct">If it is iron it will stick to a magnet if it is aluminum it will not.</studentAnswer>
+    <studentAnswer id="ME.27b.148.1" accuracy="correct">Iron will stick. Aluminum will not stick.</studentAnswer>
+  </studentAnswers>
+</question>

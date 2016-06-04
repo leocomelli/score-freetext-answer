@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<question id="ST_54b2" module="ST">
+  <questionText>The inside of a pea seed is shown below. Describe the function of each of the parts: cotyledon.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_54b2-a1">The cotyledon provides food for the plant to begin growing.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.54b2.383.1" accuracy="incorrect">Feeds baby plant, embryo.</studentAnswer>
+    <studentAnswer id="ST.54b2.385.1" accuracy="incorrect">The cotyledon stores the food.</studentAnswer>
+    <studentAnswer id="ST.54b2.386.1" accuracy="correct">Feeds the embryo.</studentAnswer>
+    <studentAnswer id="ST.54b2.387.1" accuracy="incorrect">The cotyledon is the baby seed.</studentAnswer>
+    <studentAnswer id="ST.54b2.389.1" accuracy="correct">It feeds the baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b2.391.1" accuracy="incorrect">The cotyledon is the inside of the seed.</studentAnswer>
+    <studentAnswer id="ST.54b2.420.1" accuracy="incorrect">Out of it.</studentAnswer>
+    <studentAnswer id="ST.54b2.424.1" accuracy="incorrect">To store all the food.</studentAnswer>
+    <studentAnswer id="ST.54b2.427.1" accuracy="incorrect">Then is the cannot of the seed.</studentAnswer>
+    <studentAnswer id="ST.54b2.454.1" accuracy="incorrect">Place that stores food for it.</studentAnswer>
+    <studentAnswer id="ST.54b2.455.1" accuracy="incorrect">It stores the food.</studentAnswer>
+    <studentAnswer id="ST.54b2.460.1" accuracy="incorrect">Part that stores food.</studentAnswer>
+    <studentAnswer id="ST.54b2.465.1" accuracy="incorrect">It is the leaf, stem, and roots.</studentAnswer>
+    <studentAnswer id="ST.54b2.469.1" accuracy="incorrect">A storage.</studentAnswer>
+    <studentAnswer id="ST.54b2.494.1" accuracy="incorrect">Where seeds are.</studentAnswer>
+    <studentAnswer id="ST.54b2.496.1" accuracy="incorrect">The cotyledon is where seeds are store.</studentAnswer>
+    <studentAnswer id="ST.54b2.528.1" accuracy="incorrect">Grow.</studentAnswer>
+    <studentAnswer id="ST.54b2.530.1" accuracy="incorrect">Food storage.</studentAnswer>
+    <studentAnswer id="ST.54b2.532.1" accuracy="incorrect">Cotyledon seed coat, embryo.</studentAnswer>
+    <studentAnswer id="ST.54b2.533.1" accuracy="incorrect">Feed it.</studentAnswer>
+    <studentAnswer id="ST.54b2.536.1" accuracy="incorrect">Gives you the fiber you need.</studentAnswer>
+    <studentAnswer id="ST.54b2.540.1" accuracy="incorrect">Food storage.</studentAnswer>
+    <studentAnswer id="ST.54b2.558.1" accuracy="incorrect">A cotyledon is the part over the water.</studentAnswer>
+    <studentAnswer id="ST.54b2.565.1" accuracy="incorrect">It stores the food.</studentAnswer>
+    <studentAnswer id="ST.54b2.591.1" accuracy="incorrect">Stores supply.</studentAnswer>
+    <studentAnswer id="ST.54b2.598.1" accuracy="incorrect">The inner layer of the seed.</studentAnswer>
+    <studentAnswer id="ST.54b2.602.1" accuracy="incorrect">The cotyledon is its food holder.</studentAnswer>
+    <studentAnswer id="ST.54b2.604.1" accuracy="incorrect">The food supply.</studentAnswer>
+    <studentAnswer id="ST.54b2.606.1" accuracy="incorrect">Store food.</studentAnswer>
+    <studentAnswer id="ST.54b2.610.1" accuracy="incorrect">Food supply.</studentAnswer>
+    <studentAnswer id="ST.54b2.627.1" accuracy="incorrect">It stores food.</studentAnswer>
+    <studentAnswer id="ST.54b2.629.1" accuracy="correct">The cotyledon is the food for the baby plant.</studentAnswer>
+    <studentAnswer id="ST.54b2.630.1" accuracy="incorrect">The baby inside the seed.</studentAnswer>
+    <studentAnswer id="ST.54b2.637.1" accuracy="incorrect">Stem.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="PS_12" module="PS">
+  <questionText>Mary was trying to understand how tuning forks make sounds. She hit the tuning fork on the table and placed the tuning fork into a cup full of water while it was still ringing. The water splashed in all directions. How did seeing what happened help Mary understand how a tuning fork makes sounds?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_12-a1">The water splashed because the fork was vibrating. Vibrations make sounds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.12.101.1" accuracy="incorrect">Because if you bang it on the wood it starts to make a weird sound! But if you put it in water, you can see that it is moving because the water goes swash so you can see it move.</studentAnswer>
+    <studentAnswer id="PS.12.114.1" accuracy="incorrect">By a ping pong ball, a table, a cup full of water, and most of all hitting it too hard.</studentAnswer>
+    <studentAnswer id="PS.12.118.1" accuracy="incorrect">Because it vibrates in the water.</studentAnswer>
+    <studentAnswer id="PS.12.138.1" accuracy="incorrect">Because it was vibrating. I do not know what it means!</studentAnswer>
+    <studentAnswer id="PS.12.141.1" accuracy="incorrect">Because there are vibrations and vibration more and so it was moving in the water so it made it splash.</studentAnswer>
+    <studentAnswer id="PS.12.154.1" accuracy="incorrect">By hitting the fork and putting it in the water.</studentAnswer>
+    <studentAnswer id="PS.12.171.1" accuracy="incorrect">Because if it splashes it is vibrating so she knows now.</studentAnswer>
+    <studentAnswer id="PS.12.181.1" accuracy="incorrect">The vibration that the tuning fork makes.</studentAnswer>
+    <studentAnswer id="PS.12.189.1" accuracy="incorrect">Vibrations did.</studentAnswer>
+    <studentAnswer id="PS.12.212.1" accuracy="incorrect">Because when you hit it vibrates and it vibrates in the water.</studentAnswer>
+    <studentAnswer id="PS.12.221.1" accuracy="correct">Because it is the vibration making it splash.</studentAnswer>
+    <studentAnswer id="PS.12.222.1" accuracy="incorrect">Because the vibration makes the water splash.</studentAnswer>
+    <studentAnswer id="PS.12.225.1" accuracy="incorrect">It vibrates because you hit it against something hard.</studentAnswer>
+    <studentAnswer id="PS.12.249.1" accuracy="correct">The tuning fork is metal so when you hit the tuning fork it vibrates to make sound.</studentAnswer>
+    <studentAnswer id="PS.12.255.1" accuracy="correct">Because after Mary hit it on a table it vibrated and the vibration made the water splash!</studentAnswer>
+    <studentAnswer id="PS.12.263.1" accuracy="incorrect">Because When you put the tuning fork in the water you can see the vibrations.</studentAnswer>
+    <studentAnswer id="PS.12.323.1" accuracy="incorrect">Because you hit it on a wood and that make it vibrate.</studentAnswer>
+    <studentAnswer id="PS.12.332.1" accuracy="incorrect">Volume - It got louder. When it splashed it got a kind of noise - quiet noise.</studentAnswer>
+    <studentAnswer id="PS.12.384.1" accuracy="incorrect">Because when you hit the tuning fork makes waves.</studentAnswer>
+    <studentAnswer id="PS.12.459.1" accuracy="incorrect">Seeing what happens helps understand because you can see what is happening when you do it.</studentAnswer>
+    <studentAnswer id="PS.12.466.1" accuracy="correct">The vibrations are like digging in the water and make a sound zzzzz!</studentAnswer>
+    <studentAnswer id="PS.12.486.1" accuracy="incorrect">The sound waves travel through the water.</studentAnswer>
+    <studentAnswer id="PS.12.495.1" accuracy="incorrect">Because when she hit the tuning against the table and put it in a cup of water and the water splashed.</studentAnswer>
+    <studentAnswer id="PS.12.504.1" accuracy="incorrect">Sound travel through water.</studentAnswer>
+    <studentAnswer id="PS.12.524.1" accuracy="incorrect">Because it vibrated so since that vibrated she noticed the splash and she thought it must of been vibration.</studentAnswer>
+    <studentAnswer id="PS.12.531.1" accuracy="incorrect">Because if you put it in the water it has volume and volume helps make sound.</studentAnswer>
+    <studentAnswer id="PS.12.537.1" accuracy="correct">It helped Mary understand that the tuning fork makes sounds by vibrating because the water splashed.</studentAnswer>
+    <studentAnswer id="PS.12.593.1" accuracy="correct">When the tuning fork is vibrating the would splash because when something is vibrating then something that is touching the tuning fork. So it would vibrate also.</studentAnswer>
+    <studentAnswer id="PS.12.600.1" accuracy="incorrect">Because she can be know that the vibration travel in the water.</studentAnswer>
+    <studentAnswer id="PS.12.602.1" accuracy="incorrect">I think it helped because when you see it you can see it vibrates.</studentAnswer>
+    <studentAnswer id="PS.12.610.1" accuracy="correct">When the water splashed vibration caused it and that is what cause the sound too.</studentAnswer>
+    <studentAnswer id="PS.12.626.1" accuracy="incorrect">That helps because of the vibrations.</studentAnswer>
+    <studentAnswer id="PS.12.629.1" accuracy="incorrect">It makes a sound in the water and you know that it makes a sound because the sound vibrates the water and where there is sound there is vibration.</studentAnswer>
+    <studentAnswer id="PS.12.642.1" accuracy="incorrect">By putting the tuning fork in the water while still ringing.</studentAnswer>
+    <studentAnswer id="PS.12.643.1" accuracy="incorrect">She will what experiment.</studentAnswer>
+    <studentAnswer id="PS.12.644.1" accuracy="incorrect">By looking at how it vibrates.</studentAnswer>
+  </studentAnswers>
+</question>

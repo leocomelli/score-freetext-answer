@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="EM_26" module="EM">
+  <questionText>Salt crystals form when the water evaporates from saltwater. Describe the salt crystals.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_26-a1">The salt crystals are squares with Xs on top.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.26.104.1" accuracy="correct">The were like feathers they were tiny little overlapping squares.</studentAnswer>
+    <studentAnswer id="EM.26.106.1" accuracy="incorrect">It look like feathers.</studentAnswer>
+    <studentAnswer id="EM.26.115.1" accuracy="incorrect">Looks like salt that has fizz on in it.</studentAnswer>
+    <studentAnswer id="EM.26.121.1" accuracy="correct">They were squares with Xs.</studentAnswer>
+    <studentAnswer id="EM.26.173.1" accuracy="correct">The salt crystals shape is a square.</studentAnswer>
+    <studentAnswer id="EM.26.177.1" accuracy="correct">Square with X in it.</studentAnswer>
+    <studentAnswer id="EM.26.219.1" accuracy="incorrect">They are white, sparkly, if you put 5 or 10 together you can make a pile.</studentAnswer>
+    <studentAnswer id="EM.26.224.1" accuracy="correct">It is a square with little Xs on it.</studentAnswer>
+    <studentAnswer id="EM.26.243.1" accuracy="correct">Squares with Xs in the middle.</studentAnswer>
+    <studentAnswer id="EM.26.254.1" accuracy="correct">They would be a square with a X on it.</studentAnswer>
+    <studentAnswer id="EM.26.260.1" accuracy="correct">A box and in X in the box.</studentAnswer>
+    <studentAnswer id="EM.26.276.1" accuracy="correct">4 squares one X.</studentAnswer>
+    <studentAnswer id="EM.26.287.1" accuracy="incorrect">If I put saltwater in a dish it evaporate over heat and turns to salt crystals.</studentAnswer>
+    <studentAnswer id="EM.26.319.1" accuracy="correct">Organized cubes with X.</studentAnswer>
+    <studentAnswer id="EM.26.321.1" accuracy="incorrect">With Xs.</studentAnswer>
+    <studentAnswer id="EM.26.339.1" accuracy="incorrect">The salt crystals leaves a Xs.</studentAnswer>
+    <studentAnswer id="EM.26.354.1" accuracy="incorrect">It was while you could see through square.</studentAnswer>
+    <studentAnswer id="EM.26.402.1" accuracy="incorrect">They all look the same, but some of them look different and then really small.</studentAnswer>
+    <studentAnswer id="EM.26.408.1" accuracy="incorrect">It is shaped like a diamond and it looks like a diamond.</studentAnswer>
+    <studentAnswer id="EM.26.426.1" accuracy="correct">Squares with the Xs on them.</studentAnswer>
+    <studentAnswer id="EM.26.438.1" accuracy="correct">Square has X on it little X.</studentAnswer>
+    <studentAnswer id="EM.26.443.1" accuracy="correct">They are like little boxes with Xs on them.</studentAnswer>
+    <studentAnswer id="EM.26.444.1" accuracy="correct">They are squared with Xs in them.</studentAnswer>
+    <studentAnswer id="EM.26.486.1" accuracy="correct">They are squares with Xs in them.</studentAnswer>
+    <studentAnswer id="EM.26.500.1" accuracy="incorrect">The salt was made of crystals because crystals have Xs.</studentAnswer>
+    <studentAnswer id="EM.26.502.1" accuracy="correct">It is a square and Xs on it.</studentAnswer>
+    <studentAnswer id="EM.26.507.1" accuracy="correct">The salt crystals has Xs in the middle of the square.</studentAnswer>
+    <studentAnswer id="EM.26.547.1" accuracy="correct">The salt crystal is a square shape with a X in the middle.</studentAnswer>
+    <studentAnswer id="EM.26.561.1" accuracy="incorrect">Is just tiny and big because of crystals.</studentAnswer>
+    <studentAnswer id="EM.26.575.1" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer id="EM.26.578.1" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer id="EM.26.609.1" accuracy="correct">They have a square with a X in it.</studentAnswer>
+    <studentAnswer id="EM.26.614.1" accuracy="correct">It is shaped as square and has an X in the middle.</studentAnswer>
+    <studentAnswer id="EM.26.631.1" accuracy="incorrect">They have X in them.</studentAnswer>
+    <studentAnswer id="EM.26.637.1" accuracy="incorrect">The salt has the letter X.</studentAnswer>
+  </studentAnswers>
+</question>

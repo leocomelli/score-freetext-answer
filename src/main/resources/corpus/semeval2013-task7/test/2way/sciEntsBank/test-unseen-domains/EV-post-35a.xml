@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="EV_35a" module="EV">
+  <questionText>Andrew wanted to find the optimum conditions for his chickens to lay eggs. He divided his 20 chickens into 2 groups, X and Y, and recorded their daily care (amount of chicken feed and calcium) and egg production for 2 weeks. Did Andrew do a good job of controlling the variables in his experiment? Explain why or why not.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EV_35a-a1">No. Andrew changed 2 variables at the same time (amount of chicken feed and the amount of calcium) so Andrew can not know which variables made a difference.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EV.35a.105.1" accuracy="incorrect">No, Because he changed 2 variables, food and calcium.</studentAnswer>
+    <studentAnswer id="EV.35a.106.1" accuracy="incorrect">No, Because he needs to change one thing only so keep the food or calcium the same. Only change one thing.</studentAnswer>
+    <studentAnswer id="EV.35a.107.1" accuracy="incorrect">No, He did not do a good job because he changed more than one variable.</studentAnswer>
+    <studentAnswer id="EV.35a.109.1" accuracy="incorrect">No, He change more than one variable which make it not a controlled environment.</studentAnswer>
+    <studentAnswer id="EV.35a.110.1" accuracy="incorrect">No, He changed 2 factors.</studentAnswer>
+    <studentAnswer id="EV.35a.112.1" accuracy="incorrect">No, Andrew did not do a good job on controlling his variables because he did not take care of all of the fairly evenly for his variables. He had more than one variable.</studentAnswer>
+    <studentAnswer id="EV.35a.114.1" accuracy="incorrect">No, No, he did not only use one variable, he used 2.</studentAnswer>
+    <studentAnswer id="EV.35a.115.1" accuracy="incorrect">No, He did not because he gave different amounts of food and calcium, so it made a different for the chickens to lay eggs.</studentAnswer>
+    <studentAnswer id="EV.35a.127.1" accuracy="incorrect">No, He gave group y more food and calcium.</studentAnswer>
+    <studentAnswer id="EV.35a.130.1" accuracy="incorrect">Yes, because he had a lot of egg.</studentAnswer>
+    <studentAnswer id="EV.35a.137.1" accuracy="incorrect">No, He did not did a good because he did not gave the same amount of grams and the right calcium for the group.</studentAnswer>
+    <studentAnswer id="EV.35a.139.1" accuracy="incorrect">No, No because he did not control all variables accept for one, he changed all the variables accept for one.</studentAnswer>
+    <studentAnswer id="EV.35a.141.1" accuracy="incorrect">Yes, Because it was controlled because there were 10 chickens in each group.</studentAnswer>
+    <studentAnswer id="EV.35a.144.1" accuracy="incorrect">Yes, why because he maybe wanted to see the difference of the 2 chickens.</studentAnswer>
+    <studentAnswer id="EV.35a.147.1" accuracy="incorrect">No, I think he did not do a good job because he should not had the same daily care.</studentAnswer>
+    <studentAnswer id="EV.35a.148.1" accuracy="incorrect">No, No because he changed more than one variable.</studentAnswer>
+    <studentAnswer id="EV.35a.156.1" accuracy="incorrect">Yes, because he did a graph and did grams for calcium for group one and chicken feed for group.</studentAnswer>
+    <studentAnswer id="EV.35a.157.1" accuracy="incorrect">Yes, It was all organized and neat.</studentAnswer>
+    <studentAnswer id="EV.35a.158.1" accuracy="incorrect">Yes, Yes because he did a good graph.</studentAnswer>
+    <studentAnswer id="EV.35a.209.1" accuracy="incorrect">Yes, well he did quite feed them good.</studentAnswer>
+    <studentAnswer id="EV.35a.210.1" accuracy="incorrect">No, Because he did not feed the chickens the same grams.</studentAnswer>
+    <studentAnswer id="EV.35a.211.1" accuracy="incorrect">Yes, because he wrote everything down.</studentAnswer>
+    <studentAnswer id="EV.35a.224.1" accuracy="incorrect">Yes, Yes he recorded everything he did everyday.</studentAnswer>
+    <studentAnswer id="EV.35a.233.1" accuracy="incorrect">No, because he is only supposed to change only one thing in his experiment.</studentAnswer>
+    <studentAnswer id="EV.35a.234.1" accuracy="incorrect">Yes, Yes because he has all the stuff recorded right.</studentAnswer>
+    <studentAnswer id="EV.35a.235.1" accuracy="incorrect">Yes, because he only changed one variable.</studentAnswer>
+    <studentAnswer id="EV.35a.243.1" accuracy="incorrect">No, No he could have done it for a longer time of period.</studentAnswer>
+    <studentAnswer id="EV.35a.245.1" accuracy="incorrect">No, Well, he did do a good job controlling the variables, but he needs to control one chicken at a time to get better results.</studentAnswer>
+    <studentAnswer id="EV.35a.246.1" accuracy="incorrect">Yes, because he organized it so you can see what he did.</studentAnswer>
+    <studentAnswer id="EV.35a.247.1" accuracy="incorrect">No, No, because he can only control one variable at a time.</studentAnswer>
+    <studentAnswer id="EV.35a.248.1" accuracy="incorrect">No, He changed more than one variable.</studentAnswer>
+    <studentAnswer id="EV.35a.253.1" accuracy="incorrect">Yes, Yes because if he did the same with both of the eggs it would be the same.</studentAnswer>
+    <studentAnswer id="EV.35a.257.1" accuracy="correct">No, You should only have on different variable so you know why or why not the chickens laid more or less eggs.</studentAnswer>
+    <studentAnswer id="EV.35a.258.1" accuracy="incorrect">No, No, because it is too much food and too much food of anything is unhealthy.</studentAnswer>
+    <studentAnswer id="EV.35a.260.1" accuracy="correct">No, He changed 2 things we do not know if it worked or not.</studentAnswer>
+    <studentAnswer id="EV.35a.261.1" accuracy="incorrect">No, Because was not controlling the environment.</studentAnswer>
+    <studentAnswer id="EV.35a.263.1" accuracy="incorrect">No, because they might lay more egg than the others but maybe they just need a longer time with them.</studentAnswer>
+    <studentAnswer id="EV.35a.381.1" accuracy="incorrect">Yes, because the variable helps you see the conditions of the chicken and helps you see the difference.</studentAnswer>
+    <studentAnswer id="EV.35a.383.1" accuracy="incorrect">Yes because he did different things to one group than the other also it was over a long period of time.</studentAnswer>
+    <studentAnswer id="EV.35a.386.1" accuracy="incorrect">Yes, because there is the same amount of chickens but different amount of feed and calcium and how much eggs the chickens lay.</studentAnswer>
+    <studentAnswer id="EV.35a.387.1" accuracy="incorrect">Because he experimented that more feed equals more calcium and more calcium equally more eggs.</studentAnswer>
+    <studentAnswer id="EV.35a.389.1" accuracy="incorrect">Yes, yes: because he had the same amount of information for each group and he gave all the important information.</studentAnswer>
+    <studentAnswer id="EV.35a.395.1" accuracy="incorrect">Yes, Yes because it would be easier to observe them and maybe next time he knows what to do and how much food to feed them.</studentAnswer>
+    <studentAnswer id="EV.35a.396.1" accuracy="incorrect">No, Because he should have put for experiment what the right temperature was and how much light they got.</studentAnswer>
+    <studentAnswer id="EV.35a.397.1" accuracy="correct">No, He controlled 2 conditions at the same time so now he does not know which factor benefits the most.</studentAnswer>
+    <studentAnswer id="EV.35a.400.1" accuracy="incorrect">Yes, Yes because he graphed everything and sorted mostly everything.</studentAnswer>
+    <studentAnswer id="EV.35a.401.1" accuracy="correct">No, because he should of only had one condition that is different from the other not 2. That is so he knows what caused group y to lay more eggs than group x.</studentAnswer>
+    <studentAnswer id="EV.35a.402.1" accuracy="incorrect">No, Because he gave them different amounts of both chicken feed and calcium.</studentAnswer>
+    <studentAnswer id="EV.35a.406.1" accuracy="incorrect">Yes, Yes, because he kept it neat and it was easy to follow.</studentAnswer>
+    <studentAnswer id="EV.35a.407.1" accuracy="incorrect">No, because they are the same amount of chickens.</studentAnswer>
+    <studentAnswer id="EV.35a.421.1" accuracy="incorrect">Yes, he gathered all the information and kept track. The calcium added is even with the chicken food and they have the same range.</studentAnswer>
+    <studentAnswer id="EV.35a.422.1" accuracy="incorrect">Yes, because he fed them well and they laid a lot of eggs.</studentAnswer>
+    <studentAnswer id="EV.35a.423.1" accuracy="incorrect">No, different conditions.</studentAnswer>
+    <studentAnswer id="EV.35a.425.1" accuracy="incorrect">Yes, because all his chickens are still there and he laid eggs in the 100's, plus he took very good care of them, well!</studentAnswer>
+    <studentAnswer id="EV.35a.428.1" accuracy="incorrect">No, he tested 2 things at the same time he should only do one at a time.</studentAnswer>
+    <studentAnswer id="EV.35a.433.1" accuracy="incorrect">Yes, He recorded everything he did.</studentAnswer>
+    <studentAnswer id="EV.35a.441.1" accuracy="incorrect">Yes, yes, because he recorded everything and measured the amount it got.</studentAnswer>
+    <studentAnswer id="EV.35a.444.1" accuracy="incorrect">No, No, because he did not test enough variables. He only used 2 groups with very different amount of daily care.</studentAnswer>
+    <studentAnswer id="EV.35a.445.1" accuracy="incorrect">No, Andrew got the same amount of chickens. But, feed them different amounts of grams, to find out how many eggs the chickens would lay.</studentAnswer>
+    <studentAnswer id="EV.35a.451.1" accuracy="incorrect">Yes, because at the end he had 109 eggs in group x and he had 140 eggs in group y.</studentAnswer>
+    <studentAnswer id="EV.35a.457.1" accuracy="incorrect">No, Because he did not change any more than he needed too.</studentAnswer>
+    <studentAnswer id="EV.35a.459.1" accuracy="incorrect">Yes, because he found out they lay more with 1300 grams of feed and 30 grams of calcium.</studentAnswer>
+    <studentAnswer id="EV.35a.460.1" accuracy="incorrect">Yes, he did everything. Nothing was on it own.</studentAnswer>
+    <studentAnswer id="EV.35a.461.1" accuracy="incorrect">Yes, he took accurate data.</studentAnswer>
+    <studentAnswer id="EV.35a.462.1" accuracy="incorrect">Yes, because he can figure it out how much the foods or calcium will need.</studentAnswer>
+    <studentAnswer id="EV.35a.463.1" accuracy="incorrect">No, No, because in group x he did not supply enough food and calcium as he did for group y.</studentAnswer>
+    <studentAnswer id="EV.35a.464.1" accuracy="incorrect">Yes, Andrew did a good job he made sure the chickens had almost the same amount, it was also good because he had over a 100 eggs laid.</studentAnswer>
+    <studentAnswer id="EV.35a.465.1" accuracy="incorrect">Yes, He made the daily care different to see what their optimum condition.</studentAnswer>
+    <studentAnswer id="EV.35a.466.1" accuracy="incorrect">No, He needs to take more notes.</studentAnswer>
+    <studentAnswer id="EV.35a.469.1" accuracy="incorrect">Yes, Yes because, he did not add factors he did not need and he did not change his.</studentAnswer>
+    <studentAnswer id="EV.35a.472.1" accuracy="incorrect">Yes, Yes, because he did correct info and he had good variables.</studentAnswer>
+    <studentAnswer id="EV.35a.474.1" accuracy="correct">No, He did not do a good job of controlling the variables, because now you do not know what caused different results.</studentAnswer>
+    <studentAnswer id="EV.35a.475.1" accuracy="incorrect">No, He had too many variables.</studentAnswer>
+    <studentAnswer id="EV.35a.476.1" accuracy="incorrect">No, He should of recorded for each chicken separately.</studentAnswer>
+    <studentAnswer id="EV.35a.487.1" accuracy="incorrect">No, he should record data for each chicken.</studentAnswer>
+    <studentAnswer id="EV.35a.488.1" accuracy="incorrect">No, because he should have had a different number of tests with the grams section.</studentAnswer>
+    <studentAnswer id="EV.35a.494.1" accuracy="incorrect">Yes, because he made the chicken laid eggs after 2 weeks.</studentAnswer>
+    <studentAnswer id="EV.35a.503.1" accuracy="incorrect">Yes, because now he knows that more feed and more calcium for every 10 chickens produces more eggs.</studentAnswer>
+    <studentAnswer id="EV.35a.504.1" accuracy="incorrect">Yes, yes because he did not go off the charts in daily care.</studentAnswer>
+    <studentAnswer id="EV.35a.507.1" accuracy="incorrect">Yes, everything should have been the same besides one thing the thing he is testing.</studentAnswer>
+    <studentAnswer id="EV.35a.509.1" accuracy="incorrect">No, On the calcium for group section he should have made them even like 10 and 30 grams, or else he did excellent.</studentAnswer>
+    <studentAnswer id="EV.35a.510.1" accuracy="incorrect">Yes, yes because he did great in his experiment.</studentAnswer>
+    <studentAnswer id="EV.35a.525.1" accuracy="incorrect">Yes, because he used one variable.</studentAnswer>
+    <studentAnswer id="EV.35a.527.1" accuracy="incorrect">No, because you can get information of how much eggs they lay and the food for each group. Also the calcium for the chickens.</studentAnswer>
+    <studentAnswer id="EV.35a.529.1" accuracy="incorrect">Yes, because the only thing changed was the chicken feed.</studentAnswer>
+    <studentAnswer id="EV.35a.531.1" accuracy="incorrect">Yes, I think yes because it was well controlled and well organized. But he could have done better.</studentAnswer>
+    <studentAnswer id="EV.35a.532.1" accuracy="incorrect">Yes, Yes because he put the number of chicken it was low.</studentAnswer>
+    <studentAnswer id="EV.35a.534.1" accuracy="incorrect">No, because he did not control the variable.</studentAnswer>
+    <studentAnswer id="EV.35a.536.1" accuracy="incorrect">Yes, Yes because Andrew fed the chickens a good amount so the chickens laid there eggs.</studentAnswer>
+    <studentAnswer id="EV.35a.537.1" accuracy="incorrect">No, No, because the chickens got fed different amount and different amounts of calcium.</studentAnswer>
+    <studentAnswer id="EV.35a.538.1" accuracy="incorrect">No, Because he recorded more than one variable daily care and egg production.</studentAnswer>
+    <studentAnswer id="EV.35a.544.1" accuracy="incorrect">Yes, be the number of eggs laid by group y is a lot more than the eggs laid by group x.</studentAnswer>
+    <studentAnswer id="EV.35a.545.1" accuracy="incorrect">No, no because after listing the same amount of chickens it cost different amounts?</studentAnswer>
+    <studentAnswer id="EV.35a.546.1" accuracy="incorrect">Because he put too many chickens in one group and would not know which one laid eggs.</studentAnswer>
+    <studentAnswer id="EV.35a.626.1" accuracy="incorrect">No, No because he is not controlling anything but the numbers of chicken.</studentAnswer>
+    <studentAnswer id="EV.35a.636.1" accuracy="incorrect">No, because the should have put have look like every day.</studentAnswer>
+    <studentAnswer id="EV.35a.638.1" accuracy="incorrect">Yes, because he writes how much chickens, how much he fed the chickens, how much calcium they got, even how much eggs they laid.</studentAnswer>
+    <studentAnswer id="EV.35a.639.1" accuracy="correct">No, because he changed 2 things instead of one so he does not know which one works.</studentAnswer>
+    <studentAnswer id="EV.35a.645.1" accuracy="correct">No, Because there were 2 things that were different in the experiment. The food and the calcium. So he will not know which one of those affected it.</studentAnswer>
+    <studentAnswer id="EV.35a.647.1" accuracy="incorrect">No, Andrew should have given group x more calcium because 5 grams of calcium is not enough.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<question id="ME_65a" module="ME">
+  <questionText>Look at the schematic diagram. What will happen to the other 2 bulbs if the middle bulb burns out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_65a-a1">If the middle bulb burns out the other 2 bulbs will stay lit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.65a.101.1" accuracy="correct">The other 2 will still light.</studentAnswer>
+    <studentAnswer id="ME.65a.105.1" accuracy="correct">They will stay lit.</studentAnswer>
+    <studentAnswer id="ME.65a.107.1" accuracy="correct">Only the middle bulb will go out.</studentAnswer>
+    <studentAnswer id="ME.65a.108.1" accuracy="correct">They will stay light.</studentAnswer>
+    <studentAnswer id="ME.65a.111.1" accuracy="incorrect">Well first I think it is a series, so it will be a problem.</studentAnswer>
+    <studentAnswer id="ME.65a.113.1" accuracy="correct">The other ones will work even better.</studentAnswer>
+    <studentAnswer id="ME.65a.118.1" accuracy="incorrect">All of them will go out.</studentAnswer>
+    <studentAnswer id="ME.65a.123.1" accuracy="correct">They will still be burning.</studentAnswer>
+    <studentAnswer id="ME.65a.141.1" accuracy="correct">They bulbs will not go out.</studentAnswer>
+    <studentAnswer id="ME.65a.142.1" accuracy="correct">They will stay lit.</studentAnswer>
+    <studentAnswer id="ME.65a.144.1" accuracy="correct">They will stay light.</studentAnswer>
+    <studentAnswer id="ME.65a.147.1" accuracy="correct">The 2 other bulbs will run if the middle one burns out.</studentAnswer>
+    <studentAnswer id="ME.65a.152.1" accuracy="correct">Nothing will happen.</studentAnswer>
+    <studentAnswer id="ME.65a.154.1" accuracy="correct">The left bulb will still be lighting because the diagram is a parallel.</studentAnswer>
+    <studentAnswer id="ME.65a.159.1" accuracy="incorrect">If it is a parallel circuit it will stay lit. If it is a series circuit it will not stay light.</studentAnswer>
+    <studentAnswer id="ME.65a.173.1" accuracy="correct">If one goes out then the 2 will stay on.</studentAnswer>
+    <studentAnswer id="ME.65a.174.1" accuracy="correct">The 2 bulbs will stay lit.</studentAnswer>
+    <studentAnswer id="ME.65a.176.1" accuracy="correct">The bulbs will stay lit.</studentAnswer>
+    <studentAnswer id="ME.65a.178.1" accuracy="correct">The rest stay on.</studentAnswer>
+    <studentAnswer id="ME.65a.180.1" accuracy="incorrect">If the middle bulb burns out the other 2 will burn out also.</studentAnswer>
+    <studentAnswer id="ME.65a.183.1" accuracy="correct">The other bulbs will stay on.</studentAnswer>
+    <studentAnswer id="ME.65a.185.1" accuracy="correct">The other 2 bulbs will stay running the whole time the circuit is closed.</studentAnswer>
+    <studentAnswer id="ME.65a.189.1" accuracy="correct">The other 2 will stay lit.</studentAnswer>
+    <studentAnswer id="ME.65a.190.1" accuracy="correct">If one burns out the rest will stay on.</studentAnswer>
+    <studentAnswer id="ME.65a.191.1" accuracy="correct">The other bulbs will stay on because it is a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.65a.195.1" accuracy="correct">The top bulb will still light up.</studentAnswer>
+    <studentAnswer id="ME.65a.208.1" accuracy="incorrect">The third will not burn out.</studentAnswer>
+    <studentAnswer id="ME.65a.212.1" accuracy="correct">The other bulbs will still light.</studentAnswer>
+    <studentAnswer id="ME.65a.215.1" accuracy="correct">Nothing will happen.</studentAnswer>
+    <studentAnswer id="ME.65a.225.1" accuracy="incorrect">If the middle bulb burns out the 2 would burn out.</studentAnswer>
+    <studentAnswer id="ME.65a.227.1" accuracy="correct">The bulbs do not burn out.</studentAnswer>
+    <studentAnswer id="ME.65a.232.1" accuracy="correct">It will still work.</studentAnswer>
+    <studentAnswer id="ME.65a.256.1" accuracy="correct">The light will still run.</studentAnswer>
+    <studentAnswer id="ME.65a.277.1" accuracy="correct">The 2 bulbs will still be lit when it goes out.</studentAnswer>
+    <studentAnswer id="ME.65a.283.1" accuracy="incorrect">They will all cut off.</studentAnswer>
+    <studentAnswer id="ME.65a.318.1" accuracy="correct">If the middle one burns out the other will still light.</studentAnswer>
+    <studentAnswer id="ME.65a.324.1" accuracy="incorrect">No.</studentAnswer>
+    <studentAnswer id="ME.65a.327.1" accuracy="correct">I think they will not go out.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_4ap" module="PS">
+  <questionText>Darla tied one end of a string around a doorknob and held the other end in her hand. When she plucked the string (pulled and let go quickly) she heard a sound. How would the pitch change if Darla pulled the string tighter?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_4a-a1">When the string is tighter, the pitch will be higher.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.4a.160.1" accuracy="incorrect">If she did the pitch would be louder.</studentAnswer>
+    <studentAnswer id="PS.4a.212.1" accuracy="correct">It would of got higher.</studentAnswer>
+    <studentAnswer id="PS.4a.384.1" accuracy="incorrect">The pitch will be lower.</studentAnswer>
+    <studentAnswer id="PS.4a.629.1" accuracy="correct">The pitch would be higher if she pulled it really tight.</studentAnswer>
+  </studentAnswers>
+</question>

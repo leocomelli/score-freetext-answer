@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="LF_26a2" module="LF">
+  <questionText>Pam and her family were planning a hike. Pam found 2 maps of the same area. Her friend recommended she use the topographic map when they went to the lake. Why would Pam's friend recommend using the topographic map for the hike?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_26a2-a1">She recommended the topographic map because the map shows the elevations along the trail. Pam would know where the trail was the steepest.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.26a2.399.1" accuracy="incorrect">It so it better to hike. A has more lines.</studentAnswer>
+    <studentAnswer id="LF.26a2.400.1" accuracy="incorrect">It is more descriptive.</studentAnswer>
+    <studentAnswer id="LF.26a2.404.1" accuracy="incorrect">So you know what part of the mountain is the easiest part to climb and it has more details.</studentAnswer>
+    <studentAnswer id="LF.26a2.407.1" accuracy="incorrect">Because it has more description.</studentAnswer>
+    <studentAnswer id="LF.26a2.437.1" accuracy="incorrect">Because it is easier to read! And there is more information on it.</studentAnswer>
+    <studentAnswer id="LF.26a2.446.1" accuracy="incorrect">Because it tell where you are going.</studentAnswer>
+    <studentAnswer id="LF.26a2.452.1" accuracy="incorrect">Because a topographic map shows you if a place is going to be steep it also shows you what other roads or rivers to take well in other words it gives you more detail.</studentAnswer>
+    <studentAnswer id="LF.26a2.453.1" accuracy="incorrect">To see a bird's eye view which is better view than looking from land.</studentAnswer>
+    <studentAnswer id="LF.26a2.462.1" accuracy="incorrect">Because it has more and more direction to go.</studentAnswer>
+    <studentAnswer id="LF.26a2.466.1" accuracy="incorrect">Because it need to walk a little be that is why I think she recommend to her.</studentAnswer>
+    <studentAnswer id="LF.26a2.472.1" accuracy="correct">Because it would tell you where it is more steep and the elevation and the other one will not.</studentAnswer>
+    <studentAnswer id="LF.26a2.474.1" accuracy="incorrect">So they can see which is steep or not and safe.</studentAnswer>
+    <studentAnswer id="LF.26a2.478.1" accuracy="incorrect">Because it is a faster distance from the bottom.</studentAnswer>
+    <studentAnswer id="LF.26a2.487.1" accuracy="incorrect">Because she walled know now the side where and how steep they are and elevation.</studentAnswer>
+    <studentAnswer id="LF.26a2.516.1" accuracy="incorrect">Because a topographic map shows the steeps places and where is the best or dangerous place to be and the lines tell you where you are going like if you going around in circles.</studentAnswer>
+    <studentAnswer id="LF.26a2.521.1" accuracy="incorrect">I would think A because it shows the lakes and rivers and more details of it is location. Plus it shows the symbols of what is there.</studentAnswer>
+    <studentAnswer id="LF.26a2.551.1" accuracy="incorrect">So you would see the steep sides like 5000.</studentAnswer>
+    <studentAnswer id="LF.26a2.552.1" accuracy="incorrect">Because it gives better directions and trails.</studentAnswer>
+    <studentAnswer id="LF.26a2.561.1" accuracy="incorrect">It has more details and they show other paths beside just her's.</studentAnswer>
+    <studentAnswer id="LF.26a2.564.1" accuracy="incorrect">Because both the maps show the shapes of the landforms but a topographic map shows elevation and steepness.</studentAnswer>
+    <studentAnswer id="LF.26a2.569.1" accuracy="correct">Pam's friend recommend Map A because you could see the elevation, and see where things are.</studentAnswer>
+    <studentAnswer id="LF.26a2.573.1" accuracy="incorrect">Pam's friend recommended the topographic map because it shows the elevation of the mountain they are hiking.</studentAnswer>
+    <studentAnswer id="LF.26a2.579.1" accuracy="correct">It shows the contour lines so they will know how steep the trail is. Also they will recognize the shape of the land.</studentAnswer>
+    <studentAnswer id="LF.26a2.584.1" accuracy="incorrect">Pam's friend recommended to use a topographic map for the hike because in a topographic map you can see the profile of something which profile is a side view.</studentAnswer>
+    <studentAnswer id="LF.26a2.585.1" accuracy="incorrect">She would because it has more information.</studentAnswer>
+    <studentAnswer id="LF.26a2.586.1" accuracy="correct">They recommended it so they could see the steep parts, they are route, elevation, and shape.</studentAnswer>
+    <studentAnswer id="LF.26a2.638.1" accuracy="incorrect">Because it shows more directions and ways and it shows more places and more rivers.</studentAnswer>
+    <studentAnswer id="LF.26a2.643.1" accuracy="incorrect">Because it is like bird's eye view and so if you look top to bottom you will see almost every detail.</studentAnswer>
+    <studentAnswer id="LF.26a2.647.1" accuracy="correct">She recommended it because it informs them how many feet it increases. Also it shows you more locations so they know if they cross someplace they have gone too far.</studentAnswer>
+    <studentAnswer id="LF.26a2.665.1" accuracy="correct">Pam's friend recommended using the topographic map because you can see which side of the mountain is the steepest. That way you know where the non steep side. Also it snows rivers.</studentAnswer>
+    <studentAnswer id="LF.26a2.669.1" accuracy="incorrect">Pam's friend recommend using the topographic map because it has more information.</studentAnswer>
+    <studentAnswer id="LF.26a2.673.1" accuracy="correct">Pam's friend recommend the topographic map so she can tell which side is steeper. It also shows the elevations for the height.</studentAnswer>
+    <studentAnswer id="LF.26a2.674.1" accuracy="correct">Because she will know the elevation and which side is steeper.</studentAnswer>
+    <studentAnswer id="LF.26a2.708.1" accuracy="incorrect">Because it shows where rivers and lakes are. And it shows mountains and elevation.</studentAnswer>
+    <studentAnswer id="LF.26a2.711.1" accuracy="incorrect">It tells you where things are.</studentAnswer>
+    <studentAnswer id="LF.26a2.747.1" accuracy="incorrect">To see the different landforms in front of them.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_12" module="PS">
+  <questionText>Mary was trying to understand how tuning forks make sounds. She hit the tuning fork on the table and placed the tuning fork into a cup full of water while it was still ringing. The water splashed in all directions. How did seeing what happened help Mary understand how a tuning fork makes sounds?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_12-a1">The water splashed because the fork was vibrating. Vibrations make sounds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.12.313.1" accuracy="correct">Vibration maked all these sound so probably it was vibration.</studentAnswer>
+    <studentAnswer id="PS.12.452.1" accuracy="correct">Because the water splashed because of the vibrations moving.</studentAnswer>
+    <studentAnswer id="PS.12.510.1" accuracy="incorrect">Because it moves around.</studentAnswer>
+    <studentAnswer id="PS.12.641.1" accuracy="correct">It moves and it vibrate.</studentAnswer>
+  </studentAnswers>
+</question>

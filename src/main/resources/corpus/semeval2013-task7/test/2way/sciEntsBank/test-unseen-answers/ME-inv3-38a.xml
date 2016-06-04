@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_38a" module="ME">
+  <questionText>Trace over the complete circuit with your pencil to show where it is. Even though there is a complete circuit, the bulb will not light. Why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_38a-a1">The circuit does not include both contact points on the bulb holder, so the electricity can not go through the bulb.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.38a.118.1" accuracy="correct">Because the hook needs the wire to move so one is on each side.</studentAnswer>
+    <studentAnswer id="ME.38a.123.1" accuracy="incorrect">The wire on the negative side of the light needs to be hooked to the motor's clip it should look like this?</studentAnswer>
+    <studentAnswer id="ME.38a.152.1" accuracy="incorrect">It is not a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.38a.192.1" accuracy="incorrect">The bulb will not light because there is a closed circuit.</studentAnswer>
+  </studentAnswers>
+</question>

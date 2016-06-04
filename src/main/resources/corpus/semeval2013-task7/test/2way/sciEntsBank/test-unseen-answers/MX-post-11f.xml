@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_11f" module="MX">
+  <questionText>Jim used a solid and water to make Mixtures one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. If Jim made Mixture 2 with 2 spoons of solid in 100 milliliters of water, what would he observe? What evidence do you have to support this?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11f-a1">Jim would see a clear solution. 3 spoons of solid dissolves, so 2 spoons will dissolve.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11f.393.1" accuracy="correct">Clear with nothing on the bottom because one is clear with nothing on the bottom and 3 is the same.</studentAnswer>
+    <studentAnswer id="MX.11f.425.1" accuracy="incorrect">He would observe nothing. It would be a solution. Because mixture one and 3 each have one scoop more or less and they are still solutions.</studentAnswer>
+    <studentAnswer id="MX.11f.429.1" accuracy="incorrect">It would probably saturate.</studentAnswer>
+    <studentAnswer id="MX.11f.560.1" accuracy="correct">Clear nothing on bottom because mixture 3 has clear and nothing on the bottom and it has 3 scoops.</studentAnswer>
+  </studentAnswers>
+</question>

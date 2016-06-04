@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_10" module="ME">
+  <questionText>The motors shown at the right with the D-cell batteries will NOT run. Explain why.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_10-a1">The negative terminals of the D-cell batteries are facing each other, so there is no flow of electricity.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.10.105.1" accuracy="correct">They will not run because electricity flows from negative to positive and on here it is negative to negative.</studentAnswer>
+    <studentAnswer id="ME.10.107.1" accuracy="correct">They will not run because the batteries have to be facing the same direction, negative to positive.</studentAnswer>
+    <studentAnswer id="ME.10.119.1" accuracy="correct">They will not run because negative is pointing to negative.</studentAnswer>
+    <studentAnswer id="ME.10.214.1" accuracy="incorrect">The motors will not run because they do not have negative they only have positives.</studentAnswer>
+  </studentAnswers>
+</question>

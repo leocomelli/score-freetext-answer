@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_27b" module="EM">
+  <questionText>You can tell if a rock contains calcite by putting it into a cold acid (like vinegar). Describe what you would observe if you did the acid test on a rock that contains this substance.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_27b-a1">Many tiny bubbles will rise from the calcite when the calcite contacts the cold acid.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.27b.420.1" accuracy="correct">If you see bubbles coming from the rock it contains calcite.</studentAnswer>
+    <studentAnswer id="EM.27b.437.1" accuracy="correct">You would observe if the rock or mineral bubbles when you put it in the vinegar.</studentAnswer>
+    <studentAnswer id="EM.27b.601.1" accuracy="correct">You would observe if it was fizzing because calcite has a strong reaction to vinegar.</studentAnswer>
+    <studentAnswer id="EM.27b.638.1" accuracy="correct">It would fizzles.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_22b" module="SE">
+  <questionText>Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. What does the graph tell you about the effect of using blue versus red collectors?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_22b-a1">Solar water heaters with blue collectors heat up faster than solar water heaters with red collectors.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.22b.244.1" accuracy="correct">Blue is a dark color so blue covered and uncovered are the warmest temperatures then red is a kind of lighter color so they go under the blue on the chart.</studentAnswer>
+    <studentAnswer id="SE.22b.429.1" accuracy="correct">It tells you the blue covered and uncovered are hotter than the reds.</studentAnswer>
+    <studentAnswer id="SE.22b.494.1" accuracy="correct">It tells you that blue heats up faster because it is a darker color than red.</studentAnswer>
+    <studentAnswer id="SE.22b.565.1" accuracy="correct">That blue absorbs heat faster than the red.</studentAnswer>
+  </studentAnswers>
+</question>

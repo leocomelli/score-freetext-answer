@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="II_24b" module="II">
+  <questionText>Design a way to use carbon printing to find out if 2 Labrador retrievers have the same paw patterns. How will you know if the 2 dogs have paw patterns that are the same?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_24b-a1">Compare prints to see if the patterns are the same.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.24b.405.1" accuracy="correct">Look really carefully at the paper and see if it is the same.</studentAnswer>
+    <studentAnswer id="II.24b.430.1" accuracy="incorrect">Because there is small dogs and huge dogs.</studentAnswer>
+    <studentAnswer id="II.24b.527.1" accuracy="incorrect">Because they may be arches, whorl and loop.</studentAnswer>
+    <studentAnswer id="II.24b.529.1" accuracy="incorrect">The figure, texture, shape, and how it looks.</studentAnswer>
+  </studentAnswers>
+</question>

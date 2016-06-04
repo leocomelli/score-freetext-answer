@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_44" module="PS">
+  <questionText>A harp has strings of different lengths. Describe how the sound of a short string being plucked (pulled and let go quickly) is different from the sound of a long string being plucked.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_44-a1">If the string is shorter, the pitch will be higher. If the string is longer, the pitch will be lower.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.44.145.1" accuracy="correct">The short string has a higher pitch sound.</studentAnswer>
+    <studentAnswer id="PS.44.194.1" accuracy="incorrect">The lower pitch make's the loudest noise.</studentAnswer>
+    <studentAnswer id="PS.44.225.1" accuracy="correct">The shorter the string the higher the pitch the Longer the string the lower the pitch.</studentAnswer>
+    <studentAnswer id="PS.44.255.1" accuracy="correct">The shorter string has a higher pitch than the longer string!</studentAnswer>
+  </studentAnswers>
+</question>

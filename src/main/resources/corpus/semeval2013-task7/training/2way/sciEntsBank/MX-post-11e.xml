@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="MX_11e" module="MX">
+  <questionText>Jim used a solid and water to make Mixtures one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. Describe how Jim could separate the dissolved solid from the water in Mixture one. What happens to the solid and to the water?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11e-a1">Set up evaporation dishes. The water will go into the air (evaporate) and the solid will be left in the dish (crystallize).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11e.143.1" accuracy="incorrect">He could use a paper filter decided what he is using or a screen.</studentAnswer>
+    <studentAnswer id="MX.11e.176.1" accuracy="incorrect">He could get a filter and pour the solution into to it with a cup under.</studentAnswer>
+    <studentAnswer id="MX.11e.248.1" accuracy="incorrect">Jim could separate dissolved water by using a filter. The water turns clear.</studentAnswer>
+    <studentAnswer id="MX.11e.261.1" accuracy="incorrect">Let it evaporate.</studentAnswer>
+    <studentAnswer id="MX.11e.347.1" accuracy="incorrect">Get a filter paper and pour the dissolve mixture and the solid will stay in the filter.</studentAnswer>
+    <studentAnswer id="MX.11e.364.1" accuracy="incorrect">The solid will maybe dry up and water will stay the same.</studentAnswer>
+    <studentAnswer id="MX.11e.366.1" accuracy="incorrect">It dissolves and weigh 100 milliliters still.</studentAnswer>
+    <studentAnswer id="MX.11e.393.1" accuracy="incorrect">Jim could evaporate the solution. The water would go into the air and turn into a gas but the salt would stay behind.</studentAnswer>
+    <studentAnswer id="MX.11e.396.1" accuracy="incorrect">He can evaporate mixture one. The water would become a gas and some kind of crystal would be left.</studentAnswer>
+    <studentAnswer id="MX.11e.419.1" accuracy="incorrect">He could filter it and the solid could be in the filter and the water could be in the cup.</studentAnswer>
+    <studentAnswer id="MX.11e.426.1" accuracy="correct">He could put in a evaporation tray and see the solid material!</studentAnswer>
+    <studentAnswer id="MX.11e.432.1" accuracy="incorrect">Evaporate the water so there is just the solid.</studentAnswer>
+    <studentAnswer id="MX.11e.438.1" accuracy="incorrect">He could evaporate the solution, the water would evaporate and the solid will be left behind.</studentAnswer>
+    <studentAnswer id="MX.11e.452.1" accuracy="incorrect">It could evaporate the water from the salt. The solid crystallized and the water turned into a gas called water vapor.</studentAnswer>
+    <studentAnswer id="MX.11e.455.1" accuracy="correct">Pour the solution into evaporating dishes. The water evaporates, or turns into a gas, and the solid crystallizes.</studentAnswer>
+    <studentAnswer id="MX.11e.457.1" accuracy="incorrect">He could evaporate the solution and the water would be in the air and the solid would be in the container.</studentAnswer>
+    <studentAnswer id="MX.11e.459.1" accuracy="incorrect">It dissolves into the air bubble.</studentAnswer>
+    <studentAnswer id="MX.11e.464.1" accuracy="incorrect">Evaporate. The solid would crystallize, and the water would become vapor and go into the clouds.</studentAnswer>
+    <studentAnswer id="MX.11e.467.1" accuracy="incorrect">Put the solution in an evaporation plate and let it dissolve.</studentAnswer>
+    <studentAnswer id="MX.11e.468.1" accuracy="incorrect">You can get a coffee filter you pour it in the you wait for it to seep into the coffee filter.</studentAnswer>
+    <studentAnswer id="MX.11e.471.1" accuracy="incorrect">Jim could use a coffee filter to separate the solid from the water. Now the water and the solid are separated.</studentAnswer>
+    <studentAnswer id="MX.11e.491.1" accuracy="incorrect">Jim could evaporate the solution.</studentAnswer>
+    <studentAnswer id="MX.11e.496.1" accuracy="incorrect">He could filter out the dissolved with a dry filter. And the water will be in its own cup.</studentAnswer>
+    <studentAnswer id="MX.11e.497.1" accuracy="incorrect">He could filter out the solid. Or evaporate the water.</studentAnswer>
+    <studentAnswer id="MX.11e.502.1" accuracy="incorrect">Evaporate the solute. The water dissolves and the solute will turn into crystals.</studentAnswer>
+    <studentAnswer id="MX.11e.527.1" accuracy="incorrect">You could let the water evaporate and there will probably be something left over in the dish or cup.</studentAnswer>
+    <studentAnswer id="MX.11e.541.1" accuracy="incorrect">He can use a filter.</studentAnswer>
+    <studentAnswer id="MX.11e.564.1" accuracy="incorrect">He could take a filter, 2 cups, and put one under the filter paper and pour it through. So the solid would end up in the filter and the water in the cup.</studentAnswer>
+    <studentAnswer id="MX.11e.566.1" accuracy="correct">Jim could put the solution in an evaporation dish and the solid will be the crystals and the water will evaporate.</studentAnswer>
+    <studentAnswer id="MX.11e.574.1" accuracy="incorrect">First he could take a wet filter paper, put a clear cup with nothing in it underneath it, then pour the solution through the filter paper.</studentAnswer>
+    <studentAnswer id="MX.11e.592.1" accuracy="correct">Jim could pour the water onto a plate and have the water evaporate and the solid will crystallize.</studentAnswer>
+    <studentAnswer id="MX.11e.605.1" accuracy="incorrect">You could not do it.</studentAnswer>
+    <studentAnswer id="MX.11e.635.1" accuracy="incorrect">Use a filter to separate the. The solid will stay in filter and water will just go through.</studentAnswer>
+    <studentAnswer id="MX.11e.638.1" accuracy="incorrect">1. Take a paper filter. 2. Get the filter wet. 3. Pour the mixture in. 4. Let the filter dry. 5. The mixture is separated.</studentAnswer>
+    <studentAnswer id="MX.11e.640.1" accuracy="incorrect">He could put it through a filter and then he would be able to see the crystals.</studentAnswer>
+  </studentAnswers>
+</question>

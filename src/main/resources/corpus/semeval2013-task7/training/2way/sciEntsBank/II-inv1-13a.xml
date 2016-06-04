@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="II_13a" module="II">
+  <questionText>Look at the finger patterns below, then answer the questions. What is the same about the finger patterns?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_13a-a1">Both finger patterns are loops.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.13a.303.1" accuracy="correct">They are loop.</studentAnswer>
+    <studentAnswer id="II.13a.391.1" accuracy="incorrect">One is a loop and one is arch.</studentAnswer>
+    <studentAnswer id="II.13a.396.1" accuracy="incorrect">They are the same.</studentAnswer>
+    <studentAnswer id="II.13a.401.1" accuracy="correct">The both finer patterns are loop.</studentAnswer>
+    <studentAnswer id="II.13a.409.1" accuracy="correct">They are same loop.</studentAnswer>
+    <studentAnswer id="II.13a.420.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.424.1" accuracy="correct">They are loop.</studentAnswer>
+    <studentAnswer id="II.13a.428.1" accuracy="incorrect">Because you look at the finger patterns.</studentAnswer>
+    <studentAnswer id="II.13a.430.1" accuracy="correct">They are loop.</studentAnswer>
+    <studentAnswer id="II.13a.432.1" accuracy="correct">They are both a loop.</studentAnswer>
+    <studentAnswer id="II.13a.439.1" accuracy="correct">Loop.</studentAnswer>
+    <studentAnswer id="II.13a.441.1" accuracy="correct">Both loops.</studentAnswer>
+    <studentAnswer id="II.13a.457.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.465.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.472.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.474.1" accuracy="correct">They are loops.</studentAnswer>
+    <studentAnswer id="II.13a.493.1" accuracy="correct">They both loops.</studentAnswer>
+    <studentAnswer id="II.13a.497.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.499.1" accuracy="incorrect">They are both the same pattern.</studentAnswer>
+    <studentAnswer id="II.13a.510.1" accuracy="incorrect">Their shape is the same.</studentAnswer>
+    <studentAnswer id="II.13a.524.1" accuracy="incorrect">They have lines.</studentAnswer>
+    <studentAnswer id="II.13a.528.1" accuracy="incorrect">They are both arches.</studentAnswer>
+    <studentAnswer id="II.13a.540.1" accuracy="correct">It is the same because it has loops.</studentAnswer>
+    <studentAnswer id="II.13a.541.1" accuracy="incorrect">Patterns below then.</studentAnswer>
+    <studentAnswer id="II.13a.546.1" accuracy="correct">They both have loops.</studentAnswer>
+    <studentAnswer id="II.13a.556.1" accuracy="incorrect">They all have lines.</studentAnswer>
+    <studentAnswer id="II.13a.557.1" accuracy="correct">They are both are loops.</studentAnswer>
+    <studentAnswer id="II.13a.558.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.563.1" accuracy="incorrect">They are both thumbs.</studentAnswer>
+    <studentAnswer id="II.13a.564.1" accuracy="correct">Both of the finger points have a loop.</studentAnswer>
+    <studentAnswer id="II.13a.566.1" accuracy="correct">They are both a loop.</studentAnswer>
+    <studentAnswer id="II.13a.571.1" accuracy="correct">They both have a loop in them.</studentAnswer>
+    <studentAnswer id="II.13a.578.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.596.1" accuracy="correct">They are both loops.</studentAnswer>
+    <studentAnswer id="II.13a.597.1" accuracy="incorrect">They are the same kind of finger patterns.</studentAnswer>
+    <studentAnswer id="II.13a.615.1" accuracy="correct">They are both loops.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_10" module="SE">
+  <questionText>Bryan taped a golf tee to a globe of the Earth. He shined a flashlight on the globe. The best way for Bryan to demonstrate how shadows change during the day would be to: (rotate the globe.) move the flashlight. Why would this best demonstrate how shadows change during the day?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_10-a1">Shadows change during the day because the Earth is turning. The Sun stays in one place.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.10.127.1" accuracy="correct">Because earth rotates the sun does not move.</studentAnswer>
+    <studentAnswer id="SE.10.318.1" accuracy="correct">Because although it looks like the sun moves, the earth is really moving making the way the sun shines on the earth different.</studentAnswer>
+    <studentAnswer id="SE.10.519.1" accuracy="correct">Because only the earth move not the sun and if you are on the earth you could feel the sun beam on you all the time when you are outside.</studentAnswer>
+    <studentAnswer id="SE.10.572.1" accuracy="incorrect">So you can tell the time by your shadow instead of looking at a watch.</studentAnswer>
+  </studentAnswers>
+</question>

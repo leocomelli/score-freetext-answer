@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_48b" module="EM">
+  <questionText>Emily evaporated a solution and drew a picture of the crystals that remained. Using the crystal-shape key below, what was dissolved in the solution? A. Epsom salt (B. alum) C. sodium thiosulfate.  Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_48b-a1">The crystals are the same shape as the alum crystals.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.48b.187.1" accuracy="incorrect">The pictures look the same.</studentAnswer>
+    <studentAnswer id="EM.48b.399.1" accuracy="incorrect">Because the minerals on the top look just the same as alum on the bottom.</studentAnswer>
+    <studentAnswer id="EM.48b.521.1" accuracy="incorrect">I was seen the Epsom salt rock, alum rock. And I see it is the sodium the sulfate rock and I said yes.</studentAnswer>
+    <studentAnswer id="EM.48b.571.1" accuracy="incorrect">Because it has some shapes in it.</studentAnswer>
+  </studentAnswers>
+</question>

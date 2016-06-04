@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_11e" module="MX">
+  <questionText>Jim used a solid and water to make Mixtures one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. Describe how Jim could separate the dissolved solid from the water in Mixture one. What happens to the solid and to the water?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11e-a1">Set up evaporation dishes. The water will go into the air (evaporate) and the solid will be left in the dish (crystallize).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11e.304.1" accuracy="incorrect">You use a filter to separate the solid and the water in a cup the solid stays on the filter and the water goes through.</studentAnswer>
+    <studentAnswer id="MX.11e.559.1" accuracy="correct">He could evaporate the water and then the solid will turn into crystals.</studentAnswer>
+    <studentAnswer id="MX.11e.571.1" accuracy="incorrect">He could put the solution through filter paper and separated the solute and the solvent.</studentAnswer>
+    <studentAnswer id="MX.11e.637.1" accuracy="incorrect">Filter the solution and the salt, dissolved salt, will stay on the filter and the water will just go back in the cup.</studentAnswer>
+  </studentAnswers>
+</question>

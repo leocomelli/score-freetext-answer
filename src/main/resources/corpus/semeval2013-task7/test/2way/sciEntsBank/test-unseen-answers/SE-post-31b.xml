@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_31b" module="SE">
+  <questionText>Julie and David each built a solar water heater. Both solar water heaters were 10 centimeters x 10 centimeters x 30 centimeters. Both water heaters were painted black on the inside bottom and filled to the top with 3 liters of room temperature water. Both water heaters were set in the sun. They checked the temperatures every 5 minutes and made the table below. Which box did Julie build, A or B? What evidence supports your answer?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_31b-a1">A. The water in Julie's heater got hotter faster (or had a greater temperature change in 20 minutes). The collector in heater A has the greater surface area so the water in A would get hotter faster than the water in B.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.31b.246.1" accuracy="incorrect">B. That they both painted black on the inside in the bottom and filled the top with liters of water. And the heaters will set the sun.</studentAnswer>
+    <studentAnswer id="SE.31b.313.1" accuracy="correct">A. When a box has more black than the other it will heat up faster, and hotter.</studentAnswer>
+    <studentAnswer id="SE.31b.507.1" accuracy="correct">A. Because Julie's had more black flooring. The more black flooring you get the hotter it gets. Julie's side of the chart had the highest temperature. So box A is hers.</studentAnswer>
+    <studentAnswer id="SE.31b.530.1" accuracy="incorrect">B. Because in B, it is long and it hold more heat.</studentAnswer>
+  </studentAnswers>
+</question>

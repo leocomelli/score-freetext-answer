@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_69b" module="ME">
+  <questionText>A magnet attracted another magnet even when a foam block was placed between them (see box A below). What do you think would happen if 2 foam blocks were placed between the 2 magnets (see box B). A. The magnets will stick. B. The magnets will not stick. (C. It might stick, but it might not.) Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_69b-a1">You can not tell because we do not know the strength of the magnets. If the magnets are weak, the second piece of foam might put too much distance between the 2 magnets for the interaction to hold the magnets in place. If the magnets are strong the magnets might stay in place.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.69b.646.1" accuracy="incorrect">There has to be a more fatter thing.</studentAnswer>
+    <studentAnswer id="ME.69b.666.1" accuracy="correct">The magnets might be strong enough to get through the foam blocks or they are not strong enough to get through the foam blocks.</studentAnswer>
+    <studentAnswer id="ME.69b.681.1" accuracy="correct">I chose that answer because the magnets might go through the foam blocks but it might not go through.</studentAnswer>
+    <studentAnswer id="ME.69b.682.1" accuracy="incorrect">I chose that answer because I am not sure.</studentAnswer>
+  </studentAnswers>
+</question>

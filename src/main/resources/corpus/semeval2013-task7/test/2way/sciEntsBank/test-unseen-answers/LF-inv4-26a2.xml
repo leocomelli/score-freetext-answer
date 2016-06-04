@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_26a2" module="LF">
+  <questionText>Pam and her family were planning a hike. Pam found 2 maps of the same area. Her friend recommended she use the topographic map when they went to the lake. Why would Pam's friend recommend using the topographic map for the hike?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_26a2-a1">She recommended the topographic map because the map shows the elevations along the trail. Pam would know where the trail was the steepest.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.26a2.387.1" accuracy="correct">It tells you the elevation so you hike the easiest way.</studentAnswer>
+    <studentAnswer id="LF.26a2.481.1" accuracy="incorrect">Because you where how big or 4.</studentAnswer>
+    <studentAnswer id="LF.26a2.493.1" accuracy="correct">She would recommend it because when they take the hike, they will know how steep the mountain is.</studentAnswer>
+    <studentAnswer id="LF.26a2.507.1" accuracy="incorrect">I think she would recommend this because a topographic map tells you more information for where you need to go.</studentAnswer>
+  </studentAnswers>
+</question>

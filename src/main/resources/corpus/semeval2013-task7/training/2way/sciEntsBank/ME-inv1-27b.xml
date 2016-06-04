@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_27b" module="ME">
+  <questionText>How can you use a magnet to find out if the key is iron or aluminum?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_27b-a1">If the key sticks, the key is iron; if the key does not stick the key is aluminum.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.27b.102.1" accuracy="correct">If it is iron it will stick if it is aluminum it will not stick.</studentAnswer>
+    <studentAnswer id="ME.27b.105.1" accuracy="correct">It will be made of iron if it sticks to a magnet.</studentAnswer>
+    <studentAnswer id="ME.27b.107.1" accuracy="correct">The magnet will stick to iron not to aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.108.1" accuracy="correct">If it is iron it will stick.</studentAnswer>
+    <studentAnswer id="ME.27b.121.1" accuracy="incorrect">I will stick or not stick.</studentAnswer>
+    <studentAnswer id="ME.27b.123.1" accuracy="correct">It will stick to iron.</studentAnswer>
+    <studentAnswer id="ME.27b.143.1" accuracy="correct">By testing it with a magnet and it will stick if it is iron.</studentAnswer>
+    <studentAnswer id="ME.27b.144.1" accuracy="correct">If the key sticks it is made of iron if it does not it is made of aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.146.1" accuracy="correct">If it is iron the key will stick if it is aluminum it would not stick.</studentAnswer>
+    <studentAnswer id="ME.27b.147.1" accuracy="incorrect">Aluminum will stick to a magnet.</studentAnswer>
+    <studentAnswer id="ME.27b.152.1" accuracy="correct">If it were iron it would stick.</studentAnswer>
+    <studentAnswer id="ME.27b.154.1" accuracy="correct">You could get something with magnitite in it and see if it sticks if it sticks you know it is iron if it does not stick it is aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.159.1" accuracy="incorrect">Test it on a magnet.</studentAnswer>
+    <studentAnswer id="ME.27b.176.1" accuracy="incorrect">The magnet will stick.</studentAnswer>
+    <studentAnswer id="ME.27b.179.1" accuracy="correct">The key will stick if it is iron but if it is aluminum it will not.</studentAnswer>
+    <studentAnswer id="ME.27b.180.1" accuracy="incorrect">You will put a magnet on it and see if it sticks.</studentAnswer>
+    <studentAnswer id="ME.27b.181.1" accuracy="correct">If it is iron it will stick if it is aluminum it will not stick.</studentAnswer>
+    <studentAnswer id="ME.27b.185.1" accuracy="incorrect">If the key sticks.</studentAnswer>
+    <studentAnswer id="ME.27b.208.1" accuracy="incorrect">The magnet will stick.</studentAnswer>
+    <studentAnswer id="ME.27b.215.1" accuracy="incorrect">If the magnet attracts or not.</studentAnswer>
+    <studentAnswer id="ME.27b.226.1" accuracy="incorrect">You will know because the magnet will stick or not.</studentAnswer>
+    <studentAnswer id="ME.27b.228.1" accuracy="correct">If the key is iron it will attract if it is not it will repel.</studentAnswer>
+    <studentAnswer id="ME.27b.247.1" accuracy="incorrect">By sticking the key to a magnet and try it out.</studentAnswer>
+    <studentAnswer id="ME.27b.250.1" accuracy="incorrect">If it attracts or drops when you let it go.</studentAnswer>
+    <studentAnswer id="ME.27b.251.1" accuracy="correct">If the key attracts is iron. If it repels is aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.255.1" accuracy="incorrect">You would find the answer.</studentAnswer>
+    <studentAnswer id="ME.27b.256.1" accuracy="correct">It will stick to iron and not aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.276.1" accuracy="incorrect">You can try it out altogether.</studentAnswer>
+    <studentAnswer id="ME.27b.292.1" accuracy="incorrect">I will put it on a nail.</studentAnswer>
+    <studentAnswer id="ME.27b.293.1" accuracy="incorrect">You will know because it will stick to a magnet.</studentAnswer>
+    <studentAnswer id="ME.27b.311.1" accuracy="correct">Because if it sticked it was iron if it did not it is aluminum.</studentAnswer>
+    <studentAnswer id="ME.27b.313.1" accuracy="correct">If it sticks then it is a magnet if it does not then it is not.</studentAnswer>
+    <studentAnswer id="ME.27b.314.1" accuracy="incorrect">You can get a key and a iron nail and aluminum foil and see if it sticks.</studentAnswer>
+    <studentAnswer id="ME.27b.318.1" accuracy="correct">If it repels aluminum if it sticks iron, attract.</studentAnswer>
+    <studentAnswer id="ME.27b.323.1" accuracy="incorrect">I will know when it sticks or it repels.</studentAnswer>
+    <studentAnswer id="ME.27b.324.1" accuracy="incorrect">It will fall off the magnet.</studentAnswer>
+  </studentAnswers>
+</question>

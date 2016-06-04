@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="PS_26p" module="PS">
+  <questionText>Kate said: "An object has to move to produce sound." Do you agree with her? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_26p-a1">Agree. Vibrations are movements. Vibrations produce sound.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.26p.101.1" accuracy="incorrect">Yes, Because if things do not move it will not make a sound. Like if you are talking your voice box has to move.</studentAnswer>
+    <studentAnswer id="PS.26p.104.1" accuracy="incorrect">No because it is not true you do not have to move a bottle to make a sound.</studentAnswer>
+    <studentAnswer id="PS.26p.107.1" accuracy="incorrect">No Because it can travel from air.</studentAnswer>
+    <studentAnswer id="PS.26p.138.1" accuracy="correct">Yes. Because it has vibrations to cause.</studentAnswer>
+    <studentAnswer id="PS.26p.142.1" accuracy="correct">Yes I agree with her, because when it moves it makes vibrations and that is what helps to make sound and when it is not moving it is not making sound.</studentAnswer>
+    <studentAnswer id="PS.26p.160.1" accuracy="correct">Yes I agree with Kate because it has to vibrate.</studentAnswer>
+    <studentAnswer id="PS.26p.171.1" accuracy="correct">Yes because it needs to vibration.</studentAnswer>
+    <studentAnswer id="PS.26p.179.1" accuracy="incorrect">Yes I do agree with Kate. Example: when the wind blows really hard it makes a sound.</studentAnswer>
+    <studentAnswer id="PS.26p.183.1" accuracy="correct">I do because sounds can not be made without vibrations.</studentAnswer>
+    <studentAnswer id="PS.26p.192.1" accuracy="incorrect">I do not agree because object does not have to move all the time.</studentAnswer>
+    <studentAnswer id="PS.26p.212.1" accuracy="correct">I do agree it has to vibrate to make sound and vibrating is considered moving.</studentAnswer>
+    <studentAnswer id="PS.26p.221.1" accuracy="correct">Yes because vibration is a type of movement and sound is made by vibration.</studentAnswer>
+    <studentAnswer id="PS.26p.228.1" accuracy="correct">Yes because it has to move to make vibrations which make sound.</studentAnswer>
+    <studentAnswer id="PS.26p.252.1" accuracy="correct">Yes because it has to vibrate to make sounds.</studentAnswer>
+    <studentAnswer id="PS.26p.255.1" accuracy="correct">Yes. Because vibration is movement and to create vibration the object has to move to create sound.</studentAnswer>
+    <studentAnswer id="PS.26p.313.1" accuracy="incorrect">No because if you jump on a sofa the string will move and make noise.</studentAnswer>
+    <studentAnswer id="PS.26p.323.1" accuracy="correct">Yes because vibrations has to move.</studentAnswer>
+    <studentAnswer id="PS.26p.332.1" accuracy="incorrect">No because desks do not move.</studentAnswer>
+    <studentAnswer id="PS.26p.384.1" accuracy="correct">Yes because how can it make a sound if it does not vibrate.</studentAnswer>
+    <studentAnswer id="PS.26p.391.1" accuracy="correct">I agree with her because when an object moves it causes vibration and vibration causes sound.</studentAnswer>
+    <studentAnswer id="PS.26p.400.1" accuracy="correct">I agree with her because the object has to vibrate.</studentAnswer>
+    <studentAnswer id="PS.26p.461.1" accuracy="correct">I agree with her because vibrations make sounds and vibration moves.</studentAnswer>
+    <studentAnswer id="PS.26p.468.1" accuracy="correct">I agree with her because when you talk, your vocal cords moves and when you hear a sound, the things that made that sound must move and vibrate.</studentAnswer>
+    <studentAnswer id="PS.26p.488.1" accuracy="correct">Yes because it need to vibrate.</studentAnswer>
+    <studentAnswer id="PS.26p.499.1" accuracy="correct">Yes. When you move something it causes vibrations. And the vibrations cause sound waves.</studentAnswer>
+    <studentAnswer id="PS.26p.504.1" accuracy="incorrect">Yes, because sound has to vibrate it.</studentAnswer>
+    <studentAnswer id="PS.26p.510.1" accuracy="incorrect">YES. I think yes because it changes the sound.</studentAnswer>
+    <studentAnswer id="PS.26p.528.1" accuracy="correct">I agree with Kate because vibration creates sound, without vibration there would be no sound.</studentAnswer>
+    <studentAnswer id="PS.26p.533.1" accuracy="incorrect">Yes, I agree with her. In order to make sound, it needs to move.</studentAnswer>
+    <studentAnswer id="PS.26p.557.1" accuracy="incorrect">I agree because if you move paper it produces a sound.</studentAnswer>
+    <studentAnswer id="PS.26p.563.1" accuracy="correct">I agree because it has to vibrate.</studentAnswer>
+    <studentAnswer id="PS.26p.571.1" accuracy="incorrect">Yes because if you do not move it will not make sound.</studentAnswer>
+    <studentAnswer id="PS.26p.599.1" accuracy="correct">I do agree with her because if a sound is made it vibrates and vibration is back and forth movement and without vibration you can not make a sound.</studentAnswer>
+    <studentAnswer id="PS.26p.610.1" accuracy="correct">Yes I do agree. Because an object has to move to make vibration which makes sound.</studentAnswer>
+    <studentAnswer id="PS.26p.626.1" accuracy="correct">I agree with her. Because if an object makes a sound it has to vibrate.</studentAnswer>
+    <studentAnswer id="PS.26p.641.1" accuracy="incorrect">I do agree with her because a object has to move to make a sound.</studentAnswer>
+  </studentAnswers>
+</question>

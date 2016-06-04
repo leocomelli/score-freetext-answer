@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="II_26" module="II">
+  <questionText>Look at the rubbings of 2 different fabrics. What do the rubbings tell us about the different textures of these 2 fabrics?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_26-a1">Fabric A is smoother and has a finer texture. Fabric B is rougher and has a coarser texture.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.26.395.1" accuracy="incorrect">They are rough. A has bumpy dots. B has bumpy dots and lines.</studentAnswer>
+    <studentAnswer id="II.26.434.1" accuracy="incorrect">A is like lines and B has squares and lines.</studentAnswer>
+    <studentAnswer id="II.26.577.1" accuracy="correct">B looks like it is bumpy and A looks like is smooth.</studentAnswer>
+    <studentAnswer id="II.26.579.1" accuracy="correct">A is probably smoother than B.</studentAnswer>
+  </studentAnswers>
+</question>

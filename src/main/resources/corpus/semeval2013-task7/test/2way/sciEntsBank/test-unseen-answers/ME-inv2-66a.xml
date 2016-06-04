@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_66a" module="ME">
+  <questionText>Look at the circuit in the picture. The gap between the D-cell and the switch needs to be connected. Can you use a piece of string to make the connection? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_66a-a1">No, string is an insulator, so the pathway would not be completed.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.66a.146.1" accuracy="incorrect">The string does not have iron in it to make it work.</studentAnswer>
+    <studentAnswer id="ME.66a.147.1" accuracy="incorrect">Because it is not going in a circle so it will not work.</studentAnswer>
+    <studentAnswer id="ME.66a.313.1" accuracy="incorrect">You can use string because it will hook and make it work.</studentAnswer>
+    <studentAnswer id="ME.66a.329.1" accuracy="incorrect">Why it does work, because if the string is together the motor will run.</studentAnswer>
+  </studentAnswers>
+</question>

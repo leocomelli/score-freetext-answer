@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_53" module="MX">
+  <questionText>Adam's friend gave him a cup filled with a water solution. Adam did not know what solid material was used to make it. He evaporated the solution and found crystals in the dish after all of the water was gone. How will the crystals help him decide what solid material was used to make the solution?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_53-a1">Crystals of different materials have different shapes. So the shape will help identify the material.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.53.425.1" accuracy="incorrect">Yes, because he could find out what type of crystals they are.</studentAnswer>
+    <studentAnswer id="MX.53.473.1" accuracy="incorrect">By comparing them to other solutions.</studentAnswer>
+    <studentAnswer id="MX.53.528.1" accuracy="incorrect">Weight them all.</studentAnswer>
+    <studentAnswer id="MX.53.575.1" accuracy="correct">Each crystal has its own properties so if he recognized if he would know what solute it was.</studentAnswer>
+  </studentAnswers>
+</question>

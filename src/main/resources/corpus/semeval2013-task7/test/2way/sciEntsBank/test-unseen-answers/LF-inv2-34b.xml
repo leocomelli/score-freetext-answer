@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_34b" module="LF">
+  <questionText>Draw an arrow to show which direction the water flows in the river. (Rose Mountain is on the left and Happy Valley is on the right in the drawing.) Why do you think the water flows in that direction?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_34b-a1">Water will always flow downhill (mountain to valley).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.34b.254.1" accuracy="incorrect">I think the water flows that direction because happy valley is where it empties into.</studentAnswer>
+    <studentAnswer id="LF.34b.731.1" accuracy="incorrect">I think the river flows in that direction because the pathway, the river flows toward happy valley.</studentAnswer>
+    <studentAnswer id="LF.34b.823.1" accuracy="correct">Because somewhere in that mountain there is a water source and the water flows down the mountain.</studentAnswer>
+    <studentAnswer id="LF.34b.825.1" accuracy="correct">I believe it flows in that direction because the earth water comes out of cracks in mountain a flow down the mountain and into river.</studentAnswer>
+  </studentAnswers>
+</question>

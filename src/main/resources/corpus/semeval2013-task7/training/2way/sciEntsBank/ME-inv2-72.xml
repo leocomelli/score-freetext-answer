@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_72" module="ME">
+  <questionText>Only one circuit below will light the bulb. Which one will work? Why is that the only circuit that will work?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_72-a1">That circuit is the only circuit that uses all of the correct contact points.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.72.106.1" accuracy="correct">It is the only circuit that will work because the metal is touching the bottom and the wire is touching the bottom of the light.</studentAnswer>
+    <studentAnswer id="ME.72.109.1" accuracy="incorrect">C because it is on the square part and on the round ball.</studentAnswer>
+    <studentAnswer id="ME.72.116.1" accuracy="correct">It is the only one because the wire is touching the middle and the battery is touching the side.</studentAnswer>
+    <studentAnswer id="ME.72.117.1" accuracy="correct">It is touching all it need to make it to work.</studentAnswer>
+    <studentAnswer id="ME.72.122.1" accuracy="correct">The electricity flows through the plus and the minus to a circle to the light bulb.</studentAnswer>
+    <studentAnswer id="ME.72.123.1" accuracy="correct">Because the light is touching the battery.</studentAnswer>
+    <studentAnswer id="ME.72.136.1" accuracy="correct">The electricity flow in a complete circle.</studentAnswer>
+    <studentAnswer id="ME.72.138.1" accuracy="correct">It is because it is the only one that allows the electricity to go in a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.72.145.1" accuracy="incorrect">It has to run in a circle.</studentAnswer>
+    <studentAnswer id="ME.72.150.1" accuracy="correct">It is touching both sides of the battery and the light bulb.</studentAnswer>
+    <studentAnswer id="ME.72.151.1" accuracy="correct">Because it is the only one that will form a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.72.156.1" accuracy="correct">The wires have to touch the light bulb so like a circle of air to light up the light bulb.</studentAnswer>
+    <studentAnswer id="ME.72.188.1" accuracy="correct">Because there is a full circuit.</studentAnswer>
+    <studentAnswer id="ME.72.194.1" accuracy="incorrect">Because the equal part is touching.</studentAnswer>
+    <studentAnswer id="ME.72.209.1" accuracy="correct">The negative and positive are on both parts of the battery.</studentAnswer>
+    <studentAnswer id="ME.72.210.1" accuracy="incorrect">It will work because the circuit will go through the battery is because the force will go through the battery.</studentAnswer>
+    <studentAnswer id="ME.72.211.1" accuracy="correct">Because D is the only circuit that is touching the black dot.</studentAnswer>
+    <studentAnswer id="ME.72.213.1" accuracy="correct">The wire has to touch both sides of the battery and the wire has to touch the middle of the light bulb.</studentAnswer>
+    <studentAnswer id="ME.72.217.1" accuracy="incorrect">On the other there is connection with the D-cell with the light.</studentAnswer>
+    <studentAnswer id="ME.72.221.1" accuracy="incorrect">It is because answer D's wire starts below the light bulb.</studentAnswer>
+    <studentAnswer id="ME.72.229.1" accuracy="correct">The only circuit will work because the 2 wires are put in the right place.</studentAnswer>
+    <studentAnswer id="ME.72.242.1" accuracy="correct">Because they are going in a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.72.248.1" accuracy="correct">Because it is the only one that is touching.</studentAnswer>
+    <studentAnswer id="ME.72.255.1" accuracy="incorrect">D because it is touching the base metal.</studentAnswer>
+    <studentAnswer id="ME.72.279.1" accuracy="correct">It will work because it is the only one touching the light bulb base.</studentAnswer>
+    <studentAnswer id="ME.72.282.1" accuracy="correct">Because the electricity goes to the metal and that electricity goes to the filament.</studentAnswer>
+    <studentAnswer id="ME.72.286.1" accuracy="correct">Because the others are not complete circuits.</studentAnswer>
+    <studentAnswer id="ME.72.315.1" accuracy="incorrect">I will work because electricity is going from the positive to the negative.</studentAnswer>
+    <studentAnswer id="ME.72.316.1" accuracy="correct">Why it is the only one is because sometimes you need 2 wires and how it is the only one it is connected to the bottom.</studentAnswer>
+    <studentAnswer id="ME.72.321.1" accuracy="correct">Letter A is the right one because the wire have to touch the equal side and the light bulb.</studentAnswer>
+    <studentAnswer id="ME.72.416.1" accuracy="incorrect">The charge of the positive negative is flowing to the bulb.</studentAnswer>
+    <studentAnswer id="ME.72.418.1" accuracy="correct">Because the negative is connected to the black part and the positive side is attached to the shiny part.</studentAnswer>
+    <studentAnswer id="ME.72.419.1" accuracy="correct">Because the negative is connected to the black part and the positive side is attached to the shiny part.</studentAnswer>
+    <studentAnswer id="ME.72.422.1" accuracy="incorrect">Because the white thing is touching the negative side.</studentAnswer>
+    <studentAnswer id="ME.72.423.1" accuracy="incorrect">Because the shiny part and the wire is touching the black part.</studentAnswer>
+    <studentAnswer id="ME.72.426.1" accuracy="incorrect">Because one side of the wire is touching the negative side of the D-cell.</studentAnswer>
+  </studentAnswers>
+</question>

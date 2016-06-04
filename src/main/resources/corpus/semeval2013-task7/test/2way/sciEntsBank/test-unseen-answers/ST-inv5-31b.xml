@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ST_31b" module="ST">
+  <questionText>One function of the bess beetle's elytra (the hard, black wing set) is protection. What is another function of the elytra?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_31b-a1">The elytra are used to make sounds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.31b.474.1" accuracy="incorrect">Another function of the elytra is for strangulating.</studentAnswer>
+    <studentAnswer id="ST.31b.487.1" accuracy="incorrect">Fly around.</studentAnswer>
+    <studentAnswer id="ST.31b.492.1" accuracy="incorrect">The thorax.</studentAnswer>
+    <studentAnswer id="ST.31b.561.1" accuracy="correct">The beetle can rub its elytra making noises in order to communicate.</studentAnswer>
+  </studentAnswers>
+</question>

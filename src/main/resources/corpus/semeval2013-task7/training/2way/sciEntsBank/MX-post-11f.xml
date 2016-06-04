@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<question id="MX_11f" module="MX">
+  <questionText>Jim used a solid and water to make Mixtures one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. If Jim made Mixture 2 with 2 spoons of solid in 100 milliliters of water, what would he observe? What evidence do you have to support this?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11f-a1">Jim would see a clear solution. 3 spoons of solid dissolves, so 2 spoons will dissolve.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11f.101.1" accuracy="incorrect">There would be a clear liquid with no solid on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11f.106.1" accuracy="correct">It is going to be clear at the bottom and you will not see anything and I know this because if it does not dissolve in mixture it will not dissolve.</studentAnswer>
+    <studentAnswer id="MX.11f.119.1" accuracy="incorrect">It has been a little different.</studentAnswer>
+    <studentAnswer id="MX.11f.172.1" accuracy="incorrect">Clear, mixture 3 is clear.</studentAnswer>
+    <studentAnswer id="MX.11f.176.1" accuracy="correct">He would observe that the water is not saturated yet because a mixture 4 it get saturated.</studentAnswer>
+    <studentAnswer id="MX.11f.190.1" accuracy="incorrect">It would be a solution. One and 3 have either one spoon or 2 spoons of solid in their mixtures and they are still a solution.</studentAnswer>
+    <studentAnswer id="MX.11f.219.1" accuracy="correct">He would observe nothing you need more spoons to make it saturated. Because mixture 3 has 3 spoons and it is not saturated.</studentAnswer>
+    <studentAnswer id="MX.11f.234.1" accuracy="incorrect">He would observe the nothing will be at the bottom.</studentAnswer>
+    <studentAnswer id="MX.11f.282.1" accuracy="incorrect">He would not observe anything because nothing happened to the other ones either.</studentAnswer>
+    <studentAnswer id="MX.11f.366.1" accuracy="incorrect">It will dissolve in the cup.</studentAnswer>
+    <studentAnswer id="MX.11f.388.1" accuracy="correct">Clear and nothing on the bottom because one scoop and 100 milliliters of water has the same results and so does mixture 3, 3 spoons and 100 milliliters water.</studentAnswer>
+    <studentAnswer id="MX.11f.390.1" accuracy="correct">Clear, nothing on bottom because mixture one and 3 are that.</studentAnswer>
+    <studentAnswer id="MX.11f.391.1" accuracy="correct">Clear with nothing on the bottom. Evidence Mixture 3 has more and is clear with nothing on the bottom and mix.</studentAnswer>
+    <studentAnswer id="MX.11f.396.1" accuracy="incorrect">I think that the mixture would be clear with nothing on the bottom, because both mixture one and 3 say that if mixture 3 is not saturated and has more material than 2, 2 would not be saturated either.</studentAnswer>
+    <studentAnswer id="MX.11f.421.1" accuracy="correct">It would not have any particles at the bottom.</studentAnswer>
+    <studentAnswer id="MX.11f.426.1" accuracy="correct">That the solid dissolved in the solute! That with one spoon. It is clear and with 3 spoons it is clear so the solid will dissolve in the solute!</studentAnswer>
+    <studentAnswer id="MX.11f.433.1" accuracy="incorrect">If mixture 3 is dissolved, and mixture one is not dissolved. Mixture 2 will not be dissolved because it is less concentrated than mixture 3.</studentAnswer>
+    <studentAnswer id="MX.11f.439.1" accuracy="correct">He will see clear and nothing in the bottom because you cannot see nothing in 3.</studentAnswer>
+    <studentAnswer id="MX.11f.452.1" accuracy="incorrect">It would dissolve because he has so much water there would be enough space to dissolve the solid.</studentAnswer>
+    <studentAnswer id="MX.11f.453.1" accuracy="incorrect">Well if solution 3 has more materials and it is dissolved the evidence he would have is solution 2 will be dissolved too.</studentAnswer>
+    <studentAnswer id="MX.11f.465.1" accuracy="incorrect">That the solid dissolves because one, 3 dissolves.</studentAnswer>
+    <studentAnswer id="MX.11f.466.1" accuracy="incorrect">It would dissolve because 100 milliliters of water gives the solid more room to dissolve.</studentAnswer>
+    <studentAnswer id="MX.11f.467.1" accuracy="incorrect">The solid would dissolve because so did solution one and 3.</studentAnswer>
+    <studentAnswer id="MX.11f.468.1" accuracy="incorrect">When he put the 2 spoons in the 50 milliliters in of water he will get 2 times for water then mixture.</studentAnswer>
+    <studentAnswer id="MX.11f.469.1" accuracy="incorrect">2 spoons of solid and 100 milliliters of water and it was clear material on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11f.471.1" accuracy="incorrect">That there is one dg. one spoon is 5 grams.</studentAnswer>
+    <studentAnswer id="MX.11f.486.1" accuracy="incorrect">It would look clear and who have nothing on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11f.494.1" accuracy="incorrect">Well It would be clear because 2 has more solid and is still clear.</studentAnswer>
+    <studentAnswer id="MX.11f.557.1" accuracy="incorrect">I think he would see the solid dissolve.</studentAnswer>
+    <studentAnswer id="MX.11f.562.1" accuracy="incorrect">Mixture 2 maybe clear with nothing on the bottom.</studentAnswer>
+    <studentAnswer id="MX.11f.566.1" accuracy="correct">He would observe the solution clear and nothing at the bottom because one and 3 do not have anything at the bottom and if 3 does not have any solute at the bottom 2 would not either.</studentAnswer>
+    <studentAnswer id="MX.11f.572.1" accuracy="incorrect">He would observe fizzing in the cups. To evidence this you would put a lot of things in both of the cups.</studentAnswer>
+    <studentAnswer id="MX.11f.597.1" accuracy="correct">Nothing will be on the bottom and it will be clear. Because solution 3 has nothing on the bottom and it is clear.</studentAnswer>
+    <studentAnswer id="MX.11f.636.1" accuracy="incorrect">There would be no material of bottom because mixtures does not have any material on bottom.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_19" module="MX">
+  <questionText>When Amy added water to a mixture of baking soda and citric acid, the mixture began fizzing. Amy concluded there was a chemical reaction because it fizzed. Why is fizzing evidence of a chemical reaction?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_19-a1">The fizzing indicates a gas, a new material, is produced. When a new material is produced, a chemical reaction has occurred.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.19.381.1" accuracy="incorrect">A gas is being formed causing it to bubble.</studentAnswer>
+    <studentAnswer id="MX.19.396.1" accuracy="correct">Fizzing usually means bubbles. And bubbles mean there was gas formed which is a sign of a chemical reaction so yes.</studentAnswer>
+    <studentAnswer id="MX.19.504.1" accuracy="incorrect">The bubbles occurred because it was gas.</studentAnswer>
+    <studentAnswer id="MX.19.540.1" accuracy="incorrect">Probably.</studentAnswer>
+  </studentAnswers>
+</question>

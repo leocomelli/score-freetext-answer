@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_15c" module="VB">
+  <questionText>3 girls wanted to see who could throw a ball the farthest. Each girl brought her favorite ball to the park. Ling brought her basketball, Diana brought her football, and Rachael brought her baseball. They made a line on the playground. They all had to throw the ball from that line. Ling took 2 steps up to the line and threw her basketball. Diana stood at the line and threw her football. Rachael got a running start and threw her baseball when she reached the line. Rachael threw her ball the farthest. Describe what the girls need to do to make the contest a controlled experiment (fair test).</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_15c-a1">All variables except the girl need to be held constant (controlled). The girls all need to throw the same ball and use the same launch technique.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.15c.384.1" accuracy="correct">They all should stand and throw the same ball to have a controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.15c.429.1" accuracy="correct">They could all go at the same speed and same distance to get to the line or they could use the same kind of ball.</studentAnswer>
+    <studentAnswer id="VB.15c.628.1" accuracy="incorrect">They all had to bring the same kind of ball. And same weight.</studentAnswer>
+    <studentAnswer id="VB.15c.632.1" accuracy="incorrect">Have the ball the same.</studentAnswer>
+  </studentAnswers>
+</question>

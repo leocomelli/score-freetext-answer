@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_12d" module="VB">
+  <questionText>Describe the relationship between the length of the string and the number of swings a swinger makes in 15 seconds.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_12d-a1">The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.12d.394.1" accuracy="correct">The longer your string is the less amount of swings you will get.</studentAnswer>
+    <studentAnswer id="VB.12d.397.1" accuracy="incorrect">The longer the string the shorter the swings.</studentAnswer>
+    <studentAnswer id="VB.12d.440.1" accuracy="incorrect">Well the longer the string the slower it swings so a 90 centimeters swinger will go very slow compared to a 19 centimeters swinger.</studentAnswer>
+    <studentAnswer id="VB.12d.636.1" accuracy="correct">If the string is short it has more swings but if it is long it has less swings.</studentAnswer>
+  </studentAnswers>
+</question>

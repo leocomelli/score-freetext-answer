@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<question id="ME_10" module="ME">
+  <questionText>The motors shown at the right with the D-cell batteries will NOT run. Explain why.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_10-a1">The negative terminals of the D-cell batteries are facing each other, so there is no flow of electricity.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.10.101.1" accuracy="correct">The motors will not run because it goes from the positive side to the positive side it has to go from positive to negative to work.</studentAnswer>
+    <studentAnswer id="ME.10.102.1" accuracy="correct">It will not work because the positive is going to the positive end, the positive need to run into the negative side for it to run.</studentAnswer>
+    <studentAnswer id="ME.10.111.1" accuracy="incorrect">It is not put to series.</studentAnswer>
+    <studentAnswer id="ME.10.113.1" accuracy="incorrect">Because it is hooked up negative to negative and positive to positive.</studentAnswer>
+    <studentAnswer id="ME.10.118.1" accuracy="correct">It needs to be negative to positive.</studentAnswer>
+    <studentAnswer id="ME.10.120.1" accuracy="correct">It will not work because it is negative to negative, it has to positive to negative.</studentAnswer>
+    <studentAnswer id="ME.10.121.1" accuracy="incorrect">The batteries are negative to negative.</studentAnswer>
+    <studentAnswer id="ME.10.123.1" accuracy="correct">It will not run because negative and negative and positive and positive are facing the same way.</studentAnswer>
+    <studentAnswer id="ME.10.144.1" accuracy="incorrect">Because the wires in between the D-cells are connected to the same end.</studentAnswer>
+    <studentAnswer id="ME.10.147.1" accuracy="incorrect">It is go out the wrong way.</studentAnswer>
+    <studentAnswer id="ME.10.148.1" accuracy="correct">The 2 negative ends of the D-cells are facing each other and the electricity cannot get out.</studentAnswer>
+    <studentAnswer id="ME.10.154.1" accuracy="correct">Both of the motors are hooked up to the positive wire, in order for it to work one has to be hooked to a positive and the other has to be hooked up to a negative.</studentAnswer>
+    <studentAnswer id="ME.10.155.1" accuracy="incorrect">They will not run because the electricity is going in a circle. And the electricity would be run in and out.</studentAnswer>
+    <studentAnswer id="ME.10.174.1" accuracy="incorrect">The motors at the right will not run because the electricity flows out of the negative side and they have the D-cells trying to make electricity flow out the positive side.</studentAnswer>
+    <studentAnswer id="ME.10.176.1" accuracy="incorrect">One battery is the wrong way.</studentAnswer>
+    <studentAnswer id="ME.10.180.1" accuracy="incorrect">It will not run because there is not enough D-cells to make both of them work.</studentAnswer>
+    <studentAnswer id="ME.10.181.1" accuracy="correct">Because a negative and a negative will not work.</studentAnswer>
+    <studentAnswer id="ME.10.185.1" accuracy="incorrect">The motor shall not run because electricity flows out of the negative side of the battery.</studentAnswer>
+    <studentAnswer id="ME.10.191.1" accuracy="incorrect">The motors will not run because the D-cells has to be switched around.</studentAnswer>
+    <studentAnswer id="ME.10.192.1" accuracy="incorrect">They will not run because the electricity gets stopped when it goes through the D-cells.</studentAnswer>
+    <studentAnswer id="ME.10.208.1" accuracy="correct">The motors shown at the right will not run because 2 negatives are connected.</studentAnswer>
+    <studentAnswer id="ME.10.216.1" accuracy="incorrect">The wires are not supposed to be connected like that.</studentAnswer>
+    <studentAnswer id="ME.10.224.1" accuracy="incorrect">Because you need more wires.</studentAnswer>
+    <studentAnswer id="ME.10.226.1" accuracy="incorrect">Because the motors do not have a minus side. They both have a positive side.</studentAnswer>
+    <studentAnswer id="ME.10.227.1" accuracy="incorrect">The motor at the right will not run because each one does not have a positive and a negative.</studentAnswer>
+    <studentAnswer id="ME.10.245.1" accuracy="incorrect">Because positive is facing it.</studentAnswer>
+    <studentAnswer id="ME.10.247.1" accuracy="incorrect">Maybe the left wire went out of energy so maybe the right one went out of energy so both of them are out.</studentAnswer>
+    <studentAnswer id="ME.10.250.1" accuracy="incorrect">If you look very closely the positive to positive and negative to negative. Positive and positive do not go together.</studentAnswer>
+    <studentAnswer id="ME.10.253.1" accuracy="incorrect">It will not work because it is dead battery.</studentAnswer>
+    <studentAnswer id="ME.10.276.1" accuracy="incorrect">Because one has the most power than the other one.</studentAnswer>
+    <studentAnswer id="ME.10.284.1" accuracy="incorrect">Because one D-cell has to be between the motors.</studentAnswer>
+    <studentAnswer id="ME.10.293.1" accuracy="incorrect">The motor will not run because it is in an open circuit.</studentAnswer>
+    <studentAnswer id="ME.10.311.1" accuracy="incorrect">The wires are at the negative end of the battery or D-cell so the motor is not going to run because the wire is at the negative end.</studentAnswer>
+    <studentAnswer id="ME.10.314.1" accuracy="correct">The D-cell is hooked up to the negative end and the other negative end and it cannot get any energy.</studentAnswer>
+    <studentAnswer id="ME.10.318.1" accuracy="correct">The negative end is pointing at the negative end so no electricity can flow to the motors.</studentAnswer>
+    <studentAnswer id="ME.10.324.1" accuracy="incorrect">The negative end are sharing so the D-cell is getting all the power.</studentAnswer>
+    <studentAnswer id="ME.10.325.1" accuracy="correct">Because electricity does not flow from positive to positive they flow from negative to positive.</studentAnswer>
+    <studentAnswer id="ME.10.328.1" accuracy="correct">The electricity is flowing from a positive to a positive end, when the negative should give the electricity to the motor and back to a positive end.</studentAnswer>
+  </studentAnswers>
+</question>

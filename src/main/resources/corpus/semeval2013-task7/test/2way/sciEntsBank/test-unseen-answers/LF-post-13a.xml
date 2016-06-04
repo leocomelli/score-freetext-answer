@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_13a" module="LF">
+  <questionText>What happens to earth materials during deposition?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_13a-a1">Earth materials settle out during deposition.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.13a.493.1" accuracy="incorrect">The earth materials will wear away.</studentAnswer>
+    <studentAnswer id="LF.13a.494.1" accuracy="correct">Earth materials are moved by water to another spot in the stream.</studentAnswer>
+    <studentAnswer id="LF.13a.673.1" accuracy="correct">During deposition earth materials are picked up and dropped on farther downstream near the mouth.</studentAnswer>
+    <studentAnswer id="LF.13a.804.1" accuracy="incorrect">They are being dropped off.</studentAnswer>
+  </studentAnswers>
+</question>

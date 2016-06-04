@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_7b" module="ME">
+  <questionText>Lee has an object he wants to test to see if it is an insulator or a conductor. He is going to use the circuit you see in the picture. How will he know if the object is a conductor?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_7b-a1">If the motor runs, the object is a conductor.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.7b.101.1" accuracy="correct">He will know if the motor will run if it is a conductor it will not if it is a isolator.</studentAnswer>
+    <studentAnswer id="ME.7b.147.1" accuracy="correct">The conductor will make it go.</studentAnswer>
+    <studentAnswer id="ME.7b.180.1" accuracy="correct">He will know that if it works.</studentAnswer>
+    <studentAnswer id="ME.7b.191.1" accuracy="correct">He could know if it works, motor.</studentAnswer>
+  </studentAnswers>
+</question>

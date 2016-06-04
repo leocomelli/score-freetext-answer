@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_18a" module="LF">
+  <questionText>How does the water flow in a creek during a flood compared to normal water flow?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_18a-a1">During a flood there is more water in the creek and the water flows faster.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.18a.115.1" accuracy="correct">A flooded stream would run faster and the height of the river would be higher.</studentAnswer>
+    <studentAnswer id="LF.18a.696.1" accuracy="correct">The water flows a lot faster.</studentAnswer>
+    <studentAnswer id="LF.18a.754.1" accuracy="incorrect">The water flow would change because if it floods it would overflow start a new and wider channel.</studentAnswer>
+    <studentAnswer id="LF.18a.912.1" accuracy="incorrect">The water flows slow in a creek during a flood compared to a normal water flow.</studentAnswer>
+  </studentAnswers>
+</question>

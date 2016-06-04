@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_52b" module="WA">
+  <questionText>Johnny drove to the store with his father one cold and rainy night. They had only driven a short distance when the windows "fogged up" on the inside. What was it about the windows that caused the "fog" to form on them?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_52b-a1">The windows were cooler than the water vapor in the air, causing the vapor to condense.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.52b.171.1" accuracy="correct">The windows in the car were cold because it was cold outside. There was lots of water vapor in the car, so it stuck to the cold windows and changed into condensation water.</studentAnswer>
+    <studentAnswer id="WA.52b.174.1" accuracy="correct">They were cold and since Johnny probably turned the heat on the water vapor would turn into water again and settle onto the windows.</studentAnswer>
+    <studentAnswer id="WA.52b.175.1" accuracy="correct">Condensation only occurs on cold surfaces and the windows are cold so the water vapor condense on them.</studentAnswer>
+    <studentAnswer id="WA.52b.178.1" accuracy="correct">The condensation to form on the windows was the coldness of the cold air outside.</studentAnswer>
+    <studentAnswer id="WA.52b.179.1" accuracy="incorrect">No answer.</studentAnswer>
+    <studentAnswer id="WA.52b.180.1" accuracy="incorrect">It was when something warm touches something cold it makes condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.183.1" accuracy="incorrect">When water vapor touches a cold surface it becomes water vapor.</studentAnswer>
+    <studentAnswer id="WA.52b.188.1" accuracy="correct">When hot or warm air touches cold air it becomes fog or condensation. The air outside was cold so it made the window cold.</studentAnswer>
+    <studentAnswer id="WA.52b.189.1" accuracy="correct">When coldness touches warm air it turns into condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.191.1" accuracy="incorrect">Water vapor caused the fog or condensation to form on the windows.</studentAnswer>
+    <studentAnswer id="WA.52b.193.1" accuracy="correct">The windows caused fog to form because the heater was probably on and the windows were cold so it caused condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.194.1" accuracy="incorrect">Hot air touching cold air.</studentAnswer>
+    <studentAnswer id="WA.52b.195.1" accuracy="incorrect">They were very cold.</studentAnswer>
+    <studentAnswer id="WA.52b.198.1" accuracy="incorrect">Probably because the window was warm.</studentAnswer>
+    <studentAnswer id="WA.52b.206.1" accuracy="correct">The windows had to be cold condensation forms when water vapor touches a cold surface.</studentAnswer>
+    <studentAnswer id="WA.52b.208.1" accuracy="incorrect">The condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.209.1" accuracy="incorrect">The water vapor caused it to fog up.</studentAnswer>
+    <studentAnswer id="WA.52b.212.1" accuracy="incorrect">It was raining so water vapor made that fog to form on the windows because rain clouds carry water vapor.</studentAnswer>
+    <studentAnswer id="WA.52b.214.1" accuracy="incorrect">The cause was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52b.215.1" accuracy="correct">I guess that when condensation hits cold surfaces the window condensation comes.</studentAnswer>
+    <studentAnswer id="WA.52b.216.1" accuracy="incorrect">The warm air was hitting the cold air.</studentAnswer>
+    <studentAnswer id="WA.52b.217.1" accuracy="incorrect">The surface was warm and when cold air hits a warm surface, condensation happens.</studentAnswer>
+    <studentAnswer id="WA.52b.218.1" accuracy="incorrect">It was condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.219.1" accuracy="incorrect">It rained on the car so that how it happened because it rained.</studentAnswer>
+    <studentAnswer id="WA.52b.220.1" accuracy="incorrect">When warm condensation hits a cold surface it causes fog.</studentAnswer>
+    <studentAnswer id="WA.52b.221.1" accuracy="incorrect">It is condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.222.1" accuracy="incorrect">When warm things touches cold places it forms condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.223.1" accuracy="incorrect">Since the windows were cold and the rain was also touching the windows, it caused condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.224.1" accuracy="incorrect">When warmer water vapor hits the surface it causes fog.</studentAnswer>
+    <studentAnswer id="WA.52b.225.1" accuracy="incorrect">The heat inside and the cold outside.</studentAnswer>
+    <studentAnswer id="WA.52b.226.1" accuracy="correct">It formed because water vapor touched a cold surface, and formed condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.227.1" accuracy="incorrect">Because the windows are closed you can see water vapor on them.</studentAnswer>
+    <studentAnswer id="WA.52b.229.1" accuracy="correct">It was that it was a cold night and that made the windows cold and when water vapor touches a cold surface it turns into condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.230.1" accuracy="correct">When the warm water vapor hit the cold surface it caused condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.231.1" accuracy="incorrect">It was a cold and rainy night and when warmer air touches a cooler surface it forms condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.241.1" accuracy="correct">The reason why is because the water vapor hit the cold surface and became a liquid that's called condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.244.1" accuracy="correct">The windows were cold and so the water vapor condensate on the window.</studentAnswer>
+    <studentAnswer id="WA.52b.245.1" accuracy="correct">The fog on the windows was caused by condensation. Condensation is when water vapor hits a cold surface car window it cause the surface to fog up.</studentAnswer>
+    <studentAnswer id="WA.52b.250.1" accuracy="correct">The rain cooled the windows a little then the air inside the car air was a little warmer so it formed little water droplets.</studentAnswer>
+    <studentAnswer id="WA.52b.251.1" accuracy="incorrect">The fog is caused by condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.252.1" accuracy="incorrect">The water that evaporated from the ground evaporated and touched a colder surface than itself.</studentAnswer>
+    <studentAnswer id="WA.52b.257.1" accuracy="correct">The reason why the windows fogged up was because when it rains the water outside evaporates into water vapor and when it touches the car's cool surface windows it changes back into water and that is what formed the condensation rain is not usually freezing its warm.</studentAnswer>
+    <studentAnswer id="WA.52b.260.1" accuracy="incorrect">The windows were cooler than the water vapor so it fogged up.</studentAnswer>
+    <studentAnswer id="WA.52b.261.1" accuracy="incorrect">Warm air hitting the cool windows.</studentAnswer>
+    <studentAnswer id="WA.52b.262.1" accuracy="incorrect">It is because the coldness and the rain mixed together and it is a cold surface it makes condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.265.1" accuracy="incorrect">Frozen it do the fog.</studentAnswer>
+    <studentAnswer id="WA.52b.267.1" accuracy="incorrect">Condensation went on the windows so they could not see a thing.</studentAnswer>
+    <studentAnswer id="WA.52b.280.1" accuracy="incorrect">Well human have hot skin and when you touch cold things they fog up.</studentAnswer>
+    <studentAnswer id="WA.52b.283.1" accuracy="incorrect">The warm vapor inside the car hit the cold air outside.</studentAnswer>
+    <studentAnswer id="WA.52b.349.1" accuracy="incorrect">It evaporated.</studentAnswer>
+    <studentAnswer id="WA.52b.350.1" accuracy="incorrect">The windows are so cold and can fog.</studentAnswer>
+    <studentAnswer id="WA.52b.351.1" accuracy="incorrect">Hot and cold air.</studentAnswer>
+    <studentAnswer id="WA.52b.352.1" accuracy="incorrect">The water vapor stuck to the side and became water.</studentAnswer>
+    <studentAnswer id="WA.52b.355.1" accuracy="incorrect">The windows became fogged up was because of the cold. That way is evaporation.</studentAnswer>
+    <studentAnswer id="WA.52b.356.1" accuracy="incorrect">It was surface area.</studentAnswer>
+    <studentAnswer id="WA.52b.357.1" accuracy="incorrect">The air.</studentAnswer>
+    <studentAnswer id="WA.52b.358.1" accuracy="incorrect">The rain was falling and it probably evaporated fast when it fell down that it fell right on their windows.</studentAnswer>
+    <studentAnswer id="WA.52b.360.1" accuracy="correct">The warm air hit the cold surface and caused condensation on the windows.</studentAnswer>
+    <studentAnswer id="WA.52b.362.1" accuracy="incorrect">Because water warms up, then it evaporates to the clouds, then it cools, and it forms rain. And then it is condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.365.1" accuracy="incorrect">The air temperature outside made the fog also called condensation form because of the cold air.</studentAnswer>
+    <studentAnswer id="WA.52b.385.1" accuracy="incorrect">It was cold, read explanation above.</studentAnswer>
+    <studentAnswer id="WA.52b.390.1" accuracy="incorrect">The window had a cold surface, so water vapor formed on it.</studentAnswer>
+    <studentAnswer id="WA.52b.392.1" accuracy="incorrect">The water evaporated.</studentAnswer>
+    <studentAnswer id="WA.52b.397.1" accuracy="incorrect">No answer.</studentAnswer>
+    <studentAnswer id="WA.52b.422.1" accuracy="incorrect">The warm air from the inside touched the cold surface of the window which made condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.423.1" accuracy="correct">The reason the windows formed condensation was because water vapor hit the window which was colder or hotter than the water vapor which formed condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.430.1" accuracy="incorrect">Warm moist air hitting a cold surface.</studentAnswer>
+    <studentAnswer id="WA.52b.486.1" accuracy="incorrect">It was condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.488.1" accuracy="incorrect">The water vapor was in the car and tried to get out but was trapped and began to fog.</studentAnswer>
+    <studentAnswer id="WA.52b.493.1" accuracy="incorrect">The windows were warm and the outside was cold. So that is what happened.</studentAnswer>
+    <studentAnswer id="WA.52b.497.1" accuracy="correct">Inside the car was like a hot day. The windows were a glass and outside was like cold lemonade. The water vapor condensed and turned into water. It stuck to the window because that is near the cold part.</studentAnswer>
+    <studentAnswer id="WA.52b.507.1" accuracy="incorrect">When it is a cold and rainy night you usually want to put the defrost on the inside of your car that causes the fog.</studentAnswer>
+    <studentAnswer id="WA.52b.508.1" accuracy="correct">The windows were cold so the water vapor tried to get outside of the car but it could not so it stuck to the windows.</studentAnswer>
+    <studentAnswer id="WA.52b.509.1" accuracy="incorrect">The windows were cold and when warm air hits something cold the molecules want to expand and then they hit the cold air and contract and make themselves visible.</studentAnswer>
+    <studentAnswer id="WA.52b.525.1" accuracy="incorrect">Because it was very cold.</studentAnswer>
+    <studentAnswer id="WA.52b.528.1" accuracy="incorrect">It was glass so that is how fog got on it just like if you are in the shower if you have a mirror it will fog up.</studentAnswer>
+    <studentAnswer id="WA.52b.529.1" accuracy="correct">The windows were really cold and got condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.539.1" accuracy="incorrect">The rain caused it.</studentAnswer>
+    <studentAnswer id="WA.52b.542.1" accuracy="incorrect">It had nothing to do with the window. It had to do with the air.</studentAnswer>
+    <studentAnswer id="WA.52b.556.1" accuracy="incorrect">The windows were cold on one side and warm on the other.</studentAnswer>
+    <studentAnswer id="WA.52b.558.1" accuracy="incorrect">The heater is may be cold outside on the window.</studentAnswer>
+    <studentAnswer id="WA.52b.559.1" accuracy="incorrect">Because the fog went on the window because the water in the fog wanted to be on a surface so it went on the window.</studentAnswer>
+    <studentAnswer id="WA.52b.565.1" accuracy="incorrect">Because outside there was a lot of water and the water condensed on the window, and condensation happens on cold surfaces and the window is cold.</studentAnswer>
+    <studentAnswer id="WA.52b.566.1" accuracy="incorrect">Because the cold condensation stuck to the clear surface.</studentAnswer>
+    <studentAnswer id="WA.52b.567.1" accuracy="incorrect">The windows on the outside are cold and so water goes to the opposite side of the coldness. Because water likes cold air.</studentAnswer>
+    <studentAnswer id="WA.52b.575.1" accuracy="incorrect">Water vapor in the car.</studentAnswer>
+    <studentAnswer id="WA.52b.577.1" accuracy="incorrect">The heat in the a car made the water vapor expand to the cloud spot.</studentAnswer>
+    <studentAnswer id="WA.52b.591.1" accuracy="incorrect">It had rain on it and it was cold.</studentAnswer>
+    <studentAnswer id="WA.52b.603.1" accuracy="incorrect">Because it was very cold and then they started the car up and then there was heat and water vapor formed.</studentAnswer>
+    <studentAnswer id="WA.52b.626.1" accuracy="incorrect">Because the weather is rainy and cold to make steam from the air bisect like a magnet to glass window.</studentAnswer>
+    <studentAnswer id="WA.52b.627.1" accuracy="incorrect">It was the coldest area possible for the condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.628.1" accuracy="incorrect">One side was wet and cold and the other side is warm and dry so it makes condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.629.1" accuracy="incorrect">The fog was caused by water vapor and condensation.</studentAnswer>
+    <studentAnswer id="WA.52b.630.1" accuracy="incorrect">There was moisture inside and it was cold outside.</studentAnswer>
+    <studentAnswer id="WA.52b.631.1" accuracy="incorrect">The weather was cold.</studentAnswer>
+    <studentAnswer id="WA.52b.635.1" accuracy="incorrect">The fog on the window was water vapor that is what caused the fog on the window.</studentAnswer>
+    <studentAnswer id="WA.52b.637.1" accuracy="incorrect">The air and the water vapor mixed together and stuck onto the window.</studentAnswer>
+    <studentAnswer id="WA.52b.638.1" accuracy="incorrect">The windows were cooler than the inside of the car.</studentAnswer>
+    <studentAnswer id="WA.52b.639.1" accuracy="incorrect">Because it is warm inside and the water was cold so it caused water vapor.</studentAnswer>
+    <studentAnswer id="WA.52b.640.1" accuracy="incorrect">When it is cold and warm the cold I think pushed the window.</studentAnswer>
+  </studentAnswers>
+</question>

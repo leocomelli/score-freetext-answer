@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_15a" module="VB">
+  <questionText>3 girls wanted to see who could throw a ball the farthest. Each girl brought her favorite ball to the park. Ling brought her basketball, Diana brought her football, and Rachael brought her baseball. They made a line on the playground. They all had to throw the ball from that line. Ling took 2 steps up to the line and threw her basketball. Diana stood at the line and threw her football. Rachael got a running start and threw her baseball when she reached the line. Rachael threw her ball the farthest. What variable did the girls control in the contest?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_15a-a1">The launch position (line on the playground) is the variable that is controlled.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.15a.381.1" accuracy="correct">Where she threw the ball.</studentAnswer>
+    <studentAnswer id="VB.15a.384.1" accuracy="correct">Where you throw the ball from.</studentAnswer>
+    <studentAnswer id="VB.15a.388.1" accuracy="correct">Throwing the ball from the same line.</studentAnswer>
+    <studentAnswer id="VB.15a.397.1" accuracy="incorrect">The size, mass, and whether or not they take a running start, stay in front of the line or 2 step start.</studentAnswer>
+    <studentAnswer id="VB.15a.399.1" accuracy="correct">Where they throw their ball from.</studentAnswer>
+    <studentAnswer id="VB.15a.401.1" accuracy="correct">They controlled where they throw their ball.</studentAnswer>
+    <studentAnswer id="VB.15a.404.1" accuracy="correct">Where they threw.</studentAnswer>
+    <studentAnswer id="VB.15a.416.1" accuracy="correct">That they all threw their ball at the same place.</studentAnswer>
+    <studentAnswer id="VB.15a.419.1" accuracy="incorrect">The girls controlled the basketball and baseball. Also a football.</studentAnswer>
+    <studentAnswer id="VB.15a.423.1" accuracy="incorrect">They all used a ball.</studentAnswer>
+    <studentAnswer id="VB.15a.429.1" accuracy="correct">Where they let go of the ball.</studentAnswer>
+    <studentAnswer id="VB.15a.432.1" accuracy="incorrect">How far the balls went in the field.</studentAnswer>
+    <studentAnswer id="VB.15a.440.1" accuracy="correct">They had to throw at a line.</studentAnswer>
+    <studentAnswer id="VB.15a.444.1" accuracy="correct">They all threw the ball at the line.</studentAnswer>
+    <studentAnswer id="VB.15a.452.1" accuracy="correct">Where they threw it from.</studentAnswer>
+    <studentAnswer id="VB.15a.458.1" accuracy="correct">Where they threw their ball from.</studentAnswer>
+    <studentAnswer id="VB.15a.466.1" accuracy="incorrect">The variable the girls controlled was the way they threw the ball.</studentAnswer>
+    <studentAnswer id="VB.15a.471.1" accuracy="correct">They controlled the line.</studentAnswer>
+    <studentAnswer id="VB.15a.477.1" accuracy="incorrect">The variable they controlled was bringing their own balls.</studentAnswer>
+    <studentAnswer id="VB.15a.483.1" accuracy="correct">Where the place they had to throw the ball from.</studentAnswer>
+    <studentAnswer id="VB.15a.489.1" accuracy="correct">The controlled the line where they were going to throw the ball.</studentAnswer>
+    <studentAnswer id="VB.15a.496.1" accuracy="incorrect">Throwing the ball.</studentAnswer>
+    <studentAnswer id="VB.15a.501.1" accuracy="incorrect">The balls.</studentAnswer>
+    <studentAnswer id="VB.15a.503.1" accuracy="incorrect">She controlled her energy to throw more.</studentAnswer>
+    <studentAnswer id="VB.15a.511.1" accuracy="correct">How they stood in the line, and how far they are.</studentAnswer>
+    <studentAnswer id="VB.15a.523.1" accuracy="correct">The line.</studentAnswer>
+    <studentAnswer id="VB.15a.525.1" accuracy="incorrect">They threw the balls.</studentAnswer>
+    <studentAnswer id="VB.15a.530.1" accuracy="correct">They all threw the ball at the line.</studentAnswer>
+    <studentAnswer id="VB.15a.535.1" accuracy="correct">The way they stand at the line.</studentAnswer>
+    <studentAnswer id="VB.15a.537.1" accuracy="incorrect">How far the ball goes behind the line.</studentAnswer>
+    <studentAnswer id="VB.15a.545.1" accuracy="incorrect">How high it will go.</studentAnswer>
+    <studentAnswer id="VB.15a.626.1" accuracy="correct">Staying at the line.</studentAnswer>
+    <studentAnswer id="VB.15a.628.1" accuracy="incorrect">Kinds of balls.</studentAnswer>
+    <studentAnswer id="VB.15a.632.1" accuracy="correct">The line.</studentAnswer>
+    <studentAnswer id="VB.15a.634.1" accuracy="correct">The lines.</studentAnswer>
+    <studentAnswer id="VB.15a.638.1" accuracy="correct">Where they threw the ball.</studentAnswer>
+  </studentAnswers>
+</question>

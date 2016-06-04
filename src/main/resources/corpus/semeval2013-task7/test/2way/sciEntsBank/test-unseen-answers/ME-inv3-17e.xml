@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_17e" module="ME">
+  <questionText>Denise made a circuit to light a bulb or run a motor. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. Can she run both the light and the motor at the same time? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17e-a1">No. Only one circuit can be complete at a time.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17e.111.1" accuracy="incorrect">No because the switch is hooked in the middle.</studentAnswer>
+    <studentAnswer id="ME.17e.147.1" accuracy="incorrect">Yes if it go in a circle.</studentAnswer>
+    <studentAnswer id="ME.17e.195.1" accuracy="incorrect">She can too because it will be in a It will be a closed circuit.</studentAnswer>
+    <studentAnswer id="ME.17e.212.1" accuracy="incorrect">No she cannot, because the battery D-cell cannot hold that much energy.</studentAnswer>
+  </studentAnswers>
+</question>

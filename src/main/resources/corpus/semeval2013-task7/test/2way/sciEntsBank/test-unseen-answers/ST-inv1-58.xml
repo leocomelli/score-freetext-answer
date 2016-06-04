@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ST_58" module="ST">
+  <questionText>What is your "rule" for deciding if the part of a plant you are observing is a fruit?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_58-a1">If a part of the plant contains seeds, that part is the fruit.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.58.417.1" accuracy="correct">To see if it have seed.</studentAnswer>
+    <studentAnswer id="ST.58.533.1" accuracy="correct">Because it has seeds.</studentAnswer>
+    <studentAnswer id="ST.58.595.1" accuracy="correct">If it has seed inside it is a fruit.</studentAnswer>
+    <studentAnswer id="ST.58.637.1" accuracy="incorrect">It is plant.</studentAnswer>
+  </studentAnswers>
+</question>

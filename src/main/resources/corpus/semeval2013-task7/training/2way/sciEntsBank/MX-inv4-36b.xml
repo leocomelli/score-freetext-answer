@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MX_36b" module="MX">
+  <questionText>Grace set up a science experiment. Here's what she wrote in her notebook. First I put eggshells into a cup and covered them with vinegar. After a while, small bubbles appeared on the surface of the eggshells. The next day there were more bubbles. In a couple of days, the eggshells were gone and the liquid was clear. I think I made a solution and a reaction. Explain why Grace thinks she made a reaction.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_36b-a1">A reaction was indicated by the bubbles of gas (a new material) being produced.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.36b.136.1" accuracy="correct">Because after a while small bubbles appeared, but in the next day, bubbles, starting to be more eggshells were disappeared.</studentAnswer>
+    <studentAnswer id="MX.36b.151.1" accuracy="correct">She made a reaction because it started to bubble after a while.</studentAnswer>
+    <studentAnswer id="MX.36b.181.1" accuracy="correct">She made a reaction because bubbles appeared.</studentAnswer>
+    <studentAnswer id="MX.36b.185.1" accuracy="correct">She did make a reaction by saying that there was bubbles in the cup.</studentAnswer>
+    <studentAnswer id="MX.36b.261.1" accuracy="incorrect">The eggshells were gone.</studentAnswer>
+    <studentAnswer id="MX.36b.267.1" accuracy="correct">Grace thinks she made a reaction because bubbles appeared on the eggshells and that is what a reaction is.</studentAnswer>
+    <studentAnswer id="MX.36b.282.1" accuracy="correct">Because there are bubbles and the shells just disappeared.</studentAnswer>
+    <studentAnswer id="MX.36b.381.1" accuracy="incorrect">There was bubbles but just there was a gas.</studentAnswer>
+    <studentAnswer id="MX.36b.387.1" accuracy="correct">Because it was bubbles and fizzing.</studentAnswer>
+    <studentAnswer id="MX.36b.389.1" accuracy="correct">Because it started bubble.</studentAnswer>
+    <studentAnswer id="MX.36b.425.1" accuracy="correct">Because the eggshells bubbled then dissolved.</studentAnswer>
+    <studentAnswer id="MX.36b.430.1" accuracy="correct">Because it bubbled.</studentAnswer>
+    <studentAnswer id="MX.36b.431.1" accuracy="correct">Bubbles on the eggshells.</studentAnswer>
+    <studentAnswer id="MX.36b.433.1" accuracy="incorrect">Because there were bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.436.1" accuracy="correct">Because there was bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.437.1" accuracy="correct">The bubbles made a reaction.</studentAnswer>
+    <studentAnswer id="MX.36b.462.1" accuracy="correct">Because there were gas bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.469.1" accuracy="correct">Because she use eggshells and vinegar then small bubbles appeared then there were more bubbles the eggshells turned into a liquid.</studentAnswer>
+    <studentAnswer id="MX.36b.486.1" accuracy="correct">Because a reaction is where something combines and changes start which is a fizz or bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.488.1" accuracy="correct">Because there were a lot of bubbles. That one of the effects of a reaction.</studentAnswer>
+    <studentAnswer id="MX.36b.490.1" accuracy="correct">Because there were gas bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.494.1" accuracy="correct">It was a slow reaction but when it started to bubble and the shell dissolved it was a reaction.</studentAnswer>
+    <studentAnswer id="MX.36b.495.1" accuracy="correct">Because there was a lot of bubbles on the eggshell after she added the vinegar.</studentAnswer>
+    <studentAnswer id="MX.36b.497.1" accuracy="correct">Because she saw bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.503.1" accuracy="incorrect">Because she put eggshells in a cup and covered them with vinegar and after a couple of days she saw that they were gone.</studentAnswer>
+    <studentAnswer id="MX.36b.504.1" accuracy="correct">A few bubbles came. Gas.</studentAnswer>
+    <studentAnswer id="MX.36b.525.1" accuracy="incorrect">Because the egg shells disappeared.</studentAnswer>
+    <studentAnswer id="MX.36b.537.1" accuracy="correct">She made bubbles and that is a common sign of a reaction.</studentAnswer>
+    <studentAnswer id="MX.36b.556.1" accuracy="incorrect">Because she mix more there was fizz.</studentAnswer>
+    <studentAnswer id="MX.36b.596.1" accuracy="correct">Because there were more bubbles everyday.</studentAnswer>
+    <studentAnswer id="MX.36b.597.1" accuracy="correct">Because the eggshells bubbled and a few days later the eggshells were gone.</studentAnswer>
+    <studentAnswer id="MX.36b.601.1" accuracy="correct">She did make a reaction because she saw bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.607.1" accuracy="correct">Because it bubbled.</studentAnswer>
+    <studentAnswer id="MX.36b.609.1" accuracy="incorrect">Because it was gone.</studentAnswer>
+    <studentAnswer id="MX.36b.611.1" accuracy="correct">Because it had bubbles appearing.</studentAnswer>
+    <studentAnswer id="MX.36b.612.1" accuracy="correct">It bubbled that is why.</studentAnswer>
+  </studentAnswers>
+</question>

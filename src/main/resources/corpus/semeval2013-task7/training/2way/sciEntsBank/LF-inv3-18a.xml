@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="LF_18a" module="LF">
+  <questionText>How does the water flow in a creek during a flood compared to normal water flow?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_18a-a1">During a flood there is more water in the creek and the water flows faster.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.18a.101.1" accuracy="incorrect">It depends on if it has a slope or no slope.</studentAnswer>
+    <studentAnswer id="LF.18a.114.1" accuracy="correct">A flood will make the creek overflow faster and will make more damage.</studentAnswer>
+    <studentAnswer id="LF.18a.120.1" accuracy="incorrect">It flows faster and carries lots of birdie.</studentAnswer>
+    <studentAnswer id="LF.18a.122.1" accuracy="incorrect">With normal water flow there is not as much water than a flood.</studentAnswer>
+    <studentAnswer id="LF.18a.148.1" accuracy="correct">The flood water rises and goes really fast picking up sand and dirt.</studentAnswer>
+    <studentAnswer id="LF.18a.184.1" accuracy="incorrect">Water flows with a lot more force normal water goes a lot less fast.</studentAnswer>
+    <studentAnswer id="LF.18a.189.1" accuracy="incorrect">They both create erosion.</studentAnswer>
+    <studentAnswer id="LF.18a.221.1" accuracy="correct">During a flood the creek's volume will increase greatly, the water will run faster, and there will be mudslides, compared to normal water flow, which is constant and steady, and erodes less.</studentAnswer>
+    <studentAnswer id="LF.18a.223.1" accuracy="incorrect">It will flow fast and crazy, but with a normal one it floods slow and calm.</studentAnswer>
+    <studentAnswer id="LF.18a.248.1" accuracy="incorrect">The water flow in a creek during a flood is different from normal water flow because the water during a flood would flow more rapidly than the normal flow.</studentAnswer>
+    <studentAnswer id="LF.18a.256.1" accuracy="correct">The difference between a flooded creek and a normal creek is water level and water pressure.</studentAnswer>
+    <studentAnswer id="LF.18a.258.1" accuracy="incorrect">During a flood, the water flow is faster and heavier.</studentAnswer>
+    <studentAnswer id="LF.18a.265.1" accuracy="correct">The water goes faster and the water gets higher and it start to overflow.</studentAnswer>
+    <studentAnswer id="LF.18a.281.1" accuracy="correct">The water flows quickly during floods and also the water is high and normal water flows pretty calm and is not usually as high as water is during floods.</studentAnswer>
+    <studentAnswer id="LF.18a.282.1" accuracy="correct">The water in a chart is much higher during a flood and it goes faster.</studentAnswer>
+    <studentAnswer id="LF.18a.284.1" accuracy="correct">The water rises and starts getting wavy and out of hand.</studentAnswer>
+    <studentAnswer id="LF.18a.285.1" accuracy="incorrect">In a flood it would spread farther.</studentAnswer>
+    <studentAnswer id="LF.18a.288.1" accuracy="correct">In a flood the water flows faster than in normal water level.</studentAnswer>
+    <studentAnswer id="LF.18a.289.1" accuracy="incorrect">A creek usually flows slowly and floods usually flow quickly.</studentAnswer>
+    <studentAnswer id="LF.18a.295.1" accuracy="incorrect">It flows faster because of the water current pushing the other one.</studentAnswer>
+    <studentAnswer id="LF.18a.350.1" accuracy="incorrect">It will flow faster and might swerve off track.</studentAnswer>
+    <studentAnswer id="LF.18a.352.1" accuracy="correct">The writer in the flood goes faster and more water comes out at once.</studentAnswer>
+    <studentAnswer id="LF.18a.673.1" accuracy="incorrect">The water in the creek during a flood is more capped than a normal molten. During a flood the water runs through more quickly and picks up earth materials in deposition first and takes them further. Also erosion happen more quickly.</studentAnswer>
+    <studentAnswer id="LF.18a.674.1" accuracy="correct">The water would flow much faster and rise above the marshes. During a normal day the water would not be moving very fast and if would not be over the marshes.</studentAnswer>
+    <studentAnswer id="LF.18a.676.1" accuracy="incorrect">When there is a flood the water flow is much faster. It is also stronger.</studentAnswer>
+    <studentAnswer id="LF.18a.678.1" accuracy="incorrect">It flows faster.</studentAnswer>
+    <studentAnswer id="LF.18a.701.1" accuracy="incorrect">The water flows a lot faster during a flood compared to the speed flowing during a normal flow.</studentAnswer>
+    <studentAnswer id="LF.18a.702.1" accuracy="incorrect">It overflows in a creek and a lake on river.</studentAnswer>
+    <studentAnswer id="LF.18a.779.1" accuracy="incorrect">In a flood the water would be moving stronger and faster than usual.</studentAnswer>
+    <studentAnswer id="LF.18a.801.1" accuracy="incorrect">Flood water has a great velocity and force.</studentAnswer>
+    <studentAnswer id="LF.18a.811.1" accuracy="incorrect">The water overlaps the area around the creek during a flood.</studentAnswer>
+    <studentAnswer id="LF.18a.823.1" accuracy="correct">The water goes out of its channel. The water speeds up.</studentAnswer>
+    <studentAnswer id="LF.18a.825.1" accuracy="incorrect">The water in the creek during a flood will flow much harder and faster causing more and more erosion compared to water flow without creek.</studentAnswer>
+    <studentAnswer id="LF.18a.838.1" accuracy="incorrect">It is compared to different speed a flow patterns.</studentAnswer>
+    <studentAnswer id="LF.18a.848.1" accuracy="correct">The water flows in a faster range than normal because there is more water.</studentAnswer>
+    <studentAnswer id="LF.18a.940.1" accuracy="incorrect">The water flow in a creek during a flood compared to normal water flow is the same.</studentAnswer>
+  </studentAnswers>
+</question>

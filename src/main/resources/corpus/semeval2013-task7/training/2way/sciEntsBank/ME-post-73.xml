@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<question id="ME_73" module="ME">
+  <questionText>Wendy is making an electromagnet. She wrapped a long, insulated wire around an iron nail. What should Wendy do next to complete the electromagnet?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_73-a1">Wendy should hook one end of the wire to the negative side of a D-cell battery and the other end to the positive side of the D-cell battery.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.73.101.1" accuracy="correct">She would put and back it to a D-cell.</studentAnswer>
+    <studentAnswer id="ME.73.102.1" accuracy="incorrect">Stick it into the clips and close the switch.</studentAnswer>
+    <studentAnswer id="ME.73.105.1" accuracy="incorrect">She should hook the extra wire from the wrapping part and connect the wires to the switch and D-cell battery. Then stick a short wire to connect the D-cell and switch.</studentAnswer>
+    <studentAnswer id="ME.73.107.1" accuracy="correct">Wendy will connect the wire to a D-cell battery and switch, switch optional.</studentAnswer>
+    <studentAnswer id="ME.73.111.1" accuracy="correct">She should hook it to a D-cell.</studentAnswer>
+    <studentAnswer id="ME.73.118.1" accuracy="correct">Hook the wires to the power source.</studentAnswer>
+    <studentAnswer id="ME.73.119.1" accuracy="correct">Connect it to a battery and a switch.</studentAnswer>
+    <studentAnswer id="ME.73.120.1" accuracy="correct">Connect one of the tips of the long wire to the switch. Connect the other long end of the wire to the D-cell and connect the short wire to the D-cell and the switch.</studentAnswer>
+    <studentAnswer id="ME.73.123.1" accuracy="incorrect">Hook the wire to a D-cell. Get a switch and another wire hook that wire to the switch. Get something made of metal. Press the top of the nail to the metal thing, they should stick.</studentAnswer>
+    <studentAnswer id="ME.73.140.1" accuracy="correct">Get another wire hook it with the D-cell and the switch get the insulated wire and hook it to the switch and D-cell then turn it on with the switch and there a electromagnet.</studentAnswer>
+    <studentAnswer id="ME.73.141.1" accuracy="correct">Get a D-cell and a switch, connect the insulated wire to the switch and battery and you have an electromagnet.</studentAnswer>
+    <studentAnswer id="ME.73.142.1" accuracy="incorrect">She should see if the magnet works as a electromagnet.</studentAnswer>
+    <studentAnswer id="ME.73.146.1" accuracy="incorrect">She should get a D-cell to make it work.</studentAnswer>
+    <studentAnswer id="ME.73.147.1" accuracy="correct">Put the wires to the D-cell.</studentAnswer>
+    <studentAnswer id="ME.73.152.1" accuracy="incorrect">Attach the wire to each end of the nail.</studentAnswer>
+    <studentAnswer id="ME.73.154.1" accuracy="correct">She should hook the wire to the D-cell and switch and see if it will pick up iron or steel.</studentAnswer>
+    <studentAnswer id="ME.73.155.1" accuracy="incorrect">Wendy, you should have a D-cell or a D-cell it does not matter. And a switch if you want it to work.</studentAnswer>
+    <studentAnswer id="ME.73.159.1" accuracy="incorrect">Get a D-cell and a switch.</studentAnswer>
+    <studentAnswer id="ME.73.174.1" accuracy="correct">Wendy can hook one side of the wire to a switch, and the other side of the wire to the negative side of the D-cell after that get another small wire and hook that to the positive side of the D-cell and to the top of the switch.</studentAnswer>
+    <studentAnswer id="ME.73.176.1" accuracy="correct">She should attach one wire to a D-cell and the other to a switch. Then, she connects the D-cell and switch with a wire.</studentAnswer>
+    <studentAnswer id="ME.73.180.1" accuracy="correct">Wendy should get a D-cell and hook it up to the insulated wire and get a switch and hook some wires up to that, then she should get little washers and put them somewhere. Then you have an electromagnet.</studentAnswer>
+    <studentAnswer id="ME.73.181.1" accuracy="incorrect">Wendy should connect all the wires then to see if it works Wendy can try to pick up some washers.</studentAnswer>
+    <studentAnswer id="ME.73.185.1" accuracy="correct">Wendy should connect the insulated wire to a D-cell and a switch and that will be a complete circuit and it will attract iron or steel.</studentAnswer>
+    <studentAnswer id="ME.73.189.1" accuracy="correct">She should attach a switch to one side of the wire and attach the other to the D-cell. Attach another wire to the D-cell and switch.</studentAnswer>
+    <studentAnswer id="ME.73.190.1" accuracy="correct">Connect the wire to a D-cell and connect the wire to a switch and turn it on.</studentAnswer>
+    <studentAnswer id="ME.73.195.1" accuracy="incorrect">Wendy should plug in the electromagnet.</studentAnswer>
+    <studentAnswer id="ME.73.207.1" accuracy="correct">Wendy will get a battery and connect the wires to the battery, get a battery holder.</studentAnswer>
+    <studentAnswer id="ME.73.208.1" accuracy="correct">Connect it to a battery.</studentAnswer>
+    <studentAnswer id="ME.73.214.1" accuracy="correct">Then Wendy should get another piece of wire and wrap it around the nail also then connect the other end of the wire to a negative and a positive.</studentAnswer>
+    <studentAnswer id="ME.73.215.1" accuracy="correct">Hook the wires to both sides of a battery.</studentAnswer>
+    <studentAnswer id="ME.73.217.1" accuracy="incorrect">She needs a D-cell and washers.</studentAnswer>
+    <studentAnswer id="ME.73.225.1" accuracy="incorrect">Wendy should connect the long wire to the battery next.</studentAnswer>
+    <studentAnswer id="ME.73.227.1" accuracy="incorrect">Wendy needs to get little washers and stick the iron to the washer.</studentAnswer>
+    <studentAnswer id="ME.73.250.1" accuracy="incorrect">She would need a switch then she would turn on the switch she would also need a D-cell.</studentAnswer>
+    <studentAnswer id="ME.73.252.1" accuracy="correct">Connect the wire to the D-cell and turn it on.</studentAnswer>
+    <studentAnswer id="ME.73.256.1" accuracy="incorrect">She needs a D-cell to make it run.</studentAnswer>
+    <studentAnswer id="ME.73.277.1" accuracy="correct">Connect the wires to a battery or power source.</studentAnswer>
+    <studentAnswer id="ME.73.283.1" accuracy="correct">Hook it up to the D-cell then to the stick.</studentAnswer>
+    <studentAnswer id="ME.73.328.1" accuracy="correct">To complete the circuit she needs to connect both ends of the wire to both end of a D-cell. You can use a switch.</studentAnswer>
+  </studentAnswers>
+</question>

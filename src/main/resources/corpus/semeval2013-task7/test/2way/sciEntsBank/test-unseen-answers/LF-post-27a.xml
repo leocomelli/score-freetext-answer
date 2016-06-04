@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_27a" module="LF">
+  <questionText>The change in elevation between contour line A and contour line B is 20 meters. What is the change in elevation between contour line A and contour line C? How do you know that is the change in elevation between A and C?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_27a-a1">40 meters. The change in elevation is 20 meters between A and B and 20 meters between B and C. So the change between A and C is 40 meters. 20 m plus 20 m equals 40 m.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.27a.407.1" accuracy="incorrect">Because the circle is gets bigger.</studentAnswer>
+    <studentAnswer id="LF.27a.414.1" accuracy="correct">40 meters, I know because each contour line is 20 meters.</studentAnswer>
+    <studentAnswer id="LF.27a.461.1" accuracy="incorrect">B, Because it is between the A and C.</studentAnswer>
+    <studentAnswer id="LF.27a.682.1" accuracy="correct">40 meters, The contour elevation goes up by 20 meters and if you double 20 you get 40.</studentAnswer>
+  </studentAnswers>
+</question>

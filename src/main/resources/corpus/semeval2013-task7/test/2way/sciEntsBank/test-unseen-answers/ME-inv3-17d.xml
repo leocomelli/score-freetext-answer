@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_17d" module="ME">
+  <questionText> Denise made a circuit to light a bulb or run a motor off a D-cell battery. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. Why will the motor run when she moves the switch to the right?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17d-a1">There is a complete circuit connecting the motor to the D-cell battery.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17d.111.1" accuracy="incorrect">Because the battery is hooked to the switch.</studentAnswer>
+    <studentAnswer id="ME.17d.253.1" accuracy="incorrect">Because Right is to turn off and Left is to turn on.</studentAnswer>
+    <studentAnswer id="ME.17d.254.1" accuracy="incorrect">Because she used the special switch.</studentAnswer>
+    <studentAnswer id="ME.17d.313.1" accuracy="correct">Because if you already had a series circuit then it has to be a parallel circuit.</studentAnswer>
+  </studentAnswers>
+</question>

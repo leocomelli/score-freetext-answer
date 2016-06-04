@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="FN_27a" module="FN">
+  <questionText>Jana and Emily used indophenol to test 3 beverages for vitamin C. The number of drops they added to make a 10 milliliter sample of the blue indophenol indicator become colorless are given here: 8 drops of Overly Orange 13 drops of Luscious Lemon 33 drops of Fruitsnap (and it still didn't change color). Does Overly Orange or Luscious Lemon contain a higher concentration of vitamin C? What is the evidence?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_27a-a1">Overly Orange takes fewer drops to change the color of indophenol so Overly Orange has a higher concentration of vitamin C.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.27a.111.1" accuracy="correct">I think Overly Orange juice because it took less drops.</studentAnswer>
+    <studentAnswer id="FN.27a.148.1" accuracy="correct">Overly Orange, OO, has more because it has less drops. Luscious Lemon does not have as much as OO because of the drops.</studentAnswer>
+    <studentAnswer id="FN.27a.160.1" accuracy="correct">Overly Orange contains higher concentration because the one with the least drops contains most vitamin C. Orange 8, Lemon 13.</studentAnswer>
+    <studentAnswer id="FN.27a.174.1" accuracy="correct">Overly Orange contains a higher concentration of vitamin C. The evidence is because if the juice becomes clear with less drops of vitamin C, it means that the vitamin C is strong in that juice.</studentAnswer>
+    <studentAnswer id="FN.27a.180.1" accuracy="incorrect">Overly Orange because orange does contain more color.</studentAnswer>
+    <studentAnswer id="FN.27a.182.1" accuracy="correct">Overly Orange because it took fewer drops than Luscious Lemon.</studentAnswer>
+    <studentAnswer id="FN.27a.185.1" accuracy="correct">Overly Orange contains more vitamin C because they put less drops of Overly into the container.</studentAnswer>
+    <studentAnswer id="FN.27a.215.1" accuracy="incorrect">No because if it does not go clear it has no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.221.1" accuracy="correct">Overly Orange contains a higher concentration of vitamin C, because it took less drops to change the color.</studentAnswer>
+    <studentAnswer id="FN.27a.252.1" accuracy="incorrect">Overly contains a higher amount of vitamin C in it because it took less indophenol to turn the colored juice clear.</studentAnswer>
+    <studentAnswer id="FN.27a.263.1" accuracy="correct">Overly Orange because it took the least amount of drops to turn clear.</studentAnswer>
+    <studentAnswer id="FN.27a.311.1" accuracy="correct">Overly Orange had the most vitamin C because it does not use the most amount of drops.</studentAnswer>
+    <studentAnswer id="FN.27a.326.1" accuracy="incorrect">Luscious Lemon has a higher concentration of vitamin C because lemons are really sour and Overly Orange was not that sour.</studentAnswer>
+    <studentAnswer id="FN.27a.339.1" accuracy="correct">Overly Orange 5 less than the Luscious Lemon and was quicker to change color.</studentAnswer>
+    <studentAnswer id="FN.27a.351.1" accuracy="incorrect">Yes because it had a higher concentration of vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.355.1" accuracy="correct">Overly Orange contains more vitamin C because it took less drops to change the color of the indophenol.</studentAnswer>
+    <studentAnswer id="FN.27a.366.1" accuracy="correct">Yes because vitamin C makes the indicator clear and the lower amount of drops the more vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.367.1" accuracy="correct">Overly Orange contains more vitamin C, the evidence is that there are fewer drops needed before the liquid turned clear.</studentAnswer>
+    <studentAnswer id="FN.27a.372.1" accuracy="correct">Overly Orange. It has less drops and which one is less has higher vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.398.1" accuracy="correct">No because the least drops you put the more concentrated it is.</studentAnswer>
+    <studentAnswer id="FN.27a.403.1" accuracy="incorrect">No because the color did not change. If the color still would stay the same it vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.419.1" accuracy="correct">Only the Overly Orange contains lots of vitamin C because the blue water became clear in 8 drops. It is less than drops than Luscious Lemon.</studentAnswer>
+    <studentAnswer id="FN.27a.422.1" accuracy="correct">Overly Orange and Luscious Lemon have more vitamin C because it took only a couple drops to make the indophenol clear.</studentAnswer>
+    <studentAnswer id="FN.27a.442.1" accuracy="correct">Overly Orange has more because of the amount of drops she put in.</studentAnswer>
+    <studentAnswer id="FN.27a.443.1" accuracy="correct">Yes it did because the lower the number the more vitamin C and they both have low numbers.</studentAnswer>
+    <studentAnswer id="FN.27a.448.1" accuracy="correct">Yes, because if it has lower drops it has more vitamin than others.</studentAnswer>
+    <studentAnswer id="FN.27a.453.1" accuracy="incorrect">I think that the Overly Orange and the Luscious Lemon do not contain a higher concentration because they clear the indophenol fast.</studentAnswer>
+    <studentAnswer id="FN.27a.461.1" accuracy="correct">Overly Orange then less the drops the more vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.507.1" accuracy="correct">Overly Orange has the higher concentration of vitamin C because I took less amount of drops.</studentAnswer>
+    <studentAnswer id="FN.27a.547.1" accuracy="correct">Overly Orange has higher concentration and the evidence is the overly Orange has 8 drops and Luscious Lemon has 13 drops.</studentAnswer>
+    <studentAnswer id="FN.27a.549.1" accuracy="incorrect">Overly Orange has 120 percent of vitamin C and Luscious Lemon has 50 percent.</studentAnswer>
+    <studentAnswer id="FN.27a.567.1" accuracy="correct">Overly Orange contain the higher vitamin C because the less drops the more vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27a.574.1" accuracy="incorrect">Luscious Lemon contains higher vitamin C. The evidence is that it has more drops so that is the evidence.</studentAnswer>
+    <studentAnswer id="FN.27a.592.1" accuracy="incorrect">Yes, because the drops tell what happen and it tell that this item had not so much sugar especially Overly Orange.</studentAnswer>
+    <studentAnswer id="FN.27a.596.1" accuracy="incorrect">Overly Orange and Luscious Lemon have vitamin C. My evidence are that it says that Overly Orange had 8 drops, and Luscious Lemon had 13 drops, and that also means that it has Vitamin C.</studentAnswer>
+  </studentAnswers>
+</question>

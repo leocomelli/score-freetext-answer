@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LP_15c" module="LP">
+  <questionText>What is the relationship between the amount of effort required to lift the load and its distance from the fulcrum?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LP_15c-a1">If the effort is applied farther from the fulcrum, less effort will lift the load.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LP.15c.145.1" accuracy="incorrect">They both start off with 0. And they both have effort in it.</studentAnswer>
+    <studentAnswer id="LP.15c.171.1" accuracy="correct">If the effort is farther from the fulcrum, it takes less effort to lift it.</studentAnswer>
+    <studentAnswer id="LP.15c.425.1" accuracy="correct">The farther the effort is applied from the fulcrum the effort decreases.</studentAnswer>
+    <studentAnswer id="LP.15c.630.1" accuracy="incorrect">If the effort is closer to the fulcrum then it is easier but if the effort is farther from the fulcrum then it is harder.</studentAnswer>
+  </studentAnswers>
+</question>

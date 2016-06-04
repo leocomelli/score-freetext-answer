@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_22c" module="VB">
+  <questionText>Describe what the graph tells you about the relationship between the number of scoops of fertilizer and the mass of beans harvested?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_22c-a1">When less than 3 scoops of fertilizer are used, the more fertilizer used, the greater the mass of beans harvested. When more than 3 scoops of fertilizer are used, the more fertilizer used, the less the mass of beans harvested.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.22c.381.1" accuracy="correct">When it get up to 3 scoops the mass of beans harvested decreases.</studentAnswer>
+    <studentAnswer id="VB.22c.384.1" accuracy="incorrect">As the fertilizer increases the beans increase then decrease.</studentAnswer>
+    <studentAnswer id="VB.22c.394.1" accuracy="correct">If you use anything under 3 scoops you will not get your greatest mass. If you use anything over 3 scoops you will also not get your greatest mass.</studentAnswer>
+    <studentAnswer id="VB.22c.397.1" accuracy="incorrect">The more scoops of fertilizer the bigger they get. The more scoops of fertilizer the smaller they get.</studentAnswer>
+    <studentAnswer id="VB.22c.404.1" accuracy="incorrect">As the scoops increase the mass increases until it gets too much fertilizer.</studentAnswer>
+    <studentAnswer id="VB.22c.406.1" accuracy="incorrect">Once the third scoop is added you are good to go and not to use over 3 scoops.</studentAnswer>
+    <studentAnswer id="VB.22c.416.1" accuracy="incorrect">It goes up until it gets to 3 it goes down all the way to 6.</studentAnswer>
+    <studentAnswer id="VB.22c.419.1" accuracy="incorrect">It goes in a pattern like 0 is on 0.2 and like one is on 0.7 and goes from even to odd.</studentAnswer>
+    <studentAnswer id="VB.22c.423.1" accuracy="incorrect">It tells me that the more water she puts in the plant the heavier it is.</studentAnswer>
+    <studentAnswer id="VB.22c.429.1" accuracy="incorrect">The relationship between the number of scoops and the mass of beans is the heavier the bean the more scoops it needs to a plant. Beyond that point, the more scoops it gets the worse it is going to grow.</studentAnswer>
+    <studentAnswer id="VB.22c.440.1" accuracy="correct">Well 3 is the perfect amount because 4 is too many 2 is not enough.</studentAnswer>
+    <studentAnswer id="VB.22c.444.1" accuracy="incorrect">2 and 4 are both the same mass of beans harvest, they are both 1.2 mass.</studentAnswer>
+    <studentAnswer id="VB.22c.448.1" accuracy="incorrect">Every time she put in scoops it went up until 3 scoops. Then it went down.</studentAnswer>
+    <studentAnswer id="VB.22c.458.1" accuracy="correct">It shows that if you put 0 fertilizer then it is 2.0. If you did one scoop she got 0.7 and if you did 2 you got 1.2 and if you did 3 you get 1.5 and 4 is 1.2 5 is 0.5 6 is 0.0.</studentAnswer>
+    <studentAnswer id="VB.22c.462.1" accuracy="incorrect">The graph shows you it keep going up until 4. At 4 probably makes the plant weak and then it keeps going down.</studentAnswer>
+    <studentAnswer id="VB.22c.466.1" accuracy="incorrect">The relationship between the number of scoops of fertilizer and the mass of beans is that 2 scoops of fertilizer and 4 scoops of fertilizer equal 1.2 kilograms of beans.</studentAnswer>
+    <studentAnswer id="VB.22c.475.1" accuracy="incorrect">The green tells you that the relationship between the scoops of fertilizer and mass of beans harvest kilograms, is that they each go apart different.</studentAnswer>
+    <studentAnswer id="VB.22c.481.1" accuracy="correct">When Maya put too less fertilizer the beans weighed very little but when she started putting too much fertilizer the beans also started getting very light. They only time the beans were heavy was when she put 3 scoops. P S not too little not too much.</studentAnswer>
+    <studentAnswer id="VB.22c.495.1" accuracy="incorrect">That the mass of the beans it got higher but the more heavier it got it went down.</studentAnswer>
+    <studentAnswer id="VB.22c.497.1" accuracy="incorrect">That it is going up but at one point it stops and it goes low again.</studentAnswer>
+    <studentAnswer id="VB.22c.498.1" accuracy="incorrect">The more scoops until 3 the more after that goes down.</studentAnswer>
+    <studentAnswer id="VB.22c.503.1" accuracy="incorrect">It grows by the scoops get more then stops at a point and go back down.</studentAnswer>
+    <studentAnswer id="VB.22c.506.1" accuracy="incorrect">It tells me how much Maya used the fertilizer to produce the greatest mass of bean.</studentAnswer>
+    <studentAnswer id="VB.22c.521.1" accuracy="incorrect">It is going higher by the minute.</studentAnswer>
+    <studentAnswer id="VB.22c.523.1" accuracy="incorrect">The graph tells us that she put a different mass of beans. And different scoops of fertilizer.</studentAnswer>
+    <studentAnswer id="VB.22c.530.1" accuracy="incorrect">If she puts too much scoops it goes down if she puts about 3 she gets more.</studentAnswer>
+    <studentAnswer id="VB.22c.533.1" accuracy="incorrect">When you put 3 it weighs more. If you put a lot like 6 the beans will be dead.</studentAnswer>
+    <studentAnswer id="VB.22c.535.1" accuracy="incorrect">If there are the mass of the beans and the fertilizer they will be different.</studentAnswer>
+    <studentAnswer id="VB.22c.542.1" accuracy="incorrect">The mass of beans harvested is getting bigger and higher.</studentAnswer>
+    <studentAnswer id="VB.22c.545.1" accuracy="incorrect">The mass of beans harvested is getting bigger and the scoops of fertilizer is getting higher.</studentAnswer>
+    <studentAnswer id="VB.22c.628.1" accuracy="incorrect">If you put 0 scoops 0.2 beans will come out. If you put 4 scoops 1.2 beans will come out.</studentAnswer>
+    <studentAnswer id="VB.22c.632.1" accuracy="incorrect">0 scoops it got 0.2, one scoop got 0.7, 2 scoops it got 1.2, 3 scoops got 1.5, 4 scoops it got 1.2.</studentAnswer>
+    <studentAnswer id="VB.22c.634.1" accuracy="incorrect">The lower the higher the higher the lower.</studentAnswer>
+    <studentAnswer id="VB.22c.636.1" accuracy="correct">That if she puts 3 scoops the beans will have more mass and the more fertilizer the less mass it has.</studentAnswer>
+    <studentAnswer id="VB.22c.638.1" accuracy="incorrect">The higher the scoops the more but just 3 and down.</studentAnswer>
+    <studentAnswer id="VB.22c.648.1" accuracy="incorrect">At first it gets higher and higher but when it reaches 3 scoops it starts decreasing.</studentAnswer>
+  </studentAnswers>
+</question>

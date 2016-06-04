@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="PS_4ap" module="PS">
+  <questionText>Darla tied one end of a string around a doorknob and held the other end in her hand. When she plucked the string (pulled and let go quickly) she heard a sound. How would the pitch change if Darla pulled the string tighter?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_4a-a1">When the string is tighter, the pitch will be higher.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.4ap.104.1" accuracy="incorrect">It will change the pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.105.1" accuracy="incorrect">The pitch will change by the way she plucks it.</studentAnswer>
+    <studentAnswer id="PS.4ap.110.1" accuracy="incorrect">The pitch would be low.</studentAnswer>
+    <studentAnswer id="PS.4ap.118.1" accuracy="correct">The pitch will get high.</studentAnswer>
+    <studentAnswer id="PS.4ap.141.1" accuracy="correct">Higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.145.1" accuracy="correct">It would have a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.154.1" accuracy="correct">It would make a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.172.1" accuracy="incorrect">The pitch would be lower because it has less room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.4ap.183.1" accuracy="correct">The pitch would get higher.</studentAnswer>
+    <studentAnswer id="PS.4ap.192.1" accuracy="incorrect">It would be lower.</studentAnswer>
+    <studentAnswer id="PS.4ap.195.1" accuracy="correct">It would make a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.222.1" accuracy="correct">It would be a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.230.1" accuracy="incorrect">It would sound louder.</studentAnswer>
+    <studentAnswer id="PS.4ap.252.1" accuracy="incorrect">It would be lower.</studentAnswer>
+    <studentAnswer id="PS.4ap.261.1" accuracy="correct">It would become a higher pitch from when she did not have it tight.</studentAnswer>
+    <studentAnswer id="PS.4ap.263.1" accuracy="correct">It would be a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.313.1" accuracy="correct">It would be high pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.319.1" accuracy="correct">High pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.328.1" accuracy="correct">It would change to a high pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.332.1" accuracy="incorrect">It would be low.</studentAnswer>
+    <studentAnswer id="PS.4ap.334.1" accuracy="correct">It would be a high pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.396.1" accuracy="incorrect">The string gets higher.</studentAnswer>
+    <studentAnswer id="PS.4ap.400.1" accuracy="correct">A high pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.455.1" accuracy="correct">It would have a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.464.1" accuracy="correct">It would make a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.495.1" accuracy="incorrect">Medium.</studentAnswer>
+    <studentAnswer id="PS.4ap.502.1" accuracy="correct">The pitch was higher.</studentAnswer>
+    <studentAnswer id="PS.4ap.523.1" accuracy="correct">The sound would be higher.</studentAnswer>
+    <studentAnswer id="PS.4ap.532.1" accuracy="incorrect">It would be lower.</studentAnswer>
+    <studentAnswer id="PS.4ap.562.1" accuracy="correct">The sound will be a high pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.593.1" accuracy="correct">The pitch would go higher.</studentAnswer>
+    <studentAnswer id="PS.4ap.596.1" accuracy="incorrect">The pitch will go low.</studentAnswer>
+    <studentAnswer id="PS.4ap.602.1" accuracy="incorrect">The volume changes.</studentAnswer>
+    <studentAnswer id="PS.4ap.605.1" accuracy="correct">It would make a high pitch if Darla pull the string tighter.</studentAnswer>
+    <studentAnswer id="PS.4ap.641.1" accuracy="correct">It will be higher pitch.</studentAnswer>
+    <studentAnswer id="PS.4ap.644.1" accuracy="correct">It would become higher.</studentAnswer>
+  </studentAnswers>
+</question>

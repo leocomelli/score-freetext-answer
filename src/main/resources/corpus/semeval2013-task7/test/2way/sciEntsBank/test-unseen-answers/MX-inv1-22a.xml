@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_22a" module="MX">
+  <questionText>A solution is a type of mixture. What makes it different from other mixtures?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_22a-a1">A solution is a mixture formed when a solid dissolves in a liquid.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.22a.433.1" accuracy="incorrect">Because a solution is something you use in a everyday life, and mixture is something we do not always use.</studentAnswer>
+    <studentAnswer id="MX.22a.467.1" accuracy="incorrect">A solution is a mixture that cannot be taken apart.</studentAnswer>
+    <studentAnswer id="MX.22a.541.1" accuracy="incorrect">Different items.</studentAnswer>
+    <studentAnswer id="MX.22a.565.1" accuracy="incorrect">A mixture is 2 thing put together, a solution is one thing that disperses into the so that the first material cannot be seen.</studentAnswer>
+  </studentAnswers>
+</question>

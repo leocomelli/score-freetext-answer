@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="VB_40a" module="VB">
+  <questionText>Jack made a lifeboat out of a large paper cup. He decided to measure how far the boat sank when different numbers of marbles were added. His data are shown in the table. Identify the standard for Jack's experiment.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_40a-a1">The boat with 0 marbles is the standard in this experiment.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.40a.142.1" accuracy="incorrect">A 2 boat.</studentAnswer>
+    <studentAnswer id="VB.40a.146.1" accuracy="incorrect">3.</studentAnswer>
+    <studentAnswer id="VB.40a.151.1" accuracy="incorrect">To is boat.</studentAnswer>
+    <studentAnswer id="VB.40a.184.1" accuracy="incorrect">Going up 5 marbles each time he put them in.</studentAnswer>
+    <studentAnswer id="VB.40a.188.1" accuracy="incorrect">56.1 equals average.</studentAnswer>
+    <studentAnswer id="VB.40a.208.1" accuracy="incorrect">Large paper cup, marble mass.</studentAnswer>
+    <studentAnswer id="VB.40a.211.1" accuracy="incorrect">He measured to see how far the boat sank when different numbers of marbles were added.</studentAnswer>
+    <studentAnswer id="VB.40a.215.1" accuracy="incorrect">The standard was that he used marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.241.1" accuracy="incorrect">Jack's standard is using marbles instead of pennies.</studentAnswer>
+    <studentAnswer id="VB.40a.244.1" accuracy="incorrect">There is no standard.</studentAnswer>
+    <studentAnswer id="VB.40a.245.1" accuracy="correct">The standard is 0 marbles and 0 the boat sank.</studentAnswer>
+    <studentAnswer id="VB.40a.251.1" accuracy="correct">The cup that did not hold anything.</studentAnswer>
+    <studentAnswer id="VB.40a.258.1" accuracy="incorrect">I think 8.5.</studentAnswer>
+    <studentAnswer id="VB.40a.261.1" accuracy="incorrect">5 marbles amount it sank 3.</studentAnswer>
+    <studentAnswer id="VB.40a.277.1" accuracy="correct">The standard is the 0 one.</studentAnswer>
+    <studentAnswer id="VB.40a.286.1" accuracy="incorrect">A large paper cup with labels.</studentAnswer>
+    <studentAnswer id="VB.40a.289.1" accuracy="incorrect">0 Marbles, amount boat sank.</studentAnswer>
+    <studentAnswer id="VB.40a.299.1" accuracy="incorrect">0 marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.299a.1" accuracy="incorrect">How many pennies boat sank.</studentAnswer>
+    <studentAnswer id="VB.40a.323.1" accuracy="incorrect">The amount of marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.326.1" accuracy="incorrect">He had a standard for 5 marbles 3 boat sank.</studentAnswer>
+    <studentAnswer id="VB.40a.353.1" accuracy="incorrect">0 marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.366.1" accuracy="incorrect">The number of marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.367.1" accuracy="incorrect">Size of boat.</studentAnswer>
+    <studentAnswer id="VB.40a.369.1" accuracy="incorrect">0 marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.391.1" accuracy="incorrect">0 marbles, amount boat sank.</studentAnswer>
+    <studentAnswer id="VB.40a.434.1" accuracy="incorrect">He is getting marbles and putting it in a cup.</studentAnswer>
+    <studentAnswer id="VB.40a.449.1" accuracy="incorrect">It is an a controlled experiment.</studentAnswer>
+    <studentAnswer id="VB.40a.455.1" accuracy="incorrect">Jack's experiment was to see how many marbles he could fit in the cup before sinking.</studentAnswer>
+    <studentAnswer id="VB.40a.461.1" accuracy="incorrect">Jack changed the number of marbles.</studentAnswer>
+    <studentAnswer id="VB.40a.464.1" accuracy="correct">The boat with no marbles is the standard.</studentAnswer>
+    <studentAnswer id="VB.40a.479.1" accuracy="incorrect">Jack changed probably was the amount of water.</studentAnswer>
+    <studentAnswer id="VB.40a.494.1" accuracy="incorrect">Jack's standard was the lifeboat.</studentAnswer>
+    <studentAnswer id="VB.40a.502.1" accuracy="incorrect">The standard is the first lifeboat he made.</studentAnswer>
+    <studentAnswer id="VB.40a.541.1" accuracy="incorrect">He did not complete all the standards.</studentAnswer>
+  </studentAnswers>
+</question>

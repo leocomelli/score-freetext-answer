@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_46" module="HB">
+  <questionText>What is it about the human skeleton that allows it to bend?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_46-a1">The human skeleton can bend because the skeleton is articulated (has joints).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.46.136.1" accuracy="correct">Joint.</studentAnswer>
+    <studentAnswer id="HB.46.140.1" accuracy="correct">Joints is in the human body that helps you bend.</studentAnswer>
+    <studentAnswer id="HB.46.146.1" accuracy="correct">Joints.</studentAnswer>
+    <studentAnswer id="HB.46.148.1" accuracy="correct">Joints allow the human skeleton to bend.</studentAnswer>
+    <studentAnswer id="HB.46.149.1" accuracy="correct">We have a lot of joints in our body that allows us to bend.</studentAnswer>
+    <studentAnswer id="HB.46.172.1" accuracy="correct">About joints.</studentAnswer>
+    <studentAnswer id="HB.46.176.1" accuracy="correct">Joint allow you to move.</studentAnswer>
+    <studentAnswer id="HB.46.177.1" accuracy="correct">Joints.</studentAnswer>
+    <studentAnswer id="HB.46.179.1" accuracy="correct">You can bend because you have joints help you move.</studentAnswer>
+    <studentAnswer id="HB.46.179a.1" accuracy="correct">The joints.</studentAnswer>
+    <studentAnswer id="HB.46.183.1" accuracy="incorrect">A hinge allows you to bend.</studentAnswer>
+    <studentAnswer id="HB.46.207.1" accuracy="correct">Joints and non-fused bones.</studentAnswer>
+    <studentAnswer id="HB.46.218.1" accuracy="correct">The joints allow you to move.</studentAnswer>
+    <studentAnswer id="HB.46.243.1" accuracy="correct">What allows us to bend is the joints.</studentAnswer>
+    <studentAnswer id="HB.46.244.1" accuracy="correct">The human skeleton allows it to bend because of the joints.</studentAnswer>
+    <studentAnswer id="HB.46.246.1" accuracy="incorrect">The vertebrae is what helps you bend.</studentAnswer>
+    <studentAnswer id="HB.46.247.1" accuracy="correct">Your joints allow you to move.</studentAnswer>
+    <studentAnswer id="HB.46.248.1" accuracy="incorrect">The bone in your body allows you to bend.</studentAnswer>
+    <studentAnswer id="HB.46.254.1" accuracy="correct">What allows us to bend is all of the joints.</studentAnswer>
+    <studentAnswer id="HB.46.255.1" accuracy="incorrect">The vertebrae allows your skeleton to move around and bend.</studentAnswer>
+    <studentAnswer id="HB.46.260.1" accuracy="correct">The human body has joints that allows us to move.</studentAnswer>
+    <studentAnswer id="HB.46.278.1" accuracy="correct">Basically all of the joints in your body, which allows it to bend in only certain places.</studentAnswer>
+    <studentAnswer id="HB.46.281.1" accuracy="correct">The joints, muscles, and bones.</studentAnswer>
+    <studentAnswer id="HB.46.282.1" accuracy="correct">Your muscles, joints, and bones help you to move your body around.</studentAnswer>
+    <studentAnswer id="HB.46.285.1" accuracy="correct">Joints and cartilage allow the skeleton to bend.</studentAnswer>
+    <studentAnswer id="HB.46.286.1" accuracy="incorrect">Where 2 bones move.</studentAnswer>
+    <studentAnswer id="HB.46.291.1" accuracy="correct">It is the joints.</studentAnswer>
+    <studentAnswer id="HB.46.292.1" accuracy="correct">The joints allow the human skeleton to bend.</studentAnswer>
+    <studentAnswer id="HB.46.311.1" accuracy="correct">What allows it to bend is joints all kinds of joints the 3 joints are hinge, gliding, and ball-and-socket.</studentAnswer>
+    <studentAnswer id="HB.46.315.1" accuracy="correct">The joints allows the human skeleton to bend by pulling together.</studentAnswer>
+    <studentAnswer id="HB.46.320.1" accuracy="incorrect">Muscles in the body.</studentAnswer>
+    <studentAnswer id="HB.46.321.1" accuracy="correct">It articulates that is what allows you to bend.</studentAnswer>
+    <studentAnswer id="HB.46.325.1" accuracy="correct">Joints allow the human skeleton to move.</studentAnswer>
+    <studentAnswer id="HB.46.331.1" accuracy="correct">How you bend joints in your body.</studentAnswer>
+    <studentAnswer id="HB.46.346.1" accuracy="incorrect">Our legs, our arms and our backs.</studentAnswer>
+    <studentAnswer id="HB.46.350.1" accuracy="correct">Your spine, joints muscles.</studentAnswer>
+    <studentAnswer id="HB.46.354.1" accuracy="correct">It allows it to bend because it is articulated that means it has joints.</studentAnswer>
+    <studentAnswer id="HB.46.357.1" accuracy="correct">We are articulated.</studentAnswer>
+    <studentAnswer id="HB.46.365.1" accuracy="incorrect">The spine does allow it to move.</studentAnswer>
+    <studentAnswer id="HB.46.383.1" accuracy="incorrect">Bones.</studentAnswer>
+    <studentAnswer id="HB.46.386.1" accuracy="incorrect">The human skeleton allows it to bend.</studentAnswer>
+    <studentAnswer id="HB.46.387.1" accuracy="correct">It is the articulated skeleton.</studentAnswer>
+    <studentAnswer id="HB.46.391.1" accuracy="correct">The human skeleton moves because, you have an articulated skeleton.</studentAnswer>
+    <studentAnswer id="HB.46.392.1" accuracy="incorrect">The human skeleton moves because of the back bone. Helps you move.</studentAnswer>
+    <studentAnswer id="HB.46.418.1" accuracy="correct">The joints allow the human skeleton to bend because if you did not have joints it would rub.</studentAnswer>
+    <studentAnswer id="HB.46.422.1" accuracy="correct">The joint allows the human skeleton to move and bend.</studentAnswer>
+    <studentAnswer id="HB.46.424.1" accuracy="incorrect">The hinge allows the knees and the elbow bend.</studentAnswer>
+    <studentAnswer id="HB.46.428.1" accuracy="correct">Joints, because bones cannot bend but joints bend really easily to allow the body to move.</studentAnswer>
+    <studentAnswer id="HB.46.455.1" accuracy="correct">Joints.</studentAnswer>
+    <studentAnswer id="HB.46.457.1" accuracy="correct">All your joints keep our bones together so they do not fall apart.</studentAnswer>
+    <studentAnswer id="HB.46.459.1" accuracy="incorrect">Our cartilage can help us bend.</studentAnswer>
+    <studentAnswer id="HB.46.464.1" accuracy="correct">Socket, joint, ball.</studentAnswer>
+    <studentAnswer id="HB.46.466.1" accuracy="incorrect">The hip in the skeleton makes it bend.</studentAnswer>
+    <studentAnswer id="HB.46.489.1" accuracy="correct">The human skeleton could bend because it has joints.</studentAnswer>
+    <studentAnswer id="HB.46.490.1" accuracy="correct">All of bone joints allow it to bend.</studentAnswer>
+    <studentAnswer id="HB.46.491.1" accuracy="correct">Joints in the spine, legs, arms, and head.</studentAnswer>
+    <studentAnswer id="HB.46.497.1" accuracy="correct">Gliding joint hinge joint ball and socket joint or any other joint there is.</studentAnswer>
+    <studentAnswer id="HB.46.498.1" accuracy="correct">That you have joints.</studentAnswer>
+    <studentAnswer id="HB.46.499.1" accuracy="incorrect">The human skeleton bends because of all the bones in your body.</studentAnswer>
+    <studentAnswer id="HB.46.505.1" accuracy="correct">The joints and muscles.</studentAnswer>
+    <studentAnswer id="HB.46.521.1" accuracy="incorrect">The spine.</studentAnswer>
+    <studentAnswer id="HB.46.531.1" accuracy="incorrect">Your neck makes you move front to back and side to side.</studentAnswer>
+    <studentAnswer id="HB.46.532.1" accuracy="incorrect">Your ball sockets.</studentAnswer>
+    <studentAnswer id="HB.46.565.1" accuracy="correct">Our joint allows to move our elbows, shoulder, fingers and neck.</studentAnswer>
+    <studentAnswer id="HB.46.566.1" accuracy="correct">The joint allow it to bend.</studentAnswer>
+    <studentAnswer id="HB.46.570.1" accuracy="correct">The joints allow it to bend.</studentAnswer>
+    <studentAnswer id="HB.46.572.1" accuracy="correct">All the joints allow it to bend.</studentAnswer>
+    <studentAnswer id="HB.46.578.1" accuracy="correct">Is joint because if we did not have any joints, we would just be a big blob.</studentAnswer>
+    <studentAnswer id="HB.46.593.1" accuracy="correct">What allows us to bend is our joints in our body.</studentAnswer>
+    <studentAnswer id="HB.46.595.1" accuracy="correct">Joints.</studentAnswer>
+    <studentAnswer id="HB.46.596.1" accuracy="incorrect">The thing that makes the skeleton makes it bend is the spin bones.</studentAnswer>
+    <studentAnswer id="HB.46.597.1" accuracy="correct">Well the human skeleton has joints, hinge, ball-and-socket, and gliding, and it has a backbone which allows you to bend too.</studentAnswer>
+    <studentAnswer id="HB.46.599.1" accuracy="correct">Joints allow the human skeleton to bend.</studentAnswer>
+    <studentAnswer id="HB.46.600.1" accuracy="incorrect">Finger tips.</studentAnswer>
+    <studentAnswer id="HB.46.602.1" accuracy="correct">Joints and your spinal cord.</studentAnswer>
+    <studentAnswer id="HB.46.605.1" accuracy="correct">Joints, Where 2 bones meet, allows the body to bend.</studentAnswer>
+    <studentAnswer id="HB.46.606.1" accuracy="incorrect">Pelvis and backbone help bend.</studentAnswer>
+    <studentAnswer id="HB.46.607.1" accuracy="correct">The gliding joint that connects your back bones, and your back bones to the pelvis.</studentAnswer>
+    <studentAnswer id="HB.46.608.1" accuracy="correct">The joints shows us to bend.</studentAnswer>
+    <studentAnswer id="HB.46.610.1" accuracy="incorrect">What allows us to bend is.</studentAnswer>
+    <studentAnswer id="HB.46.611.1" accuracy="incorrect">It is the backbone that allows us to bend.</studentAnswer>
+    <studentAnswer id="HB.46.612.1" accuracy="incorrect">The backbone allows us to bend.</studentAnswer>
+    <studentAnswer id="HB.46.613.1" accuracy="correct">It allows us to bend because we have joints in us.</studentAnswer>
+    <studentAnswer id="HB.46.615.1" accuracy="correct">The joints allow the human body to bend.</studentAnswer>
+    <studentAnswer id="HB.46.628.1" accuracy="correct">All of the hinge and ball-and-socket joint. Last, the gliding joint.</studentAnswer>
+    <studentAnswer id="HB.46.629.1" accuracy="correct">The spine has more than one vertebra. Others have joints. Joints stand together by ligaments. Also cartilage help to not grind our bones.</studentAnswer>
+    <studentAnswer id="HB.46.633.1" accuracy="incorrect">The hip joint allows to bend because it can move side to side, front, and back.</studentAnswer>
+    <studentAnswer id="HB.46.635.1" accuracy="correct">Hinges and ball and socket also the gliding joints all those joints help your body to bend.</studentAnswer>
+    <studentAnswer id="HB.46.636.1" accuracy="incorrect">The cervical vertebrae.</studentAnswer>
+    <studentAnswer id="HB.46.641.1" accuracy="correct">What the things his joints were 2 bones meet. And specific joints and bones.</studentAnswer>
+    <studentAnswer id="HB.46.645.1" accuracy="correct">The joints allows the skeleton to move. The joints that help to bend is called cartilage.</studentAnswer>
+    <studentAnswer id="HB.46.646.1" accuracy="correct">The joints work together with the bones to allow you to bend.</studentAnswer>
+    <studentAnswer id="HB.46.647.1" accuracy="correct">When you are articulating. It means when jointed, or joined in sections. Which forms the human skeleton.</studentAnswer>
+    <studentAnswer id="HB.46.652.1" accuracy="incorrect">Your knee can bend because can kick something.</studentAnswer>
+    <studentAnswer id="HB.46.976.1" accuracy="incorrect">The human skeleton is there to help people move.</studentAnswer>
+    <studentAnswer id="HB.46.981.1" accuracy="incorrect">Spine and neck.</studentAnswer>
+    <studentAnswer id="HB.46.987.1" accuracy="incorrect">The neck.</studentAnswer>
+    <studentAnswer id="HB.46.988.1" accuracy="incorrect">Your cartilage.</studentAnswer>
+    <studentAnswer id="HB.46.992.1" accuracy="correct">The joints in the body it allows it to bend.</studentAnswer>
+    <studentAnswer id="HB.46.993.1" accuracy="incorrect">Your hips and your upper legs are both allowed to move.</studentAnswer>
+  </studentAnswers>
+</question>

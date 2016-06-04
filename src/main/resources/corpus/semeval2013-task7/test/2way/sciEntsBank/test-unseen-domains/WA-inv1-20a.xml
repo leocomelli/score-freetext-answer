@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_20a" module="WA">
+  <questionText>Ron covered his notebook with waxed paper. Then he placed a small drop of water in the middle of the notebook as shown in the picture. Even though the drop was on a slope, the drop stayed where he placed it. Describe 2 ways Ron can make the water move down the notebook without pushing the drop or blowing on it.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_20a-a1">Ron could make the drop bigger. Ron could make the slope steeper.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.20a.137.1" accuracy="correct">Putting more water in the drop.</studentAnswer>
+    <studentAnswer id="WA.20a.142.1" accuracy="correct">Slant it a little more because if it is not slanted enough it will not move down.</studentAnswer>
+    <studentAnswer id="WA.20a.143.1" accuracy="correct">Ron put 2 dictionaries under your book.</studentAnswer>
+    <studentAnswer id="WA.20a.147.1" accuracy="correct">He can tilt it more.</studentAnswer>
+    <studentAnswer id="WA.20a.152.1" accuracy="correct">He can put another drop of water on top of the other one.</studentAnswer>
+    <studentAnswer id="WA.20a.177.1" accuracy="correct">You put a fat book on a the bottom of a it to make it go down.</studentAnswer>
+    <studentAnswer id="WA.20a.178.1" accuracy="correct">Ron could take out about 2 or 3 papers to make the slope steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.182.1" accuracy="correct">Ron could add more water to the notebook because a small drop, like Ron has does not flow down a slope that fast, a bigger drop goes faster.</studentAnswer>
+    <studentAnswer id="WA.20a.183.1" accuracy="correct">He could take all the paper out. Because than the slant would push the water down.</studentAnswer>
+    <studentAnswer id="WA.20a.188.1" accuracy="correct">One way he can do it is making the notebook steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.189.1" accuracy="correct">Ron could of put one or 2 books under his notebook and make it steeper the water would go down.</studentAnswer>
+    <studentAnswer id="WA.20a.196.1" accuracy="correct">Ron can add more and more drops on the little bead more.</studentAnswer>
+    <studentAnswer id="WA.20a.206.1" accuracy="correct">Ron could make the slope steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.208.1" accuracy="correct">Ron can put something under his book like so it is hi to low.</studentAnswer>
+    <studentAnswer id="WA.20a.209.1" accuracy="correct">Ron can grab the book and make it more of a slope.</studentAnswer>
+    <studentAnswer id="WA.20a.210.1" accuracy="correct">Lifting up the notebook so it will be steeper slope.</studentAnswer>
+    <studentAnswer id="WA.20a.215.1" accuracy="correct">He can simply lift the notebook to a sharp angle.</studentAnswer>
+    <studentAnswer id="WA.20a.218.1" accuracy="correct">Tilting it so it can move.</studentAnswer>
+    <studentAnswer id="WA.20a.223.1" accuracy="correct">He could make the drop bigger by adding more water.</studentAnswer>
+    <studentAnswer id="WA.20a.226.1" accuracy="correct">Ron can make the slope higher to make the drop go at a faster flow.</studentAnswer>
+    <studentAnswer id="WA.20a.227.1" accuracy="incorrect">Make the notebook.</studentAnswer>
+    <studentAnswer id="WA.20a.229.1" accuracy="correct">One way he can is by lifting up the slope to make the slope steeper and make the bead of water move.</studentAnswer>
+    <studentAnswer id="WA.20a.241.1" accuracy="correct">Slant the notebook a little bit more by putting something under it.</studentAnswer>
+    <studentAnswer id="WA.20a.243.1" accuracy="correct">Make the book higher.</studentAnswer>
+    <studentAnswer id="WA.20a.244.1" accuracy="correct">He can make more of a slope.</studentAnswer>
+    <studentAnswer id="WA.20a.250.1" accuracy="correct">Ron could lift his notebook up.</studentAnswer>
+    <studentAnswer id="WA.20a.251.1" accuracy="correct">First thing you can do is tip the binder down and the drop will follow.</studentAnswer>
+    <studentAnswer id="WA.20a.258.1" accuracy="correct">Ron can put another book under the notebook and it will go higher which will make it go down.</studentAnswer>
+    <studentAnswer id="WA.20a.259.1" accuracy="correct">You could add more water to the drop.</studentAnswer>
+    <studentAnswer id="WA.20a.260.1" accuracy="incorrect">Ron can put soapy water on the drop and break the surface tension.</studentAnswer>
+    <studentAnswer id="WA.20a.264.1" accuracy="correct">You can drop like 4 drops on the water so it can go fast.</studentAnswer>
+    <studentAnswer id="WA.20a.265.1" accuracy="incorrect">He can light drop it was fast.</studentAnswer>
+    <studentAnswer id="WA.20a.266.1" accuracy="correct">He could make a bigger drop.</studentAnswer>
+    <studentAnswer id="WA.20a.277.1" accuracy="correct">Put books under notebook to make a steeper slope.</studentAnswer>
+    <studentAnswer id="WA.20a.279.1" accuracy="correct">Ron can increase the drop by adding more water and it will flow.</studentAnswer>
+    <studentAnswer id="WA.20a.280.1" accuracy="correct">He can add more drop.</studentAnswer>
+    <studentAnswer id="WA.20a.283.1" accuracy="correct">A book could be used to make a steeper slope.</studentAnswer>
+    <studentAnswer id="WA.20a.295.1" accuracy="correct">He could make the slope steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.299.1" accuracy="correct">Ron can make the slope higher.</studentAnswer>
+    <studentAnswer id="WA.20a.351.1" accuracy="correct">Make it big.</studentAnswer>
+    <studentAnswer id="WA.20a.357.1" accuracy="correct">Make the notebook a little more side ways.</studentAnswer>
+    <studentAnswer id="WA.20a.358.1" accuracy="correct">Well if I cannot push it then I probably want to take the end of the binder and lift it all the way up.</studentAnswer>
+    <studentAnswer id="WA.20a.359.1" accuracy="correct">Slant the surface more.</studentAnswer>
+    <studentAnswer id="WA.20a.360.1" accuracy="correct">Make the slope steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.361.1" accuracy="correct">You can make the drop bigger.</studentAnswer>
+    <studentAnswer id="WA.20a.363.1" accuracy="correct">He can make the drop bigger so it will go faster down it.</studentAnswer>
+    <studentAnswer id="WA.20a.364.1" accuracy="correct">He can make the slope more steep.</studentAnswer>
+    <studentAnswer id="WA.20a.365.1" accuracy="correct">Ron can tilt his notebook so that it will go down the slope.</studentAnswer>
+    <studentAnswer id="WA.20a.367.1" accuracy="correct">The first way he can make it go down the slope is to make the drop bigger.</studentAnswer>
+    <studentAnswer id="WA.20a.382.1" accuracy="incorrect">Put the more book.</studentAnswer>
+    <studentAnswer id="WA.20a.383.1" accuracy="correct">Add more drops to the original drop.</studentAnswer>
+    <studentAnswer id="WA.20a.384.1" accuracy="correct">Ron could add more drops of water.</studentAnswer>
+    <studentAnswer id="WA.20a.385.1" accuracy="correct">Add more drops of water to it it is heavier.</studentAnswer>
+    <studentAnswer id="WA.20a.386.1" accuracy="correct">Tip the notebook upwards.</studentAnswer>
+    <studentAnswer id="WA.20a.391.1" accuracy="correct">He could add more drops of water until it would move.</studentAnswer>
+    <studentAnswer id="WA.20a.395.1" accuracy="correct">Putting it on a slant.</studentAnswer>
+    <studentAnswer id="WA.20a.397.1" accuracy="correct">Put one side of that notebook to some high things. Like math book.</studentAnswer>
+    <studentAnswer id="WA.20a.399.1" accuracy="correct">Try more books.</studentAnswer>
+    <studentAnswer id="WA.20a.403.1" accuracy="correct">Put more water to go down.</studentAnswer>
+    <studentAnswer id="WA.20a.417.1" accuracy="correct">He can make the water go down by making a larger slope.</studentAnswer>
+    <studentAnswer id="WA.20a.418.1" accuracy="correct">If he made the slope more steep it would go faster.</studentAnswer>
+    <studentAnswer id="WA.20a.419.1" accuracy="incorrect">Drag it with a dropper.</studentAnswer>
+    <studentAnswer id="WA.20a.424.1" accuracy="correct">Making it a bigger drop.</studentAnswer>
+    <studentAnswer id="WA.20a.427.1" accuracy="correct">Making it steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.429.1" accuracy="correct">Add water to the drop.</studentAnswer>
+    <studentAnswer id="WA.20a.431.1" accuracy="correct">One way to make it go down is add more water to it.</studentAnswer>
+    <studentAnswer id="WA.20a.432.1" accuracy="correct">He could make the drop bigger.</studentAnswer>
+    <studentAnswer id="WA.20a.434.1" accuracy="correct">Make the water bigger.</studentAnswer>
+    <studentAnswer id="WA.20a.435.1" accuracy="correct">Ron can drop another drop onto the drop which will make it heavier and more faster down.</studentAnswer>
+    <studentAnswer id="WA.20a.436.1" accuracy="correct">He can make the drop bigger.</studentAnswer>
+    <studentAnswer id="WA.20a.437.1" accuracy="correct">Make it more steep.</studentAnswer>
+    <studentAnswer id="WA.20a.451.1" accuracy="correct">Put his notebook at a higher slope.</studentAnswer>
+    <studentAnswer id="WA.20a.452.1" accuracy="correct">Make the slope steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.453.1" accuracy="correct">Add more water like did on wax with the tray.</studentAnswer>
+    <studentAnswer id="WA.20a.469.1" accuracy="correct">Tilt the notebook.</studentAnswer>
+    <studentAnswer id="WA.20a.497.1" accuracy="correct">He could make the slope higher by lifting up the cover of his notebook.</studentAnswer>
+    <studentAnswer id="WA.20a.500.1" accuracy="correct">Make the drop bigger.</studentAnswer>
+    <studentAnswer id="WA.20a.507.1" accuracy="correct">Increase the slope.</studentAnswer>
+    <studentAnswer id="WA.20a.510.1" accuracy="correct">To add more drops on the drop.</studentAnswer>
+    <studentAnswer id="WA.20a.521.1" accuracy="correct">He could lift the notebook higher.</studentAnswer>
+    <studentAnswer id="WA.20a.522.1" accuracy="correct">Make the drop bigger so it goes faster.</studentAnswer>
+    <studentAnswer id="WA.20a.523.1" accuracy="correct">He could tilt the notebook all the way up.</studentAnswer>
+    <studentAnswer id="WA.20a.524.1" accuracy="correct">He can make it bigger thus making it heavier so it can roll down the slope fast.</studentAnswer>
+    <studentAnswer id="WA.20a.525.1" accuracy="correct">He can lean it up so the water can go down.</studentAnswer>
+    <studentAnswer id="WA.20a.526.1" accuracy="incorrect">He can put the drop of water at the highest point of the notebook.</studentAnswer>
+    <studentAnswer id="WA.20a.527.1" accuracy="correct">You could add more drops to the drop.</studentAnswer>
+    <studentAnswer id="WA.20a.528.1" accuracy="correct">He can add more drops on it.</studentAnswer>
+    <studentAnswer id="WA.20a.529.1" accuracy="correct">He could lift the notebook a tiny bit so it is on a slope.</studentAnswer>
+    <studentAnswer id="WA.20a.530.1" accuracy="correct">He could put the notebook at a higher slant.</studentAnswer>
+    <studentAnswer id="WA.20a.531.1" accuracy="correct">Put more water on the small drop.</studentAnswer>
+    <studentAnswer id="WA.20a.532.1" accuracy="correct">He could put another notebook under it and the water will go down.</studentAnswer>
+    <studentAnswer id="WA.20a.541.1" accuracy="correct">Make the slope steeper.</studentAnswer>
+    <studentAnswer id="WA.20a.542.1" accuracy="incorrect">The water moved because of the slope.</studentAnswer>
+    <studentAnswer id="WA.20a.591.1" accuracy="incorrect">Shaking the notebook really hard.</studentAnswer>
+    <studentAnswer id="WA.20a.603.1" accuracy="correct">Raise the book.</studentAnswer>
+    <studentAnswer id="WA.20a.607.1" accuracy="correct">Tilt the notebook.</studentAnswer>
+    <studentAnswer id="WA.20a.608.1" accuracy="correct">Can put another book under the binder.</studentAnswer>
+    <studentAnswer id="WA.20a.611.1" accuracy="correct">He can raise it up.</studentAnswer>
+    <studentAnswer id="WA.20a.612.1" accuracy="incorrect">Because he did not move it it is surface tension.</studentAnswer>
+    <studentAnswer id="WA.20a.628.1" accuracy="correct">Add more drops.</studentAnswer>
+    <studentAnswer id="WA.20a.629.1" accuracy="correct">He can put another notebook under it.</studentAnswer>
+    <studentAnswer id="WA.20a.636.1" accuracy="correct">Add more water to the drop.</studentAnswer>
+  </studentAnswers>
+</question>

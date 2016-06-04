@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="II_20b" module="II">
+  <questionText>When Sarah did the chromatography test, she saw that one black ink stayed black and didn't separate. She discovered that she had used a permanent marker. She wondered what would happen if she used a different liquid. She wrote in her science notebook, What if I used vinegar in place of the water? Can I get the pigments in permanent ink to separate? How will Sarah know if vinegar separated the permanent ink?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_20b-a1">Seeing multiple colors would show that vinegar can separate the permanent ink.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.20b.400.1" accuracy="incorrect">By looking at the vinegar.</studentAnswer>
+    <studentAnswer id="II.20b.420.1" accuracy="incorrect">She would use filter paper and dip it into water.</studentAnswer>
+    <studentAnswer id="II.20b.457.1" accuracy="incorrect">By looking at the pigment and chromatography.</studentAnswer>
+    <studentAnswer id="II.20b.533.1" accuracy="incorrect">We try it and it work.</studentAnswer>
+  </studentAnswers>
+</question>

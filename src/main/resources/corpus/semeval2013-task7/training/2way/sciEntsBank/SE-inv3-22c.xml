@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_22c" module="SE">
+  <questionText>Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. Why would comparing only the red uncovered heater with the blue covered heater not provide useful information?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_22c-a1">When 2 variables are changed, it is impossible to determine which variable is causing what effect.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.22c.103.1" accuracy="correct">More than one manipulated variable.</studentAnswer>
+    <studentAnswer id="SE.22c.108.1" accuracy="correct">It has too many manipulated variables it could not give the same information.</studentAnswer>
+    <studentAnswer id="SE.22c.133.1" accuracy="incorrect">I think red reflected the heat away.</studentAnswer>
+    <studentAnswer id="SE.22c.137.1" accuracy="incorrect">Maybe because they are each different types.</studentAnswer>
+    <studentAnswer id="SE.22c.141.1" accuracy="incorrect">Because one is covered and the other is not covered.</studentAnswer>
+    <studentAnswer id="SE.22c.148.1" accuracy="incorrect">Because they are different colors.</studentAnswer>
+    <studentAnswer id="SE.22c.154.1" accuracy="incorrect">I think it is covered more than the red one. And put does too color because is almost the same.</studentAnswer>
+    <studentAnswer id="SE.22c.156.1" accuracy="incorrect">Because the red uncovered get colder and the blue get hotter.</studentAnswer>
+    <studentAnswer id="SE.22c.182.1" accuracy="correct">It would not be useful because red is uncovered and blue is covered and it is not fair.</studentAnswer>
+    <studentAnswer id="SE.22c.184.1" accuracy="incorrect">I think that the red covered was not in the sun.</studentAnswer>
+    <studentAnswer id="SE.22c.189.1" accuracy="correct">It will not be useful, because blue is covered and the heat will be trap and red is not. So all the heat will escape from the red uncover. The red uncover will heat up slow. But blue will heat up fast.</studentAnswer>
+    <studentAnswer id="SE.22c.247.1" accuracy="correct">Maybe the blue uncovered would be the same as the red or not, just to make sure.</studentAnswer>
+    <studentAnswer id="SE.22c.313.1" accuracy="correct">Because you would not know the readings of blue uncovered and red covered.</studentAnswer>
+    <studentAnswer id="SE.22c.317.1" accuracy="incorrect">Because both of them are different one is uncovered and another is covered.</studentAnswer>
+    <studentAnswer id="SE.22c.327.1" accuracy="incorrect">Because it will just be in the middle of hot and cold.</studentAnswer>
+    <studentAnswer id="SE.22c.336.1" accuracy="incorrect">Because.</studentAnswer>
+    <studentAnswer id="SE.22c.383.1" accuracy="incorrect">Because you do not have enough information to compare the data.</studentAnswer>
+    <studentAnswer id="SE.22c.392.1" accuracy="incorrect">Because it is only 2 colors.</studentAnswer>
+    <studentAnswer id="SE.22c.394.1" accuracy="incorrect">Because the red uncovered has a low temperature and blue covered has a high temperature.</studentAnswer>
+    <studentAnswer id="SE.22c.396.1" accuracy="correct">Because if they are different color and covered and uncovered you would get way different data.</studentAnswer>
+    <studentAnswer id="SE.22c.397.1" accuracy="incorrect">The red does not heat up fast as the blue covered.</studentAnswer>
+    <studentAnswer id="SE.22c.436.1" accuracy="correct">It would not provide useful information because you would not know if either red covered or blue covered absorbed most heat or if red uncovered or blue uncovered absorbed most heat.</studentAnswer>
+    <studentAnswer id="SE.22c.440.1" accuracy="correct">It will not be only little information and also there is not test of red covered and blue uncovered.</studentAnswer>
+    <studentAnswer id="SE.22c.494.1" accuracy="incorrect">It would not provide useful information because you would also need to know how much the blue heated up covered to.</studentAnswer>
+    <studentAnswer id="SE.22c.501.1" accuracy="correct">Because then you would not know if the red covered or the blue uncovered heated up as much as the others. Because even though they are the same color the water is in a different environment. So, it would not provide useful information.</studentAnswer>
+    <studentAnswer id="SE.22c.503.1" accuracy="correct">Because then you would not be controlling the variables.</studentAnswer>
+    <studentAnswer id="SE.22c.510.1" accuracy="incorrect">Because it did not use all the colors so they could not find out what one heated up more.</studentAnswer>
+    <studentAnswer id="SE.22c.517.1" accuracy="correct">Because they have 2 variables changed lid or no lid and color are the 2 they changed.</studentAnswer>
+    <studentAnswer id="SE.22c.530.1" accuracy="correct">It would not tell the difference if blue is warmer the red or uncover heat up slower than cover.</studentAnswer>
+    <studentAnswer id="SE.22c.597.1" accuracy="incorrect">Because you are comparing 2 thing and it would not make any sense because you know black heats faster than white.</studentAnswer>
+    <studentAnswer id="SE.22c.598.1" accuracy="incorrect">Because they are the same temperature.</studentAnswer>
+    <studentAnswer id="SE.22c.599.1" accuracy="incorrect">I chose that because when the plastic is darker it will heat faster than a light color.</studentAnswer>
+    <studentAnswer id="SE.22c.610.1" accuracy="correct">That will not not provide useful information because you would only know blue covered red uncovered.</studentAnswer>
+    <studentAnswer id="SE.22c.611.1" accuracy="incorrect">Because red uncovered is smaller than the blue covered heater.</studentAnswer>
+    <studentAnswer id="SE.22c.615.1" accuracy="incorrect">Uncovered versus covered would not help but both of each would.</studentAnswer>
+    <studentAnswer id="SE.22c.621.1" accuracy="incorrect">Because they are both covered.</studentAnswer>
+  </studentAnswers>
+</question>

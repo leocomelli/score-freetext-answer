@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_42a" module="HB">
+  <questionText>Sam and Jasmine were sitting on a park bench eating their lunches. A mosquito landed on Sam's arm and Sam began slapping at it. When he did that, he knocked Jasmine's soda into her lap, causing her to jump up. What was the stimulus for Sam?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_42a-a1">Sam's stimulus was feeling (or seeing) the mosquito on Sam's arm.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.42a.135.1" accuracy="incorrect">Mosquito bites her on the arm.</studentAnswer>
+    <studentAnswer id="HB.42a.136.1" accuracy="incorrect">Hitting the fly.</studentAnswer>
+    <studentAnswer id="HB.42a.138.1" accuracy="incorrect">The mosquito landing on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.139.1" accuracy="correct">Sam saw or felt the mosquito on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.144.1" accuracy="incorrect">A mosquito landed on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.147.1" accuracy="correct">Feeling a mosquito land on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.148.1" accuracy="correct">Seeing the mosquito land on him and feeling the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.172.1" accuracy="incorrect">Vision.</studentAnswer>
+    <studentAnswer id="HB.42a.176.1" accuracy="incorrect">Slapping.</studentAnswer>
+    <studentAnswer id="HB.42a.183.1" accuracy="incorrect">Knocked Jasmine's soda over.</studentAnswer>
+    <studentAnswer id="HB.42a.185.1" accuracy="incorrect">The stimulus was vision.</studentAnswer>
+    <studentAnswer id="HB.42a.207.1" accuracy="correct">Sam felt a mosquito on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.220.1" accuracy="incorrect">Sam's stimulus is to jump up.</studentAnswer>
+    <studentAnswer id="HB.42a.243.1" accuracy="incorrect">The stimulus for Sam is a mosquito landed on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.249.1" accuracy="incorrect">The mosquito tried to bite him.</studentAnswer>
+    <studentAnswer id="HB.42a.253.1" accuracy="incorrect">The stimulus is the mosquito landing on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.256.1" accuracy="incorrect">Sam jump up because the soda could of gone on her.</studentAnswer>
+    <studentAnswer id="HB.42a.259.1" accuracy="incorrect">Sam stimulus was telling her to jump up.</studentAnswer>
+    <studentAnswer id="HB.42a.268.1" accuracy="incorrect">Feel and vision.</studentAnswer>
+    <studentAnswer id="HB.42a.277.1" accuracy="incorrect">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.278.1" accuracy="incorrect">Sam's stimulus is the mosquito landing on his hand.</studentAnswer>
+    <studentAnswer id="HB.42a.280.1" accuracy="incorrect">The mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.283.1" accuracy="incorrect">The mosquito landing on his hand.</studentAnswer>
+    <studentAnswer id="HB.42a.284.1" accuracy="incorrect">A mosquito landing on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.289.1" accuracy="incorrect">The mosquito came on her arm.</studentAnswer>
+    <studentAnswer id="HB.42a.292.1" accuracy="incorrect">A mosquito landed on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.311.1" accuracy="correct">Feeling the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.315.1" accuracy="incorrect">Sam's stimulus was slapping at the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.320.1" accuracy="correct">The stimulus for Sam was to see the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.321.1" accuracy="incorrect">The stimulus for Sam was sight.</studentAnswer>
+    <studentAnswer id="HB.42a.349.1" accuracy="incorrect">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.352.1" accuracy="incorrect">Slapping the mosquito on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.359.1" accuracy="incorrect">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.361.1" accuracy="correct">Seeing a mosquito land on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.364.1" accuracy="incorrect">Sam's stimulus was her vision.</studentAnswer>
+    <studentAnswer id="HB.42a.365.1" accuracy="correct">To feel the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.385.1" accuracy="incorrect">The stimulus was sitting.</studentAnswer>
+    <studentAnswer id="HB.42a.389.1" accuracy="incorrect">Sam began slapping it!</studentAnswer>
+    <studentAnswer id="HB.42a.390.1" accuracy="correct">The stimulus was to feel it hit him.</studentAnswer>
+    <studentAnswer id="HB.42a.422.1" accuracy="incorrect">The stimulus is sight.</studentAnswer>
+    <studentAnswer id="HB.42a.423.1" accuracy="incorrect">Feeling and sight.</studentAnswer>
+    <studentAnswer id="HB.42a.428.1" accuracy="incorrect">The stimulus for Sam was the mosquito landing on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.429.1" accuracy="incorrect">Knocking the bug off her hand.</studentAnswer>
+    <studentAnswer id="HB.42a.430.1" accuracy="incorrect">The stimulus for Sam is to look if there is anything on the bench.</studentAnswer>
+    <studentAnswer id="HB.42a.432.1" accuracy="incorrect">The mosquito landed on Sam.</studentAnswer>
+    <studentAnswer id="HB.42a.437.1" accuracy="incorrect">Slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.440.1" accuracy="incorrect">To slap it and your arm has to trigger.</studentAnswer>
+    <studentAnswer id="HB.42a.451.1" accuracy="correct">The stimulus for Sam is to feel the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.453.1" accuracy="incorrect">The stimulus for Sam was that when Sam was trying to get the mosquito off his arm he smacked at it. That was his stimulus was that he was smacking at it.</studentAnswer>
+    <studentAnswer id="HB.42a.457.1" accuracy="correct">Feeling because he felt the mosquito land on him.</studentAnswer>
+    <studentAnswer id="HB.42a.459.1" accuracy="incorrect">Feeling.</studentAnswer>
+    <studentAnswer id="HB.42a.462.1" accuracy="incorrect">It was feeling because he was trying to slap it.</studentAnswer>
+    <studentAnswer id="HB.42a.464.1" accuracy="incorrect">Feeling.</studentAnswer>
+    <studentAnswer id="HB.42a.465.1" accuracy="incorrect">Sam's stimulus was touching or feeling.</studentAnswer>
+    <studentAnswer id="HB.42a.467.1" accuracy="incorrect">Sam's stimulus was feeling.</studentAnswer>
+    <studentAnswer id="HB.42a.481.1" accuracy="correct">Feeling the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.487.1" accuracy="correct">Vision and feel the mosquito landing on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.487b.1" accuracy="incorrect">The bug landing on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.488.1" accuracy="correct">Vision - seeing the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.489.1" accuracy="incorrect">The mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.491.1" accuracy="incorrect">Vision - Sam slapping his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.492.1" accuracy="incorrect">The stimulus is the mosquito on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.497.1" accuracy="incorrect">Feel the soda.</studentAnswer>
+    <studentAnswer id="HB.42a.498.1" accuracy="incorrect">The mosquito landing on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.501.1" accuracy="correct">The stimulus is vision because he saw the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.502.1" accuracy="correct">The stimulus for Sam was vision - seeing the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.508.1" accuracy="incorrect">The mosquito landing on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.525.1" accuracy="incorrect">Mosquito landed on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.530.1" accuracy="incorrect">Eating his lunch.</studentAnswer>
+    <studentAnswer id="HB.42a.532.1" accuracy="correct">A mosquito she felt.</studentAnswer>
+    <studentAnswer id="HB.42a.535.1" accuracy="incorrect">A mosquito landed on Sam and she started slapping at it.</studentAnswer>
+    <studentAnswer id="HB.42a.536.1" accuracy="incorrect">Slapping.</studentAnswer>
+    <studentAnswer id="HB.42a.561.1" accuracy="incorrect">The bug landing on her hand.</studentAnswer>
+    <studentAnswer id="HB.42a.565.1" accuracy="incorrect">The stimulus for Sam was hearing.</studentAnswer>
+    <studentAnswer id="HB.42a.572.1" accuracy="correct">Sam's stimulus was seeing the mosquito on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.573.1" accuracy="incorrect">Slapping the mosquito on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.575.1" accuracy="correct">Sam used the sense of feel to feel the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.576.1" accuracy="incorrect">The stimulus for Sam was the mosquito landing on Sam's arm.</studentAnswer>
+    <studentAnswer id="HB.42a.597.1" accuracy="correct">Sam's stimulus is vision because he saw the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.603.1" accuracy="incorrect">Vision.</studentAnswer>
+    <studentAnswer id="HB.42a.604.1" accuracy="correct">Sam's stimulus was seeing the mosquito on his arm.</studentAnswer>
+    <studentAnswer id="HB.42a.607.1" accuracy="incorrect">Vision and touch.</studentAnswer>
+    <studentAnswer id="HB.42a.612.1" accuracy="incorrect">The stimulus for Sam was feeling.</studentAnswer>
+    <studentAnswer id="HB.42a.629.1" accuracy="correct">Sam saw the mosquito him.</studentAnswer>
+    <studentAnswer id="HB.42a.632.1" accuracy="incorrect">That he began slapping at the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.634.1" accuracy="correct">The stimulus for Sam is that he felt something touch his arm, mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.640.1" accuracy="correct">Sam saw the mosquito on his hand.</studentAnswer>
+    <studentAnswer id="HB.42a.642.1" accuracy="incorrect">The mosquito was buzzing around.</studentAnswer>
+    <studentAnswer id="HB.42a.644.1" accuracy="correct">The stimulus was feel the mosquito land on him.</studentAnswer>
+    <studentAnswer id="HB.42a.647.1" accuracy="correct">Sam saw a mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.648.1" accuracy="incorrect">To get the mosquito off his hand.</studentAnswer>
+    <studentAnswer id="HB.42a.650.1" accuracy="correct">The stimulus for Sam was feeling the mosquito on him.</studentAnswer>
+    <studentAnswer id="HB.42a.981.1" accuracy="incorrect">Sam's stimulus is a mosquito came.</studentAnswer>
+    <studentAnswer id="HB.42a.984.1" accuracy="incorrect">Sam slapped a mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.986.1" accuracy="incorrect">Sam's stimulus was touch because Sam was slapping his forehead when he was trying to get the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.988.1" accuracy="incorrect">Sam's stimulus was the mosquito landing on Sam's lap.</studentAnswer>
+    <studentAnswer id="HB.42a.989.1" accuracy="incorrect">Vision.</studentAnswer>
+    <studentAnswer id="HB.42a.990.1" accuracy="incorrect">Sam's stimulus was slapping at the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42a.991.1" accuracy="incorrect">Touch.</studentAnswer>
+    <studentAnswer id="HB.42a.992.1" accuracy="incorrect">The stimulus was the mosquito going on his arm and him slapping at it.</studentAnswer>
+  </studentAnswers>
+</question>

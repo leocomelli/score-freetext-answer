@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_5b" module="ME">
+  <questionText>Anne is investigating which objects stick to magnets. She recorded this in her notebook. I was surprised! A nail was stuck to the magnet. When I accidentally touched the nail to a paperclip, the paperclip stuck to the nail. If Anne touched the nail to a brass ring, what do you think would happen and why?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_5b-a1">The brass ring would not stick to the nail because the ring is not iron. The nail is a temporary magnet, but brass cannot become a temporary magnet and thus does not stick to magnets.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.5b.141.1" accuracy="correct">It would not become a temporary magnet because it is not iron or metal it is brass.</studentAnswer>
+    <studentAnswer id="ME.5b.225.1" accuracy="incorrect">If Anne attached the nail to a brass ring nothing would happen because the magnetic force would not be strong enough.</studentAnswer>
+    <studentAnswer id="ME.5b.311.1" accuracy="incorrect">I think that the nail will fall. Because the brass ring is too much weight on the nail and magnet.</studentAnswer>
+    <studentAnswer id="ME.5b.318.1" accuracy="incorrect">Probably not it depends on how heavy it is and if it is made of iron.</studentAnswer>
+  </studentAnswers>
+</question>

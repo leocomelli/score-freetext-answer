@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_42" module="VB">
+  <questionText>Don wanted to find out if a battery powered toy truck would always travel the same distance in 10 seconds no matter how heavy a load the truck carried. He placed one or more blocks (the load) in the back of the truck and recorded his results. (Each block had the same mass.) The following graph displays his results. What is the relationship between the number of blocks and the distance traveled by the truck in 10 seconds?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_42-a1">The more blocks the truck carries, the less distance the truck travels in 10 seconds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.42.381.1" accuracy="correct">As the number of blocks increases the distance decreases.</studentAnswer>
+    <studentAnswer id="VB.42.384.1" accuracy="correct">As the blocks increase the distance decreases.</studentAnswer>
+    <studentAnswer id="VB.42.394.1" accuracy="incorrect">The more blocks you put on the truck the farther it gets, in meters.</studentAnswer>
+    <studentAnswer id="VB.42.401.1" accuracy="incorrect">As the number of blocks increases, the distance increase.</studentAnswer>
+    <studentAnswer id="VB.42.404.1" accuracy="incorrect">The relationship is as the number of blocks increases the distance decreases.</studentAnswer>
+    <studentAnswer id="VB.42.406.1" accuracy="correct">The more blocks the shorter the distance traveled.</studentAnswer>
+    <studentAnswer id="VB.42.416.1" accuracy="incorrect">Once he added one more the mass was slower and that is what he showed on the graph.</studentAnswer>
+    <studentAnswer id="VB.42.419.1" accuracy="incorrect">The distance goes up one every time also the number of blocks.</studentAnswer>
+    <studentAnswer id="VB.42.423.1" accuracy="incorrect">It went farther with less blocks and it went no farther with more blocks.</studentAnswer>
+    <studentAnswer id="VB.42.429.1" accuracy="incorrect">The relationship between the independent and the dependent variable is the more load the slower the truck will go.</studentAnswer>
+    <studentAnswer id="VB.42.432.1" accuracy="incorrect">One shows the number of blocks and one shows the distance of how far they went.</studentAnswer>
+    <studentAnswer id="VB.42.440.1" accuracy="incorrect">The more blocks the harder the truck tries to go faster causing it to go slower.</studentAnswer>
+    <studentAnswer id="VB.42.448.1" accuracy="correct">Every time he put a block in it went 5 meters shorter.</studentAnswer>
+    <studentAnswer id="VB.42.452.1" accuracy="correct">The more the block, the less it goes, the less the blocks, the farther it goes.</studentAnswer>
+    <studentAnswer id="VB.42.462.1" accuracy="correct">The relationship is it goes down one every time you add a block.</studentAnswer>
+    <studentAnswer id="VB.42.466.1" accuracy="incorrect">The relationship between the number of blocks and the distance traveled by the truck in 10 seconds is that they both change how far the truck goes.</studentAnswer>
+    <studentAnswer id="VB.42.475.1" accuracy="correct">The relationship is that the less blocks the toy truck has the more it will carry and the more blocks the less it can carry.</studentAnswer>
+    <studentAnswer id="VB.42.477.1" accuracy="incorrect">The relationship between the number of blocks and the distance is that it decreases every time and all of it decreases together.</studentAnswer>
+    <studentAnswer id="VB.42.481.1" accuracy="correct">The relationship is that the more blocks that you put in the truck the less distance it will cover.</studentAnswer>
+    <studentAnswer id="VB.42.497.1" accuracy="correct">The more blocks he puts in the truck the less the truck will travel.</studentAnswer>
+    <studentAnswer id="VB.42.501.1" accuracy="incorrect">That it is increasing by the matter of seconds.</studentAnswer>
+    <studentAnswer id="VB.42.503.1" accuracy="correct">The more number of blocks the less distance it goes or the less block the more distance.</studentAnswer>
+    <studentAnswer id="VB.42.523.1" accuracy="incorrect">The number of blocks is measuring by meters.</studentAnswer>
+    <studentAnswer id="VB.42.530.1" accuracy="correct">If the truck has less blocks it goes further.</studentAnswer>
+    <studentAnswer id="VB.42.533.1" accuracy="correct">The more blocks you add the less distance it would go. It would have more mass.</studentAnswer>
+    <studentAnswer id="VB.42.535.1" accuracy="incorrect">The more blocks Don added the slower the toy truck will go.</studentAnswer>
+    <studentAnswer id="VB.42.539.1" accuracy="incorrect">That will more number of blocks the slower it goes.</studentAnswer>
+    <studentAnswer id="VB.42.542.1" accuracy="incorrect">The distance of the meter is going lower. The number of blocks is going lower too.</studentAnswer>
+    <studentAnswer id="VB.42.545.1" accuracy="incorrect">The distance of the meter is going lower. Number of blocks is getting lower too.</studentAnswer>
+    <studentAnswer id="VB.42.626.1" accuracy="incorrect">The more blocks added the farther it went.</studentAnswer>
+    <studentAnswer id="VB.42.632.1" accuracy="correct">The more blocks the less it goes.</studentAnswer>
+    <studentAnswer id="VB.42.634.1" accuracy="incorrect">It goes up each one.</studentAnswer>
+    <studentAnswer id="VB.42.636.1" accuracy="correct">The relationship is that each time he add a block it goes about one meter lower.</studentAnswer>
+    <studentAnswer id="VB.42.638.1" accuracy="correct">The more blocks the less it will go.</studentAnswer>
+    <studentAnswer id="VB.42.639.1" accuracy="correct">The more blocks it carried the less farther it would go.</studentAnswer>
+    <studentAnswer id="VB.42.643.1" accuracy="correct">The more blocks the less meters it goes.</studentAnswer>
+  </studentAnswers>
+</question>

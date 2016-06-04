@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="EM_21b" module="EM">
+  <questionText>Georgia found one brown mineral and one black mineral. How will she know which one is harder?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_21b-a1">The harder mineral will leave a scratch on the less hard mineral. If the black mineral is harder, the brown mineral will have a scratch.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.21b.101.1" accuracy="correct">Because whichever one scratches is the hardest.</studentAnswer>
+    <studentAnswer id="EM.21b.108.1" accuracy="correct">Which one makes a deeper scratch.</studentAnswer>
+    <studentAnswer id="EM.21b.115.1" accuracy="incorrect">The other one that did not break is the hardest.</studentAnswer>
+    <studentAnswer id="EM.21b.121.1" accuracy="correct">See which one scratched the other.</studentAnswer>
+    <studentAnswer id="EM.21b.148.1" accuracy="correct">One will scratch the other one. She should rub the scratch, too. That way she knows if it is a scratch or dust from the other mineral.</studentAnswer>
+    <studentAnswer id="EM.21b.149.1" accuracy="correct">First you take the black mineral and rub it against the brown mineral. Then see if you can wipe off the mark and if you can the brown one is harder and if you cannot the black one is harder.</studentAnswer>
+    <studentAnswer id="EM.21b.155.1" accuracy="correct">She can rub the scratch. If it goes away, the black one is harder. If it stays there, the brown one is harder.</studentAnswer>
+    <studentAnswer id="EM.21b.174.1" accuracy="correct">The one with scratches or deeper scratches is weaker and the other rock is harder.</studentAnswer>
+    <studentAnswer id="EM.21b.178.1" accuracy="incorrect">When she rubs them together and the other one breaks the one that did not break is the hardest.</studentAnswer>
+    <studentAnswer id="EM.21b.189.1" accuracy="incorrect">Because it will break.</studentAnswer>
+    <studentAnswer id="EM.21b.206.1" accuracy="incorrect">Scratch test.</studentAnswer>
+    <studentAnswer id="EM.21b.214.1" accuracy="correct">The harder mineral will scratch the color off of the softer one.</studentAnswer>
+    <studentAnswer id="EM.21b.223.1" accuracy="correct">The one that make a mark. She should also see if stuff comes off when she scratches it.</studentAnswer>
+    <studentAnswer id="EM.21b.226.1" accuracy="correct">If she does scratch one on the other and one gets a mark that you can to rub off. Then you know the other one is harder.</studentAnswer>
+    <studentAnswer id="EM.21b.242.1" accuracy="incorrect">A penny.</studentAnswer>
+    <studentAnswer id="EM.21b.248.1" accuracy="incorrect">The one with a scratch.</studentAnswer>
+    <studentAnswer id="EM.21b.251.1" accuracy="correct">The mineral with no scratch is the hardest because the other one could not scratch it.</studentAnswer>
+    <studentAnswer id="EM.21b.258.1" accuracy="correct">The one that scratches the other.</studentAnswer>
+    <studentAnswer id="EM.21b.259.1" accuracy="correct">Whichever one gets scratched is the softest.</studentAnswer>
+    <studentAnswer id="EM.21b.260.1" accuracy="incorrect">Whichever one got scratched.</studentAnswer>
+    <studentAnswer id="EM.21b.279.1" accuracy="correct">Scratch them together.</studentAnswer>
+    <studentAnswer id="EM.21b.284.1" accuracy="incorrect">Whichever one that has more scratches.</studentAnswer>
+    <studentAnswer id="EM.21b.314.1" accuracy="incorrect">Because maybe something will come off.</studentAnswer>
+    <studentAnswer id="EM.21b.319.1" accuracy="incorrect">The one that does not break.</studentAnswer>
+    <studentAnswer id="EM.21b.322.1" accuracy="incorrect">By rubbing them together whichever one the chalky stuff comes off of is the hardness.</studentAnswer>
+    <studentAnswer id="EM.21b.323.1" accuracy="incorrect">The skin of the saltiest will come off.</studentAnswer>
+    <studentAnswer id="EM.21b.349.1" accuracy="correct">The one that does not have a scratch.</studentAnswer>
+    <studentAnswer id="EM.21b.358.1" accuracy="incorrect">The one who resists is the hardest.</studentAnswer>
+    <studentAnswer id="EM.21b.360.1" accuracy="incorrect">Because she can touch and see which is hard.</studentAnswer>
+    <studentAnswer id="EM.21b.383.1" accuracy="correct">If you see a mark that does not mean it is the softest. If it is pushed in that means it is the softest and the harder one there is nothing.</studentAnswer>
+    <studentAnswer id="EM.21b.392.1" accuracy="correct">The one with a scratch is not the hardest so the other mineral must be hardest.</studentAnswer>
+    <studentAnswer id="EM.21b.398.1" accuracy="incorrect">The one that crumbles the most.</studentAnswer>
+    <studentAnswer id="EM.21b.629.1" accuracy="correct">The harder mineral will leave a scratch on the less hard mineral.</studentAnswer>
+    <studentAnswer id="EM.21b.631.1" accuracy="correct">The harder will leave a scratch on the less hard mineral.</studentAnswer>
+    <studentAnswer id="EM.21b.638.1" accuracy="correct">The harder mineral will leave a scratch on the less hard mineral.</studentAnswer>
+    <studentAnswer id="EM.21b.646.1" accuracy="correct">The harder will leave a scratch on the other.</studentAnswer>
+  </studentAnswers>
+</question>

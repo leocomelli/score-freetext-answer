@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MX_47b" module="MX">
+  <questionText>Tabby made 2 solutions using the same solute and water. [Cup one has 6 spoons solute in 50 milliliters water. Cup 2 has 8 spoons solute in 50 milliliters water. Both solutions are clear with material on the bottom.] Which sentence below describes the concentrations of the 2 solutions? (A. The solutions in the cups have the same concentration.) B. Cup one has the more concentrated solution. C. Cup 2 has the more concentrated solution. D. There is not enough information to answer the question. Explain your choice.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_47b-a1">Both solutions are saturated (as indicated by the material on the bottom) so, even though one cup has more spoonfuls of sugar, both have the same (maximum) concentration.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.47b.381.1" accuracy="correct">If you take the same amount of water and weight it will measure to the same things.</studentAnswer>
+    <studentAnswer id="MX.47b.385.1" accuracy="incorrect">I chose cup 2 because it has the same water 2 has more solute.</studentAnswer>
+    <studentAnswer id="MX.47b.386.1" accuracy="correct">The solutions have the same amount of solute, there is just more on the bottom of the cup in cup 2.</studentAnswer>
+    <studentAnswer id="MX.47b.388.1" accuracy="correct">I chose A because in each cup you could put 4 spoons and it dissolved. When the fifth scoop went in it did not dissolve. The undissolved part is not part of the solution.</studentAnswer>
+    <studentAnswer id="MX.47b.418.1" accuracy="incorrect">Once a solution is saturated it is at its highest level of concentration.</studentAnswer>
+    <studentAnswer id="MX.47b.421.1" accuracy="correct">My choice is A because it might weigh the same and they both is saturated.</studentAnswer>
+    <studentAnswer id="MX.47b.422.1" accuracy="correct">Because both of the cups one and 2 have the same amount of concentrations because they are both saturated.</studentAnswer>
+    <studentAnswer id="MX.47b.423.1" accuracy="correct">They are the same because once a solution is saturated it cannot go further.</studentAnswer>
+    <studentAnswer id="MX.47b.425.1" accuracy="incorrect">I chose cup 2 because it has more solute in it.</studentAnswer>
+    <studentAnswer id="MX.47b.426.1" accuracy="incorrect">I picked C because cup 2 has more solute than cup one.</studentAnswer>
+    <studentAnswer id="MX.47b.434.1" accuracy="incorrect">Because it has more spoons of solute but it has the same amount of water.</studentAnswer>
+    <studentAnswer id="MX.47b.453.1" accuracy="incorrect">Because there is the same amount of solvent but there is more solute in cup 2.</studentAnswer>
+    <studentAnswer id="MX.47b.455.1" accuracy="correct">Each solution has same amount of water, which means they both hold the same amount of solute after saturation.</studentAnswer>
+    <studentAnswer id="MX.47b.457.1" accuracy="correct">Because they are both at the highest point of concentration.</studentAnswer>
+    <studentAnswer id="MX.47b.460.1" accuracy="incorrect">Because it is the same.</studentAnswer>
+    <studentAnswer id="MX.47b.462.1" accuracy="incorrect">It does not show how much dissolved and how much did not.</studentAnswer>
+    <studentAnswer id="MX.47b.488.1" accuracy="incorrect">Because both cup one and 2 are already concentrated. Neither cup one or 2 can hold any more solvent.</studentAnswer>
+    <studentAnswer id="MX.47b.498.1" accuracy="incorrect">Because Tabby said that the solute and water were the same and I believe him and it says that they both have the same thing on the bottom clear, material on the bottom.</studentAnswer>
+    <studentAnswer id="MX.47b.504.1" accuracy="incorrect">It clearly states that 2 has more.</studentAnswer>
+    <studentAnswer id="MX.47b.524.1" accuracy="incorrect">Because is look like it.</studentAnswer>
+    <studentAnswer id="MX.47b.531.1" accuracy="incorrect">Same water but more scoops.</studentAnswer>
+    <studentAnswer id="MX.47b.532.1" accuracy="incorrect">Because both looked alike to me.</studentAnswer>
+    <studentAnswer id="MX.47b.540.1" accuracy="incorrect">Because cup 2 have 8 spoons.</studentAnswer>
+    <studentAnswer id="MX.47b.541.1" accuracy="incorrect">I think that the answer is cup 2 because it has more spoons.</studentAnswer>
+    <studentAnswer id="MX.47b.556.1" accuracy="incorrect">Because solution 2 is more concentrate because it has more spoonfuls.</studentAnswer>
+    <studentAnswer id="MX.47b.563.1" accuracy="incorrect">I put C because cup 2 has more spoons of solute so it would be heavier.</studentAnswer>
+    <studentAnswer id="MX.47b.567.1" accuracy="incorrect">Because cup 2 has more salt, 8 spoons and because it has more material on the bottom.</studentAnswer>
+    <studentAnswer id="MX.47b.571.1" accuracy="incorrect">I put A because it is the same because it the same amount of water and only 2 scoops more than the other one.</studentAnswer>
+    <studentAnswer id="MX.47b.595.1" accuracy="incorrect">I would need to know how much stuff is at the bottom.</studentAnswer>
+    <studentAnswer id="MX.47b.597.1" accuracy="incorrect">Because they have the same amount of water but cup 2 has more spoons of solute.</studentAnswer>
+    <studentAnswer id="MX.47b.598.1" accuracy="incorrect">Both have the same because they have the same milliliters of water and they are both the same.</studentAnswer>
+    <studentAnswer id="MX.47b.604.1" accuracy="incorrect">Cup one might have 6 spoons of solute and cup 2 has 8 spoons and both have 50 milliliters of water.</studentAnswer>
+    <studentAnswer id="MX.47b.635.1" accuracy="incorrect">Cup one has less material on the bottom.</studentAnswer>
+    <studentAnswer id="MX.47b.638.1" accuracy="incorrect">Because cup one has the same amount of water but different amount of solute.</studentAnswer>
+    <studentAnswer id="MX.47b.640.1" accuracy="incorrect">The solutions both have the same amount of water, but not the same amount of clear material on the bottom. So cup one wins.</studentAnswer>
+    <studentAnswer id="MX.47b.641.1" accuracy="correct">Because both are saturated, and if you used 6 spoons for cup 2 both cups are still saturated.</studentAnswer>
+  </studentAnswers>
+</question>

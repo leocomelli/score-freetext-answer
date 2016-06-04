@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_18" module="WA">
+  <questionText>Angie wrote in her science notebook, "Evaporation only happens when water is heated to high temperatures." Explain why you agree or disagree.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_18-a1">Disagree. Evaporation can occur at any temperature.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.18.173.1" accuracy="correct">I disagree with you Angie. Yes that could happen but it is not always like that. Evaporation also could happen at any surface temperature.</studentAnswer>
+    <studentAnswer id="WA.18.175.1" accuracy="correct">I disagree because evaporation happens everywhere just slower in colder places.</studentAnswer>
+    <studentAnswer id="WA.18.177.1" accuracy="correct">No because water does not have to heated to a high temperature to evaporate, it would still evaporate if it was cold outside.</studentAnswer>
+    <studentAnswer id="WA.18.178.1" accuracy="incorrect">I agree because the only way water evaporates.</studentAnswer>
+    <studentAnswer id="WA.18.180.1" accuracy="correct">I do not agree. It does not matter if the water is heated or not because the sun will shine and it will still evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.183.1" accuracy="correct">I disagree because it would only evaporate faster it can be in a room and evaporate but it would take longer.</studentAnswer>
+    <studentAnswer id="WA.18.184.1" accuracy="incorrect">I agree because I remember when the class put cups by the sun and it evaporated faster than all of the other cups we had around the room.</studentAnswer>
+    <studentAnswer id="WA.18.197.1" accuracy="incorrect">I agree because water does heated by the sun that evaporates so yes I agree.</studentAnswer>
+    <studentAnswer id="WA.18.206.1" accuracy="correct">I disagree because when we did our experiment the water in the jug evaporated, but not as fast.</studentAnswer>
+    <studentAnswer id="WA.18.208.1" accuracy="correct">I disagree because it does not only happen when water is heated.</studentAnswer>
+    <studentAnswer id="WA.18.209.1" accuracy="correct">I disagree because if it is hot out it will evaporate. But it still will evaporate if it is cool out. It just evaporates slower.</studentAnswer>
+    <studentAnswer id="WA.18.214.1" accuracy="correct">No, I do not agree, because water can evaporate when it is cold, it just goes slower.</studentAnswer>
+    <studentAnswer id="WA.18.216.1" accuracy="incorrect">I agree. Because cold water can it just takes longer.</studentAnswer>
+    <studentAnswer id="WA.18.220.1" accuracy="correct">I disagree Evaporation happens when it is cold and hot because of the air.</studentAnswer>
+    <studentAnswer id="WA.18.222.1" accuracy="incorrect">I agree.</studentAnswer>
+    <studentAnswer id="WA.18.223.1" accuracy="correct">I disagree because the water cycle never stops, even in cold places.</studentAnswer>
+    <studentAnswer id="WA.18.224.1" accuracy="correct">I disagree because evaporation happen when it is cold too.</studentAnswer>
+    <studentAnswer id="WA.18.226.1" accuracy="correct">I disagree with Angie because evaporation happens with cold water but it evaporates slower.</studentAnswer>
+    <studentAnswer id="WA.18.227.1" accuracy="correct">I disagree because evaporation happens in cool areas, just slower.</studentAnswer>
+    <studentAnswer id="WA.18.231.1" accuracy="correct">I disagree because evaporation can happen. When it is cold, too. Once, I left a cup of water out on a cold night, and the next morning it was gone.</studentAnswer>
+    <studentAnswer id="WA.18.244.1" accuracy="correct">I disagree, evaporation happens everywhere, even on cold days. It just takes longer when it is cool out.</studentAnswer>
+    <studentAnswer id="WA.18.245.1" accuracy="correct">I disagree because you can have a cold class of water sitting outside on a hot day and the water would evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.246.1" accuracy="correct">I disagree because we tried evaporation with slightly cold water and it worked.</studentAnswer>
+    <studentAnswer id="WA.18.249.1" accuracy="incorrect">I disagree because when water is heated to a high temperature it does not evaporate quickly.</studentAnswer>
+    <studentAnswer id="WA.18.250.1" accuracy="correct">I disagree because it does evaporate in high temperatures but it just takes a little longer in cold air.</studentAnswer>
+    <studentAnswer id="WA.18.251.1" accuracy="incorrect">I disagree because the water only evaporation works on cold areas.</studentAnswer>
+    <studentAnswer id="WA.18.252.1" accuracy="incorrect">I disagree with Angie because evaporation can happen in the rain too.</studentAnswer>
+    <studentAnswer id="WA.18.253.1" accuracy="incorrect">I agree because when you take a warm shower it is all steamy and after that it evaporates on the glass.</studentAnswer>
+    <studentAnswer id="WA.18.254.1" accuracy="incorrect">I agree because it is true water does evaporate if you will put it on heated high.</studentAnswer>
+    <studentAnswer id="WA.18.260.1" accuracy="correct">I disagree because, evaporation has happened in my cold water before.</studentAnswer>
+    <studentAnswer id="WA.18.261.1" accuracy="correct">I disagree because if you put a cup of water and put it in a fridge it will still evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.265.1" accuracy="incorrect">Agree.</studentAnswer>
+    <studentAnswer id="WA.18.266.1" accuracy="incorrect">I agree because water evaporates because it is too hot.</studentAnswer>
+    <studentAnswer id="WA.18.276.1" accuracy="incorrect">I agree because it says on our chart more water evaporates when heated.</studentAnswer>
+    <studentAnswer id="WA.18.296.1" accuracy="correct">I disagree because last year we put room temperature water in a cup and we put the cups outside when it was cold the water evaporated.</studentAnswer>
+    <studentAnswer id="WA.18.297.1" accuracy="correct">I disagree because in my class, evaporation can happen if cold too.</studentAnswer>
+    <studentAnswer id="WA.18.301.1" accuracy="incorrect">I agree. Because water evaporates it warms up. The water goes in the air and stays there until it hits something cool and solid.</studentAnswer>
+    <studentAnswer id="WA.18.346.1" accuracy="correct">I disagree because water can evaporate in the cold too, but when it is not it just evaporates faster.</studentAnswer>
+    <studentAnswer id="WA.18.349.1" accuracy="incorrect">If evaporation when it hot and cold mostly when it hot.</studentAnswer>
+    <studentAnswer id="WA.18.350.1" accuracy="incorrect">Because it can happen to anyone.</studentAnswer>
+    <studentAnswer id="WA.18.351.1" accuracy="incorrect">Because heat absorbs the water.</studentAnswer>
+    <studentAnswer id="WA.18.354.1" accuracy="incorrect">Because it has to evaporate into the clouds and when the clouds get too much water, it rains, and the word for that is condensation.</studentAnswer>
+    <studentAnswer id="WA.18.355.1" accuracy="incorrect">I agree with both because evaporation only happens when water is hot or cold.</studentAnswer>
+    <studentAnswer id="WA.18.356.1" accuracy="incorrect">I disagree because evaporation means it went up in the air or we all could die.</studentAnswer>
+    <studentAnswer id="WA.18.358.1" accuracy="correct">I disagree with Angie because it can still be cold.</studentAnswer>
+    <studentAnswer id="WA.18.361.1" accuracy="correct">I disagree because water does not only evaporate when it is at a high temperature it only evaporates quicker.</studentAnswer>
+    <studentAnswer id="WA.18.363.1" accuracy="incorrect">Agree because when condensation happens the water warms up and it evaporation happens.</studentAnswer>
+    <studentAnswer id="WA.18.365.1" accuracy="correct">I disagree because evaporation can happen when it is cold or hot outside it just evaporates faster when it is hot and slower in the cold.</studentAnswer>
+    <studentAnswer id="WA.18.367.1" accuracy="correct">I disagree because water can evaporate any time. Just when it is hot it evaporates quicker than when its cold.</studentAnswer>
+    <studentAnswer id="WA.18.381.1" accuracy="incorrect">Yes I agree because when water is hot it fogs up.</studentAnswer>
+    <studentAnswer id="WA.18.383.1" accuracy="incorrect">Water evaporation is also predicted by the volume mass.</studentAnswer>
+    <studentAnswer id="WA.18.385.1" accuracy="correct">I disagree because the surface area effects the evaporation. Also it just takes more time when the water is cold.</studentAnswer>
+    <studentAnswer id="WA.18.386.1" accuracy="incorrect">I disagree because it can also evaporate in air movement or when it is exposed to more air.</studentAnswer>
+    <studentAnswer id="WA.18.423.1" accuracy="incorrect">Disagree because there are more ways to make things evaporate, including, putting it by morning air.</studentAnswer>
+    <studentAnswer id="WA.18.451.1" accuracy="incorrect">I agree because anything with water on it in the heat will evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.452.1" accuracy="incorrect">I disagree because if it rains the next day is gone.</studentAnswer>
+    <studentAnswer id="WA.18.455.1" accuracy="incorrect">I disagree because water can evaporate when it is breezy too!</studentAnswer>
+    <studentAnswer id="WA.18.456.1" accuracy="correct">I disagree because water can evaporate at any temperature.</studentAnswer>
+    <studentAnswer id="WA.18.465.1" accuracy="correct">I disagree. Water can evaporate at any temperature. Make the water make it evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.18.466.1" accuracy="correct">I disagree because the water after it rains evaporates and it is not hot outside.</studentAnswer>
+    <studentAnswer id="WA.18.468.1" accuracy="incorrect">I disagree because evaporation is also involved with surface tension.</studentAnswer>
+    <studentAnswer id="WA.18.469.1" accuracy="incorrect">Agree because heat can help the time of evaporation.</studentAnswer>
+    <studentAnswer id="WA.18.486.1" accuracy="correct">I disagree because water does not always evaporate in hot water.</studentAnswer>
+    <studentAnswer id="WA.18.492.1" accuracy="correct">That is not true if you leave water out on a air conditioner for a month it will evaporate no heat needed.</studentAnswer>
+    <studentAnswer id="WA.18.493.1" accuracy="incorrect">I agree because if the temperature is higher the water will evaporate more.</studentAnswer>
+    <studentAnswer id="WA.18.495.1" accuracy="incorrect">I disagree. Because any water left out long enough will evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.497.1" accuracy="incorrect">I disagree because it also depends on surface area and light. Something with light might evaporate more slowly than something with a lot of heat, but it will still evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.500.1" accuracy="correct">I disagree. Evaporation can happen if the water is cold, it just takes longer.</studentAnswer>
+    <studentAnswer id="WA.18.501.1" accuracy="incorrect">Disagree. That is true, but there are better ways to say like, the water starts to steam at 212 and the molecules in the water start to jump around then and contract to the cold air because they are so hot that the molecules jump out and turn cold and get smaller and smaller.</studentAnswer>
+    <studentAnswer id="WA.18.503.1" accuracy="incorrect">I agree because the higher the temperature, the more evaporation. But evaporation does happen with cold water to.</studentAnswer>
+    <studentAnswer id="WA.18.509.1" accuracy="incorrect">Because on the floor it was not piled on top of each other. So there was more room to evaporate, so in the cup it was all confined so it had less room to evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.510.1" accuracy="incorrect">I disagree because if you put a cup of water at a high elevation it is still going to evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.524.1" accuracy="incorrect">I agree because hot air raises water molecules.</studentAnswer>
+    <studentAnswer id="WA.18.527.1" accuracy="correct">I disagree. The water in a hot area evaporates faster but cold water still evaporates just not as quickly.</studentAnswer>
+    <studentAnswer id="WA.18.528.1" accuracy="correct">I disagree because sometimes if you leave water spilled it would eventually evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.531.1" accuracy="correct">Well it mostly happen when it is hot but it does not always, so I disagree!</studentAnswer>
+    <studentAnswer id="WA.18.532.1" accuracy="correct">I disagree that evaporation only happens when it is heated it happens all the time heated or not.</studentAnswer>
+    <studentAnswer id="WA.18.533.1" accuracy="incorrect">I agree because in our class we tried it and the cup outside did not evaporate that much because it was cold and the cup on the inside evaporated a lot and it was hot.</studentAnswer>
+    <studentAnswer id="WA.18.537.1" accuracy="correct">It happens at any temperature but it is faster at high temperatures.</studentAnswer>
+    <studentAnswer id="WA.18.539.1" accuracy="incorrect">Agree because it has to be hot.</studentAnswer>
+    <studentAnswer id="WA.18.541.1" accuracy="incorrect">No, because if you take a clear cap and fill it with water put a cap on it and put it in a sunny spot and let it sit for long that is a way to.</studentAnswer>
+    <studentAnswer id="WA.18.556.1" accuracy="correct">I disagree because evaporation happens if there is any temperature water, but it will evaporate faster with warm air.</studentAnswer>
+    <studentAnswer id="WA.18.557.1" accuracy="incorrect">I agree because water only evaporates when heat is near by.</studentAnswer>
+    <studentAnswer id="WA.18.558.1" accuracy="incorrect">I agree because steam is hot water flying around and taking the water out the cup.</studentAnswer>
+    <studentAnswer id="WA.18.564.1" accuracy="correct">I disagree because evaporation happens when water is cold.</studentAnswer>
+    <studentAnswer id="WA.18.565.1" accuracy="correct">I disagree because I heard evaporation is always happening and water is not always hot.</studentAnswer>
+    <studentAnswer id="WA.18.566.1" accuracy="incorrect">Yes I do agree because the sun shows how hot it can be with evaporation.</studentAnswer>
+    <studentAnswer id="WA.18.567.1" accuracy="correct">That is not true because the oceans can be cold but they still evaporate. Evaporation happens every second of every minute of everyday of every year!</studentAnswer>
+    <studentAnswer id="WA.18.595.1" accuracy="incorrect">Agree the sun is hot and the ground water evaporated.</studentAnswer>
+    <studentAnswer id="WA.18.596.1" accuracy="incorrect">I agree because water vapor is what gets evaporated. Water vapor is often times heat. If water is extremely cold it freezes.</studentAnswer>
+    <studentAnswer id="WA.18.598.1" accuracy="correct">I disagree because water can evaporate higher than 32 degrees Fahrenheit.</studentAnswer>
+    <studentAnswer id="WA.18.603.1" accuracy="incorrect">I disagree when water spills or is in a cup it evaporates.</studentAnswer>
+    <studentAnswer id="WA.18.604.1" accuracy="correct">I disagree if I spill water on my clothes it was probably cold water and it evaporates.</studentAnswer>
+    <studentAnswer id="WA.18.608.1" accuracy="correct">I disagree because hot water evaporates faster than cold but they both do evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.610.1" accuracy="incorrect">I agree because you need hot air to evaporate something.</studentAnswer>
+    <studentAnswer id="WA.18.612.1" accuracy="correct">I disagree because any temperature water can evaporate.</studentAnswer>
+    <studentAnswer id="WA.18.631.1" accuracy="correct">That's not true because my group put ours in the freezer and it evaporated a little bit.</studentAnswer>
+    <studentAnswer id="WA.18.632.1" accuracy="incorrect">I disagree because it can happen on any kinds of water.</studentAnswer>
+    <studentAnswer id="WA.18.641.1" accuracy="incorrect">I disagree because when water is cold water is froze it gets smaller and evaporation.</studentAnswer>
+    <studentAnswer id="WA.18.642.1" accuracy="incorrect">Yes because water is cold then heat hits it then it turns to water vapor. Then goes up to the air.</studentAnswer>
+  </studentAnswers>
+</question>

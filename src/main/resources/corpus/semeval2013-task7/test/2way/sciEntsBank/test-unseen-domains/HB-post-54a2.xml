@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_54a2" module="HB">
+  <questionText>Look at the picture of a fox bone. Describe how you can tell which part of the fox this bone comes from.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_54a2-a1">The bone is triangular with a hole in the middle for the spinal cord.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.54a2.147.1" accuracy="incorrect">Because it has a hole and it is really suppose to be small.</studentAnswer>
+    <studentAnswer id="HB.54a2.172.1" accuracy="incorrect">Come from the back bone.</studentAnswer>
+    <studentAnswer id="HB.54a2.174.1" accuracy="incorrect">Because I remember in the rotten body there was something like that.</studentAnswer>
+    <studentAnswer id="HB.54a2.178.1" accuracy="incorrect">It looks like it.</studentAnswer>
+    <studentAnswer id="HB.54a2.179.1" accuracy="incorrect">From the way it is shaped it is curved so it can bend.</studentAnswer>
+    <studentAnswer id="HB.54a2.180.1" accuracy="incorrect">Because of the part with 2 bones away from each other.</studentAnswer>
+    <studentAnswer id="HB.54a2.181.1" accuracy="incorrect">The back.</studentAnswer>
+    <studentAnswer id="HB.54a2.183.1" accuracy="incorrect">Because it looks like part of your stomach.</studentAnswer>
+    <studentAnswer id="HB.54a2.184.1" accuracy="incorrect">It comes form the ball's socket.</studentAnswer>
+    <studentAnswer id="HB.54a2.206.1" accuracy="incorrect">The long part of the bone is the top of the vertebrae.</studentAnswer>
+    <studentAnswer id="HB.54a2.207.1" accuracy="incorrect">I can tell that it is a pelvis because the hip bone look like it is on a vole.</studentAnswer>
+    <studentAnswer id="HB.54a2.209.1" accuracy="incorrect">Because there are the one thing at the top and the thing on the side and also there is a 2 hole.</studentAnswer>
+    <studentAnswer id="HB.54a2.213.1" accuracy="incorrect">I can tell because of how it has the little hole in it.</studentAnswer>
+    <studentAnswer id="HB.54a2.215.1" accuracy="incorrect">How it looks.</studentAnswer>
+    <studentAnswer id="HB.54a2.216.1" accuracy="incorrect">Because it has a circle and then the bumpy part In the back.</studentAnswer>
+    <studentAnswer id="HB.54a2.217.1" accuracy="incorrect">Here is the tail the legs.</studentAnswer>
+    <studentAnswer id="HB.54a2.220.1" accuracy="incorrect">Because it has a parts that hook onto your leg.</studentAnswer>
+    <studentAnswer id="HB.54a2.243.1" accuracy="incorrect">How I know is from study bones I can tell vertebrae apart and they always have that shape.</studentAnswer>
+    <studentAnswer id="HB.54a2.244.1" accuracy="incorrect">I can tell because I studied.</studentAnswer>
+    <studentAnswer id="HB.54a2.248.1" accuracy="incorrect">I can tell with the way it is shaped.</studentAnswer>
+    <studentAnswer id="HB.54a2.249.1" accuracy="incorrect">You can tell because of the tubes that allow the blood to go through.</studentAnswer>
+    <studentAnswer id="HB.54a2.250.1" accuracy="incorrect">I can tell this part of the fox by its hollow middle.</studentAnswer>
+    <studentAnswer id="HB.54a2.252.1" accuracy="incorrect">We looked inside a pellet and put the bones together.</studentAnswer>
+    <studentAnswer id="HB.54a2.255.1" accuracy="incorrect">Because I looked at the bone.</studentAnswer>
+    <studentAnswer id="HB.54a2.258.1" accuracy="incorrect">It comes from the lumbar vertebrae because the way it is shaped.</studentAnswer>
+    <studentAnswer id="HB.54a2.278.1" accuracy="incorrect">I think the 2 bones on the sides are the beginning of the legs and the bone on the top is the beginning of the tail.</studentAnswer>
+    <studentAnswer id="HB.54a2.279.1" accuracy="incorrect">I can tell because the 2 parts that stick out look like where the legs come out.</studentAnswer>
+    <studentAnswer id="HB.54a2.281.1" accuracy="incorrect">Because in the rodent the tale bone looks like.</studentAnswer>
+    <studentAnswer id="HB.54a2.282.1" accuracy="incorrect">A fox does not have very long ears.</studentAnswer>
+    <studentAnswer id="HB.54a2.284.1" accuracy="incorrect">It looks like the backbone of a rodent or a animal.</studentAnswer>
+    <studentAnswer id="HB.54a2.294.1" accuracy="incorrect">The 2 bones that are sticking out that connects to the femur.</studentAnswer>
+    <studentAnswer id="HB.54a2.313.1" accuracy="incorrect">Because it looks kind of like a pelvis and kind of like a vertebra.</studentAnswer>
+    <studentAnswer id="HB.54a2.320.1" accuracy="incorrect">Because it looks like one.</studentAnswer>
+    <studentAnswer id="HB.54a2.328.1" accuracy="incorrect">It looks like a rodent.</studentAnswer>
+    <studentAnswer id="HB.54a2.346.1" accuracy="incorrect">Well you can see that it came from a fox bone.</studentAnswer>
+    <studentAnswer id="HB.54a2.352.1" accuracy="incorrect">Because the skinny pointy thing looks like part of the neck.</studentAnswer>
+    <studentAnswer id="HB.54a2.359.1" accuracy="incorrect">I can tell by the way it is shaped.</studentAnswer>
+    <studentAnswer id="HB.54a2.387.1" accuracy="incorrect">Its got the line on top.</studentAnswer>
+    <studentAnswer id="HB.54a2.391.1" accuracy="incorrect">The bone is shaped like a triangle.</studentAnswer>
+    <studentAnswer id="HB.54a2.393.1" accuracy="incorrect">Because you can tell it goes to the spine.</studentAnswer>
+    <studentAnswer id="HB.54a2.394.1" accuracy="correct">Because it is triangular and it has a hole in the middle for the spine.</studentAnswer>
+    <studentAnswer id="HB.54a2.418.1" accuracy="incorrect">I can tell because the big open part is part of the back.</studentAnswer>
+    <studentAnswer id="HB.54a2.423.1" accuracy="incorrect">When we dissected owl pellets we found a lot of them and by looking at the chart it was a vertebrae.</studentAnswer>
+    <studentAnswer id="HB.54a2.427.1" accuracy="incorrect">There is a lot of vertebrae in your spine.</studentAnswer>
+    <studentAnswer id="HB.54a2.433.1" accuracy="incorrect">I think that because it has things coming off it.</studentAnswer>
+    <studentAnswer id="HB.54a2.438.1" accuracy="incorrect">This is the beginning of the neck.</studentAnswer>
+    <studentAnswer id="HB.54a2.464.1" accuracy="incorrect">This part connects to the legs.</studentAnswer>
+    <studentAnswer id="HB.54a2.488.1" accuracy="incorrect">Because we have the same looking bone in our spine.</studentAnswer>
+    <studentAnswer id="HB.54a2.490.1" accuracy="incorrect">Because vertebrae are stack up on each other that is what sticks are there.</studentAnswer>
+    <studentAnswer id="HB.54a2.499.1" accuracy="incorrect">It just looks like it would come from a leg.</studentAnswer>
+    <studentAnswer id="HB.54a2.501.1" accuracy="incorrect">Because the top looks like it goes into the neck.</studentAnswer>
+    <studentAnswer id="HB.54a2.502.1" accuracy="incorrect">Maybe because it is rounded and where I put the squares is where the bones to your leg can connect.</studentAnswer>
+    <studentAnswer id="HB.54a2.505.1" accuracy="incorrect">If you look at a vertebrae it looks like this and it looks of if a part of the spinal cord.</studentAnswer>
+    <studentAnswer id="HB.54a2.525.1" accuracy="incorrect">I can tell because it is shooting upward.</studentAnswer>
+    <studentAnswer id="HB.54a2.530.1" accuracy="incorrect">It is easy. It has a curve in it.</studentAnswer>
+    <studentAnswer id="HB.54a2.563.1" accuracy="incorrect">Well I can see that it has the hole sort of right there.</studentAnswer>
+    <studentAnswer id="HB.54a2.565.1" accuracy="incorrect">This bone come from her stomach and those 2 things look like her nana.</studentAnswer>
+    <studentAnswer id="HB.54a2.569.1" accuracy="incorrect">By looking at the face.</studentAnswer>
+    <studentAnswer id="HB.54a2.570.1" accuracy="incorrect">I think the tail goes right. What the star is.</studentAnswer>
+    <studentAnswer id="HB.54a2.571.1" accuracy="incorrect">This looks like a fox head bone because I can see the nose bone.</studentAnswer>
+    <studentAnswer id="HB.54a2.572.1" accuracy="incorrect">It really just guessed because I am still not sure.</studentAnswer>
+    <studentAnswer id="HB.54a2.573.1" accuracy="incorrect">I think it is the pelvis because it looks like It has a ball-and-socket.</studentAnswer>
+    <studentAnswer id="HB.54a2.575.1" accuracy="incorrect">I think it comes from the end of a fox is because it has some similarities to the end of a human body.</studentAnswer>
+    <studentAnswer id="HB.54a2.576.1" accuracy="incorrect">How I can tell is when we were dissecting owl pellets I found some bone that looked like that.</studentAnswer>
+    <studentAnswer id="HB.54a2.580.1" accuracy="incorrect">Well I can tell because there is an opening in the middle so I think it is the stump.</studentAnswer>
+    <studentAnswer id="HB.54a2.592.1" accuracy="incorrect">The pointed part is probably the tail and the identical parts are probably the legs.</studentAnswer>
+    <studentAnswer id="HB.54a2.593.1" accuracy="incorrect">Because of the 2 I think bones connect to the body.</studentAnswer>
+    <studentAnswer id="HB.54a2.594.1" accuracy="incorrect">It is round and circular like a ribcage.</studentAnswer>
+    <studentAnswer id="HB.54a2.595.1" accuracy="incorrect">The legs come from the ends.</studentAnswer>
+    <studentAnswer id="HB.54a2.596.1" accuracy="incorrect">You can see the tail, legs.</studentAnswer>
+    <studentAnswer id="HB.54a2.597.1" accuracy="correct">The bottom connects to your backbone and there is space for your nerves to go through and blood.</studentAnswer>
+    <studentAnswer id="HB.54a2.601.1" accuracy="incorrect">I can tell because there is a tailbone there and there is leg bones.</studentAnswer>
+    <studentAnswer id="HB.54a2.602.1" accuracy="incorrect">The tailbone.</studentAnswer>
+    <studentAnswer id="HB.54a2.603.1" accuracy="incorrect">Because it has 2 ball and socket joints.</studentAnswer>
+    <studentAnswer id="HB.54a2.604.1" accuracy="incorrect">There are 2 bones that look like they are going to be back legs.</studentAnswer>
+    <studentAnswer id="HB.54a2.605.1" accuracy="correct">I can describe because the backbone goes through the big hole and the legs go into the ball-and-socket joint.</studentAnswer>
+    <studentAnswer id="HB.54a2.608.1" accuracy="incorrect">This because its shape gives it away.</studentAnswer>
+    <studentAnswer id="HB.54a2.610.1" accuracy="incorrect">Because I can see the back legs and the tail sticking out and you can see the waist when you look at it.</studentAnswer>
+    <studentAnswer id="HB.54a2.611.1" accuracy="incorrect">I can tell because at the top of the bone looks like a neck or spine cord.</studentAnswer>
+    <studentAnswer id="HB.54a2.612.1" accuracy="incorrect">I can tell because it has a long skinny part at the top.</studentAnswer>
+    <studentAnswer id="HB.54a2.613.1" accuracy="incorrect">I can tell because the big part is a tummy and the long bone is the tail.</studentAnswer>
+    <studentAnswer id="HB.54a2.614.1" accuracy="incorrect">It comes from there because it kind of looks like a hip bone.</studentAnswer>
+    <studentAnswer id="HB.54a2.615.1" accuracy="incorrect">Rib cage because big and the spine is on top.</studentAnswer>
+    <studentAnswer id="HB.54a2.626.1" accuracy="incorrect">I can tell this is a thoracic vertebra because it is part of the spine.</studentAnswer>
+    <studentAnswer id="HB.54a2.628.1" accuracy="incorrect">Thoracic vertebra.</studentAnswer>
+    <studentAnswer id="HB.54a2.630.1" accuracy="incorrect">Different from other bones, because it has a round shape.</studentAnswer>
+    <studentAnswer id="HB.54a2.631.1" accuracy="incorrect">By the little bone coming down.</studentAnswer>
+    <studentAnswer id="HB.54a2.634.1" accuracy="incorrect">I think that it is the fist because that part looks like I do not know.</studentAnswer>
+    <studentAnswer id="HB.54a2.635.1" accuracy="incorrect">Well the bone sticking up is probably the neck and the other 2 the back legs.</studentAnswer>
+    <studentAnswer id="HB.54a2.636.1" accuracy="incorrect">I know because it has a tailbone.</studentAnswer>
+    <studentAnswer id="HB.54a2.637.1" accuracy="incorrect">I found this part because I studied.</studentAnswer>
+    <studentAnswer id="HB.54a2.639.1" accuracy="incorrect">Because where it goes up is the nose.</studentAnswer>
+    <studentAnswer id="HB.54a2.648.1" accuracy="incorrect">This bone comes from the spine.</studentAnswer>
+    <studentAnswer id="HB.54a2.649.1" accuracy="incorrect">It connects to the spine.</studentAnswer>
+    <studentAnswer id="HB.54a2.651.1" accuracy="incorrect">Because the 2 parts I circled are the legs.</studentAnswer>
+    <studentAnswer id="HB.54a2.652.1" accuracy="incorrect">It looks like the hip bone.</studentAnswer>
+    <studentAnswer id="HB.54a2.986.1" accuracy="incorrect">Because the one that is sticking out could be the tailbone. Also because it is kind of round like the butt.</studentAnswer>
+    <studentAnswer id="HB.54a2.989.1" accuracy="incorrect">The 2 bone sticking out are legs the line is part of the spin.</studentAnswer>
+    <studentAnswer id="HB.54a2.991.1" accuracy="incorrect">Because you can tell how it spreads apart.</studentAnswer>
+    <studentAnswer id="HB.54a2.992.1" accuracy="incorrect">I can tell that it is a mouth bone because of the jaw like things and the nose.</studentAnswer>
+  </studentAnswers>
+</question>

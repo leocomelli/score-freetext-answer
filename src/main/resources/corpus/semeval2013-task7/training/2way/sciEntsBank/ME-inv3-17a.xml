@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_17a" module="ME">
+  <questionText>Denise made a circuit to light a bulb or run a motor. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. What will happen when she moves the switch to the left?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17a-a1">The bulb will light.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17a.101.1" accuracy="incorrect">The light bulb will not work.</studentAnswer>
+    <studentAnswer id="ME.17a.102.1" accuracy="correct">Only the light will light.</studentAnswer>
+    <studentAnswer id="ME.17a.105.1" accuracy="incorrect">Nothing will happen.</studentAnswer>
+    <studentAnswer id="ME.17a.107.1" accuracy="correct">The light bulb will light up.</studentAnswer>
+    <studentAnswer id="ME.17a.108.1" accuracy="incorrect">It is going to stop.</studentAnswer>
+    <studentAnswer id="ME.17a.111.1" accuracy="correct">The light will come on.</studentAnswer>
+    <studentAnswer id="ME.17a.115.1" accuracy="correct">The bulb will light.</studentAnswer>
+    <studentAnswer id="ME.17a.118.1" accuracy="incorrect">Nothing.</studentAnswer>
+    <studentAnswer id="ME.17a.119.1" accuracy="correct">The bulb will come on.</studentAnswer>
+    <studentAnswer id="ME.17a.140.1" accuracy="incorrect">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17a.141.1" accuracy="correct">The light bulb will run.</studentAnswer>
+    <studentAnswer id="ME.17a.142.1" accuracy="correct">The light bulb will lit.</studentAnswer>
+    <studentAnswer id="ME.17a.146.1" accuracy="incorrect">It will not work.</studentAnswer>
+    <studentAnswer id="ME.17a.147.1" accuracy="incorrect">It will turn on.</studentAnswer>
+    <studentAnswer id="ME.17a.159.1" accuracy="incorrect">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17a.173.1" accuracy="correct">The light bulb will cut on.</studentAnswer>
+    <studentAnswer id="ME.17a.178.1" accuracy="correct">I will start the motor and light.</studentAnswer>
+    <studentAnswer id="ME.17a.179.1" accuracy="correct">When she moves the switch to the left the light bulb will turn on.</studentAnswer>
+    <studentAnswer id="ME.17a.185.1" accuracy="incorrect">The energy will keep flowing.</studentAnswer>
+    <studentAnswer id="ME.17a.192.1" accuracy="correct">If she moves the switch to the left everything will turn on.</studentAnswer>
+    <studentAnswer id="ME.17a.195.1" accuracy="correct">The light will run.</studentAnswer>
+    <studentAnswer id="ME.17a.206.1" accuracy="correct">The light bulb will turn on.</studentAnswer>
+    <studentAnswer id="ME.17a.207.1" accuracy="correct">The light run.</studentAnswer>
+    <studentAnswer id="ME.17a.212.1" accuracy="correct">The bulb will light.</studentAnswer>
+    <studentAnswer id="ME.17a.214.1" accuracy="correct">The motor and light will run.</studentAnswer>
+    <studentAnswer id="ME.17a.215.1" accuracy="correct">The light and motor goes on.</studentAnswer>
+    <studentAnswer id="ME.17a.216.1" accuracy="correct">Only the light bulb will light.</studentAnswer>
+    <studentAnswer id="ME.17a.226.1" accuracy="correct">The light will turn on.</studentAnswer>
+    <studentAnswer id="ME.17a.228.1" accuracy="incorrect">If she moves the switch left the motor will not start and the light will not light up.</studentAnswer>
+    <studentAnswer id="ME.17a.251.1" accuracy="correct">The light bulb would light up.</studentAnswer>
+    <studentAnswer id="ME.17a.254.1" accuracy="correct">The light bulb will turn on.</studentAnswer>
+    <studentAnswer id="ME.17a.278.1" accuracy="correct">The light bulb will work and the motor will work.</studentAnswer>
+    <studentAnswer id="ME.17a.313.1" accuracy="incorrect">It would be a series.</studentAnswer>
+    <studentAnswer id="ME.17a.314.1" accuracy="correct">Both of the receivers will light.</studentAnswer>
+    <studentAnswer id="ME.17a.327.1" accuracy="incorrect">It will go off.</studentAnswer>
+    <studentAnswer id="ME.17a.328.1" accuracy="incorrect">When the switch moves to the left, it will work.</studentAnswer>
+  </studentAnswers>
+</question>

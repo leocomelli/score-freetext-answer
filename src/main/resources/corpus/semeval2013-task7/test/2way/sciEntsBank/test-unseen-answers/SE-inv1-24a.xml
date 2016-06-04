@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_24a" module="SE">
+  <questionText>The drawing above shows a plaza in the afternoon. Label the west side of the drawing with a W. Label the north side of the drawing with an N. How did you know which direction was west?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_24a-a1">In the afternoon, shadows point east because the Sun is in the west. So the west side is opposite of the shadows.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.24a.404.1" accuracy="incorrect">Because the person the north side has the longest shadow and the fountain on the west and the tree have the west shadow.</studentAnswer>
+    <studentAnswer id="SE.24a.409.1" accuracy="incorrect">I knew which direction was north, so I figured that west was to the left.</studentAnswer>
+    <studentAnswer id="SE.24a.505.1" accuracy="incorrect">Because I remember a compass rose and west is on the left side.</studentAnswer>
+    <studentAnswer id="SE.24a.600.1" accuracy="incorrect">I know which direction is west because west always points at the opposite direction.</studentAnswer>
+  </studentAnswers>
+</question>

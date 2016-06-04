@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_22c" module="VB">
+  <questionText>Describe what the graph tells you about the relationship between the number of scoops of fertilizer and the mass of beans harvested?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_22c-a1">When less than 3 scoops of fertilizer are used, the more fertilizer used, the greater the mass of beans harvested. When more than 3 scoops of fertilizer are used, the more fertilizer used, the less the mass of beans harvested.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.22c.431.1" accuracy="incorrect">The more or less of fertilizer about the same mass it is.</studentAnswer>
+    <studentAnswer id="VB.22c.452.1" accuracy="incorrect">The more you scoop you scoop, the higher, but if you get too deep the less you will get.</studentAnswer>
+    <studentAnswer id="VB.22c.477.1" accuracy="correct">The relationship is that they had scoops of fertilizer numbered by 0, one, 2, 3, 4, 5, 6 and they have mass of beans numbered by 0.0, 0.2, 0.4, etcetera. Decimals going by 2's, so the relationship is that both scoops of fertilizer and mass of beans increases, and then decreases all together.</studentAnswer>
+    <studentAnswer id="VB.22c.639.1" accuracy="incorrect">Too little scoops of fertilizer is too less but if you put too much it will weigh less as well. But if you put in not too much or not less is good.</studentAnswer>
+  </studentAnswers>
+</question>

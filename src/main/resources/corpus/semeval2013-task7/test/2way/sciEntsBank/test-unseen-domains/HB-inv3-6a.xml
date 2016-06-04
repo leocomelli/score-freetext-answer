@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_6a" module="HB">
+  <questionText>What is the main job of muscles in the body?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_6a-a1">The main job of muscles is to move bones.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.6a.140.1" accuracy="incorrect">The main job for the muscle is to pull the tendon.</studentAnswer>
+    <studentAnswer id="HB.6a.145.1" accuracy="correct">The muscles help you stand up and to your bones to move.</studentAnswer>
+    <studentAnswer id="HB.6a.177.1" accuracy="incorrect">Provide movement.</studentAnswer>
+    <studentAnswer id="HB.6a.181.1" accuracy="incorrect">It helps your body move.</studentAnswer>
+    <studentAnswer id="HB.6a.182.1" accuracy="correct">Helps move your bones.</studentAnswer>
+    <studentAnswer id="HB.6a.184.1" accuracy="incorrect">It helps you move.</studentAnswer>
+    <studentAnswer id="HB.6a.207.1" accuracy="incorrect">It is to support the body.</studentAnswer>
+    <studentAnswer id="HB.6a.211.1" accuracy="correct">Making bones move.</studentAnswer>
+    <studentAnswer id="HB.6a.212.1" accuracy="correct">Moving our bones.</studentAnswer>
+    <studentAnswer id="HB.6a.213.1" accuracy="incorrect">The main job is protection support, movement.</studentAnswer>
+    <studentAnswer id="HB.6a.216.1" accuracy="correct">The main job is to move the bones.</studentAnswer>
+    <studentAnswer id="HB.6a.217.1" accuracy="incorrect">To help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.220.1" accuracy="incorrect">To help us move our body and pump our heart.</studentAnswer>
+    <studentAnswer id="HB.6a.221.1" accuracy="correct">The main job of muscle is to help move you bones and body.</studentAnswer>
+    <studentAnswer id="HB.6a.223.1" accuracy="incorrect">To help you move and let you lift up things.</studentAnswer>
+    <studentAnswer id="HB.6a.246.1" accuracy="incorrect">The main job of muscles are to help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.249.1" accuracy="incorrect">The main job of muscles is to allow you to move and bend.</studentAnswer>
+    <studentAnswer id="HB.6a.250.1" accuracy="incorrect">The main job of muscles is movement.</studentAnswer>
+    <studentAnswer id="HB.6a.251.1" accuracy="incorrect">The main job is to work together with the bones.</studentAnswer>
+    <studentAnswer id="HB.6a.252.1" accuracy="incorrect">The main job of muscles are helping us walk.</studentAnswer>
+    <studentAnswer id="HB.6a.254.1" accuracy="incorrect">The main job of muscles is to move.</studentAnswer>
+    <studentAnswer id="HB.6a.255.1" accuracy="incorrect">The main job is to help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.257.1" accuracy="incorrect">The main job of muscles is movement.</studentAnswer>
+    <studentAnswer id="HB.6a.258.1" accuracy="incorrect">The muscles main job is to protect you.</studentAnswer>
+    <studentAnswer id="HB.6a.260.1" accuracy="incorrect">The main job of the muscles is so you can move.</studentAnswer>
+    <studentAnswer id="HB.6a.278.1" accuracy="incorrect">To help us move.</studentAnswer>
+    <studentAnswer id="HB.6a.282.1" accuracy="incorrect">The main job is to help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.283.1" accuracy="incorrect">To help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.285.1" accuracy="incorrect">To help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.287.1" accuracy="incorrect">To help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.294.1" accuracy="incorrect">To help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.313.1" accuracy="incorrect">The main job of a muscle is to help us move and give us the shape we have.</studentAnswer>
+    <studentAnswer id="HB.6a.317.1" accuracy="correct">The main job of muscles in the human body is to help our bones move.</studentAnswer>
+    <studentAnswer id="HB.6a.318.1" accuracy="incorrect">The main job is movement.</studentAnswer>
+    <studentAnswer id="HB.6a.323.1" accuracy="correct">To move our bones.</studentAnswer>
+    <studentAnswer id="HB.6a.324.1" accuracy="correct">To move bones.</studentAnswer>
+    <studentAnswer id="HB.6a.325.1" accuracy="correct">The main job is to move bones.</studentAnswer>
+    <studentAnswer id="HB.6a.326.1" accuracy="correct">To move the bones of the body.</studentAnswer>
+    <studentAnswer id="HB.6a.328.1" accuracy="correct">The main job is to move bones.</studentAnswer>
+    <studentAnswer id="HB.6a.329.1" accuracy="incorrect">To help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.330.1" accuracy="incorrect">The main job is to support movement.</studentAnswer>
+    <studentAnswer id="HB.6a.331.1" accuracy="incorrect">To make you move.</studentAnswer>
+    <studentAnswer id="HB.6a.348.1" accuracy="correct">To move our bones.</studentAnswer>
+    <studentAnswer id="HB.6a.349.1" accuracy="incorrect">The main job of muscles is to help us move.</studentAnswer>
+    <studentAnswer id="HB.6a.352.1" accuracy="incorrect">The help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.353.1" accuracy="correct">To help move the bones.</studentAnswer>
+    <studentAnswer id="HB.6a.356.1" accuracy="incorrect">Biceps and triceps.</studentAnswer>
+    <studentAnswer id="HB.6a.357.1" accuracy="incorrect">To help move your body.</studentAnswer>
+    <studentAnswer id="HB.6a.360.1" accuracy="incorrect">Help our body move.</studentAnswer>
+    <studentAnswer id="HB.6a.361.1" accuracy="incorrect">To help us move.</studentAnswer>
+    <studentAnswer id="HB.6a.361b.1" accuracy="correct">The main job is for the muscle is to help our bones move.</studentAnswer>
+    <studentAnswer id="HB.6a.362.1" accuracy="correct">To make bones move.</studentAnswer>
+    <studentAnswer id="HB.6a.363.1" accuracy="correct">To help bones move.</studentAnswer>
+    <studentAnswer id="HB.6a.365.1" accuracy="incorrect">To make us strong.</studentAnswer>
+    <studentAnswer id="HB.6a.366.1" accuracy="incorrect">To help joints move.</studentAnswer>
+    <studentAnswer id="HB.6a.388.1" accuracy="incorrect">To connect bone to muscles.</studentAnswer>
+    <studentAnswer id="HB.6a.392.1" accuracy="incorrect">Movement.</studentAnswer>
+    <studentAnswer id="HB.6a.418.1" accuracy="correct">The main job for muscles are to move your bones so you can move.</studentAnswer>
+    <studentAnswer id="HB.6a.422.1" accuracy="correct">The main job is to hold and move your bones.</studentAnswer>
+    <studentAnswer id="HB.6a.424.1" accuracy="incorrect">The main job is to make the body move.</studentAnswer>
+    <studentAnswer id="HB.6a.427.1" accuracy="correct">To move the bones in your body.</studentAnswer>
+    <studentAnswer id="HB.6a.429.1" accuracy="incorrect">To lift things and move also to move things.</studentAnswer>
+    <studentAnswer id="HB.6a.435.1" accuracy="correct">Moving the bones around like the muscles pulls your bottom bone on your arm up.</studentAnswer>
+    <studentAnswer id="HB.6a.451.1" accuracy="incorrect">Muscles help us to move.</studentAnswer>
+    <studentAnswer id="HB.6a.454.1" accuracy="incorrect">To help use move our body.</studentAnswer>
+    <studentAnswer id="HB.6a.455.1" accuracy="incorrect">The main job for muscles is to keep us moving and keep us up.</studentAnswer>
+    <studentAnswer id="HB.6a.459.1" accuracy="incorrect">So we can lift things.</studentAnswer>
+    <studentAnswer id="HB.6a.461.1" accuracy="correct">To make the bones move that make us move.</studentAnswer>
+    <studentAnswer id="HB.6a.462.1" accuracy="incorrect">Make the body move.</studentAnswer>
+    <studentAnswer id="HB.6a.465.1" accuracy="incorrect">Make us move so we are not a big blob.</studentAnswer>
+    <studentAnswer id="HB.6a.489.1" accuracy="incorrect">The main job of muscles is it helps you move.</studentAnswer>
+    <studentAnswer id="HB.6a.521.1" accuracy="incorrect">They help people do different things.</studentAnswer>
+    <studentAnswer id="HB.6a.523.1" accuracy="incorrect">Movement.</studentAnswer>
+    <studentAnswer id="HB.6a.524.1" accuracy="incorrect">The main job of a muscle is to help your body move.</studentAnswer>
+    <studentAnswer id="HB.6a.528.1" accuracy="incorrect">They help us work.</studentAnswer>
+    <studentAnswer id="HB.6a.533.1" accuracy="incorrect">To help the body move.</studentAnswer>
+    <studentAnswer id="HB.6a.535.1" accuracy="incorrect">Biceps and triceps.</studentAnswer>
+    <studentAnswer id="HB.6a.563.1" accuracy="incorrect">They are to help us pick up things and let us run and move.</studentAnswer>
+    <studentAnswer id="HB.6a.568.1" accuracy="incorrect">To make the body move.</studentAnswer>
+    <studentAnswer id="HB.6a.571.1" accuracy="incorrect">The main job is for the muscles to help keep our body working.</studentAnswer>
+    <studentAnswer id="HB.6a.573.1" accuracy="incorrect">The main job the muscles in our bodies is to help us move.</studentAnswer>
+    <studentAnswer id="HB.6a.575.1" accuracy="incorrect">The main job of any muscle is to move the body to wherever you go.</studentAnswer>
+    <studentAnswer id="HB.6a.577.1" accuracy="incorrect">To keep us alive.</studentAnswer>
+    <studentAnswer id="HB.6a.580.1" accuracy="incorrect">The main job for muscles are to help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.594.1" accuracy="incorrect">The muscles in the body helps you move.</studentAnswer>
+    <studentAnswer id="HB.6a.599.1" accuracy="incorrect">To move.</studentAnswer>
+    <studentAnswer id="HB.6a.601.1" accuracy="incorrect">The main job of muscles is movement.</studentAnswer>
+    <studentAnswer id="HB.6a.603.1" accuracy="incorrect">Movement.</studentAnswer>
+    <studentAnswer id="HB.6a.604.1" accuracy="incorrect">The main job of the muscles our to let us move.</studentAnswer>
+    <studentAnswer id="HB.6a.606.1" accuracy="incorrect">Movement straight.</studentAnswer>
+    <studentAnswer id="HB.6a.628.1" accuracy="incorrect">The main job of muscles is to let you move.</studentAnswer>
+    <studentAnswer id="HB.6a.630.1" accuracy="incorrect">It is your muscles and your mandible.</studentAnswer>
+    <studentAnswer id="HB.6a.632.1" accuracy="correct">They help us bend our bones.</studentAnswer>
+    <studentAnswer id="HB.6a.632a.1" accuracy="incorrect">Muscles, Make our body move.</studentAnswer>
+    <studentAnswer id="HB.6a.633.1" accuracy="incorrect">The main job of the muscles are to help us move.</studentAnswer>
+    <studentAnswer id="HB.6a.635.1" accuracy="incorrect">The muscles main job is to help you sit, stand, eat, also to chew that is the muscles main job.</studentAnswer>
+    <studentAnswer id="HB.6a.637.1" accuracy="incorrect">The main job of muscle is movement.</studentAnswer>
+    <studentAnswer id="HB.6a.639.1" accuracy="incorrect">The main job of muscles is to help you move.</studentAnswer>
+    <studentAnswer id="HB.6a.984.1" accuracy="incorrect">The main job is strength.</studentAnswer>
+    <studentAnswer id="HB.6a.988.1" accuracy="incorrect">To help you walk.</studentAnswer>
+  </studentAnswers>
+</question>

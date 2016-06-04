@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="VB_5a" module="VB">
+  <questionText>Explain in one sentence what each graph tells you. Graph A) number of tree rings versus time.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_5a-a1">As time increases, the number of tree rings also increases.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.5a.384.1" accuracy="incorrect">This graph tells me this tree has a lot of rings.</studentAnswer>
+    <studentAnswer id="VB.5a.388.1" accuracy="incorrect">How long it took to get a number of rings.</studentAnswer>
+    <studentAnswer id="VB.5a.394.1" accuracy="incorrect">The graph tells you over time how many rings are in the tree.</studentAnswer>
+    <studentAnswer id="VB.5a.397.1" accuracy="incorrect">The graph tells me that the number of rings is really high.</studentAnswer>
+    <studentAnswer id="VB.5a.399.1" accuracy="correct">It tells me the number of rings grows. So does the time.</studentAnswer>
+    <studentAnswer id="VB.5a.401.1" accuracy="incorrect">How old the tree is.</studentAnswer>
+    <studentAnswer id="VB.5a.416.1" accuracy="incorrect">This graph tells me the number of the tree's rings and how long.</studentAnswer>
+    <studentAnswer id="VB.5a.419.1" accuracy="incorrect">That it goes from 0 and up.</studentAnswer>
+    <studentAnswer id="VB.5a.423.1" accuracy="incorrect">The number of times it rings and the times.</studentAnswer>
+    <studentAnswer id="VB.5a.429.1" accuracy="incorrect">That there is a lot of rings and a lot of time.</studentAnswer>
+    <studentAnswer id="VB.5a.431.1" accuracy="incorrect">I think the graph tells me that all the numbers are common.</studentAnswer>
+    <studentAnswer id="VB.5a.440.1" accuracy="correct">It tells me that the older the tree the more rings it has.</studentAnswer>
+    <studentAnswer id="VB.5a.444.1" accuracy="incorrect">I think this graph tells me that the time is about 25 seconds and the number of tree rings 20 times.</studentAnswer>
+    <studentAnswer id="VB.5a.454.1" accuracy="incorrect">The graph tells you the number of tree rings.</studentAnswer>
+    <studentAnswer id="VB.5a.462.1" accuracy="incorrect">That the time goes up.</studentAnswer>
+    <studentAnswer id="VB.5a.469.1" accuracy="correct">The more the time the more the tree rings.</studentAnswer>
+    <studentAnswer id="VB.5a.475.1" accuracy="incorrect">It shows you the number of tree rings and the time.</studentAnswer>
+    <studentAnswer id="VB.5a.477.1" accuracy="incorrect">This graph tells me the number of tree rings on the y axis and tells me the time on the x axis.</studentAnswer>
+    <studentAnswer id="VB.5a.483.1" accuracy="correct">Number of tree rings gets larger over time.</studentAnswer>
+    <studentAnswer id="VB.5a.486.1" accuracy="correct">As time goes on the of tree rings go up.</studentAnswer>
+    <studentAnswer id="VB.5a.489.1" accuracy="correct">As time goes on the number of tree rings increases.</studentAnswer>
+    <studentAnswer id="VB.5a.497.1" accuracy="correct">As time goes on the number of tree rings increases.</studentAnswer>
+    <studentAnswer id="VB.5a.498.1" accuracy="correct">As time goes on the number of tree rings increases.</studentAnswer>
+    <studentAnswer id="VB.5a.506.1" accuracy="correct">As time goes on the number of tree rings grows higher.</studentAnswer>
+    <studentAnswer id="VB.5a.521.1" accuracy="correct">As time goes on the number goes up.</studentAnswer>
+    <studentAnswer id="VB.5a.523.1" accuracy="correct">As time goes on the number of tree ring are higher.</studentAnswer>
+    <studentAnswer id="VB.5a.535.1" accuracy="correct">As time goes on the number gets larger.</studentAnswer>
+    <studentAnswer id="VB.5a.537.1" accuracy="correct">As time goes on the number of tree rings are increasing as it goes.</studentAnswer>
+    <studentAnswer id="VB.5a.539.1" accuracy="correct">As time goes on the of number of tree rings go up.</studentAnswer>
+    <studentAnswer id="VB.5a.545.1" accuracy="correct">As time goes on the tree rings are going up.</studentAnswer>
+    <studentAnswer id="VB.5a.626.1" accuracy="correct">The tree rings and time are both increasing.</studentAnswer>
+    <studentAnswer id="VB.5a.632.1" accuracy="correct">The number of tree rings and the time is increasing.</studentAnswer>
+    <studentAnswer id="VB.5a.636.1" accuracy="correct">That the time increasing and the tree rings are increasing too.</studentAnswer>
+    <studentAnswer id="VB.5a.638.1" accuracy="correct">The time is increasing the tree rings are increasing.</studentAnswer>
+    <studentAnswer id="VB.5a.639.1" accuracy="correct">They are both are increasing.</studentAnswer>
+    <studentAnswer id="VB.5a.643.1" accuracy="incorrect">The rings and the tree rings are increasing.</studentAnswer>
+  </studentAnswers>
+</question>

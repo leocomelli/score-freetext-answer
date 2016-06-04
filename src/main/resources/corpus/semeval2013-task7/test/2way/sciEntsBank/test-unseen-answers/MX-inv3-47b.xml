@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_47b" module="MX">
+  <questionText>Tabby made 2 solutions using the same solute and water. [Cup one has 6 spoons solute in 50 milliliters water. Cup 2 has 8 spoons solute in 50 milliliters water. Both solutions are clear with material on the bottom.] Which sentence below describes the concentrations of the 2 solutions? (A. The solutions in the cups have the same concentration.) B. Cup one has the more concentrated solution. C. Cup 2 has the more concentrated solution. D. There is not enough information to answer the question. Explain your choice.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_47b-a1">Both solutions are saturated (as indicated by the material on the bottom) so, even though one cup has more spoonfuls of sugar, both have the same (maximum) concentration.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.47b.456.1" accuracy="correct">Cup 2 has more material on the bottom than cup one. So cup one might one scoop saturated and cup 2 might have 3 scoops on the bottom but the same concentration in the solution.</studentAnswer>
+    <studentAnswer id="MX.47b.493.1" accuracy="incorrect">Because cup A have more solute then cup one. But they have the same amount of water.</studentAnswer>
+    <studentAnswer id="MX.47b.528.1" accuracy="incorrect">I chose C because it has 8 spoons solute.</studentAnswer>
+    <studentAnswer id="MX.47b.575.1" accuracy="correct">Once saturated it is at the most concentration it can get, and they are both saturated.</studentAnswer>
+  </studentAnswers>
+</question>

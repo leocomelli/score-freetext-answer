@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="ME_36" module="ME">
+  <questionText>When you build a series circuit using 2 bulbs and one D-cell, the bulbs are very dim. When you build a parallel circuit with 2 bulbs and one D-cell, the bulbs are bright. Why are the bulbs dim in series and bright in parallel?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_36-a1">In series, the 2 bulbs have to share one pathway, so the light is dim. In parallel each bulb has a direct path to the D-cell energy source so both bulbs shine brightly.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.36.101.1" accuracy="correct">The bulbs are dim in the series because they have to share electricity. They are bright in a parallel circuit because they have their own pathway.</studentAnswer>
+    <studentAnswer id="ME.36.108.1" accuracy="correct">The bulbs are dim because they have to share a path. They are bright because they do not have to share a pathway.</studentAnswer>
+    <studentAnswer id="ME.36.111.1" accuracy="correct">In a series circuit the bulb have to share. In a parallel circuit it does not share.</studentAnswer>
+    <studentAnswer id="ME.36.115.1" accuracy="correct">They are dim in a series because they have to share the electricity and there is only one pathway for the electricity. They are bright in a parallel circuit because there are 2 pathways for the electricity, so they do not have to share.</studentAnswer>
+    <studentAnswer id="ME.36.119.1" accuracy="correct">They are dim in the series because the bulbs have to share the electricity. They are bright in the parallel because the bulbs do not have to share the electricity.</studentAnswer>
+    <studentAnswer id="ME.36.123.1" accuracy="incorrect">Because with a parallel they have their own pathway.</studentAnswer>
+    <studentAnswer id="ME.36.140.1" accuracy="incorrect">Because in parallel there is more electricity. Then in parallel if one goes then they all stay lighted. In series it does not have that much electricity. Then because if one goes they all fall down. Out light.</studentAnswer>
+    <studentAnswer id="ME.36.141.1" accuracy="incorrect">When in series one bulb might be burned out or dim, that means all the others will be dim. If you use a parallel circuit if one goes out the rest will not and have enough energy.</studentAnswer>
+    <studentAnswer id="ME.36.144.1" accuracy="incorrect">In a series circuit one string of energy is used to light the bulbs. In a parallel circuit an equal amount of energy is used to light the bulbs.</studentAnswer>
+    <studentAnswer id="ME.36.146.1" accuracy="incorrect">In a series it does not have enough energy to flow through it. In a parallel it has a enough out energy to flow through.</studentAnswer>
+    <studentAnswer id="ME.36.147.1" accuracy="incorrect">It is having a hard time getting through to the peel.</studentAnswer>
+    <studentAnswer id="ME.36.155.1" accuracy="incorrect">They are bright in the parallel because the wires are to the negative end to the positive end.</studentAnswer>
+    <studentAnswer id="ME.36.159.1" accuracy="incorrect">In a series circuit does not get enough energy. I a parallel circuit get more electricity.</studentAnswer>
+    <studentAnswer id="ME.36.173.1" accuracy="incorrect">It is dim on the series circuit because the series circuit does not have a circuit. The parallel is bright because it has a circuit.</studentAnswer>
+    <studentAnswer id="ME.36.176.1" accuracy="incorrect">They are dim in series because it takes up more electricity than the parallel.</studentAnswer>
+    <studentAnswer id="ME.36.178.1" accuracy="incorrect">They are dim because they are in one circuit.</studentAnswer>
+    <studentAnswer id="ME.36.180.1" accuracy="incorrect">Parallel is something that if one bulb goes out all the rest will keep on going. A series is something that if one light bulb goes out all do.</studentAnswer>
+    <studentAnswer id="ME.36.181.1" accuracy="incorrect">They are very bright because they each have their own pathway.</studentAnswer>
+    <studentAnswer id="ME.36.183.1" accuracy="incorrect">The power is stronger.</studentAnswer>
+    <studentAnswer id="ME.36.185.1" accuracy="incorrect">In the series circuit there is a disconnection in the wiring. In a parallel circuit the energy flows straight to the bulb, goes through and keeps going in a circuit.</studentAnswer>
+    <studentAnswer id="ME.36.190.1" accuracy="incorrect">It is dim in series because series is in one circle and parallel is in 2 circles.</studentAnswer>
+    <studentAnswer id="ME.36.191.1" accuracy="incorrect">The bulbs are dim in a series circuit because it does not have enough power. The bulbs are bright in a parallel circuit because it has enough power.</studentAnswer>
+    <studentAnswer id="ME.36.193.1" accuracy="incorrect">Well, because with both on each side there is more power. They get more energy to have more power.</studentAnswer>
+    <studentAnswer id="ME.36.206.1" accuracy="incorrect">The light bulbs are dim because in a series circuit they share some of the same connections.</studentAnswer>
+    <studentAnswer id="ME.36.207.1" accuracy="incorrect">The first the batter puts out more electricity. The second pealed.</studentAnswer>
+    <studentAnswer id="ME.36.214.1" accuracy="correct">The bulbs are dim in a series because they light bulbs are using each other's energy, the lights are bright in a parallel because the bulbs are not sharing energy with each other.</studentAnswer>
+    <studentAnswer id="ME.36.215.1" accuracy="incorrect">One gets more power than the other.</studentAnswer>
+    <studentAnswer id="ME.36.216.1" accuracy="incorrect">The wires are both connected for it to work.</studentAnswer>
+    <studentAnswer id="ME.36.220.1" accuracy="incorrect">The bulbs are dim so they can light up.</studentAnswer>
+    <studentAnswer id="ME.36.226.1" accuracy="incorrect">The bulbs are dim in a series and bright in a parallel because parallel is 2 or more and a series is only one way. So parallel is stronger.</studentAnswer>
+    <studentAnswer id="ME.36.245.1" accuracy="incorrect">In parallel it has an open switch and close.</studentAnswer>
+    <studentAnswer id="ME.36.247.1" accuracy="incorrect">Because it is suppose to be hook the right way so it would light up and the 2 little light bulbs would if somebody hook it up the right way so they can light up.</studentAnswer>
+    <studentAnswer id="ME.36.253.1" accuracy="incorrect">That happens because the 2 bulbs were new and the other bulbs were probably old.</studentAnswer>
+    <studentAnswer id="ME.36.276.1" accuracy="incorrect">Because it is touching the one with the most power and it keep some for itself.</studentAnswer>
+    <studentAnswer id="ME.36.277.1" accuracy="correct">The lights are dim in a series circuit because they share the same circuit, and bright in a parallel circuit because they do not share.</studentAnswer>
+    <studentAnswer id="ME.36.278.1" accuracy="incorrect">The bulbs are dim in a series circuit because one of the bulbs is taking all of the electricity. The bulbs are bright in the parallel circuit because they are sharing electricity.</studentAnswer>
+    <studentAnswer id="ME.36.291.1" accuracy="incorrect">They are tiger.</studentAnswer>
+    <studentAnswer id="ME.36.313.1" accuracy="incorrect">In the series circuit there are dim because there is only one bulb. In the parallel circuit there 2 bulb so it is bright.</studentAnswer>
+    <studentAnswer id="ME.36.328.1" accuracy="correct">The bulbs in a series circuit are dim because there is only one pathway for electricity and in a parallel circuit there is more than one pathway.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_43b" module="EM">
+  <questionText>If Phil, a geologist, wants to test for calcite while in the field, what should he bring with him? (an acid such as vinegar). Describe what Phil should do to test for calcite and what he would observe.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_43b-a1">Put acid on a rock. If the acid fizzes, Phil would know that the rock has calcite.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.43b.432.1" accuracy="incorrect">He would put vinegar on the rock get the strange then is quiet it and see if there is calcite.</studentAnswer>
+    <studentAnswer id="EM.43b.569.1" accuracy="incorrect">Move.</studentAnswer>
+    <studentAnswer id="EM.43b.600.1" accuracy="incorrect">Cube to in test and look for crystals.</studentAnswer>
+    <studentAnswer id="EM.43b.650.1" accuracy="incorrect">If it fizzles it has calcite.</studentAnswer>
+  </studentAnswers>
+</question>

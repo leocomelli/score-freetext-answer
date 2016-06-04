@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MS_14b" module="MS">
+  <questionText>Look at the picture below [which shows a balance tipped down on the side containing a ball; the right cup has 20 grams and 10 grams mass pieces]. The mass of the ball is one of the following. It must be A. 20 grams. B. 30 grams. (C. 40 grams.) Explain why you chose the answer that you did.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_14b-a1">There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.14b.116.1" accuracy="incorrect">Because 10 grams plus 20 grams is 30 grams.</studentAnswer>
+    <studentAnswer id="MS.14b.294.1" accuracy="incorrect">I chose that answer because left side is heavy than the right side I think that is the answer.</studentAnswer>
+    <studentAnswer id="MS.14b.499.1" accuracy="correct">I chose it because 20 grams plus 10 grams equals 30 grams and the ball is heavier that is why I chose it.</studentAnswer>
+    <studentAnswer id="MS.14b.571.1" accuracy="correct">Because it is not 30 because they already show you so it must be 40.</studentAnswer>
+  </studentAnswers>
+</question>

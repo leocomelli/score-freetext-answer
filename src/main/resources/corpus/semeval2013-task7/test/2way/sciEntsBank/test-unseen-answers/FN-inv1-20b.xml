@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_20b" module="FN">
+  <questionText>Anna wants to compare the fat in walnuts and peanuts. Using only the results from her experiment, how will Anna know which one, walnuts or peanuts, has more fat? The experiment has the following procedure: Measure out equal masses of walnuts and peanuts (for example, one gram). Smash the samples uniformly in the same size area on brown paper. Wait (the same time for each).</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_20b-a1">Anna should compare the size of the grease spots. The sample with the larger grease spot has more fat.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.20b.171.1" accuracy="incorrect">By looking at the scale and seeing which one is lower.</studentAnswer>
+    <studentAnswer id="FN.20b.219.1" accuracy="correct">A grease spot will appear whatever grease spot is bigger that food has more fat.</studentAnswer>
+    <studentAnswer id="FN.20b.298.1" accuracy="incorrect">The oil or fat will have spread on the paper.</studentAnswer>
+    <studentAnswer id="FN.20b.615.1" accuracy="incorrect">And she can help you to measure the cup.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="II_13b" module="II">
+  <questionText>Look at the finger patterns below, then answer the questions. What is different about the finger patterns?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_13b-a1">The loops begin at opposite sides of the print.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.13b.400.1" accuracy="incorrect">One has it one way and the other one the different way.</studentAnswer>
+    <studentAnswer id="II.13b.406.1" accuracy="incorrect">One facing the other way.</studentAnswer>
+    <studentAnswer id="II.13b.420.1" accuracy="incorrect">They are different thumbs of people.</studentAnswer>
+    <studentAnswer id="II.13b.428.1" accuracy="incorrect">Is not the same.</studentAnswer>
+    <studentAnswer id="II.13b.431.1" accuracy="incorrect">The 2 loops is pointing in different directions.</studentAnswer>
+    <studentAnswer id="II.13b.432.1" accuracy="incorrect">They are facing different ways.</studentAnswer>
+    <studentAnswer id="II.13b.442.1" accuracy="incorrect">Some are loop, arch, whorled.</studentAnswer>
+    <studentAnswer id="II.13b.451.1" accuracy="incorrect">One is going left the other is going right.</studentAnswer>
+    <studentAnswer id="II.13b.460.1" accuracy="correct">One loop is on the left, the other loop is on the right.</studentAnswer>
+    <studentAnswer id="II.13b.464.1" accuracy="correct">The loops go in different directions.</studentAnswer>
+    <studentAnswer id="II.13b.465.1" accuracy="correct">One loop is coming from the left and the other one the right.</studentAnswer>
+    <studentAnswer id="II.13b.470.1" accuracy="incorrect">They have different shapes.</studentAnswer>
+    <studentAnswer id="II.13b.474.1" accuracy="correct">One is left the other is right.</studentAnswer>
+    <studentAnswer id="II.13b.482.1" accuracy="incorrect">They are facing different directions.</studentAnswer>
+    <studentAnswer id="II.13b.486.1" accuracy="incorrect">The loops are going different ways.</studentAnswer>
+    <studentAnswer id="II.13b.495.1" accuracy="incorrect">They are both facing a different direction.</studentAnswer>
+    <studentAnswer id="II.13b.501.1" accuracy="correct">They are going different directions.</studentAnswer>
+    <studentAnswer id="II.13b.507.1" accuracy="incorrect">One loop goes left and the other goes right.</studentAnswer>
+    <studentAnswer id="II.13b.522.1" accuracy="incorrect">One is going left and the same.</studentAnswer>
+    <studentAnswer id="II.13b.532.1" accuracy="incorrect">Because they are the same and they are loop.</studentAnswer>
+    <studentAnswer id="II.13b.534.1" accuracy="incorrect">The first finger look thinner than the 2 one.</studentAnswer>
+    <studentAnswer id="II.13b.535.1" accuracy="incorrect">They are not in the same place.</studentAnswer>
+    <studentAnswer id="II.13b.540.1" accuracy="correct">A has its loop on the left and right.</studentAnswer>
+    <studentAnswer id="II.13b.541.1" accuracy="incorrect">Answer and questions.</studentAnswer>
+    <studentAnswer id="II.13b.576.1" accuracy="incorrect">Loop are facing different direction.</studentAnswer>
+    <studentAnswer id="II.13b.579.1" accuracy="correct">They go different direction.</studentAnswer>
+    <studentAnswer id="II.13b.581.1" accuracy="incorrect">They one are in different directions.</studentAnswer>
+    <studentAnswer id="II.13b.593.1" accuracy="correct">The loops are coming from different sides.</studentAnswer>
+    <studentAnswer id="II.13b.594.1" accuracy="incorrect">They are facing different ways.</studentAnswer>
+    <studentAnswer id="II.13b.597.1" accuracy="incorrect">One of them is darker than the other.</studentAnswer>
+    <studentAnswer id="II.13b.604.1" accuracy="incorrect">One has more ridges.</studentAnswer>
+    <studentAnswer id="II.13b.605.1" accuracy="correct">They are facing different ways.</studentAnswer>
+    <studentAnswer id="II.13b.606.1" accuracy="incorrect">They are flipped around.</studentAnswer>
+    <studentAnswer id="II.13b.613.1" accuracy="incorrect">On the first one the middle is light and the second one is dark in the middle.</studentAnswer>
+    <studentAnswer id="II.13b.616.1" accuracy="incorrect">The first one a man print and the second kid.</studentAnswer>
+  </studentAnswers>
+</question>

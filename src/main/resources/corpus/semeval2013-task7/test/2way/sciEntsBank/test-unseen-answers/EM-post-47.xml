@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_47" module="EM">
+  <questionText>The sand and flour in the gray material from mock rocks is separated by mixing with water and allowing the mixture to settle. Explain why the sand and flour separate.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_47-a1">The sand particles are larger and settle first. The flour particles are smaller and therefore settle more slowly.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.47.288.1" accuracy="incorrect">Because it will not get dry.</studentAnswer>
+    <studentAnswer id="EM.47.319.1" accuracy="incorrect">Because one is heavy and one is not.</studentAnswer>
+    <studentAnswer id="EM.47.528.1" accuracy="incorrect">Because sand and flour do not mix very well.</studentAnswer>
+    <studentAnswer id="EM.47.563.1" accuracy="incorrect">The rock is tough.</studentAnswer>
+  </studentAnswers>
+</question>

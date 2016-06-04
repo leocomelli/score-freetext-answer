@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_42b" module="HB">
+  <questionText>Sam and Jasmine were sitting on a park bench eating their lunches. A mosquito landed on Sam's arm and Sam began slapping at it. When he did that, he knocked Jasmine's soda into her lap, causing her to jump up. What was Sam's response?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_42b-a1">Sam's response was to slap the mosquito.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.42b.136.1" accuracy="correct">Hitting the fly.</studentAnswer>
+    <studentAnswer id="HB.42b.138.1" accuracy="correct">Slapping at the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.142.1" accuracy="correct">Sam's response was slapping at it.</studentAnswer>
+    <studentAnswer id="HB.42b.172.1" accuracy="correct">Began slapping at it.</studentAnswer>
+    <studentAnswer id="HB.42b.180.1" accuracy="correct">Sam's response is that he was slapping his arm.</studentAnswer>
+    <studentAnswer id="HB.42b.185.1" accuracy="correct">The response was slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.206.1" accuracy="incorrect">Sam's response is knocking over Jasmine's soda on her lap.</studentAnswer>
+    <studentAnswer id="HB.42b.209.1" accuracy="correct">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.212.1" accuracy="incorrect">He knocked Jasmine's soda over.</studentAnswer>
+    <studentAnswer id="HB.42b.215.1" accuracy="incorrect">To spill Jasmine's soda on her lap.</studentAnswer>
+    <studentAnswer id="HB.42b.216.1" accuracy="correct">Sam slapped it.</studentAnswer>
+    <studentAnswer id="HB.42b.219.1" accuracy="correct">To smack the bee.</studentAnswer>
+    <studentAnswer id="HB.42b.220.1" accuracy="correct">Sam's response was to hit the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.251.1" accuracy="incorrect">Sam's response is that he knocked over Jasmine's soda.</studentAnswer>
+    <studentAnswer id="HB.42b.254.1" accuracy="incorrect">Sam's response was spilling the soda.</studentAnswer>
+    <studentAnswer id="HB.42b.257.1" accuracy="correct">Sam's response is slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.277.1" accuracy="incorrect">Jumping up.</studentAnswer>
+    <studentAnswer id="HB.42b.294.1" accuracy="correct">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.311.1" accuracy="incorrect">To jump up.</studentAnswer>
+    <studentAnswer id="HB.42b.315.1" accuracy="incorrect">Sam's response was knocking over Jasmine's drink.</studentAnswer>
+    <studentAnswer id="HB.42b.320.1" accuracy="correct">Sam's response was to slap at the mosquito and knock Jasmine's soda on her.</studentAnswer>
+    <studentAnswer id="HB.42b.321.1" accuracy="correct">Sam's response was to slap at it and knock over Jasmine's soda.</studentAnswer>
+    <studentAnswer id="HB.42b.331.1" accuracy="incorrect">It was sight.</studentAnswer>
+    <studentAnswer id="HB.42b.346.1" accuracy="incorrect">Knocking it out of her hand.</studentAnswer>
+    <studentAnswer id="HB.42b.350.1" accuracy="incorrect">Feel the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.352.1" accuracy="correct">To slap at the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.355.1" accuracy="correct">Smacking the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.359.1" accuracy="incorrect">Seeing the mosquito on her arm.</studentAnswer>
+    <studentAnswer id="HB.42b.361.1" accuracy="correct">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.364.1" accuracy="correct">Sam's response was to begin slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.385.1" accuracy="incorrect">The response was go away.</studentAnswer>
+    <studentAnswer id="HB.42b.392.1" accuracy="incorrect">Knocking the soda on Jasmine's lap and causing her to jump.</studentAnswer>
+    <studentAnswer id="HB.42b.398.1" accuracy="incorrect">Knocking the soda on Jasmine's lap to jump!</studentAnswer>
+    <studentAnswer id="HB.42b.418.1" accuracy="incorrect">The response was Sam knocked Jasmine's soda onto her lap causing her to jump.</studentAnswer>
+    <studentAnswer id="HB.42b.422.1" accuracy="correct">To hit the mosquito and kill it or make it fly away.</studentAnswer>
+    <studentAnswer id="HB.42b.425.1" accuracy="correct">Slapping the mosquito that was on her arm.</studentAnswer>
+    <studentAnswer id="HB.42b.427.1" accuracy="correct">Sam saw the mosquito with his eyes and slapping the mosquito made the pop fall into Jasmine's lap, and Jasmine saw it and jumped.</studentAnswer>
+    <studentAnswer id="HB.42b.430.1" accuracy="incorrect">Sam's response was to say sorry.</studentAnswer>
+    <studentAnswer id="HB.42b.432.1" accuracy="correct">Sam tried to slap it.</studentAnswer>
+    <studentAnswer id="HB.42b.437.1" accuracy="correct">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.438.1" accuracy="correct">Sam began to slap it.</studentAnswer>
+    <studentAnswer id="HB.42b.450.1" accuracy="correct">By slapping the bug.</studentAnswer>
+    <studentAnswer id="HB.42b.453.1" accuracy="incorrect">Sam's response was that he jumped so it was kind of like getting the mosquito away by jumping.</studentAnswer>
+    <studentAnswer id="HB.42b.454.1" accuracy="correct">Slap it to get it off.</studentAnswer>
+    <studentAnswer id="HB.42b.457.1" accuracy="correct">Slapping at the mosquito to get it off.</studentAnswer>
+    <studentAnswer id="HB.42b.462.1" accuracy="correct">Trying to slap it off.</studentAnswer>
+    <studentAnswer id="HB.42b.463.1" accuracy="correct">Whacking the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.464.1" accuracy="incorrect">Ouch!</studentAnswer>
+    <studentAnswer id="HB.42b.465.1" accuracy="correct">Slapping his arm so the mosquito would fly away.</studentAnswer>
+    <studentAnswer id="HB.42b.467.1" accuracy="correct">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.471.1" accuracy="incorrect">Get off or die!</studentAnswer>
+    <studentAnswer id="HB.42b.489.1" accuracy="correct">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.491.1" accuracy="incorrect">Knocking Jasmine's soda over.</studentAnswer>
+    <studentAnswer id="HB.42b.492.1" accuracy="correct">The response is to slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.493.1" accuracy="incorrect">To help dry her lap.</studentAnswer>
+    <studentAnswer id="HB.42b.493b.1" accuracy="incorrect">Knocking the soda over.</studentAnswer>
+    <studentAnswer id="HB.42b.494.1" accuracy="correct">To slap and swap the mosquito off his arm.</studentAnswer>
+    <studentAnswer id="HB.42b.497.1" accuracy="incorrect">To jump.</studentAnswer>
+    <studentAnswer id="HB.42b.503.1" accuracy="correct">Sam trying to slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.522.1" accuracy="incorrect">She jump up.</studentAnswer>
+    <studentAnswer id="HB.42b.523.1" accuracy="correct">He slapped it.</studentAnswer>
+    <studentAnswer id="HB.42b.529.1" accuracy="correct">Slapping at it.</studentAnswer>
+    <studentAnswer id="HB.42b.565.1" accuracy="correct">Sam's arm and Sam began slapping at it.</studentAnswer>
+    <studentAnswer id="HB.42b.566.1" accuracy="incorrect">The response is jumping.</studentAnswer>
+    <studentAnswer id="HB.42b.570.1" accuracy="correct">Sam's response was to slap the mosquito and spill Jasmine's soda.</studentAnswer>
+    <studentAnswer id="HB.42b.571.1" accuracy="correct">Slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.575.1" accuracy="correct">Sam response was to start slapping at the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.580.1" accuracy="incorrect">The response for Sam is seeing the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.594.1" accuracy="incorrect">The thing landed on Sam's hand.</studentAnswer>
+    <studentAnswer id="HB.42b.595.1" accuracy="correct">To slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.596.1" accuracy="incorrect">Knocking over the soda.</studentAnswer>
+    <studentAnswer id="HB.42b.597.1" accuracy="correct">Sam's response is to slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.598.1" accuracy="correct">Hit the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.599.1" accuracy="correct">Sam slapped the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.600.1" accuracy="correct">Sight because he saw the mosquito land on his arm and hit it.</studentAnswer>
+    <studentAnswer id="HB.42b.602.1" accuracy="correct">He was slapping the mosquito and bumped Jasmine.</studentAnswer>
+    <studentAnswer id="HB.42b.604.1" accuracy="correct">Sam's response was to start slapping the mosquito that was on his arm.</studentAnswer>
+    <studentAnswer id="HB.42b.605.1" accuracy="correct">Sam's response was slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.606.1" accuracy="incorrect">Knock Jasmine's soda in her lap.</studentAnswer>
+    <studentAnswer id="HB.42b.607.1" accuracy="correct">Slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.608.1" accuracy="correct">The response was to hit the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.609.1" accuracy="correct">Sam's response was to try to hit the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.611.1" accuracy="incorrect">Movement.</studentAnswer>
+    <studentAnswer id="HB.42b.612.1" accuracy="correct">Sam's response was to just slap at the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.613.1" accuracy="correct">To slap the bug.</studentAnswer>
+    <studentAnswer id="HB.42b.614.1" accuracy="correct">Sam's response was constantly slapping the mosquito causing to spill the pop on Jasmine's lap.</studentAnswer>
+    <studentAnswer id="HB.42b.628.1" accuracy="correct">She started slapping it.</studentAnswer>
+    <studentAnswer id="HB.42b.630.1" accuracy="correct">He smacked it.</studentAnswer>
+    <studentAnswer id="HB.42b.636.1" accuracy="correct">Sam's response was to slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.637.1" accuracy="correct">Sam's response was to smack the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.638.1" accuracy="correct">Sam's response was to smack it and he knocked Jasmine's soda down.</studentAnswer>
+    <studentAnswer id="HB.42b.641.1" accuracy="correct">Sam's response was slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.644.1" accuracy="correct">Sam's response was to slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.646.1" accuracy="correct">Sam's response was to slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.649.1" accuracy="correct">He slapped the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.984.1" accuracy="incorrect">He knocked over Jasmine's soda.</studentAnswer>
+    <studentAnswer id="HB.42b.986.1" accuracy="correct">His response was trying to slap the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.987.1" accuracy="correct">He was slapping the mosquito.</studentAnswer>
+    <studentAnswer id="HB.42b.992.1" accuracy="incorrect">Sam's response was when he knocked Jasmine's soda into her lap.</studentAnswer>
+  </studentAnswers>
+</question>

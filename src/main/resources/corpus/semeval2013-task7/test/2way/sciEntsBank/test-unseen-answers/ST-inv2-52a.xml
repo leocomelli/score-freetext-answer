@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ST_52a" module="ST">
+  <questionText>When a seed germinates, why does the root grow first?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_52a-a1">The root grows first so the root can take up water for the plant.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.52a.460.1" accuracy="correct">Roots sucks in water and makes a seed grow.</studentAnswer>
+    <studentAnswer id="ST.52a.473.1" accuracy="correct">Because it is getting water so the young plant or embryo can have energy to grow.</studentAnswer>
+    <studentAnswer id="ST.52a.498.1" accuracy="correct">So it can feed the plant.</studentAnswer>
+    <studentAnswer id="ST.52a.561.1" accuracy="incorrect">The root grew because it needs to help the plant stand up.</studentAnswer>
+  </studentAnswers>
+</question>

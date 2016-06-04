@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="PS_2b" module="PS">
+  <questionText>What happens to the volume of the sound if you pluck a rubber band harder?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_2b-a1">The volume increases. The sound is louder.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.2b.101.1" accuracy="correct">It makes a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.104.1" accuracy="incorrect">It will snap you.</studentAnswer>
+    <studentAnswer id="PS.2b.107.1" accuracy="correct">The sound would get louder.</studentAnswer>
+    <studentAnswer id="PS.2b.110.1" accuracy="incorrect">It will make a low sound.</studentAnswer>
+    <studentAnswer id="PS.2b.111.1" accuracy="correct">The rubber band will make a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.114.1" accuracy="incorrect">If you pluck the rubber band it breaks.</studentAnswer>
+    <studentAnswer id="PS.2b.116.1" accuracy="correct">It makes a bigger sound.</studentAnswer>
+    <studentAnswer id="PS.2b.118.1" accuracy="incorrect">It will fling back on your hand.</studentAnswer>
+    <studentAnswer id="PS.2b.138.1" accuracy="incorrect">Louder pitch.</studentAnswer>
+    <studentAnswer id="PS.2b.141.1" accuracy="incorrect">It gets a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.2b.142.1" accuracy="correct">It is louder.</studentAnswer>
+    <studentAnswer id="PS.2b.145.1" accuracy="incorrect">High pitch.</studentAnswer>
+    <studentAnswer id="PS.2b.146.1" accuracy="incorrect">It makes a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.2b.152.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.157.1" accuracy="correct">Loud.</studentAnswer>
+    <studentAnswer id="PS.2b.158.1" accuracy="incorrect">Volume makes its sound, it will be.</studentAnswer>
+    <studentAnswer id="PS.2b.160.1" accuracy="correct">It is going to make the sound louder.</studentAnswer>
+    <studentAnswer id="PS.2b.171.1" accuracy="incorrect">It get quieter.</studentAnswer>
+    <studentAnswer id="PS.2b.172.1" accuracy="correct">It will be louder.</studentAnswer>
+    <studentAnswer id="PS.2b.175.1" accuracy="correct">It will be louder.</studentAnswer>
+    <studentAnswer id="PS.2b.176.1" accuracy="correct">It will be louder.</studentAnswer>
+    <studentAnswer id="PS.2b.179.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.181.1" accuracy="correct">It goes higher.</studentAnswer>
+    <studentAnswer id="PS.2b.183.1" accuracy="incorrect">It makes a deeper noise.</studentAnswer>
+    <studentAnswer id="PS.2b.185.1" accuracy="correct">Gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.189.1" accuracy="correct">It will make a louder Noise.</studentAnswer>
+    <studentAnswer id="PS.2b.192.1" accuracy="correct">It will be loud.</studentAnswer>
+    <studentAnswer id="PS.2b.193.1" accuracy="incorrect">Lower.</studentAnswer>
+    <studentAnswer id="PS.2b.194.1" accuracy="correct">It make loud noise.</studentAnswer>
+    <studentAnswer id="PS.2b.195.1" accuracy="correct">It will make a higher volume.</studentAnswer>
+    <studentAnswer id="PS.2b.212.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.217.1" accuracy="incorrect">The pitch gets lower.</studentAnswer>
+    <studentAnswer id="PS.2b.221.1" accuracy="incorrect">The pitch changes.</studentAnswer>
+    <studentAnswer id="PS.2b.222.1" accuracy="incorrect">It will snap harder.</studentAnswer>
+    <studentAnswer id="PS.2b.223.1" accuracy="correct">The sound gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.225.1" accuracy="correct">It is louder.</studentAnswer>
+    <studentAnswer id="PS.2b.230.1" accuracy="correct">It makes a louder noise.</studentAnswer>
+    <studentAnswer id="PS.2b.255.1" accuracy="correct">The volume would get louder.</studentAnswer>
+    <studentAnswer id="PS.2b.261.1" accuracy="incorrect">It gets lower.</studentAnswer>
+    <studentAnswer id="PS.2b.263.1" accuracy="correct">It will make a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.313.1" accuracy="correct">It would just get louder than it was.</studentAnswer>
+    <studentAnswer id="PS.2b.319.1" accuracy="incorrect">Sound becomes higher.</studentAnswer>
+    <studentAnswer id="PS.2b.320.1" accuracy="incorrect">The sound goes down.</studentAnswer>
+    <studentAnswer id="PS.2b.322.1" accuracy="correct">Is loud.</studentAnswer>
+    <studentAnswer id="PS.2b.323.1" accuracy="correct">It get louder.</studentAnswer>
+    <studentAnswer id="PS.2b.325.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.328.1" accuracy="incorrect">The sound will become lower.</studentAnswer>
+    <studentAnswer id="PS.2b.329.1" accuracy="correct">The volume gets a little loud.</studentAnswer>
+    <studentAnswer id="PS.2b.331.1" accuracy="incorrect">The pitch sounds different.</studentAnswer>
+    <studentAnswer id="PS.2b.333.1" accuracy="correct">If you pluck it hard it will be higher.</studentAnswer>
+    <studentAnswer id="PS.2b.334.1" accuracy="correct">It will change the volume to higher.</studentAnswer>
+    <studentAnswer id="PS.2b.384.1" accuracy="correct">The volume will be higher.</studentAnswer>
+    <studentAnswer id="PS.2b.391.1" accuracy="correct">The volume would be louder.</studentAnswer>
+    <studentAnswer id="PS.2b.400.1" accuracy="correct">The volume gets higher.</studentAnswer>
+    <studentAnswer id="PS.2b.401.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.452.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.454.1" accuracy="correct">It will get louder.</studentAnswer>
+    <studentAnswer id="PS.2b.455.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.457.1" accuracy="incorrect">It vibrates more and lower pitcher.</studentAnswer>
+    <studentAnswer id="PS.2b.459.1" accuracy="incorrect">The volume gets lower.</studentAnswer>
+    <studentAnswer id="PS.2b.461.1" accuracy="incorrect">It vibrates more and it gets lower.</studentAnswer>
+    <studentAnswer id="PS.2b.464.1" accuracy="correct">It makes a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.466.1" accuracy="incorrect">A rhythm.</studentAnswer>
+    <studentAnswer id="PS.2b.468.1" accuracy="correct">It will make a loud sound.</studentAnswer>
+    <studentAnswer id="PS.2b.469.1" accuracy="correct">The sound gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.486.1" accuracy="correct">It makes it louder.</studentAnswer>
+    <studentAnswer id="PS.2b.488.1" accuracy="correct">It makes it louder.</studentAnswer>
+    <studentAnswer id="PS.2b.490.1" accuracy="correct">It makes a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.491.1" accuracy="incorrect">We hear it harder.</studentAnswer>
+    <studentAnswer id="PS.2b.494.1" accuracy="correct">It make the sound louder.</studentAnswer>
+    <studentAnswer id="PS.2b.495.1" accuracy="correct">The volume will get louder.</studentAnswer>
+    <studentAnswer id="PS.2b.497.1" accuracy="correct">It make a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.499.1" accuracy="correct">It make a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.501.1" accuracy="correct">It go higher and the vibrations go higher.</studentAnswer>
+    <studentAnswer id="PS.2b.502.1" accuracy="correct">It will make a louder.</studentAnswer>
+    <studentAnswer id="PS.2b.508.1" accuracy="correct">It will make a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.523.1" accuracy="correct">It makes it louder.</studentAnswer>
+    <studentAnswer id="PS.2b.524.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.526.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.528.1" accuracy="correct">The volume of the rubber band get louder.</studentAnswer>
+    <studentAnswer id="PS.2b.531.1" accuracy="correct">It turns louder.</studentAnswer>
+    <studentAnswer id="PS.2b.532.1" accuracy="correct">It will vibrate more so the sound increases.</studentAnswer>
+    <studentAnswer id="PS.2b.533.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.536.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.537.1" accuracy="correct">It makes a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.539.1" accuracy="correct">It gets louder.</studentAnswer>
+    <studentAnswer id="PS.2b.557.1" accuracy="correct">It makes a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.561.1" accuracy="correct">The volume will be higher.</studentAnswer>
+    <studentAnswer id="PS.2b.562.1" accuracy="correct">It will sound louder.</studentAnswer>
+    <studentAnswer id="PS.2b.563.1" accuracy="correct">The volume will be higher.</studentAnswer>
+    <studentAnswer id="PS.2b.567.1" accuracy="incorrect">Do nothing.</studentAnswer>
+    <studentAnswer id="PS.2b.569.1" accuracy="correct">It makes the sound louder.</studentAnswer>
+    <studentAnswer id="PS.2b.571.1" accuracy="incorrect">It starts to vibrate.</studentAnswer>
+    <studentAnswer id="PS.2b.572.1" accuracy="incorrect">Vibrate.</studentAnswer>
+    <studentAnswer id="PS.2b.574.1" accuracy="correct">It will it be louder.</studentAnswer>
+    <studentAnswer id="PS.2b.595.1" accuracy="correct">The volume turns up.</studentAnswer>
+    <studentAnswer id="PS.2b.596.1" accuracy="correct">Then it will vibrate with loud volume.</studentAnswer>
+    <studentAnswer id="PS.2b.599.1" accuracy="correct">It sounds kind of loud.</studentAnswer>
+    <studentAnswer id="PS.2b.600.1" accuracy="incorrect">It will make a lower noise.</studentAnswer>
+    <studentAnswer id="PS.2b.602.1" accuracy="correct">It makes the sound a bit louder.</studentAnswer>
+    <studentAnswer id="PS.2b.603.1" accuracy="incorrect">It does not make noise the rubber band, broke.</studentAnswer>
+    <studentAnswer id="PS.2b.605.1" accuracy="incorrect">The volume will go lower when you pluck it.</studentAnswer>
+    <studentAnswer id="PS.2b.607.1" accuracy="correct">It makes a louder sound.</studentAnswer>
+    <studentAnswer id="PS.2b.610.1" accuracy="incorrect">It goes lower.</studentAnswer>
+    <studentAnswer id="PS.2b.626.1" accuracy="correct">It makes a louder noise.</studentAnswer>
+    <studentAnswer id="PS.2b.629.1" accuracy="correct">It vibrates more and makes louder noise.</studentAnswer>
+    <studentAnswer id="PS.2b.633.1" accuracy="correct">It turns louder.</studentAnswer>
+    <studentAnswer id="PS.2b.642.1" accuracy="correct">It will sound loud.</studentAnswer>
+    <studentAnswer id="PS.2b.643.1" accuracy="incorrect">It stop the sound.</studentAnswer>
+    <studentAnswer id="PS.2b.644.1" accuracy="incorrect">The vibration gets harder.</studentAnswer>
+  </studentAnswers>
+</question>

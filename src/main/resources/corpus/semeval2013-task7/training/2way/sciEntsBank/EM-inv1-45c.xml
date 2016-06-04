@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="EM_45c" module="EM">
+  <questionText>You used several methods to separate and identify the substances in mock rocks. How did you know the crystals were salt?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_45c-a1">The crystals were square with Xs on the surface.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.45c.103.1" accuracy="incorrect">We used magnifying glasses and some sort of guide thing that told us what different kinds of salt looks like.</studentAnswer>
+    <studentAnswer id="EM.45c.108.1" accuracy="incorrect">You take a look through the magnifying glass.</studentAnswer>
+    <studentAnswer id="EM.45c.123.1" accuracy="incorrect">Because of the paper we looked at.</studentAnswer>
+    <studentAnswer id="EM.45c.259.1" accuracy="incorrect">We looked at a piece of paper and one of the pictures looked like the crystals.</studentAnswer>
+    <studentAnswer id="EM.45c.260.1" accuracy="incorrect">They will not shine.</studentAnswer>
+    <studentAnswer id="EM.45c.386.1" accuracy="correct">They were square like salt.</studentAnswer>
+    <studentAnswer id="EM.45c.393.1" accuracy="incorrect">We knew the crystals were salt because the crystal identification chart showed us that the different kinds of salt were crystals.</studentAnswer>
+    <studentAnswer id="EM.45c.395.1" accuracy="incorrect">It said so on a paper.</studentAnswer>
+    <studentAnswer id="EM.45c.400.1" accuracy="incorrect">Because it was at it because we had a chart that could tell us that.</studentAnswer>
+    <studentAnswer id="EM.45c.402.1" accuracy="incorrect">They looked like salt.</studentAnswer>
+    <studentAnswer id="EM.45c.417.1" accuracy="correct">We got a sheet with different kinds of crystals. So I looked for the same picture like the crystal and it said Kosher salt.</studentAnswer>
+    <studentAnswer id="EM.45c.436.1" accuracy="incorrect">The teacher told us.</studentAnswer>
+    <studentAnswer id="EM.45c.440.1" accuracy="incorrect">Because salt is made up of little crystals.</studentAnswer>
+    <studentAnswer id="EM.45c.441.1" accuracy="incorrect">Because salt look like little pieces of a crystal.</studentAnswer>
+    <studentAnswer id="EM.45c.443.1" accuracy="correct">I knew because they were shaped like kosher salt.</studentAnswer>
+    <studentAnswer id="EM.45c.456.1" accuracy="incorrect">I knew the crystals were salt by the movie we watched.</studentAnswer>
+    <studentAnswer id="EM.45c.458.1" accuracy="incorrect">Because flour does not turn into crystals.</studentAnswer>
+    <studentAnswer id="EM.45c.477.1" accuracy="incorrect">Because salt is a crystal.</studentAnswer>
+    <studentAnswer id="EM.45c.490.1" accuracy="incorrect">Because it has a X in the middle, and salt was in it.</studentAnswer>
+    <studentAnswer id="EM.45c.491.1" accuracy="incorrect">The crystals are kosher salt and kosher salt is salt!</studentAnswer>
+    <studentAnswer id="EM.45c.494.1" accuracy="incorrect">By looking at the crystal identification sheet.</studentAnswer>
+    <studentAnswer id="EM.45c.498.1" accuracy="incorrect">Because we measured them.</studentAnswer>
+    <studentAnswer id="EM.45c.532.1" accuracy="incorrect">Because it was so shiny.</studentAnswer>
+    <studentAnswer id="EM.45c.534.1" accuracy="incorrect">They were powdery.</studentAnswer>
+    <studentAnswer id="EM.45c.536.1" accuracy="incorrect">Because there were little shining things inside and I knew it was salt.</studentAnswer>
+    <studentAnswer id="EM.45c.537.1" accuracy="incorrect">Because we learned it because it was white that is how we knew.</studentAnswer>
+    <studentAnswer id="EM.45c.540.1" accuracy="incorrect">I would know that the crystals were salt is the way how it looks.</studentAnswer>
+    <studentAnswer id="EM.45c.562.1" accuracy="incorrect">We poured the water we left it alone for 2 days and they dry up.</studentAnswer>
+    <studentAnswer id="EM.45c.564.1" accuracy="incorrect">After the water dried we noticed it was Kosher salt.</studentAnswer>
+    <studentAnswer id="EM.45c.569.1" accuracy="incorrect">By breaking the rock.</studentAnswer>
+    <studentAnswer id="EM.45c.591.1" accuracy="incorrect">Because it tastes like salt.</studentAnswer>
+    <studentAnswer id="EM.45c.592.1" accuracy="incorrect">Because crystals are a kind of salt.</studentAnswer>
+    <studentAnswer id="EM.45c.606.1" accuracy="correct">I looked at them really closely and they looked like crystals and diamonds.</studentAnswer>
+    <studentAnswer id="EM.45c.611.1" accuracy="incorrect">Because we looked in the magnifying glass.</studentAnswer>
+    <studentAnswer id="EM.45c.614.1" accuracy="correct">I knew the crystals were salt because of the patterns and shapes.</studentAnswer>
+    <studentAnswer id="EM.45c.647.1" accuracy="incorrect">I looked at the chart.</studentAnswer>
+  </studentAnswers>
+</question>

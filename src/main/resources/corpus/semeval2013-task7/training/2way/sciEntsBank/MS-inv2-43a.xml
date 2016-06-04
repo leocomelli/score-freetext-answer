@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MS_43a" module="MS">
+  <questionText>2 groups used marbles to weigh the same apple. Jin's group found the apple weighed 35 marbles and Bee's group found the same apple weighed 60 marbles. Both groups used the correct procedure. Since they weighed the same apple, what do you think happened to make the results different?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_43a-a1">The marbles used by the 2 groups were probably different masses.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.43a.103.1" accuracy="incorrect">They use different sizes of marbles.</studentAnswer>
+    <studentAnswer id="MS.43a.105.1" accuracy="incorrect">Some marbles are different sizes.</studentAnswer>
+    <studentAnswer id="MS.43a.115.1" accuracy="correct">I think the marbles had a different weight.</studentAnswer>
+    <studentAnswer id="MS.43a.119.1" accuracy="correct">The marbles might be different sizes.</studentAnswer>
+    <studentAnswer id="MS.43a.136.1" accuracy="correct">Bee's groups maybe had bigger marbles then the other group.</studentAnswer>
+    <studentAnswer id="MS.43a.144.1" accuracy="correct">I think the marbles were different sizes.</studentAnswer>
+    <studentAnswer id="MS.43a.153.1" accuracy="incorrect">The first group had smaller marbles.</studentAnswer>
+    <studentAnswer id="MS.43a.173.1" accuracy="correct">I think Bee's group had more mass in their marbles than Jin's group.</studentAnswer>
+    <studentAnswer id="MS.43a.180.1" accuracy="correct">Maybe they had different size of marble.</studentAnswer>
+    <studentAnswer id="MS.43a.183.1" accuracy="correct">I think that the marbles weighed different because they might of had one marble that was a different weight than and there.</studentAnswer>
+    <studentAnswer id="MS.43a.276.1" accuracy="incorrect">They maybe used paperclips and paperclips are not the same size.</studentAnswer>
+    <studentAnswer id="MS.43a.280.1" accuracy="incorrect">The marbles are different sizes.</studentAnswer>
+    <studentAnswer id="MS.43a.312.1" accuracy="correct">One use small and big and marbles one use 60 and the other 60.</studentAnswer>
+    <studentAnswer id="MS.43a.317.1" accuracy="correct">Maybe they had bigger marbles than the other team.</studentAnswer>
+    <studentAnswer id="MS.43a.324.1" accuracy="incorrect">Because they use marbles and apple.</studentAnswer>
+    <studentAnswer id="MS.43a.348.1" accuracy="incorrect">I think they have to put more marbles.</studentAnswer>
+    <studentAnswer id="MS.43a.352.1" accuracy="incorrect">Maybe the balance was a little off.</studentAnswer>
+    <studentAnswer id="MS.43a.381.1" accuracy="incorrect">One group did not zero out the balance one did.</studentAnswer>
+    <studentAnswer id="MS.43a.387.1" accuracy="incorrect">Because there all sort of apples and they do all weigh different.</studentAnswer>
+    <studentAnswer id="MS.43a.393.1" accuracy="incorrect">Bigger grams.</studentAnswer>
+    <studentAnswer id="MS.43a.417.1" accuracy="incorrect">I think they did not zero it out on the balance beam.</studentAnswer>
+    <studentAnswer id="MS.43a.433.1" accuracy="incorrect">I think they do not balance the beam.</studentAnswer>
+    <studentAnswer id="MS.43a.452.1" accuracy="incorrect">Jin's group had big marbles and Bee's group had small marbles.</studentAnswer>
+    <studentAnswer id="MS.43a.488.1" accuracy="incorrect">Maybe Jin's group did it by doing it up to down and Bee's group did it by going around.</studentAnswer>
+    <studentAnswer id="MS.43a.501.1" accuracy="incorrect">Because they are both different.</studentAnswer>
+    <studentAnswer id="MS.43a.504.1" accuracy="correct">Maybe because the marbles are different sizes.</studentAnswer>
+    <studentAnswer id="MS.43a.521.1" accuracy="incorrect">The marbles are different.</studentAnswer>
+    <studentAnswer id="MS.43a.532.1" accuracy="incorrect">They weighed it wrong.</studentAnswer>
+    <studentAnswer id="MS.43a.566.1" accuracy="incorrect">The marbles are not same weight.</studentAnswer>
+    <studentAnswer id="MS.43a.592.1" accuracy="incorrect">Different sized marbles.</studentAnswer>
+    <studentAnswer id="MS.43a.594.1" accuracy="incorrect">Different sizes of marbles.</studentAnswer>
+    <studentAnswer id="MS.43a.598.1" accuracy="correct">Marbles can weigh different. Different mass.</studentAnswer>
+    <studentAnswer id="MS.43a.599.1" accuracy="incorrect">The marbles have different mass.</studentAnswer>
+    <studentAnswer id="MS.43a.600.1" accuracy="incorrect">Marbles in Bee's group is bigger.</studentAnswer>
+    <studentAnswer id="MS.43a.607.1" accuracy="incorrect">The apples are different sizes.</studentAnswer>
+    <studentAnswer id="MS.43a.609.1" accuracy="incorrect">They do not have the same number.</studentAnswer>
+  </studentAnswers>
+</question>

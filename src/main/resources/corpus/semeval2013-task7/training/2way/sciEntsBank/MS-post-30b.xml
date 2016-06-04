@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MS_30b" module="MS">
+  <questionText>Mary told her friend Sharice that she had a rug to sell. Sharice asked if the rug would fit perfectly, wall to wall, in her bedroom. Mary went home and measured the rug. She put her feet heel-to-toe and counted the number of shoe lengths it took to measure the rug. She found the rug was 18 shoes long and 12 shoes wide. Sharice did the same thing in her room to measure the space for the rug. Her floor was 18 shoes long and 12 shoes wide. A perfect fit! Sharice bought the rug and took it home. To her dismay, she found it was too short and too narrow for her bedroom! What could Mary and Sharice do to better measure the size of the rug?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_30b-a1">Use a standard unit of measurement such as centimeters or meters.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.30b.101.1" accuracy="incorrect">The rug was 12.</studentAnswer>
+    <studentAnswer id="MS.30b.108.1" accuracy="correct">They can measure the rug with a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.112.1" accuracy="correct">Use a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.115.1" accuracy="correct">Use a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.136.1" accuracy="correct">They could use a measuring tape and that is how they will get the same answer.</studentAnswer>
+    <studentAnswer id="MS.30b.137.1" accuracy="correct">Next time they can use a measuring tape to be more accurate.</studentAnswer>
+    <studentAnswer id="MS.30b.144.1" accuracy="correct">They could use a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.146.1" accuracy="correct">They should use a standard measurement.</studentAnswer>
+    <studentAnswer id="MS.30b.152.1" accuracy="incorrect">The size of the rug was 18 grams.</studentAnswer>
+    <studentAnswer id="MS.30b.171.1" accuracy="correct">They could use a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.174.1" accuracy="incorrect">Have Mary come over and measure her room too.</studentAnswer>
+    <studentAnswer id="MS.30b.190.1" accuracy="correct">They could use a meter tape, a centimeter ruler, or a inch ruler.</studentAnswer>
+    <studentAnswer id="MS.30b.276.1" accuracy="correct">They should use a standard metric unit to measure the rug like a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.282.1" accuracy="correct">Use a ruler.</studentAnswer>
+    <studentAnswer id="MS.30b.288.1" accuracy="correct">She can measure with a centimeters.</studentAnswer>
+    <studentAnswer id="MS.30b.294.1" accuracy="correct">They could use a standard unit to measure the rug.</studentAnswer>
+    <studentAnswer id="MS.30b.312.1" accuracy="correct">They could use a standard measurement.</studentAnswer>
+    <studentAnswer id="MS.30b.316.1" accuracy="correct">They should return it and get another rug and measure with a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.319.1" accuracy="correct">Use a standard measurement like a meter.</studentAnswer>
+    <studentAnswer id="MS.30b.324.1" accuracy="correct">They can use a metric tape.</studentAnswer>
+    <studentAnswer id="MS.30b.348.1" accuracy="correct">They have to get a measure tape.</studentAnswer>
+    <studentAnswer id="MS.30b.359.1" accuracy="correct">They could use a meter stick.</studentAnswer>
+    <studentAnswer id="MS.30b.391.1" accuracy="correct">They could have used a meter tape.</studentAnswer>
+    <studentAnswer id="MS.30b.396.1" accuracy="incorrect">They could buy a new rug and see if it fits.</studentAnswer>
+    <studentAnswer id="MS.30b.400.1" accuracy="correct">They could get a meter tape and see how long it is.</studentAnswer>
+    <studentAnswer id="MS.30b.417.1" accuracy="correct">By using a measuring tape.</studentAnswer>
+    <studentAnswer id="MS.30b.426.1" accuracy="correct">She could use measuring tape and see how much is it.</studentAnswer>
+    <studentAnswer id="MS.30b.452.1" accuracy="incorrect">Sharice could have the rug and her wall before buying the rug.</studentAnswer>
+    <studentAnswer id="MS.30b.463.1" accuracy="correct">Use a meter.</studentAnswer>
+    <studentAnswer id="MS.30b.486.1" accuracy="incorrect">Take the rug and if it fits buy it.</studentAnswer>
+    <studentAnswer id="MS.30b.488.1" accuracy="correct">With a centimeters tape.</studentAnswer>
+    <studentAnswer id="MS.30b.496.1" accuracy="correct">To use a centimeters tape.</studentAnswer>
+    <studentAnswer id="MS.30b.501.1" accuracy="incorrect">Cut it.</studentAnswer>
+    <studentAnswer id="MS.30b.532.1" accuracy="correct">They should use a standard unit of measure like a meter stick.</studentAnswer>
+    <studentAnswer id="MS.30b.569.1" accuracy="correct">They could use a ruler to measure the rug better then they got the right answer.</studentAnswer>
+    <studentAnswer id="MS.30b.571.1" accuracy="correct">They can use meters or a tape measure.</studentAnswer>
+  </studentAnswers>
+</question>

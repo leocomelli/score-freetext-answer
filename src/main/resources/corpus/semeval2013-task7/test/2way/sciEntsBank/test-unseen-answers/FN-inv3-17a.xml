@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="FN_17a" module="FN">
+  <questionText>Paula wants to test a food to see if it contains acid and/or sugar. When Paula added water and yeast to a sample of the food and put the mixture in a warm water bath, the mixture began to fizz and bubble. What does this chemical reaction indicate?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_17a-a1">The food contains sugar.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.17a.143.1" accuracy="correct">She is doing a sugar test.</studentAnswer>
+    <studentAnswer id="FN.17a.210.1" accuracy="incorrect">The chemical reaction indicates that yeast has acid.</studentAnswer>
+    <studentAnswer id="FN.17a.313.1" accuracy="correct">That this food has acid and or sugar.</studentAnswer>
+    <studentAnswer id="FN.17a.495.1" accuracy="incorrect">The chemical reaction creates acid.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_52b" module="MX">
+  <questionText>Emily put 20 milliliters of a mystery solution in an evaporation dish. When all the water was gone, she drew the picture of the dish you see here.  Using the crystal-shape key below, what chemical do you think was dissolved in the solution? A. Epsom salt B. Sodium thiosulfate (C. Alum) D. None of the above. Explain why you chose that answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_52b-a1">Emily's crystals are the same shape as the alum crystals shown on the key.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.52b.397.1" accuracy="incorrect">The crystals are the same shape and they look the same.</studentAnswer>
+    <studentAnswer id="MX.52b.425.1" accuracy="correct">Because in the key, alum is the exact same pattern as the one above.</studentAnswer>
+    <studentAnswer id="MX.52b.459.1" accuracy="incorrect">I think that the Epsom salt because it look like salt crystal. It is sodium hyposulfite or alum.</studentAnswer>
+    <studentAnswer id="MX.52b.607.1" accuracy="correct">Because below the alum picture looks just like the one above.</studentAnswer>
+  </studentAnswers>
+</question>

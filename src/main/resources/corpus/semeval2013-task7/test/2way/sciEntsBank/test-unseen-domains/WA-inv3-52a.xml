@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_52a" module="WA">
+  <questionText>Johnny drove to the store with his father one cold and rainy night. They had only driven a short distance when the windows "fogged up" on the inside. What was the "fog"?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_52a-a1">Condensed water vapor from the air inside the car.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.52a.172.1" accuracy="incorrect">The fog was not fog. It was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.173.1" accuracy="incorrect">The fog on the inside window of the car was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.176.1" accuracy="correct">The fog is called condensation. What caused this was the water vapor touching a cold surface.</studentAnswer>
+    <studentAnswer id="WA.52a.177.1" accuracy="incorrect">The fog was water vapor flying around in the air.</studentAnswer>
+    <studentAnswer id="WA.52a.181.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.186.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.189.1" accuracy="incorrect">It was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.190.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.194.1" accuracy="incorrect">Fog is condition.</studentAnswer>
+    <studentAnswer id="WA.52a.195.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.196.1" accuracy="incorrect">The fog is condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.197.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.211.1" accuracy="incorrect">It is called condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.218.1" accuracy="incorrect">Fog is water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.226.1" accuracy="incorrect">The fog in the inside of the car was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.230.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.231.1" accuracy="incorrect">That fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.232.1" accuracy="incorrect">The fog is condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.242.1" accuracy="correct">The fog was water vapor turning back into tiny water droplets in the process of condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.248.1" accuracy="incorrect">What Johnny saw was condensation on the window.</studentAnswer>
+    <studentAnswer id="WA.52a.254.1" accuracy="incorrect">The fog was liquid.</studentAnswer>
+    <studentAnswer id="WA.52a.255.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.257.1" accuracy="incorrect">The fog is called condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.258.1" accuracy="incorrect">The fog was condensation formed by cold water.</studentAnswer>
+    <studentAnswer id="WA.52a.262.1" accuracy="incorrect">It was not fog. It was condensation from the rain.</studentAnswer>
+    <studentAnswer id="WA.52a.264.1" accuracy="incorrect">It was water but it turned to a gas.</studentAnswer>
+    <studentAnswer id="WA.52a.266.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.267.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.294.1" accuracy="correct">It is water in the air that hit the cold window shield that is condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.348.1" accuracy="incorrect">The fog is called condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.350.1" accuracy="incorrect">While the rain was out one of them opened a window then they closed it.</studentAnswer>
+    <studentAnswer id="WA.52a.351.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.355.1" accuracy="incorrect">Evaporation.</studentAnswer>
+    <studentAnswer id="WA.52a.381.1" accuracy="incorrect">The fog was rain.</studentAnswer>
+    <studentAnswer id="WA.52a.383.1" accuracy="incorrect">Water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.387.1" accuracy="incorrect">The fog was called condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.390.1" accuracy="incorrect">The fog was the water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.392.1" accuracy="incorrect">Water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.395.1" accuracy="incorrect">The fog was water vapor that came down.</studentAnswer>
+    <studentAnswer id="WA.52a.400.1" accuracy="incorrect">Cloud.</studentAnswer>
+    <studentAnswer id="WA.52a.401.1" accuracy="incorrect">It was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.416.1" accuracy="correct">The fog was water vapor, touching a cold surface, which was the window.</studentAnswer>
+    <studentAnswer id="WA.52a.422.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.425.1" accuracy="incorrect">Mist.</studentAnswer>
+    <studentAnswer id="WA.52a.426.1" accuracy="incorrect">Fog is some little raindrops on the window or some air on the window. When it is foggy, you cannot see very well.</studentAnswer>
+    <studentAnswer id="WA.52a.428.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.430.1" accuracy="correct">Condensed water droplets.</studentAnswer>
+    <studentAnswer id="WA.52a.433.1" accuracy="incorrect">The fog was condensation on the window.</studentAnswer>
+    <studentAnswer id="WA.52a.434.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.436.1" accuracy="incorrect">It was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.451.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.454.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.456.1" accuracy="incorrect">Water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.458.1" accuracy="incorrect">Water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.460.1" accuracy="incorrect">When it is cold, the windows fog up.</studentAnswer>
+    <studentAnswer id="WA.52a.463.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.465.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.469.1" accuracy="incorrect">Little rain drops.</studentAnswer>
+    <studentAnswer id="WA.52a.486.1" accuracy="incorrect">It was the atmosphere.</studentAnswer>
+    <studentAnswer id="WA.52a.487.1" accuracy="correct">Condensed water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.490.1" accuracy="incorrect">The fog was actually condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.493.1" accuracy="incorrect">The fog was water that evaporated.</studentAnswer>
+    <studentAnswer id="WA.52a.498.1" accuracy="incorrect">It was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.501.1" accuracy="incorrect">The fog was the humidity in the car. There was molecules in the air of the car and the molecules got less dense and wanted to get out of the car.</studentAnswer>
+    <studentAnswer id="WA.52a.505.1" accuracy="incorrect">Water vapor sitting on the windows.</studentAnswer>
+    <studentAnswer id="WA.52a.506.1" accuracy="incorrect">Moisture caused by warm moisture meeting cold moisture.</studentAnswer>
+    <studentAnswer id="WA.52a.509.1" accuracy="incorrect">The fog was condensation. See question 2.</studentAnswer>
+    <studentAnswer id="WA.52a.510.1" accuracy="incorrect">The fog was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.523.1" accuracy="incorrect">It was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.524.1" accuracy="incorrect">The white misty stuff on the window.</studentAnswer>
+    <studentAnswer id="WA.52a.527.1" accuracy="correct">It is condensation that comes on when it is cold which is water vapor which is the rain turned into gas.</studentAnswer>
+    <studentAnswer id="WA.52a.528.1" accuracy="incorrect">The fog is water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.531.1" accuracy="incorrect">The fog happened because of condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.532.1" accuracy="incorrect">It was because of the evaporation in the car.</studentAnswer>
+    <studentAnswer id="WA.52a.535.1" accuracy="incorrect">The fog was invisible droplets we in the car made.</studentAnswer>
+    <studentAnswer id="WA.52a.536.1" accuracy="incorrect">The fog was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.541.1" accuracy="incorrect">A mix of cold and warm.</studentAnswer>
+    <studentAnswer id="WA.52a.542.1" accuracy="incorrect">The fog was the water vapor that was in the air.</studentAnswer>
+    <studentAnswer id="WA.52a.556.1" accuracy="incorrect">Condensation. The cold on the outside and the warm inside caused it to form.</studentAnswer>
+    <studentAnswer id="WA.52a.557.1" accuracy="incorrect">Water beads.</studentAnswer>
+    <studentAnswer id="WA.52a.563.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.565.1" accuracy="incorrect">The fog was condensation because the window is cold and condensation happens on cold surfaces.</studentAnswer>
+    <studentAnswer id="WA.52a.567.1" accuracy="incorrect">It was condensation, little droplets of water.</studentAnswer>
+    <studentAnswer id="WA.52a.572.1" accuracy="incorrect">Evaporation, condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.576.1" accuracy="incorrect">Because condensation gas most of turned to water. Gas turning to water.</studentAnswer>
+    <studentAnswer id="WA.52a.591.1" accuracy="incorrect">Dry evaporation builds up fog. And rain and cold make fog.</studentAnswer>
+    <studentAnswer id="WA.52a.596.1" accuracy="correct">Water vapor evaporated into the air and when it set on the window, it condensed creating fog.</studentAnswer>
+    <studentAnswer id="WA.52a.598.1" accuracy="incorrect">Condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.600.1" accuracy="incorrect">Heat and cold air mixed together.</studentAnswer>
+    <studentAnswer id="WA.52a.604.1" accuracy="incorrect">Evaporated water.</studentAnswer>
+    <studentAnswer id="WA.52a.610.1" accuracy="correct">It is because the cold air was evaporating and it had no opening so the air could not get out.</studentAnswer>
+    <studentAnswer id="WA.52a.612.1" accuracy="incorrect">It was steam.</studentAnswer>
+    <studentAnswer id="WA.52a.627.1" accuracy="incorrect">The fog was condensation.</studentAnswer>
+    <studentAnswer id="WA.52a.629.1" accuracy="incorrect">The fog on the window was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.630.1" accuracy="incorrect">Evaporated cold water.</studentAnswer>
+    <studentAnswer id="WA.52a.631.1" accuracy="correct">The water vapor in the car was car temperature and it touched the cold window.</studentAnswer>
+    <studentAnswer id="WA.52a.635.1" accuracy="incorrect">The fog was water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.638.1" accuracy="incorrect">A hotter surface touched the windows. Since the windows are cold, it formed fog.</studentAnswer>
+    <studentAnswer id="WA.52a.639.1" accuracy="incorrect">Water vapor.</studentAnswer>
+    <studentAnswer id="WA.52a.642.1" accuracy="incorrect">I would say water vapor.</studentAnswer>
+  </studentAnswers>
+</question>

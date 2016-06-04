@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_45c" module="EM">
+  <questionText>You used several methods to separate and identify the substances in mock rocks. How did you know the crystals were salt?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_45c-a1">The crystals were square with Xs on the surface.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.45c.340.1" accuracy="incorrect">Well because we broke them apart.</studentAnswer>
+    <studentAnswer id="EM.45c.385.1" accuracy="incorrect">By looking very closely at it.</studentAnswer>
+    <studentAnswer id="EM.45c.396.1" accuracy="incorrect">We know the crystals were salt because we identified them.</studentAnswer>
+    <studentAnswer id="EM.45c.645.1" accuracy="incorrect">Because I look at the chart.</studentAnswer>
+  </studentAnswers>
+</question>

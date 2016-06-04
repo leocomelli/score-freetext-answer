@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<question id="MX_41" module="MX">
+  <questionText>Janet found the solubility of silver chloride to be 86 grams in 50 milliliters of water. Mike found the solubility of silver nitrate to be 108 grams in 50 milliliters of water. Janet and Mike thought they must have made a mistake. They thought the solubilities of all materials in water should be the same. Is it possible that both solubilities are correct? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_41-a1">Yes, they could both be correct. Solubility is not the same for all materials.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.41.387.1" accuracy="incorrect">No because no solid that one has more than the other in the same amount of water.</studentAnswer>
+    <studentAnswer id="MX.41.392.1" accuracy="incorrect">No not all mixtures and solutions come out correct he needs to let it sit or he should let or he should let I stir it.</studentAnswer>
+    <studentAnswer id="MX.41.393.1" accuracy="correct">Yes because different materials have different solubility.</studentAnswer>
+    <studentAnswer id="MX.41.396.1" accuracy="correct">Yes because different solids have different solubility is. Janet and Mike used different solids. They are wrong.</studentAnswer>
+    <studentAnswer id="MX.41.399.1" accuracy="correct">Yes it is possible both solubility's are correct different solubility's very possible because some substances are more able to dissolve in less space than others.</studentAnswer>
+    <studentAnswer id="MX.41.400.1" accuracy="correct">Yes because the water has different materials in it and the materials have different atoms and stuff and that makes changes to what happens to them in water and their solubility.</studentAnswer>
+    <studentAnswer id="MX.41.421.1" accuracy="incorrect">No because it has 2 different chemicals and it does not have the same solubilities.</studentAnswer>
+    <studentAnswer id="MX.41.423.1" accuracy="correct">Yes because they are whole new materials.</studentAnswer>
+    <studentAnswer id="MX.41.424.1" accuracy="correct">Because they are different ingredients.</studentAnswer>
+    <studentAnswer id="MX.41.430.1" accuracy="correct">Yes because they are 2 different ingredients.</studentAnswer>
+    <studentAnswer id="MX.41.434.1" accuracy="correct">Yes because the solubility is of mixtures are not all the same.</studentAnswer>
+    <studentAnswer id="MX.41.436.1" accuracy="correct">Yes because they are different materials.</studentAnswer>
+    <studentAnswer id="MX.41.439.1" accuracy="correct">Yes because they are both different.</studentAnswer>
+    <studentAnswer id="MX.41.458.1" accuracy="incorrect">Yes it is.</studentAnswer>
+    <studentAnswer id="MX.41.468.1" accuracy="incorrect">What do you mean I do not how what you are say to me so can you help me.</studentAnswer>
+    <studentAnswer id="MX.41.486.1" accuracy="correct">Yes because all material move in a different way.</studentAnswer>
+    <studentAnswer id="MX.41.496.1" accuracy="incorrect">Because they are different things. Nitrate is different then chloride so they cannot be the same weight. Just like a monkey and a elephant.</studentAnswer>
+    <studentAnswer id="MX.41.503.1" accuracy="incorrect">Yes because all materials have different grams.</studentAnswer>
+    <studentAnswer id="MX.41.525.1" accuracy="correct">Yes because they are 2 different things.</studentAnswer>
+    <studentAnswer id="MX.41.541.1" accuracy="incorrect">No because silver chloride is different than silver nitrate.</studentAnswer>
+    <studentAnswer id="MX.41.542.1" accuracy="incorrect">No because silver chloride is different than silver nitrate.</studentAnswer>
+    <studentAnswer id="MX.41.563.1" accuracy="correct">They are correct because the materials are 2 whole different materials.</studentAnswer>
+    <studentAnswer id="MX.41.564.1" accuracy="incorrect">Yes because something else can have the exact same thing and it does not have to be like that.</studentAnswer>
+    <studentAnswer id="MX.41.566.1" accuracy="incorrect">No because only a certain amount of solid can dissolve in a certain amount of water. They both got different solubility in the same amount of water which mean somebody did something wrong.</studentAnswer>
+    <studentAnswer id="MX.41.572.1" accuracy="incorrect">The fizzing means that it came from the gas.</studentAnswer>
+    <studentAnswer id="MX.41.593.1" accuracy="incorrect">Yes they can do it different but be the same way.</studentAnswer>
+    <studentAnswer id="MX.41.596.1" accuracy="incorrect">No because they are different grams.</studentAnswer>
+    <studentAnswer id="MX.41.604.1" accuracy="incorrect">No because they might weigh different.</studentAnswer>
+    <studentAnswer id="MX.41.607.1" accuracy="correct">Yes because Janet used silver chloride and Mike used silver nitrate which means if they used 2 different things they both could be right.</studentAnswer>
+    <studentAnswer id="MX.41.611.1" accuracy="incorrect">Yes because both the silver thing are different and they weigh different.</studentAnswer>
+    <studentAnswer id="MX.41.613.1" accuracy="incorrect">No because they used different chemicals so that why it is not the same and also because they used different sizes.</studentAnswer>
+    <studentAnswer id="MX.41.639.1" accuracy="incorrect">It could be possible chance it is correct but there could also be a 50 chance it is right and a 50 50 chance it is wrong. If they do not know they could do some test and research.</studentAnswer>
+    <studentAnswer id="MX.41.643.1" accuracy="incorrect">Yes because silver nitrate might be heavier.</studentAnswer>
+  </studentAnswers>
+</question>

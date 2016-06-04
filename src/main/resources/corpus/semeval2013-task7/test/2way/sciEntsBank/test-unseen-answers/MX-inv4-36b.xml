@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_36b" module="MX">
+  <questionText>Grace set up a science experiment. Here's what she wrote in her notebook. First I put eggshells into a cup and covered them with vinegar. After a while, small bubbles appeared on the surface of the eggshells. The next day there were more bubbles. In a couple of days, the eggshells were gone and the liquid was clear. I think I made a solution and a reaction. Explain why Grace thinks she made a reaction.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_36b-a1">A reaction was indicated by the bubbles of gas (a new material) being produced.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.36b.172.1" accuracy="correct">The bubbles.</studentAnswer>
+    <studentAnswer id="MX.36b.455.1" accuracy="correct">Because of the bubbles on the shell.</studentAnswer>
+    <studentAnswer id="MX.36b.498.1" accuracy="incorrect">Because the vinegar is a reaction to eggshells and because of the reaction the eggshells are gone.</studentAnswer>
+    <studentAnswer id="MX.36b.637.1" accuracy="correct">Because she added more than 2 chemicals producing the small bubbles on the eggshells that dissolved.</studentAnswer>
+  </studentAnswers>
+</question>

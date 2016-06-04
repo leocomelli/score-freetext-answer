@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<question id="ME_17c" module="ME">
+  <questionText>Denise made a circuit to light a bulb or run a motor. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. What will happen when she moves the switch to the right?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17c-a1">The motor will run.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17c.101.1" accuracy="incorrect">The light bulb will work.</studentAnswer>
+    <studentAnswer id="ME.17c.102.1" accuracy="correct">Only the motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.107.1" accuracy="correct">The motor will start running.</studentAnswer>
+    <studentAnswer id="ME.17c.115.1" accuracy="correct">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.118.1" accuracy="incorrect">Nothing.</studentAnswer>
+    <studentAnswer id="ME.17c.119.1" accuracy="correct">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.120.1" accuracy="correct">The motor will turn on if she moves it to the right.</studentAnswer>
+    <studentAnswer id="ME.17c.140.1" accuracy="incorrect">The light bulb will light.</studentAnswer>
+    <studentAnswer id="ME.17c.141.1" accuracy="correct">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.142.1" accuracy="correct">The motor will start.</studentAnswer>
+    <studentAnswer id="ME.17c.143.1" accuracy="correct">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.144.1" accuracy="correct">The electricity is moving through the circuit.</studentAnswer>
+    <studentAnswer id="ME.17c.146.1" accuracy="correct">It will work.</studentAnswer>
+    <studentAnswer id="ME.17c.149.1" accuracy="incorrect">It will turn off.</studentAnswer>
+    <studentAnswer id="ME.17c.159.1" accuracy="incorrect">The bulb will light.</studentAnswer>
+    <studentAnswer id="ME.17c.176.1" accuracy="correct">The motor will work.</studentAnswer>
+    <studentAnswer id="ME.17c.178.1" accuracy="incorrect">It will cut off the light and motor.</studentAnswer>
+    <studentAnswer id="ME.17c.183.1" accuracy="correct">It will turn on.</studentAnswer>
+    <studentAnswer id="ME.17c.190.1" accuracy="correct">It will turn on.</studentAnswer>
+    <studentAnswer id="ME.17c.195.1" accuracy="correct">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.206.1" accuracy="correct">The motor will turn on.</studentAnswer>
+    <studentAnswer id="ME.17c.207.1" accuracy="correct">The motor will work.</studentAnswer>
+    <studentAnswer id="ME.17c.215.1" accuracy="correct">The motor and light goes on.</studentAnswer>
+    <studentAnswer id="ME.17c.216.1" accuracy="correct">The motor will only run.</studentAnswer>
+    <studentAnswer id="ME.17c.220.1" accuracy="incorrect">The light will turn off.</studentAnswer>
+    <studentAnswer id="ME.17c.224.1" accuracy="incorrect">It will work.</studentAnswer>
+    <studentAnswer id="ME.17c.247.1" accuracy="correct">The motor will go on.</studentAnswer>
+    <studentAnswer id="ME.17c.251.1" accuracy="correct">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.276.1" accuracy="incorrect">It will light up because everything will work if it is all hooked up.</studentAnswer>
+    <studentAnswer id="ME.17c.277.1" accuracy="correct">The motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.278.1" accuracy="incorrect">When the switch is moved nothing will work.</studentAnswer>
+    <studentAnswer id="ME.17c.313.1" accuracy="incorrect">It will stay the same it will be a parallel circuit.</studentAnswer>
+    <studentAnswer id="ME.17c.323.1" accuracy="correct">If you turn the switch to the right, the motor will run.</studentAnswer>
+    <studentAnswer id="ME.17c.324.1" accuracy="correct">It will come on.</studentAnswer>
+    <studentAnswer id="ME.17c.327.1" accuracy="correct">It will go on.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="HB_53a2" module="HB">
+  <questionText>Look at the picture of a cow bone. Describe how you can tell which part of the cow this bone came from.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="HB_53a2-a1">The bone is thin and curved.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="HB.53a2.136.1" accuracy="incorrect">Rib cage.</studentAnswer>
+    <studentAnswer id="HB.53a2.138.1" accuracy="incorrect">It is a rib because it is curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.141.1" accuracy="incorrect">Long and small.</studentAnswer>
+    <studentAnswer id="HB.53a2.142.1" accuracy="incorrect">I know it is a rib because it is curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.172.1" accuracy="incorrect">It come from the ribs.</studentAnswer>
+    <studentAnswer id="HB.53a2.180.1" accuracy="incorrect">Because other animals ribs look the same.</studentAnswer>
+    <studentAnswer id="HB.53a2.181.1" accuracy="incorrect">A rib looks like that because it is like sticking out.</studentAnswer>
+    <studentAnswer id="HB.53a2.183.1" accuracy="incorrect">This bone came from the cow's ribs.</studentAnswer>
+    <studentAnswer id="HB.53a2.207.1" accuracy="incorrect">It looks like a rib because it is rounded and flat.</studentAnswer>
+    <studentAnswer id="HB.53a2.212.1" accuracy="correct">It is thin and kind of rounded.</studentAnswer>
+    <studentAnswer id="HB.53a2.216.1" accuracy="incorrect">The ribs are one of the skinniest bones.</studentAnswer>
+    <studentAnswer id="HB.53a2.219.1" accuracy="incorrect">Because it is a vole's shape.</studentAnswer>
+    <studentAnswer id="HB.53a2.243.1" accuracy="correct">I can tell that because it is a long, skinny curved bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.245.1" accuracy="correct">Because it is skinny and curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.246.1" accuracy="correct">Because it is curved and skinny.</studentAnswer>
+    <studentAnswer id="HB.53a2.249.1" accuracy="incorrect">It is long and skinny.</studentAnswer>
+    <studentAnswer id="HB.53a2.257.1" accuracy="correct">It is a thin curved blade.</studentAnswer>
+    <studentAnswer id="HB.53a2.259.1" accuracy="incorrect">This bone is the rib because they are about bones to protect.</studentAnswer>
+    <studentAnswer id="HB.53a2.278.1" accuracy="incorrect">It is long, skinny, and it is shaped the same as ours.</studentAnswer>
+    <studentAnswer id="HB.53a2.283.1" accuracy="incorrect">It is curved a little like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.284.1" accuracy="incorrect">The bone is curved like our rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.285.1" accuracy="incorrect">The cow bone is curved like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.291.1" accuracy="incorrect">I can tell because it is curved like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.294.1" accuracy="incorrect">It is curved at the end.</studentAnswer>
+    <studentAnswer id="HB.53a2.311.1" accuracy="incorrect">It looks like a rib because of the way it is shaped.</studentAnswer>
+    <studentAnswer id="HB.53a2.315.1" accuracy="incorrect">I know that the cow bones are from the ribs because it is small.</studentAnswer>
+    <studentAnswer id="HB.53a2.318.1" accuracy="incorrect">The reason that I can tell is because it looks like a hook.</studentAnswer>
+    <studentAnswer id="HB.53a2.320.1" accuracy="incorrect">The cow bone is just like our bone it is a C like our rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.324.1" accuracy="incorrect">It is a long skinny bone that looks like ribcages.</studentAnswer>
+    <studentAnswer id="HB.53a2.325.1" accuracy="incorrect">I know because it is curved like a C.</studentAnswer>
+    <studentAnswer id="HB.53a2.328.1" accuracy="incorrect">It is curved like a rodent and human rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.349.1" accuracy="incorrect">It kind of looks like a human bone from the ribcage.</studentAnswer>
+    <studentAnswer id="HB.53a2.352.1" accuracy="incorrect">Because the shape it has.</studentAnswer>
+    <studentAnswer id="HB.53a2.357.1" accuracy="incorrect">The rib is always curved like this one.</studentAnswer>
+    <studentAnswer id="HB.53a2.361.1" accuracy="incorrect">Because it is curved like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.386.1" accuracy="incorrect">From what it looks like.</studentAnswer>
+    <studentAnswer id="HB.53a2.389.1" accuracy="incorrect">I can tell it is from the rib cage because it is curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.391.1" accuracy="incorrect">It is curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.392.1" accuracy="incorrect">Because the ribs are curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.393.1" accuracy="correct">Because the rib bone is small and shaped.</studentAnswer>
+    <studentAnswer id="HB.53a2.429.1" accuracy="incorrect">Because it looks like a rib because it is thin and small.</studentAnswer>
+    <studentAnswer id="HB.53a2.432.1" accuracy="incorrect">I can tell it is the rib because it is long and skinny.</studentAnswer>
+    <studentAnswer id="HB.53a2.433.1" accuracy="incorrect">I tell because it is like a line so it is a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.437.1" accuracy="incorrect">It is long and bent like a rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.439.1" accuracy="incorrect">I think that because it looks like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.456.1" accuracy="incorrect">I saw a rib. That is the rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.464.1" accuracy="incorrect">I think it came from the rib cage.</studentAnswer>
+    <studentAnswer id="HB.53a2.465.1" accuracy="incorrect">It is long like a cow's rib it is really round like a cow's rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.466.1" accuracy="incorrect">It is curved on the rib cage.</studentAnswer>
+    <studentAnswer id="HB.53a2.466a.1" accuracy="incorrect">Mice have ribs like that so do we so I think it is a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.470.1" accuracy="incorrect">It is curved like a rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.471.1" accuracy="incorrect">Because it is curved like the rib cage.</studentAnswer>
+    <studentAnswer id="HB.53a2.487.1" accuracy="incorrect">Because it is bent and it has a little knob.</studentAnswer>
+    <studentAnswer id="HB.53a2.490.1" accuracy="incorrect">Because it looks similar to a mouse rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.491.1" accuracy="incorrect">This bone is very curved like a rib so this may be part of a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.492.1" accuracy="incorrect">A rib because the ribs are curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.493.1" accuracy="incorrect">Well it is really bent so it must be a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.494.1" accuracy="incorrect">Because by looking at the mouse bones it looks just like the mouse's rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.495.1" accuracy="incorrect">Because it looks like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.497.1" accuracy="incorrect">The only part of the body has a curve.</studentAnswer>
+    <studentAnswer id="HB.53a2.500.1" accuracy="correct">The ribs are curvy and little like this.</studentAnswer>
+    <studentAnswer id="HB.53a2.501.1" accuracy="incorrect">Because rat bones looked exactly like that.</studentAnswer>
+    <studentAnswer id="HB.53a2.503.1" accuracy="incorrect">That the bone came from a cow.</studentAnswer>
+    <studentAnswer id="HB.53a2.504.1" accuracy="incorrect">It looks like one rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.505.1" accuracy="incorrect">Because I looked at a mouse guide paper and saw this bone named rib. And I, a human, has this of a part of a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.521.1" accuracy="incorrect">The bone looks like a large rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.524.1" accuracy="incorrect">I can tell that is one of the ribs is that I know a cow rib similar to ours and that is what our ribs look like.</studentAnswer>
+    <studentAnswer id="HB.53a2.525.1" accuracy="incorrect">It is bended at each end.</studentAnswer>
+    <studentAnswer id="HB.53a2.526.1" accuracy="incorrect">I saw it in the pellet.</studentAnswer>
+    <studentAnswer id="HB.53a2.530.1" accuracy="incorrect">It came from the ribs.</studentAnswer>
+    <studentAnswer id="HB.53a2.531.1" accuracy="incorrect">It looks like a rib from a cow.</studentAnswer>
+    <studentAnswer id="HB.53a2.532.1" accuracy="incorrect">The rib cage.</studentAnswer>
+    <studentAnswer id="HB.53a2.561.1" accuracy="incorrect">Its shape and I know from a picture of a vole's bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.563.1" accuracy="incorrect">Because it looks like one.</studentAnswer>
+    <studentAnswer id="HB.53a2.570.1" accuracy="incorrect">Because it looks like a rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.575.1" accuracy="incorrect">Because it is shaped like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.578.1" accuracy="incorrect">Because that is what most ribs look like.</studentAnswer>
+    <studentAnswer id="HB.53a2.579.1" accuracy="incorrect">It looks like a long bone and looks like a half oval.</studentAnswer>
+    <studentAnswer id="HB.53a2.592.1" accuracy="incorrect">It is curved like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.593.1" accuracy="incorrect">Because it show on the next page.</studentAnswer>
+    <studentAnswer id="HB.53a2.595.1" accuracy="incorrect">Other parts of the rib cage may look like it.</studentAnswer>
+    <studentAnswer id="HB.53a2.596.1" accuracy="incorrect">I can tell like this it is curved and no other bone is curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.597.1" accuracy="incorrect">Well the rib cage bone are usually skinny and rib bones are thick like that.</studentAnswer>
+    <studentAnswer id="HB.53a2.598.1" accuracy="correct">You can tell by the curved part and it is skinny.</studentAnswer>
+    <studentAnswer id="HB.53a2.599.1" accuracy="incorrect">It is half oval shaped, kind of round.</studentAnswer>
+    <studentAnswer id="HB.53a2.601.1" accuracy="incorrect">I can tell because that is exactly what it looks like.</studentAnswer>
+    <studentAnswer id="HB.53a2.606.1" accuracy="incorrect">I can tell because a cow is shaped like it.</studentAnswer>
+    <studentAnswer id="HB.53a2.609.1" accuracy="incorrect">This looks like it would be a part of the rib because it looks like a cage bar.</studentAnswer>
+    <studentAnswer id="HB.53a2.610.1" accuracy="incorrect">I know this is a rib cage bone because you can tell by the shape.</studentAnswer>
+    <studentAnswer id="HB.53a2.612.1" accuracy="incorrect">I can tell because the bone is curved.</studentAnswer>
+    <studentAnswer id="HB.53a2.614.1" accuracy="incorrect">I can tell it is the tailbone because of the way it is shaped.</studentAnswer>
+    <studentAnswer id="HB.53a2.632.1" accuracy="incorrect">Because it is the same shape as the ribs.</studentAnswer>
+    <studentAnswer id="HB.53a2.634.1" accuracy="incorrect">The rib because I know that it is like so it is a rib bone.</studentAnswer>
+    <studentAnswer id="HB.53a2.641.1" accuracy="incorrect">I can tell because it is curved like the ribs.</studentAnswer>
+    <studentAnswer id="HB.53a2.650.1" accuracy="incorrect">Because it is shaped like a round circle but cut in half.</studentAnswer>
+    <studentAnswer id="HB.53a2.987.1" accuracy="incorrect">Well it does look like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.987b.1" accuracy="incorrect">I could tell that it was a spine bone because it looks like one.</studentAnswer>
+    <studentAnswer id="HB.53a2.988.1" accuracy="incorrect">It is like a bow that is how I know.</studentAnswer>
+    <studentAnswer id="HB.53a2.990.1" accuracy="correct">It is small and curved like a rib.</studentAnswer>
+    <studentAnswer id="HB.53a2.993.1" accuracy="incorrect">It is tilted like a back bone.</studentAnswer>
+  </studentAnswers>
+</question>

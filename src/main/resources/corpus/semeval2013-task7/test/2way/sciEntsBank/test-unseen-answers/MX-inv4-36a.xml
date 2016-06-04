@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_36a" module="MX">
+  <questionText>Grace set up a science experiment. Here's what she wrote in her notebook. First I put eggshells into a cup and covered them with vinegar. After a while, small bubbles appeared on the surface of the eggshells. The next day there were more bubbles. In a couple of days, the eggshells were gone and the liquid was clear. I think I made a solution and a reaction. Explain why Grace thinks she made a solution.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_36a-a1">A solution was created when the eggshells disappeared (dissolved) and the mixture ended up as a clear liquid.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.36a.126.1" accuracy="incorrect">She make a solution because she put eggshells into the cup and covered.</studentAnswer>
+    <studentAnswer id="MX.36a.176.1" accuracy="incorrect">Because when she found it was.</studentAnswer>
+    <studentAnswer id="MX.36a.572b.1" accuracy="incorrect">She made a solution because she did eggshells and vinegar. Vinegar makes stuff bubble.</studentAnswer>
+    <studentAnswer id="MX.36a.608.1" accuracy="incorrect">Because something dissolved and stuff.</studentAnswer>
+  </studentAnswers>
+</question>

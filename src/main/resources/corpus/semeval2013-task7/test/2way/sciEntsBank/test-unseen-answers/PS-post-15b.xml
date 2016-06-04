@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_15bp" module="PS">
+  <questionText>Below are pictures of wind instruments. You blow air through them to produce sounds. Why does [the saxophone] make the lowest sounds?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_15bp-a1">The saxophone has the longest and fattest tube.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.15b.230.1" accuracy="correct">Because the bigger it is the lower the sound.</studentAnswer>
+    <studentAnswer id="PS.15b.393.1" accuracy="incorrect">I think it makes a low sound because it has a little hole so the sound can get through.</studentAnswer>
+    <studentAnswer id="PS.15b.602.1" accuracy="incorrect">Because it has to travel a long distance.</studentAnswer>
+    <studentAnswer id="PS.15b.644.1" accuracy="incorrect">The sound goes a long distance.</studentAnswer>
+  </studentAnswers>
+</question>

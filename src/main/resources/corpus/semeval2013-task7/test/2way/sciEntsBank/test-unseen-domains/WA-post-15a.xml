@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_15a" module="WA">
+  <questionText>Look at the 2 pictures of drops on a flat, waterproof surface. The drop on the left is soapy water and the drop on the right is plain water. What causes the plain water to look like it does?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_15a-a1">Surface tension causes the plain water to look like a bead.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.15a.173.1" accuracy="incorrect">The plain water looks like it does because plain water is supposed to turn into a dome when it is on a flat surface.</studentAnswer>
+    <studentAnswer id="WA.15a.177.1" accuracy="incorrect">The plain water can stick together much better because nothing is breaking it up.</studentAnswer>
+    <studentAnswer id="WA.15a.179.1" accuracy="incorrect">It causes it to look like that because it has no soap in it and soap makes water flat.</studentAnswer>
+    <studentAnswer id="WA.15a.181.1" accuracy="incorrect">The plain looks like that because of water surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.184.1" accuracy="incorrect">It is called a dome and it forms a round like in the water.</studentAnswer>
+    <studentAnswer id="WA.15a.190.1" accuracy="incorrect">The plain water looks like this because it is all water and has nothing more dense in it.</studentAnswer>
+    <studentAnswer id="WA.15a.193.1" accuracy="incorrect">The plain water looks like that because it is just plain water.</studentAnswer>
+    <studentAnswer id="WA.15a.195.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.196.1" accuracy="incorrect">The plain water is like a dome because it does not have soap in it.</studentAnswer>
+    <studentAnswer id="WA.15a.206.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.207.1" accuracy="incorrect">It looks like that because there is surface tension around the water.</studentAnswer>
+    <studentAnswer id="WA.15a.208.1" accuracy="incorrect">It causes it to look like that because it has no chemicals in it to fall apart like when you add soap to it, it breaks.</studentAnswer>
+    <studentAnswer id="WA.15a.209.1" accuracy="incorrect">The plain water does not have any soap.</studentAnswer>
+    <studentAnswer id="WA.15a.210.1" accuracy="incorrect">Because it is normal water and it does not have anything in it.</studentAnswer>
+    <studentAnswer id="WA.15a.211.1" accuracy="correct">Surface tension makes it dome up.</studentAnswer>
+    <studentAnswer id="WA.15a.218.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.221.1" accuracy="incorrect">Maybe of the sides.</studentAnswer>
+    <studentAnswer id="WA.15a.241.1" accuracy="incorrect">The surface tension kept it up because there was no soap in the water.</studentAnswer>
+    <studentAnswer id="WA.15a.244.1" accuracy="correct">Surface tension is holding it together.</studentAnswer>
+    <studentAnswer id="WA.15a.245.1" accuracy="correct">What causes the plain water to look like it does is surface tension. Surface tension is the skin like that holds the water together.</studentAnswer>
+    <studentAnswer id="WA.15a.246.1" accuracy="incorrect">Surface tension causes it.</studentAnswer>
+    <studentAnswer id="WA.15a.248.1" accuracy="incorrect">The plain water has no soap in it to break its bubble.</studentAnswer>
+    <studentAnswer id="WA.15a.249.1" accuracy="incorrect">It looks like that because of the surface tension it has.</studentAnswer>
+    <studentAnswer id="WA.15a.251.1" accuracy="incorrect">Surface tension makes it look like that.</studentAnswer>
+    <studentAnswer id="WA.15a.252.1" accuracy="incorrect">The plain water looks like that because of surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.257.1" accuracy="correct">A skin like surface called surface tension that forms over the water causes it to bead up into a dome like drop.</studentAnswer>
+    <studentAnswer id="WA.15a.260.1" accuracy="correct">The has surface tension and that makes the water hold together in a dome shape.</studentAnswer>
+    <studentAnswer id="WA.15a.262.1" accuracy="incorrect">Because the plain water has more texture than the soapy water.</studentAnswer>
+    <studentAnswer id="WA.15a.263.1" accuracy="correct">Nothing breaking the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.264.1" accuracy="incorrect">Because it is denser than the soapy water.</studentAnswer>
+    <studentAnswer id="WA.15a.267.1" accuracy="incorrect">Because the more you pile it up the bigger it gets.</studentAnswer>
+    <studentAnswer id="WA.15a.276.1" accuracy="correct">Surface tension skin dome.</studentAnswer>
+    <studentAnswer id="WA.15a.280.1" accuracy="correct">The plain water has a skin like tension. It is called surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.281.1" accuracy="incorrect">Because it is just water.</studentAnswer>
+    <studentAnswer id="WA.15a.282.1" accuracy="incorrect">The plain water has a more stable skin.</studentAnswer>
+    <studentAnswer id="WA.15a.286.1" accuracy="correct">The plain water has a way bigger dome than soapy water. Surface tension causes the plain water to look like that.</studentAnswer>
+    <studentAnswer id="WA.15a.287.1" accuracy="incorrect">Because plain water has a surface area.</studentAnswer>
+    <studentAnswer id="WA.15a.288.1" accuracy="incorrect">The plain water forms that because of the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.295.1" accuracy="correct">Plain water forms a dome because of the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.297.1" accuracy="incorrect">Water forms together the water just formed together and made a dome.</studentAnswer>
+    <studentAnswer id="WA.15a.299.1" accuracy="incorrect">Because the water does not have any molecules in the water.</studentAnswer>
+    <studentAnswer id="WA.15a.300.1" accuracy="incorrect">The water is formed together to make a dome.</studentAnswer>
+    <studentAnswer id="WA.15a.301.1" accuracy="incorrect">The plain water had nothing in it. So the plain water stacked on top of it.</studentAnswer>
+    <studentAnswer id="WA.15a.349.1" accuracy="incorrect">The soapy water is larger than the plain water.</studentAnswer>
+    <studentAnswer id="WA.15a.352.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.354.1" accuracy="correct">It has a better surface tension and the dome did not break because of what type of water it is.</studentAnswer>
+    <studentAnswer id="WA.15a.356.1" accuracy="incorrect">I do not know why.</studentAnswer>
+    <studentAnswer id="WA.15a.357.1" accuracy="incorrect">The plain water any soap that causes the dome around it.</studentAnswer>
+    <studentAnswer id="WA.15a.362.1" accuracy="incorrect">Nothing else touching it.</studentAnswer>
+    <studentAnswer id="WA.15a.365.1" accuracy="correct">The surface tension makes a dome and that is what makes it to look like a dome.</studentAnswer>
+    <studentAnswer id="WA.15a.368.1" accuracy="incorrect">Because plain water does not break the dome.</studentAnswer>
+    <studentAnswer id="WA.15a.369.1" accuracy="incorrect">Because it is just plain water.</studentAnswer>
+    <studentAnswer id="WA.15a.379.1" accuracy="incorrect">Because it is not soft as soapy water and it is plain water.</studentAnswer>
+    <studentAnswer id="WA.15a.383.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.384.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.389.1" accuracy="correct">The water forms a dome and does not break the surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.390.1" accuracy="correct">Surface tension causes the plain water to make a bead or dome shape.</studentAnswer>
+    <studentAnswer id="WA.15a.391.1" accuracy="incorrect">The plain water is a dome because the sphere of water breaks on the flat surface area and expands into a dome. Since water a liquid has no definite shape or size unless it is turned into a solid ice.</studentAnswer>
+    <studentAnswer id="WA.15a.393.1" accuracy="correct">The plain water has surface tension. That is why it is in a dome shape.</studentAnswer>
+    <studentAnswer id="WA.15a.396.1" accuracy="incorrect">It causes it by having low density and weight.</studentAnswer>
+    <studentAnswer id="WA.15a.399.1" accuracy="incorrect">Because it had more surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.402.1" accuracy="incorrect">It is a surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.404.1" accuracy="incorrect">The plain water does not have any soap or chemicals.</studentAnswer>
+    <studentAnswer id="WA.15a.416.1" accuracy="incorrect">The plain water is less dense and has more surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.417.1" accuracy="correct">What causes the plain water to look like it does is the surface tension making it dome shaped.</studentAnswer>
+    <studentAnswer id="WA.15a.451.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.453.1" accuracy="incorrect">Surface tension on plain water.</studentAnswer>
+    <studentAnswer id="WA.15a.457.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.458.1" accuracy="incorrect">Surface area.</studentAnswer>
+    <studentAnswer id="WA.15a.459.1" accuracy="correct">Normal water has surface tension that keeps the water together.</studentAnswer>
+    <studentAnswer id="WA.15a.460.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.461.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.462.1" accuracy="incorrect">The plain water has nothing inside it so it stays dome shape.</studentAnswer>
+    <studentAnswer id="WA.15a.463.1" accuracy="incorrect">Surface area.</studentAnswer>
+    <studentAnswer id="WA.15a.469.1" accuracy="incorrect">It does not have anything in it so that helps it stay up like that.</studentAnswer>
+    <studentAnswer id="WA.15a.523.1" accuracy="incorrect">Because plain water does not break surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.529.1" accuracy="incorrect">The plain water does not have any chemicals in it. If you put more drop on it it looks like it might burst. This is beaded up.</studentAnswer>
+    <studentAnswer id="WA.15a.530.1" accuracy="incorrect">Surface tension causes it to.</studentAnswer>
+    <studentAnswer id="WA.15a.535.1" accuracy="incorrect">The plain water builds up like a building.</studentAnswer>
+    <studentAnswer id="WA.15a.536.1" accuracy="correct">The plain water Has more surface tension to hold the bubble together.</studentAnswer>
+    <studentAnswer id="WA.15a.537.1" accuracy="correct">Surface tension causes the water to bead up.</studentAnswer>
+    <studentAnswer id="WA.15a.539.1" accuracy="incorrect">Because it probably evaporated.</studentAnswer>
+    <studentAnswer id="WA.15a.556.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.557.1" accuracy="incorrect">Because it is more denser.</studentAnswer>
+    <studentAnswer id="WA.15a.564.1" accuracy="incorrect">Because it does not have soap.</studentAnswer>
+    <studentAnswer id="WA.15a.566.1" accuracy="incorrect">Plain water has no soap in it so it is like a dome.</studentAnswer>
+    <studentAnswer id="WA.15a.575.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.591.1" accuracy="incorrect">Because it is plain has nothing in it and if there was something in it would be almost like the other drop.</studentAnswer>
+    <studentAnswer id="WA.15a.596.1" accuracy="correct">Surface tension lets it keep that shape and bead up. It has so much density that it is trying to contract.</studentAnswer>
+    <studentAnswer id="WA.15a.601.1" accuracy="incorrect">Because the plain water does not have soap.</studentAnswer>
+    <studentAnswer id="WA.15a.604.1" accuracy="incorrect">Surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.608.1" accuracy="incorrect">Water makes a dome. Just water.</studentAnswer>
+    <studentAnswer id="WA.15a.626.1" accuracy="incorrect">Condensation is the thing that forms the water to rise, condensation causes it to look like it does.</studentAnswer>
+    <studentAnswer id="WA.15a.627.1" accuracy="correct">Surface tension keeps it beaded up.</studentAnswer>
+    <studentAnswer id="WA.15a.629.1" accuracy="incorrect">The surface tension.</studentAnswer>
+    <studentAnswer id="WA.15a.631.1" accuracy="incorrect">Its very light ingredients.</studentAnswer>
+    <studentAnswer id="WA.15a.632.1" accuracy="correct">Surface tension holds the water up so it will make a dome.</studentAnswer>
+    <studentAnswer id="WA.15a.633.1" accuracy="incorrect">Because there is nothing that is denser in the water.</studentAnswer>
+    <studentAnswer id="WA.15a.638.1" accuracy="correct">Surface tension a tight skin that holds it together to form a dome.</studentAnswer>
+    <studentAnswer id="WA.15a.647.1" accuracy="incorrect">It bead domes like the rain.</studentAnswer>
+  </studentAnswers>
+</question>

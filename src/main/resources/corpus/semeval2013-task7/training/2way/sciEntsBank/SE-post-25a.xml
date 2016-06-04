@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_25a" module="SE">
+  <questionText>The graph shows temperature data from 2 containers. One container had 100 milliliters of water and the other had 100 milliliters of dry soil. Each container was placed in the sun for 20 minutes and then in the shade for 20 minutes. Which container, A or B, had the dry soil? Explain how the graph helped you decide which container had the dry soil.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_25a-a1">A. Dry soil heats more quickly and cools off more quickly than water. The graph shows A heats and cools more quickly than B, so A must be the dry soil.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.25a.105.1" accuracy="incorrect">A. Because the little things help me. All I know A is the dry soil.</studentAnswer>
+    <studentAnswer id="SE.25a.126.1" accuracy="incorrect">A. The graph helped me because the dry soil gets hot. The one that gets hot between water and dry soil is dry soil. The soil gets hotter because it absorbs more heat.</studentAnswer>
+    <studentAnswer id="SE.25a.144.1" accuracy="incorrect">A. Because of 20 number it helps by the line.</studentAnswer>
+    <studentAnswer id="SE.25a.150.1" accuracy="incorrect">A. Dry soil cools faster than water.</studentAnswer>
+    <studentAnswer id="SE.25a.154.1" accuracy="incorrect">A. A, because it is hotter than the B and dry soil fast more fast than the water heat.</studentAnswer>
+    <studentAnswer id="SE.25a.166.1" accuracy="incorrect">A. Because the dry soil absorbs heat and traps the heat.</studentAnswer>
+    <studentAnswer id="SE.25a.190.1" accuracy="incorrect">A. Because dry soil heats up faster than water.</studentAnswer>
+    <studentAnswer id="SE.25a.265.1" accuracy="incorrect">B. dry soil heats up faster than water because dry soil is like sand gets hot fast.</studentAnswer>
+    <studentAnswer id="SE.25a.313.1" accuracy="incorrect">A. I knew dry soil was B because it lets in heat fast and lets it go fast, so dry soil is not a good heat sink.</studentAnswer>
+    <studentAnswer id="SE.25a.320.1" accuracy="incorrect">A. Because A was the higher than the other one because it is hot inside because dry not wet.</studentAnswer>
+    <studentAnswer id="SE.25a.324.1" accuracy="incorrect">A. Because container A has a higher temperature and dry soil does not contain water so the temperature is going to be high.</studentAnswer>
+    <studentAnswer id="SE.25a.331.1" accuracy="correct">A. Because water is the best heat sink and heat sinks absorb solar energy slowly and release it slowly. Dry soil is a heat sink too, but is not the best.</studentAnswer>
+    <studentAnswer id="SE.25a.332.1" accuracy="incorrect">A. B because dry soil is not that high than the water one.</studentAnswer>
+    <studentAnswer id="SE.25a.336.1" accuracy="incorrect">B. because A has the highest temperature and B has the lowest.</studentAnswer>
+    <studentAnswer id="SE.25a.390.1" accuracy="incorrect">B. Because line A is hotter. Water tends to get hotter than anything. So the soil is line B. Soil cannot get as hot as 44 to 43 Celsius.</studentAnswer>
+    <studentAnswer id="SE.25a.394.1" accuracy="incorrect">A. Because soil heats up faster.</studentAnswer>
+    <studentAnswer id="SE.25a.441.1" accuracy="incorrect">A. The graph helped me by showing the temperature. The dry soil is darker with no heat sink material like water to slow the absorption of heat.</studentAnswer>
+    <studentAnswer id="SE.25a.503.1" accuracy="correct">A. Dry soil heats up quickly and more than water but loses its heat quickly like line A on the graph.</studentAnswer>
+    <studentAnswer id="SE.25a.506.1" accuracy="incorrect">A. Because dry soil heats more in the sun.</studentAnswer>
+    <studentAnswer id="SE.25a.508.1" accuracy="correct">A. The graph helped me decide which container had the dry soil because I know that water is a heat sink and I know that heat sinks bring in heat slower and lets it out slow.</studentAnswer>
+    <studentAnswer id="SE.25a.513.1" accuracy="incorrect">A. Had wet soil it takes a longer time for it to heat up. So the dry soil would heat up faster.</studentAnswer>
+    <studentAnswer id="SE.25a.514.1" accuracy="incorrect">B. The graph helped me because dry soil is not a heat sink like water so it does not absorb the heat as fast.</studentAnswer>
+    <studentAnswer id="SE.25a.519.1" accuracy="incorrect">B. Well, I know that water will heat up faster and I thought that maybe the soil will not heat up faster.</studentAnswer>
+    <studentAnswer id="SE.25a.525.1" accuracy="incorrect">A. A because dry heats up faster because it has no breeze or moisten anything to where is absorbs more.</studentAnswer>
+    <studentAnswer id="SE.25a.529.1" accuracy="incorrect">A. Because dry soil absorbs solar energy faster because it is not a heat sink.</studentAnswer>
+    <studentAnswer id="SE.25a.530.1" accuracy="incorrect">A. Because water is a heat sink so it heats up slowly and soil heats up quickly.</studentAnswer>
+    <studentAnswer id="SE.25a.532.1" accuracy="incorrect">A. Because it heats up faster.</studentAnswer>
+    <studentAnswer id="SE.25a.539.1" accuracy="incorrect">A. The graph help me because I know that dry soil is black which perhaps it will get hotter unlike the water it reflects the sun's energy.</studentAnswer>
+    <studentAnswer id="SE.25a.576.1" accuracy="incorrect">A. Water makes things cooler so the dry soil gets hotter.</studentAnswer>
+    <studentAnswer id="SE.25a.596.1" accuracy="incorrect">A. I know that container A had the dry soil because dry soil heats up the fastest in the sun and goes down in the shade.</studentAnswer>
+    <studentAnswer id="SE.25a.597.1" accuracy="incorrect">B. The graph helped me decide which container had dry soil because I know that water is a better heat sink and wet soil has water in it.</studentAnswer>
+    <studentAnswer id="SE.25a.598.1" accuracy="incorrect">A. A was the highest because dry soil heats faster.</studentAnswer>
+    <studentAnswer id="SE.25a.604.1" accuracy="correct">A. Container A had dry soil because non wet materials or dry materials will heat up faster than wet materials because wet materials are heat sinks and they take longer to absorb and release heat.</studentAnswer>
+    <studentAnswer id="SE.25a.611.1" accuracy="incorrect">A. Dry soil is A because dry soil is a earth material and absorbs the sun's energy more than B.</studentAnswer>
+    <studentAnswer id="SE.25a.614.1" accuracy="incorrect">A. It helped me because container A has the highest temperature than container B.</studentAnswer>
+    <studentAnswer id="SE.25a.615.1" accuracy="incorrect">A. Water is a heat sink and will heat up slow but there is no water in dry soil so it heats up fast.</studentAnswer>
+  </studentAnswers>
+</question>

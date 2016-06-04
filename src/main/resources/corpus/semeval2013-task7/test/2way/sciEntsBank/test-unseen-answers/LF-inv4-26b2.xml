@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_26b2" module="LF">
+  <questionText>Pam and her family were planning a hike. Pam found 2 maps of the same area. Her friend recommended she use the topographic map when they went to the lake. Which letter (Q, R, or S) on the map is on the steepest part of the trail? (Q) How do you know it is the steepest part of the trail?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_26b2-a1">The contour lines are closest together at Q.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.26b2.468.1" accuracy="correct">I know because the contour lines are smaller.</studentAnswer>
+    <studentAnswer id="LF.26b2.661.1" accuracy="incorrect">I Think this because for Q the mountains steepness 5000 and Q is very close.</studentAnswer>
+    <studentAnswer id="LF.26b2.776.1" accuracy="correct">The contour lines are closer together.</studentAnswer>
+    <studentAnswer id="LF.26b2.845.1" accuracy="correct">I know this by on the Q side the lines are closer together so they are steeper.</studentAnswer>
+  </studentAnswers>
+</question>

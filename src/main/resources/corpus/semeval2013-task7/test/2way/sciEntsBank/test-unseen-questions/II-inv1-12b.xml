@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="II_12b" module="II">
+  <questionText>Here are the rubbings of leaves from 2 different plants. They look similar but are not the same. [Put numbers in the 2 ovals to group the rubbings by plant into Group one and Group 2.] Describe how the rubbings show that the leaves from the 2 plants are different.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_12b-a1">In Group one, the veins of the leaves do not meet at the center vein. In Group 2, each pair of veins comes together at the center vein.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.12b.381.1" accuracy="correct">The bottom vein is stretching out and the other is going straight down.</studentAnswer>
+    <studentAnswer id="II.12b.384.1" accuracy="incorrect">The veins are different because 3 of them have it like this and the other one has it like this that why.</studentAnswer>
+    <studentAnswer id="II.12b.387.1" accuracy="incorrect">The veins are rubbing because the plans are different.</studentAnswer>
+    <studentAnswer id="II.12b.388.1" accuracy="incorrect">The veins on top are different.</studentAnswer>
+    <studentAnswer id="II.12b.391.1" accuracy="incorrect">By the veins.</studentAnswer>
+    <studentAnswer id="II.12b.392.1" accuracy="incorrect">Does leaves that are not exactly the same.</studentAnswer>
+    <studentAnswer id="II.12b.396.1" accuracy="incorrect">Because some of the veins are different.</studentAnswer>
+    <studentAnswer id="II.12b.399.1" accuracy="incorrect">Because of the veins.</studentAnswer>
+    <studentAnswer id="II.12b.400.1" accuracy="incorrect">By the veins and the 2 Hs are different.</studentAnswer>
+    <studentAnswer id="II.12b.405.1" accuracy="incorrect">The veins from the bottom.</studentAnswer>
+    <studentAnswer id="II.12b.407.1" accuracy="incorrect">They are different from the veins.</studentAnswer>
+    <studentAnswer id="II.12b.408.1" accuracy="incorrect">The vein.</studentAnswer>
+    <studentAnswer id="II.12b.416.1" accuracy="incorrect">Some have different veins than the others.</studentAnswer>
+    <studentAnswer id="II.12b.417.1" accuracy="incorrect">Some of them have the veins perfectly lined up others do not.</studentAnswer>
+    <studentAnswer id="II.12b.419.1" accuracy="incorrect">Well numbers one, 3, 6 have one more than 2, 4, 5.</studentAnswer>
+    <studentAnswer id="II.12b.424.1" accuracy="correct">I know because leaves one, 3, and 6 the veins are not together like leaves 2, 4, 5.</studentAnswer>
+    <studentAnswer id="II.12b.433.1" accuracy="incorrect">The veins are not the same.</studentAnswer>
+    <studentAnswer id="II.12b.434.1" accuracy="incorrect">Because some are light and some are dark.</studentAnswer>
+    <studentAnswer id="II.12b.442.1" accuracy="incorrect">One group feels bumpy other group feels smooth.</studentAnswer>
+    <studentAnswer id="II.12b.451.1" accuracy="incorrect">The veins.</studentAnswer>
+    <studentAnswer id="II.12b.464.1" accuracy="incorrect">They are different because some of the edges on the leaves are rougher than the other edges.</studentAnswer>
+    <studentAnswer id="II.12b.480.1" accuracy="incorrect">Group one has 2 ys it has all the lines but one 3 6 does not it missing one.</studentAnswer>
+    <studentAnswer id="II.12b.522.1" accuracy="incorrect">They are different because 3 are the same night and the other ones are one up and one down.</studentAnswer>
+    <studentAnswer id="II.12b.523.1" accuracy="incorrect">Some veins are on top some veins are in the bottom.</studentAnswer>
+    <studentAnswer id="II.12b.529.1" accuracy="incorrect">The lines in the middle. Some are like straight and others are curved.</studentAnswer>
+    <studentAnswer id="II.12b.533.1" accuracy="incorrect">Some are big and some are small.</studentAnswer>
+    <studentAnswer id="II.12b.534.1" accuracy="incorrect">Some leaves are pinnate and some are parallel. And the veins show it too.</studentAnswer>
+    <studentAnswer id="II.12b.535.1" accuracy="incorrect">One leaf is going differently the veins one vein is going on top to bottom. Then the other one is going vein.</studentAnswer>
+    <studentAnswer id="II.12b.536.1" accuracy="incorrect">Because it shows very fast to see them there are not the same.</studentAnswer>
+    <studentAnswer id="II.12b.540.1" accuracy="incorrect">The first ones have them straight the veins and the other one has one vein down and the other one up. 2 is cracked.</studentAnswer>
+    <studentAnswer id="II.12b.541.1" accuracy="incorrect">The one is going to look like.</studentAnswer>
+    <studentAnswer id="II.12b.542.1" accuracy="incorrect">Their veins are different because one, 3, 6 their veins are far down.</studentAnswer>
+    <studentAnswer id="II.12b.549.1" accuracy="correct">The difference is by the top veins. One of those go up and the other ones go straight across.</studentAnswer>
+    <studentAnswer id="II.12b.560.1" accuracy="incorrect">They show that the leaves are different from the top of the vein. Some of them are straight and some are different sides from one another.</studentAnswer>
+    <studentAnswer id="II.12b.565.1" accuracy="incorrect">At the very top the vein is different.</studentAnswer>
+    <studentAnswer id="II.12b.571.1" accuracy="correct">The veins are different in group one. Is that the veins is that they are some up or some down and in group 2 they are just going across.</studentAnswer>
+    <studentAnswer id="II.12b.574.1" accuracy="incorrect">Because the veins look different from others and some look the same.</studentAnswer>
+    <studentAnswer id="II.12b.597.1" accuracy="incorrect">Group one has the roots are more down and Group 2 has the roots more up.</studentAnswer>
+  </studentAnswers>
+</question>

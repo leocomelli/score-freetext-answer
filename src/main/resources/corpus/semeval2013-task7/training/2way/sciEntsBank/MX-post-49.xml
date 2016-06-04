@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MX_49" module="MX">
+  <questionText>Beth made 2 solutions of different concentrations of water and citric acid. She put 50 milliliters of the first solution in cup X and 50 milliliters of the second solution in cup Y. When she put the cups on the balance, the balance looked as shown below. Which solution, X or Y, is more concentrated? Explain how you know which is more concentrated.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_49-a1">X. When equal amounts of 2 solutions are compared, the solution that is more concentrated will have the greater mass (weigh more). 50 milliliters of X has a greater mass than 50 milliliters of Y, so X must be more concentrated.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.49.113.1" accuracy="incorrect">Y, y because it have to be less.</studentAnswer>
+    <studentAnswer id="MX.49.128.1" accuracy="incorrect">X, I chose x because x is more concentrated.</studentAnswer>
+    <studentAnswer id="MX.49.140.1" accuracy="correct">X, well concentration is when you compare equal amount of volume of 2 solutions and one heavier it is more concentrated so that is how I know.</studentAnswer>
+    <studentAnswer id="MX.49.143.1" accuracy="incorrect">Y, y has less material on bottom.</studentAnswer>
+    <studentAnswer id="MX.49.151.1" accuracy="incorrect">X, they have the same amount of water but cup x has more citric acid.</studentAnswer>
+    <studentAnswer id="MX.49.181.1" accuracy="incorrect">X, I know because when something is more concentrated it is also heavier.</studentAnswer>
+    <studentAnswer id="MX.49.214.1" accuracy="incorrect">X, cup x is more heavier.</studentAnswer>
+    <studentAnswer id="MX.49.228.1" accuracy="incorrect">X, because x is more heavier than cup y.</studentAnswer>
+    <studentAnswer id="MX.49.248.1" accuracy="incorrect">X, because is heavier then y.</studentAnswer>
+    <studentAnswer id="MX.49.255.1" accuracy="incorrect">X, cup x because it has more sugar in it.</studentAnswer>
+    <studentAnswer id="MX.49.261.1" accuracy="incorrect">X, x because it is heavier.</studentAnswer>
+    <studentAnswer id="MX.49.267.1" accuracy="correct">X, I know cup x is more concentrated because on the balance cup x is heavier and cup y is less concentrated.</studentAnswer>
+    <studentAnswer id="MX.49.304.1" accuracy="incorrect">X, how I know is because concentrated means the heaviest.</studentAnswer>
+    <studentAnswer id="MX.49.356.1" accuracy="incorrect">X, I know because when a solution has more solid, has a better taste, or weighs more it is more concentrated than the other one.</studentAnswer>
+    <studentAnswer id="MX.49.381.1" accuracy="incorrect">X, x has less room to move around and y has less room to move around.</studentAnswer>
+    <studentAnswer id="MX.49.389.1" accuracy="incorrect">X, I know that solution x is more concentrated.</studentAnswer>
+    <studentAnswer id="MX.49.390.1" accuracy="incorrect">X, Because it weighed more than cup y.</studentAnswer>
+    <studentAnswer id="MX.49.391.1" accuracy="incorrect">X, It is lighter.</studentAnswer>
+    <studentAnswer id="MX.49.419.1" accuracy="incorrect">Y, is more concentrated because cup x is on the floor and that is not good, right?</studentAnswer>
+    <studentAnswer id="MX.49.421.1" accuracy="incorrect">X, because it have more solid in it and it is heavier.</studentAnswer>
+    <studentAnswer id="MX.49.423.1" accuracy="incorrect">X, because it is heavier.</studentAnswer>
+    <studentAnswer id="MX.49.426.1" accuracy="incorrect">X, Because cup x is more heavier!</studentAnswer>
+    <studentAnswer id="MX.49.431.1" accuracy="incorrect">X, the more concentrated is cup x is heavier.</studentAnswer>
+    <studentAnswer id="MX.49.437.1" accuracy="incorrect">X, because the material gave it weight.</studentAnswer>
+    <studentAnswer id="MX.49.453.1" accuracy="incorrect">X, well on a balance is on the bottom and if it can lift the other solution it is more concentrated.</studentAnswer>
+    <studentAnswer id="MX.49.455.1" accuracy="incorrect">X, Cup x must have been more concentrated because it is heavier.</studentAnswer>
+    <studentAnswer id="MX.49.502.1" accuracy="incorrect">X, usually the heaviest cup on the balance is the most concentrated cup.</studentAnswer>
+    <studentAnswer id="MX.49.527.1" accuracy="incorrect">X, I think it is because it heavier. Remember I said I think.</studentAnswer>
+    <studentAnswer id="MX.49.528.1" accuracy="incorrect">X, it is heavier.</studentAnswer>
+    <studentAnswer id="MX.49.532.1" accuracy="incorrect">X, because it seem more concentrated then y.</studentAnswer>
+    <studentAnswer id="MX.49.541.1" accuracy="correct">X, cup x because it is more heavy.</studentAnswer>
+    <studentAnswer id="MX.49.566.1" accuracy="incorrect">X, I know cup x is the most concentrated because it weighs the most.</studentAnswer>
+    <studentAnswer id="MX.49.569.1" accuracy="incorrect">X, I know solution x is more concentrated because it is heavier than solution y.</studentAnswer>
+    <studentAnswer id="MX.49.577.1" accuracy="incorrect">X, They added more solute into the solution x than solution y. That is why solution x is heavier.</studentAnswer>
+    <studentAnswer id="MX.49.613.1" accuracy="correct">X, because x is on the bottom of the weighing thing while y is on the top.</studentAnswer>
+    <studentAnswer id="MX.49.642.1" accuracy="incorrect">X, because cup x weighs more than cup y.</studentAnswer>
+  </studentAnswers>
+</question>

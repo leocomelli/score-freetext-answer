@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_17d" module="ME">
+  <questionText> Denise made a circuit to light a bulb or run a motor off a D-cell battery. She used a special switch. Below is the schematic diagram of her circuit. The switch is inside the dotted box. Why will the motor run when she moves the switch to the right?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_17d-a1">There is a complete circuit connecting the motor to the D-cell battery.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.17d.101.1" accuracy="correct">It will work because that is closing the switch.</studentAnswer>
+    <studentAnswer id="ME.17d.102.1" accuracy="correct">It will be a closed series.</studentAnswer>
+    <studentAnswer id="ME.17d.105.1" accuracy="correct">It will not work because you have to put the switch in front of the negative sign.</studentAnswer>
+    <studentAnswer id="ME.17d.107.1" accuracy="correct">That will happen because it will make a complete circuit with the motor.</studentAnswer>
+    <studentAnswer id="ME.17d.108.1" accuracy="correct">Because it ends at the positive so it will work.</studentAnswer>
+    <studentAnswer id="ME.17d.115.1" accuracy="correct">It is a complete circuit and the bulb is not connected to that circuit, and the motor is.</studentAnswer>
+    <studentAnswer id="ME.17d.118.1" accuracy="incorrect">It is not complete.</studentAnswer>
+    <studentAnswer id="ME.17d.119.1" accuracy="correct">That will happen because it is a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.17d.120.1" accuracy="correct">This will happen because the switch is turning that way making a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.17d.121.1" accuracy="incorrect">Same as the light but it is switch to the other side.</studentAnswer>
+    <studentAnswer id="ME.17d.140.1" accuracy="incorrect">Because the light bulb is on the right.</studentAnswer>
+    <studentAnswer id="ME.17d.141.1" accuracy="correct">Because if the switch is to the right it allows energy to flow to the motor.</studentAnswer>
+    <studentAnswer id="ME.17d.142.1" accuracy="correct">It got closer to the motor.</studentAnswer>
+    <studentAnswer id="ME.17d.143.1" accuracy="correct">Because it makes a complete circuit.</studentAnswer>
+    <studentAnswer id="ME.17d.152.1" accuracy="correct">The energy will go in the motor and go back in the positive.</studentAnswer>
+    <studentAnswer id="ME.17d.154.1" accuracy="correct">That will happen because the most energy will flow through the motor because the motor is on the right.</studentAnswer>
+    <studentAnswer id="ME.17d.155.1" accuracy="correct">That happen because the electricity is flowing around in a circle.</studentAnswer>
+    <studentAnswer id="ME.17d.173.1" accuracy="correct">It will happen because the energy source is flowing right.</studentAnswer>
+    <studentAnswer id="ME.17d.176.1" accuracy="correct">The motor's circuit will be completed.</studentAnswer>
+    <studentAnswer id="ME.17d.178.1" accuracy="incorrect">The switch will be off.</studentAnswer>
+    <studentAnswer id="ME.17d.180.1" accuracy="incorrect">It will happen because the switch moved so it turns off another thing.</studentAnswer>
+    <studentAnswer id="ME.17d.181.1" accuracy="correct">It will happen because it is flowing in a circle.</studentAnswer>
+    <studentAnswer id="ME.17d.183.1" accuracy="correct">It is a circle.</studentAnswer>
+    <studentAnswer id="ME.17d.185.1" accuracy="incorrect">Because the energy still has a countless form of energy.</studentAnswer>
+    <studentAnswer id="ME.17d.189.1" accuracy="correct">She will make a circle.</studentAnswer>
+    <studentAnswer id="ME.17d.207.1" accuracy="incorrect">The switch is closer.</studentAnswer>
+    <studentAnswer id="ME.17d.215.1" accuracy="correct">Power goes to the motor then to the light.</studentAnswer>
+    <studentAnswer id="ME.17d.216.1" accuracy="incorrect">The switch is not turned to the left.</studentAnswer>
+    <studentAnswer id="ME.17d.228.1" accuracy="incorrect">That will happen because there is no battery.</studentAnswer>
+    <studentAnswer id="ME.17d.256.1" accuracy="incorrect">Because the D-cell is not in the middle.</studentAnswer>
+    <studentAnswer id="ME.17d.277.1" accuracy="correct">That is one circuit.</studentAnswer>
+    <studentAnswer id="ME.17d.291.1" accuracy="incorrect">I learned it in class.</studentAnswer>
+    <studentAnswer id="ME.17d.311.1" accuracy="incorrect">Moving the switch to the motor will make it run.</studentAnswer>
+    <studentAnswer id="ME.17d.314.1" accuracy="incorrect">It will happen because it is strong.</studentAnswer>
+    <studentAnswer id="ME.17d.327.1" accuracy="incorrect">Because you turned it off.</studentAnswer>
+    <studentAnswer id="ME.17d.328.1" accuracy="incorrect">It can work if a wire is connected to the switch from the negative end.</studentAnswer>
+  </studentAnswers>
+</question>

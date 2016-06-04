@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_33b" module="LF">
+  <questionText>Below is a drawing of a river that carried sand, clay, and pebbles (past the river's mouth) to a lake. Why is the clay deposited where you indicated?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_33b-a1">The clay particles are lighter or smaller and are therefore carried farther by the water, so the clay particles end up the greatest distance away from the mouth of the river.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.33b.278.1" accuracy="correct">Because it is much lighter than sand and pebbles, so it can travel farther.</studentAnswer>
+    <studentAnswer id="LF.33b.670.1" accuracy="correct">The clay is deposited in the lake because it is lightest and is like a basin.</studentAnswer>
+    <studentAnswer id="LF.33b.732.1" accuracy="incorrect">It is deposited where I indicated because the clay is the second heaviest so the river could not move it as far as the sand easily.</studentAnswer>
+    <studentAnswer id="LF.33b.855.1" accuracy="correct">The clay is the farthest from the mouth of the river because it is the lightest and smallest.</studentAnswer>
+  </studentAnswers>
+</question>

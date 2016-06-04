@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LF_28a2" module="LF">
+  <questionText>Use the "slope" and "no slope" stream-table maps and logs on the facing page to answer these questions. What information do you get from the stream-table logs that you do not get from the stream-table maps?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_28a2-a1">You can see how much time is taken for the earth materials to move.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.28a2.435.1" accuracy="incorrect">What time the things happen.</studentAnswer>
+    <studentAnswer id="LF.28a2.480.1" accuracy="incorrect">It tells you when things happened.</studentAnswer>
+    <studentAnswer id="LF.28a2.810.1" accuracy="incorrect">Water flows faster.</studentAnswer>
+    <studentAnswer id="LF.28a2.814.1" accuracy="incorrect">The times, as well as things that have to do with the time, and observations you cannot draw.</studentAnswer>
+  </studentAnswers>
+</question>

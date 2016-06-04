@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MS_50a" module="MS">
+  <questionText>Jen was talking on the phone with her Uncle Bill who lives in Canada. When she asked him how the weather was, he said it was nice and warm, about 28 degrees. What unit is Uncle Bill using to report the temperature?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_50a-a1">Bill must have been using degrees Celsius if 28 is a warm temperature.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.50a.107.1" accuracy="incorrect">The temperature.</studentAnswer>
+    <studentAnswer id="MS.50a.112.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.119.1" accuracy="incorrect">A thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.136.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.141.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.146.1" accuracy="correct">He used Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.171.1" accuracy="correct">He was using degrees Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.172.1" accuracy="correct">Celsius and the metric system.</studentAnswer>
+    <studentAnswer id="MS.50a.190.1" accuracy="incorrect">28 F.</studentAnswer>
+    <studentAnswer id="MS.50a.286.1" accuracy="incorrect">Thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.293.1" accuracy="incorrect">The degrees.</studentAnswer>
+    <studentAnswer id="MS.50a.311.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.319.1" accuracy="correct">28 Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.323.1" accuracy="incorrect">Thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.347.1" accuracy="correct">A metric system.</studentAnswer>
+    <studentAnswer id="MS.50a.354.1" accuracy="correct">He is using degrees Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.360.1" accuracy="incorrect">A thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.381.1" accuracy="correct">He is using Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.387.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.393.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.400.1" accuracy="correct">Degree Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.417.1" accuracy="incorrect">Nice and warm, about 28 degrees.</studentAnswer>
+    <studentAnswer id="MS.50a.423.1" accuracy="incorrect">He is using is feeling.</studentAnswer>
+    <studentAnswer id="MS.50a.433.1" accuracy="incorrect">He was using going outside estimating.</studentAnswer>
+    <studentAnswer id="MS.50a.454.1" accuracy="correct">Uncle Jen is using Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.461.1" accuracy="incorrect">Is was 60 milliliters.</studentAnswer>
+    <studentAnswer id="MS.50a.464.1" accuracy="incorrect">Thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.486.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.501.1" accuracy="correct">Degree Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.527.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.566.1" accuracy="incorrect">A thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.574.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.599.1" accuracy="incorrect">Thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.604.1" accuracy="correct">Celsius.</studentAnswer>
+    <studentAnswer id="MS.50a.609.1" accuracy="incorrect">Thermometer.</studentAnswer>
+    <studentAnswer id="MS.50a.610.1" accuracy="incorrect">Thermometer.</studentAnswer>
+  </studentAnswers>
+</question>

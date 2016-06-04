@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="FN_27b" module="FN">
+  <questionText>Jana and Emily used indophenol to test 3 beverages for vitamin C. The number of drops they added to make a 10 milliliters sample of the blue indophenol indicator become colorless are given here: 8 drops of Overly Orange 13 drops of Luscious Lemon 33 drops of Fruitsnap (and it still didn't change color). Why didn't the indophenol change color with Fruitsnap?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_27b-a1">Fruitsnap contains little or no vitamin C so Fruitsnap does not change the color of the indophenol.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.27b.101.1" accuracy="correct">The indophenol did not change color with Fruitsnap because it did not have any vitamin C in it.</studentAnswer>
+    <studentAnswer id="FN.27b.107.1" accuracy="correct">It did not change color because Fruitsnap has no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.113.1" accuracy="correct">The indophenol did not change color with the Fruitsnap because the Fruitsnap might not have had vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.118.1" accuracy="correct">Because it does not contain vitamin C in Fruitsnap. It contains only sugar.</studentAnswer>
+    <studentAnswer id="FN.27b.146.1" accuracy="correct">It was probably concentrated or it could have little or no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.150.1" accuracy="incorrect">Probably because they did something wrong and it did not work.</studentAnswer>
+    <studentAnswer id="FN.27b.171.1" accuracy="correct">Because it does not have a lot of vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.180.1" accuracy="incorrect">Because it is too bright.</studentAnswer>
+    <studentAnswer id="FN.27b.185.1" accuracy="correct">Fruitsnap did not change color because it must not have vitamin.</studentAnswer>
+    <studentAnswer id="FN.27b.208.1" accuracy="correct">Because it did not have any vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.228.1" accuracy="correct">There was either very little or no vitamin C at all in Fruitsnap.</studentAnswer>
+    <studentAnswer id="FN.27b.230.1" accuracy="correct">It did not change because the Fruitsnap did not have any vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.232.1" accuracy="correct">The indophenol did not change color with Fruitsnap because it did not have vitamin C in it.</studentAnswer>
+    <studentAnswer id="FN.27b.233.1" accuracy="correct">The fruit snap did not have vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.249.1" accuracy="incorrect">The indophenol did not change colors because Fruitsnap does not have a high concentration of acid.</studentAnswer>
+    <studentAnswer id="FN.27b.250.1" accuracy="correct">The indophenol did not change color with Fruitsnap because there was none or very little vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.255.1" accuracy="correct">Because it had no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.256.1" accuracy="correct">Because Fruitsnap does not have any vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.265.1" accuracy="correct">It did not because it had no vitamin C or a little bit of vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.286.1" accuracy="correct">It did not work because it has no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.293.1" accuracy="correct">Because it probably had more sugar than vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.311.1" accuracy="correct">Because it does not have vitamin C in it.</studentAnswer>
+    <studentAnswer id="FN.27b.314.1" accuracy="incorrect">Because there was no acid in it.</studentAnswer>
+    <studentAnswer id="FN.27b.317.1" accuracy="correct">Because it does not have as much vitamin C as Overly Orange or Luscious Lemon.</studentAnswer>
+    <studentAnswer id="FN.27b.321.1" accuracy="incorrect">Probably because the Fruitsnap does not have very much concentrate.</studentAnswer>
+    <studentAnswer id="FN.27b.325.1" accuracy="correct">Because Fruitsnap did not have a lot of vitamin C in it.</studentAnswer>
+    <studentAnswer id="FN.27b.327.1" accuracy="correct">It did not change color to white or clear because it does not have vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.335.1" accuracy="incorrect">It was not fruit concentrate.</studentAnswer>
+    <studentAnswer id="FN.27b.349.1" accuracy="correct">It did not have any vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.355.1" accuracy="correct">It did not change color because it has little or no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.358.1" accuracy="correct">Because Fruitsnap had little or no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.362.1" accuracy="incorrect">Probably because they stopped putting indophenol in.</studentAnswer>
+    <studentAnswer id="FN.27b.366.1" accuracy="correct">There is no vitamin C in the drink.</studentAnswer>
+    <studentAnswer id="FN.27b.368.1" accuracy="correct">Fruitsnap probably contains no vitamin C.</studentAnswer>
+    <studentAnswer id="FN.27b.371.1" accuracy="correct">It did not change because it had not much vitamin C, so it would take a lot of drops.</studentAnswer>
+    <studentAnswer id="FN.27b.372.1" accuracy="correct">It did not have any vitamin C.</studentAnswer>
+  </studentAnswers>
+</question>

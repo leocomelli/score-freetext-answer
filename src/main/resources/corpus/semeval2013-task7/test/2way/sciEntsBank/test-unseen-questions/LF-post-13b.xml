@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="LF_13b" module="LF">
+  <questionText>What happens to earth materials during erosion?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LF_13b-a1">Earth materials are worn away and moved during erosion.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LF.13b.384.1" accuracy="incorrect">Earth material gets eroded and carried away.</studentAnswer>
+    <studentAnswer id="LF.13b.393.1" accuracy="incorrect">They are eroded by water, wind, and or ice.</studentAnswer>
+    <studentAnswer id="LF.13b.405.1" accuracy="incorrect">They form into other solids water, lava, wind.</studentAnswer>
+    <studentAnswer id="LF.13b.407.1" accuracy="incorrect">They just move around.</studentAnswer>
+    <studentAnswer id="LF.13b.408.1" accuracy="incorrect">They all settle to the bottom.</studentAnswer>
+    <studentAnswer id="LF.13b.409.1" accuracy="incorrect">They make canyons and erode away.</studentAnswer>
+    <studentAnswer id="LF.13b.410.1" accuracy="incorrect">They get carried away by wind, ice, or water.</studentAnswer>
+    <studentAnswer id="LF.13b.417.1" accuracy="incorrect">During erosion earth materials are worn away by water wind or ice.</studentAnswer>
+    <studentAnswer id="LF.13b.418.1" accuracy="incorrect">They get eroded away.</studentAnswer>
+    <studentAnswer id="LF.13b.435.1" accuracy="incorrect">Earth materials start to weather away from wind, water, and ice. When they are being eroded.</studentAnswer>
+    <studentAnswer id="LF.13b.436.1" accuracy="incorrect">Earth materials are worn away by I see ant other stuff.</studentAnswer>
+    <studentAnswer id="LF.13b.443.1" accuracy="incorrect">The earth materials move land.</studentAnswer>
+    <studentAnswer id="LF.13b.457.1" accuracy="incorrect">I turn into a stream.</studentAnswer>
+    <studentAnswer id="LF.13b.468.1" accuracy="incorrect">The earth materials wears away.</studentAnswer>
+    <studentAnswer id="LF.13b.469.1" accuracy="incorrect">But it will be you and but it was be because.</studentAnswer>
+    <studentAnswer id="LF.13b.478.1" accuracy="incorrect">The earth material will get smaller and make new land.</studentAnswer>
+    <studentAnswer id="LF.13b.501.1" accuracy="incorrect">Earth material forms a canyon.</studentAnswer>
+    <studentAnswer id="LF.13b.508.1" accuracy="incorrect">All of the materials get washed away and the make a way for the water.</studentAnswer>
+    <studentAnswer id="LF.13b.512.1" accuracy="incorrect">They get worn away to the deposition.</studentAnswer>
+    <studentAnswer id="LF.13b.516.1" accuracy="incorrect">The delta starts to get bigger.</studentAnswer>
+    <studentAnswer id="LF.13b.661.1" accuracy="incorrect">The materials are worn away.</studentAnswer>
+    <studentAnswer id="LF.13b.674.1" accuracy="incorrect">They slowly break down to where you cannot see them.</studentAnswer>
+    <studentAnswer id="LF.13b.684.1" accuracy="incorrect">Earth materials during erosion wear down until they are smooth.</studentAnswer>
+    <studentAnswer id="LF.13b.704.1" accuracy="incorrect">It breaks down the materials.</studentAnswer>
+    <studentAnswer id="LF.13b.737.1" accuracy="incorrect">Earth materials get taken away from river banks, beaches, and island.</studentAnswer>
+    <studentAnswer id="LF.13b.738.1" accuracy="incorrect">The materials get scattered around.</studentAnswer>
+    <studentAnswer id="LF.13b.740.1" accuracy="incorrect">During erosion earth material are being moved by wind, water, or ice.</studentAnswer>
+    <studentAnswer id="LF.13b.751.1" accuracy="incorrect">Earth materials just simply change shape by smoothing out.</studentAnswer>
+    <studentAnswer id="LF.13b.752.1" accuracy="correct">During erosion earth materials break away and flow away.</studentAnswer>
+    <studentAnswer id="LF.13b.753.1" accuracy="incorrect">They get smashed and grinded into new shapes, sizes or even little pieces you can barely see.</studentAnswer>
+    <studentAnswer id="LF.13b.773.1" accuracy="incorrect">Erosion is the process of moving sediment from one place to another.</studentAnswer>
+    <studentAnswer id="LF.13b.779.1" accuracy="incorrect">They are picked up by wind or water then they are dropped.</studentAnswer>
+    <studentAnswer id="LF.13b.805.1" accuracy="incorrect">Earth materials are grinded down and worn away during erosion.</studentAnswer>
+    <studentAnswer id="LF.13b.808.1" accuracy="incorrect">The earth materials gets broken down.</studentAnswer>
+    <studentAnswer id="LF.13b.822.1" accuracy="incorrect">Materials are picked up by the water and carried away. The faster the water, the more picked up. Deposition always happens after erosion.</studentAnswer>
+    <studentAnswer id="LF.13b.836.1" accuracy="incorrect">They get worn down.</studentAnswer>
+    <studentAnswer id="LF.13b.848.1" accuracy="incorrect">The materials rise and disappear.</studentAnswer>
+    <studentAnswer id="LF.13b.855.1" accuracy="incorrect">They are picked up or eroded by water.</studentAnswer>
+    <studentAnswer id="LF.13b.906.1" accuracy="incorrect">The thing that happens during erosion is earth materials are worn away.</studentAnswer>
+    <studentAnswer id="LF.13b.918.1" accuracy="incorrect">What happens earth materials during erosion is the materials are carried away form water that tables 9 to another place.</studentAnswer>
+  </studentAnswers>
+</question>

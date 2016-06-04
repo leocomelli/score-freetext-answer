@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="EM_21b" module="EM">
+  <questionText>Georgia found one brown mineral and one black mineral. How will she know which one is harder?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EM_21b-a1">The harder mineral will leave a scratch on the less hard mineral. If the black mineral is harder, the brown mineral will have a scratch.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EM.21b.252.1" accuracy="incorrect">The one that starts to gather.</studentAnswer>
+    <studentAnswer id="EM.21b.357.1" accuracy="incorrect">That it stay the scratch.</studentAnswer>
+    <studentAnswer id="EM.21b.401.1" accuracy="incorrect">Which one leaves a scratch.</studentAnswer>
+    <studentAnswer id="EM.21b.645.1" accuracy="correct">The harder one leave a scratch on the less scratch mineral.</studentAnswer>
+  </studentAnswers>
+</question>

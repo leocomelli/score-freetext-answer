@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="EV_8c" module="EV">
+  <questionText>Rachael tried to hatch brine shrimp under a range of salty conditions (different amounts of salt from 0 to 9 milliliters in the same amount of water). (The graph shows that no eggs hatched in the 0 milliliters and 9 milliliters salt solutions). Rachael thinks that the unhatched brine shrimp eggs in environments outside the range of tolerance for salt might still be viable. Describe how she could find out.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="EV_8c-a1">Rachael could put the unhatched eggs in a salt solution that is within the range of tolerance.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="EV.8c.107.1" accuracy="incorrect">She could put 10 spoons of salt in a cup.</studentAnswer>
+    <studentAnswer id="EV.8c.108.1" accuracy="incorrect">She could find out by doing more than putting 9 milliliters of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.109.1" accuracy="incorrect">She could test by trying to hatch eggs inside.</studentAnswer>
+    <studentAnswer id="EV.8c.117.1" accuracy="correct">She could put more salt in a container or less salt.</studentAnswer>
+    <studentAnswer id="EV.8c.118.1" accuracy="incorrect">By doing an experiment.</studentAnswer>
+    <studentAnswer id="EV.8c.119.1" accuracy="correct">Add a couple of spoons of salt or take away a couple spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.121.1" accuracy="incorrect">She could do the same thing in the house and put it outside.</studentAnswer>
+    <studentAnswer id="EV.8c.125.1" accuracy="incorrect">She could find out by putting food in and watch the cup to see if any food get eaten.</studentAnswer>
+    <studentAnswer id="EV.8c.126.1" accuracy="incorrect">She could add 10 milliliters of salt and see if they are viable.</studentAnswer>
+    <studentAnswer id="EV.8c.127.1" accuracy="incorrect">You can see how many things you are changing.</studentAnswer>
+    <studentAnswer id="EV.8c.133.1" accuracy="correct">She could find out by setting up a new experiment using the same amount of water but using a different amount of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.136.1" accuracy="correct">You can get brine shrimp egg and put the number of salt that is needed.</studentAnswer>
+    <studentAnswer id="EV.8c.139.1" accuracy="correct">She could take the 0 milliliters of water and add 4 milliliters spoons of salt. And add 4 milliliters water to 9 milliliters spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.142.1" accuracy="incorrect">Rachael could add more water to the saltwater to find out if the eggs are viable.</studentAnswer>
+    <studentAnswer id="EV.8c.145.1" accuracy="correct">She could put more or less salt in each cup. So she would put 9 milliliters spoons in the 0, 8 milliliters spoons in the one milliliters spoon and keep going on until you get to 9 milliliters spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.146.1" accuracy="incorrect">If they will not hatch she could see that with a magnifying glass.</studentAnswer>
+    <studentAnswer id="EV.8c.156.1" accuracy="incorrect">I found out that it was 41 because 41 plus one equals 41.</studentAnswer>
+    <studentAnswer id="EV.8c.159.1" accuracy="correct">In 0 milliliters add 2 spoons of salt in and 9 milliliters add some water.</studentAnswer>
+    <studentAnswer id="EV.8c.160.1" accuracy="incorrect">She could look at the with a magnifying glass and see if they are still viable.</studentAnswer>
+    <studentAnswer id="EV.8c.161.1" accuracy="correct">She can put the optimum level of salt into the water or take out the eggs then put the optimum level of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.162.1" accuracy="incorrect">Rachael could put that much salt in the water to answer her questions.</studentAnswer>
+    <studentAnswer id="EV.8c.165.1" accuracy="correct">She could add more salt to the 0 milliliters spoons and she could add more water in the 9 milliliters spoons of salt to make the salinity less salty.</studentAnswer>
+    <studentAnswer id="EV.8c.171.1" accuracy="correct">In 0 milliliters of salt you could add some milliliters of salt. In the 9 milliliters she can add some water.</studentAnswer>
+    <studentAnswer id="EV.8c.176.1" accuracy="incorrect">Wait for a set of time for the eggs to hatch, like a week. After that set of time, check the eggs. If no eggs hatched, then the eggs are not viable. Otherwise she could add a pinch more of salt to help the eggs grow.</studentAnswer>
+    <studentAnswer id="EV.8c.177.1" accuracy="incorrect">Maybe get some water from outside and put it in a cup and find out which one hatches faster.</studentAnswer>
+    <studentAnswer id="EV.8c.178.1" accuracy="incorrect">She could add more water.</studentAnswer>
+    <studentAnswer id="EV.8c.188.1" accuracy="correct">She could put more salt or add more water.</studentAnswer>
+    <studentAnswer id="EV.8c.191.1" accuracy="incorrect">She could see little clear things.</studentAnswer>
+    <studentAnswer id="EV.8c.206.1" accuracy="correct">She can add more salt or water to the non-range of tolerance brine shrimp.</studentAnswer>
+    <studentAnswer id="EV.8c.208.1" accuracy="incorrect">She can start the experiment again except with more salt.</studentAnswer>
+    <studentAnswer id="EV.8c.210.1" accuracy="incorrect">By waiting few days.</studentAnswer>
+    <studentAnswer id="EV.8c.219.1" accuracy="incorrect">They will not be viable because it would be past the 5 milliliters spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.221.1" accuracy="correct">By putting the amount of salt that the brine shrimp. And not that much water.</studentAnswer>
+    <studentAnswer id="EV.8c.224.1" accuracy="correct">She can find out by doing this experiment more than once. She can try different amounts of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.226.1" accuracy="incorrect">Rachael can get the eggs and put them in the water without saltwater, but she also has to watch her brine shrimp to see if they will hatch.</studentAnswer>
+    <studentAnswer id="EV.8c.233.1" accuracy="correct">She could add less or more salt to find them out or even redo the project.</studentAnswer>
+    <studentAnswer id="EV.8c.242.1" accuracy="incorrect">She should get 7 cups and try what she did on her chart like put in 5 one milliliters spoons of salt with 100 milliliters of water.</studentAnswer>
+    <studentAnswer id="EV.8c.381.1" accuracy="incorrect">She could do one cup with salt and one with no salt.</studentAnswer>
+    <studentAnswer id="EV.8c.387.1" accuracy="incorrect">Wait a couple of days and check to see if they hatched.</studentAnswer>
+    <studentAnswer id="EV.8c.388.1" accuracy="incorrect">You can do it by measuring the higher amount of salt and then check.</studentAnswer>
+    <studentAnswer id="EV.8c.389.1" accuracy="incorrect">She could find out by not putting salt and observing.</studentAnswer>
+    <studentAnswer id="EV.8c.392.1" accuracy="correct">She could put spoons of salt higher than 8 in separate cups and see which one had hatched.</studentAnswer>
+    <studentAnswer id="EV.8c.395.1" accuracy="incorrect">She can put different amounts of salt and plant or them in a shady area.</studentAnswer>
+    <studentAnswer id="EV.8c.397.1" accuracy="correct">Transfer the egg into the range of tolerance. One milliliters to 8 milliliters.</studentAnswer>
+    <studentAnswer id="EV.8c.399.1" accuracy="incorrect">She can try to use like a magnifying glass.</studentAnswer>
+    <studentAnswer id="EV.8c.400.1" accuracy="incorrect">She can do it like put it in vials.</studentAnswer>
+    <studentAnswer id="EV.8c.401.1" accuracy="incorrect">Maybe instead of one milliliters of salt you could have half milliliters or 8 half milliliters of salt or something like that.</studentAnswer>
+    <studentAnswer id="EV.8c.404.1" accuracy="incorrect">Do more experiments, go to a lake where brine shrimp hatch and test the salt tolerance.</studentAnswer>
+    <studentAnswer id="EV.8c.405.1" accuracy="incorrect">She could do an experiment, one with salt and one with salt. Then she could see which the brine shrimp prefer.</studentAnswer>
+    <studentAnswer id="EV.8c.416.1" accuracy="incorrect">Get 4 different cups and put a different amount of saltwater in each cup. Ex. Cup one equals 0 milliliters cup 2 equals 10 milliliters cup 3 equals 20 milliliters.</studentAnswer>
+    <studentAnswer id="EV.8c.418.1" accuracy="incorrect">She can do a different solution.</studentAnswer>
+    <studentAnswer id="EV.8c.419.1" accuracy="correct">She could get 4 to 5 cups and put the exact same water and brine shrimp eggs and put one milliliters in the first cup, 2 milliliters in the second cup, 3 milliliters in the third cup and so on.</studentAnswer>
+    <studentAnswer id="EV.8c.422.1" accuracy="incorrect">She can observe more longer and see if they are viable.</studentAnswer>
+    <studentAnswer id="EV.8c.423.1" accuracy="incorrect">Take water from a water source.</studentAnswer>
+    <studentAnswer id="EV.8c.424.1" accuracy="correct">She takes the shrimp out of the water with too much salt and put it in 5 milliliters of salt so they will hatch if they are not viable.</studentAnswer>
+    <studentAnswer id="EV.8c.425.1" accuracy="incorrect">Wait a little longer and observe longer, but watch them real carefully also.</studentAnswer>
+    <studentAnswer id="EV.8c.426.1" accuracy="incorrect">She can try to put in different water and it hatch or not.</studentAnswer>
+    <studentAnswer id="EV.8c.431.1" accuracy="correct">She could take out the eggs and put them in the range of tolerance and see if they hatch.</studentAnswer>
+    <studentAnswer id="EV.8c.432.1" accuracy="correct">She can test out different amounts of salt and water and maybe there will be viable eggs, and different results.</studentAnswer>
+    <studentAnswer id="EV.8c.433.1" accuracy="incorrect">Test if.</studentAnswer>
+    <studentAnswer id="EV.8c.434.1" accuracy="incorrect">She could test it out in cups and observe them for a couple days and see what happens.</studentAnswer>
+    <studentAnswer id="EV.8c.436.1" accuracy="correct">She can find it out by testing the range of tolerance for salt on brine shrimp eggs.</studentAnswer>
+    <studentAnswer id="EV.8c.438.1" accuracy="correct">If she changes the level of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.442.1" accuracy="incorrect">She could observe for a long time to see if the eggs are viable.</studentAnswer>
+    <studentAnswer id="EV.8c.445.1" accuracy="incorrect">Rachel can find out if brine shrimp are viable in the outside tolerance range by doing an experiment. She can take salt and put amount of salt outside the range and on in the range.</studentAnswer>
+    <studentAnswer id="EV.8c.456.1" accuracy="incorrect">If tested it for a long time.</studentAnswer>
+    <studentAnswer id="EV.8c.459.1" accuracy="incorrect">She could leave them alone longer to see.</studentAnswer>
+    <studentAnswer id="EV.8c.460.1" accuracy="incorrect">Test it?</studentAnswer>
+    <studentAnswer id="EV.8c.461.1" accuracy="incorrect">By doing experiments outside the range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.8c.462.1" accuracy="incorrect">She could find out by conducting an experiment.</studentAnswer>
+    <studentAnswer id="EV.8c.463.1" accuracy="incorrect">She can find out by conducting the experiment again.</studentAnswer>
+    <studentAnswer id="EV.8c.464.1" accuracy="incorrect">Rachel can find out her answer by reading books about brine shrimp or going on time to find out. She can ask her science teacher.</studentAnswer>
+    <studentAnswer id="EV.8c.465.1" accuracy="incorrect">The temperature of the outside might affect the brine shrimp hatching.</studentAnswer>
+    <studentAnswer id="EV.8c.467.1" accuracy="incorrect">She could add less salt to experiment to see what her results will be.</studentAnswer>
+    <studentAnswer id="EV.8c.468.1" accuracy="correct">By putting them inside a condition within their range of tolerance.</studentAnswer>
+    <studentAnswer id="EV.8c.470.1" accuracy="incorrect">She can hold experiments. She could look at past experiments.</studentAnswer>
+    <studentAnswer id="EV.8c.472.1" accuracy="incorrect">She could put those eggs into an environment that they hatch well or she can wait longer.</studentAnswer>
+    <studentAnswer id="EV.8c.473.1" accuracy="incorrect">DNA. Also because the different amounts of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.475.1" accuracy="correct">She could move the eggs into an environment that they can hatch in and if they hatch, they are viable.</studentAnswer>
+    <studentAnswer id="EV.8c.479.1" accuracy="incorrect">Rachel can find out if the brine shrimp eggs are viable that are outside the range of tolerance by checking if there is any movement in the water.</studentAnswer>
+    <studentAnswer id="EV.8c.491.1" accuracy="correct">She could add salt or take same eggs out and put it in different water.</studentAnswer>
+    <studentAnswer id="EV.8c.493.1" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer id="EV.8c.495.1" accuracy="incorrect">By changing the water everyday.</studentAnswer>
+    <studentAnswer id="EV.8c.503.1" accuracy="incorrect">Add more one milliliters spoons of salt.</studentAnswer>
+    <studentAnswer id="EV.8c.510.1" accuracy="incorrect">You can do research on brine shrimp.</studentAnswer>
+    <studentAnswer id="EV.8c.523.1" accuracy="correct">She could get the eggs that did not hatch and put them in a cup with 9 milliliters of salt that has been tested.</studentAnswer>
+    <studentAnswer id="EV.8c.524.1" accuracy="correct">Put the same amount of water but different amounts salt in each cup then wait and see if they hatch.</studentAnswer>
+    <studentAnswer id="EV.8c.527.1" accuracy="incorrect">She might be able to use a magnifying glass.</studentAnswer>
+    <studentAnswer id="EV.8c.535.1" accuracy="correct">I think Rachael should try to put different amounts of salt and water and put in the brine shrimp and test it.</studentAnswer>
+    <studentAnswer id="EV.8c.543.1" accuracy="incorrect">Since she used whole spoons of salt, she should use half of a spoon in the cups.</studentAnswer>
+    <studentAnswer id="EV.8c.545.1" accuracy="correct">She can put brine shrimp in different amounts of saltwater then see if they hatch?</studentAnswer>
+    <studentAnswer id="EV.8c.548.1" accuracy="incorrect">She could look at the brine shrimp egg on all the saltwater.</studentAnswer>
+    <studentAnswer id="EV.8c.629.1" accuracy="correct">I think you could add more salt to the 0 cup. For the 9 cup I think that you should probably take out as many eggs as possible and put in less salt.</studentAnswer>
+    <studentAnswer id="EV.8c.630.1" accuracy="incorrect">She if the are crack in the eggs. She could get a magnifying glass and see if they hatch.</studentAnswer>
+    <studentAnswer id="EV.8c.633.1" accuracy="incorrect">Add more salt.</studentAnswer>
+    <studentAnswer id="EV.8c.639.1" accuracy="incorrect">She could probably put a little salt and stir softly and write down what happens next.</studentAnswer>
+    <studentAnswer id="EV.8c.640.1" accuracy="incorrect">Add more of that out salt.</studentAnswer>
+    <studentAnswer id="EV.8c.641.1" accuracy="incorrect">You should wait a little longer to see if they grow.</studentAnswer>
+    <studentAnswer id="EV.8c.642.1" accuracy="incorrect">She could add more salt to each cup.</studentAnswer>
+    <studentAnswer id="EV.8c.682.1" accuracy="correct">Put them in an environment that is in the brine shrimp's range of tolerance.</studentAnswer>
+  </studentAnswers>
+</question>

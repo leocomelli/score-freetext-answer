@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="MS_43b" module="MS">
+  <questionText>2 groups used marbles to weigh the same apple. Jin's group found the apple weighed 35 marbles and Bee's group found the same apple weighed 60 marbles. Both groups used the correct procedure. What should the groups do to make their results more useful?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_43b-a1">Use a standard unit of mass like grams.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.43b.103.1" accuracy="correct">They could use grams to weigh them.</studentAnswer>
+    <studentAnswer id="MS.43b.115.1" accuracy="incorrect">Use mass pieces.</studentAnswer>
+    <studentAnswer id="MS.43b.116.1" accuracy="correct">They could both use the metric unit grams.</studentAnswer>
+    <studentAnswer id="MS.43b.118.1" accuracy="incorrect">They should use the same marbles.</studentAnswer>
+    <studentAnswer id="MS.43b.136.1" accuracy="incorrect">They should use the same marbles.</studentAnswer>
+    <studentAnswer id="MS.43b.147.1" accuracy="incorrect">Use little marbles.</studentAnswer>
+    <studentAnswer id="MS.43b.153.1" accuracy="incorrect">35 grams to a glass case, 60 grams to a big book.</studentAnswer>
+    <studentAnswer id="MS.43b.171.1" accuracy="incorrect">They could redo it to see if they weighed the right mass.</studentAnswer>
+    <studentAnswer id="MS.43b.180.1" accuracy="correct">Use gram or standard unit of measurement.</studentAnswer>
+    <studentAnswer id="MS.43b.183.1" accuracy="correct">They should use grams instead.</studentAnswer>
+    <studentAnswer id="MS.43b.276.1" accuracy="correct">They should use a standard unit.</studentAnswer>
+    <studentAnswer id="MS.43b.278.1" accuracy="correct">Use a standard unit like grams.</studentAnswer>
+    <studentAnswer id="MS.43b.286.1" accuracy="incorrect">Because they weighed different but the same answer.</studentAnswer>
+    <studentAnswer id="MS.43b.293.1" accuracy="incorrect">If Jin's and Bee's groups can use a balance beam.</studentAnswer>
+    <studentAnswer id="MS.43b.315.1" accuracy="correct">Always use grams to know who much it weighs.</studentAnswer>
+    <studentAnswer id="MS.43b.317.1" accuracy="correct">They should use a standard measurement to weigh the apple.</studentAnswer>
+    <studentAnswer id="MS.43b.324.1" accuracy="correct">They can use grams.</studentAnswer>
+    <studentAnswer id="MS.43b.349.1" accuracy="incorrect">Use the same stuff.</studentAnswer>
+    <studentAnswer id="MS.43b.359.1" accuracy="incorrect">Weighed the apple again.</studentAnswer>
+    <studentAnswer id="MS.43b.381.1" accuracy="incorrect">Zero out the balance.</studentAnswer>
+    <studentAnswer id="MS.43b.391.1" accuracy="correct">Use a standard like a gram.</studentAnswer>
+    <studentAnswer id="MS.43b.396.1" accuracy="incorrect">Get the same size apples.</studentAnswer>
+    <studentAnswer id="MS.43b.426.1" accuracy="incorrect">To use a ruler to see if the 2 apples are different.</studentAnswer>
+    <studentAnswer id="MS.43b.452.1" accuracy="incorrect">Use same sized marbles.</studentAnswer>
+    <studentAnswer id="MS.43b.488.1" accuracy="incorrect">I think they both did it wrong because we measured it and it was 150.</studentAnswer>
+    <studentAnswer id="MS.43b.498.1" accuracy="incorrect">They could weigh it.</studentAnswer>
+    <studentAnswer id="MS.43b.501.1" accuracy="incorrect">They should be with a balance.</studentAnswer>
+    <studentAnswer id="MS.43b.504.1" accuracy="incorrect">Maybe because the marbles are different sizes.</studentAnswer>
+    <studentAnswer id="MS.43b.521.1" accuracy="correct">Use grams, use standard.</studentAnswer>
+    <studentAnswer id="MS.43b.533.1" accuracy="correct">Use a standard, grams.</studentAnswer>
+    <studentAnswer id="MS.43b.566.1" accuracy="correct">They should use grams to weigh the apple.</studentAnswer>
+    <studentAnswer id="MS.43b.592.1" accuracy="incorrect">Use same size marbles.</studentAnswer>
+    <studentAnswer id="MS.43b.594.1" accuracy="incorrect">Use the same marbles.</studentAnswer>
+    <studentAnswer id="MS.43b.599.1" accuracy="incorrect">Use mass pieces.</studentAnswer>
+    <studentAnswer id="MS.43b.600.1" accuracy="incorrect">Get the same size.</studentAnswer>
+    <studentAnswer id="MS.43b.607.1" accuracy="incorrect">One group could use an apple then when they are done the other group could use it.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="SE_27b" module="SE">
+  <questionText>If a student was holding a thermometer by the bulb (the round part at the bottom of the thermometer) when reading the temperature, would the temperature read the same? Why or why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_27b-a1">No. The temperature would be higher because the student's finger would make the temperature warmer. [Heat would transfer from the student's finger to the thermometer bulb.]</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.27b.103.1" accuracy="incorrect">No, It is 2 different things.</studentAnswer>
+    <studentAnswer id="SE.27b.105.1" accuracy="incorrect">No, Because it would be little warm. It would be hotter if he would not be grabbing the bulb.</studentAnswer>
+    <studentAnswer id="SE.27b.109.1" accuracy="incorrect">No, because he is changing the temperature by putting his hand at the round part.</studentAnswer>
+    <studentAnswer id="SE.27b.116.1" accuracy="incorrect">No, Because he will take some of the heat of the ball and if he does the temperature could go down 3 degrees.</studentAnswer>
+    <studentAnswer id="SE.27b.117.1" accuracy="incorrect">No. Why, because the student who handled it might have been a different temperature which changes the temperature.</studentAnswer>
+    <studentAnswer id="SE.27b.120.1" accuracy="correct">No, it would not read the same temperature because the heat on your hand heats the thermometer.</studentAnswer>
+    <studentAnswer id="SE.27b.130.1" accuracy="incorrect">No, because the molecules might be moving too fast and then you fell sink.</studentAnswer>
+    <studentAnswer id="SE.27b.131.1" accuracy="correct">No, No because the bulb will be hot and the degrees will go up. If it is on 20 Celsius it will go up to 30 Celsius.</studentAnswer>
+    <studentAnswer id="SE.27b.133.1" accuracy="incorrect">No, No because it will rise like 4 or 5 degrees.</studentAnswer>
+    <studentAnswer id="SE.27b.136.1" accuracy="incorrect">No, No because he keeps on touching the thermometer and will never be the same.</studentAnswer>
+    <studentAnswer id="SE.27b.139.1" accuracy="correct">No, The temperature will change when you hold the thermometer by the bulb because your hand and body is warm so the temperature will go high.</studentAnswer>
+    <studentAnswer id="SE.27b.147.1" accuracy="incorrect">No, No because he keeps his thumb on the bulb of the bottom of the thermometer.</studentAnswer>
+    <studentAnswer id="SE.27b.157.1" accuracy="correct">No, Because the boy's temperature is hot and the red liquid will go up.</studentAnswer>
+    <studentAnswer id="SE.27b.159.1" accuracy="correct">No, It will change if hold it because you are heating the thermometer by the bulb.</studentAnswer>
+    <studentAnswer id="SE.27b.184.1" accuracy="incorrect">Yes, I think yes because if you put your thumb there the heat from your body makes yourself heat in your own body.</studentAnswer>
+    <studentAnswer id="SE.27b.191.1" accuracy="correct">No, It will not because they will be measuring finger temperature.</studentAnswer>
+    <studentAnswer id="SE.27b.242.1" accuracy="correct">No, If you hold the bulb it would get hotter because some of the heat in your body will gain the thermometer.</studentAnswer>
+    <studentAnswer id="SE.27b.243.1" accuracy="incorrect">No, Because of that student's body heat.</studentAnswer>
+    <studentAnswer id="SE.27b.253.1" accuracy="correct">No, No because your fingers are hot. And it makes the water stuff inside go to different temperature.</studentAnswer>
+    <studentAnswer id="SE.27b.254.1" accuracy="correct">No, If you hold the bottom of the thermometer the temperature will go up it give it more heat.</studentAnswer>
+    <studentAnswer id="SE.27b.265.1" accuracy="incorrect">Yes, Well the alcohol needs the sun or shade to change the bulb of the thermometer, but if something or someone is blocking it, the alcohol will not go neither up nor down.</studentAnswer>
+    <studentAnswer id="SE.27b.265b.1" accuracy="correct">No, I say no because when your body temperature is not the same as air temperature which makes it go up.</studentAnswer>
+    <studentAnswer id="SE.27b.313.1" accuracy="correct">No, It will not be the same because it would absorb the heat and increase the number.</studentAnswer>
+    <studentAnswer id="SE.27b.316.1" accuracy="correct">No, Because if a student had the thermometer by the bulb the thermometer would measure the temperature of his or her body not the object.</studentAnswer>
+    <studentAnswer id="SE.27b.317.1" accuracy="incorrect">No, Because it is somewhere different so it is going to get a different reading. The temperature is one.</studentAnswer>
+    <studentAnswer id="SE.27b.323.1" accuracy="incorrect">No, Because it would read how cold or hot is the bulb and that is what it would read.</studentAnswer>
+    <studentAnswer id="SE.27b.331.1" accuracy="correct">No, because the student is measuring something else that might not have the same temperature as the student's hand, so the thermometer will read the temperature of the student's hand.</studentAnswer>
+    <studentAnswer id="SE.27b.333.1" accuracy="incorrect">Yes, Because if you put your hand on the round part the air is not going to feel thermometer.</studentAnswer>
+    <studentAnswer id="SE.27b.335.1" accuracy="incorrect">No, Because he will be tall so then that is why.</studentAnswer>
+    <studentAnswer id="SE.27b.391.1" accuracy="correct">No, Because the bulb is the part that will see how hot something is so if you put your hand or finger on the bulb it would read your body temperature so it would rise.</studentAnswer>
+    <studentAnswer id="SE.27b.396.1" accuracy="correct">No, No because your body has a temperature of 98.6 degrees F.</studentAnswer>
+    <studentAnswer id="SE.27b.406.1" accuracy="correct">No, It would not read the same your body temperature is hotter than 5 Celsius.</studentAnswer>
+    <studentAnswer id="SE.27b.408.1" accuracy="correct">No, It could not be the same because maybe what you are measuring is hotter or colder than your thumb so it would not come out accurate.</studentAnswer>
+    <studentAnswer id="SE.27b.416.1" accuracy="correct">No, if someone held a thermometer by the bulb then the thermometer would sense your hands and the degrees would rise.</studentAnswer>
+    <studentAnswer id="SE.27b.514.1" accuracy="correct">No, it would not be the same because it would be taking in the body temperature.</studentAnswer>
+    <studentAnswer id="SE.27b.538.1" accuracy="correct">No, It would be warmer because the warmth and pressure of your fingers would give warmth to the bulb.</studentAnswer>
+    <studentAnswer id="SE.27b.567.1" accuracy="incorrect">No, no because when you are hold the thermometer by it is bulb the bulb will not read the temperature.</studentAnswer>
+    <studentAnswer id="SE.27b.597.1" accuracy="correct">No, I say no because the thermometer would not be measuring the temperature of the object. It would be measuring the temperature of the student's fingers.</studentAnswer>
+    <studentAnswer id="SE.27b.600.1" accuracy="correct">No, I think no because if you put your finger to the bulb your fingers heat will go to the bulb and it will measure your heat from your finger.</studentAnswer>
+    <studentAnswer id="SE.27b.605.1" accuracy="incorrect">No, No because the temperature would be changed.</studentAnswer>
+  </studentAnswers>
+</question>

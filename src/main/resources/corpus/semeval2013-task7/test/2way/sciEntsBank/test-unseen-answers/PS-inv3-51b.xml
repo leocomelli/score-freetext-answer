@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_51b" module="PS">
+  <questionText>Katie got a guitar for her birthday. She experimented with the strings and found she could change their sounds. Katie also discovered that when she pressed down on a string with her finger, making the string shorter, the sound again changed. Describe how the sound was different when the string was shortened.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_51b-a1">When the string was shorter, the pitch was higher.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.51b.157.1" accuracy="incorrect">If you shorten the string it is louder.</studentAnswer>
+    <studentAnswer id="PS.51b.331.1" accuracy="correct">The pitch was a higher pitch.</studentAnswer>
+    <studentAnswer id="PS.51b.384.1" accuracy="incorrect">It makes a loud sound.</studentAnswer>
+    <studentAnswer id="PS.51b.502.1" accuracy="correct">The pitch will get higher.</studentAnswer>
+  </studentAnswers>
+</question>

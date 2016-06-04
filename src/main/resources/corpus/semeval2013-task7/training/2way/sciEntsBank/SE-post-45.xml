@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_45" module="SE">
+  <questionText>Betty was puzzled. In the morning the shadow of the bus sign is in the street. In the afternoon the shadow of the bus sign points the opposite direction. Explain to Betty why this happens.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_45-a1">In the morning the Sun is in the east so shadows point west. In the afternoon the Sun is in the west so shadows point east.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.45.114.1" accuracy="incorrect">I think that Betty was a best shadow that was facing the opposite direction.</studentAnswer>
+    <studentAnswer id="SE.45.123.1" accuracy="incorrect">The reason why this happened is because the sun revolves around the earth.</studentAnswer>
+    <studentAnswer id="SE.45.136.1" accuracy="incorrect">The shadow turns the opposite way in the afternoon, in the morning it is on the side of you.</studentAnswer>
+    <studentAnswer id="SE.45.139.1" accuracy="correct">In the morning the sun faced east so the bus sign's shadow was in the west. When it was the afternoon, the sun faced west. So the shadow went the opposite of where it used to be in the morning.</studentAnswer>
+    <studentAnswer id="SE.45.140.1" accuracy="incorrect">Since the earth spins, the sun twirls around us. In the morning it was hitting the bus sign in the back. Then later the shadow seems to have moved. It is because of the position of the sun.</studentAnswer>
+    <studentAnswer id="SE.45.146.1" accuracy="incorrect">Because the earth run into the sun and made the bus shadow go around.</studentAnswer>
+    <studentAnswer id="SE.45.150.1" accuracy="incorrect">If the sun is in the east the shadow is on the west. If the shadow is on the south then the shadow is on the north.</studentAnswer>
+    <studentAnswer id="SE.45.165.1" accuracy="incorrect">The sun is in different places at different times.</studentAnswer>
+    <studentAnswer id="SE.45.182.1" accuracy="incorrect">This happens because in the morning the sun rises north that is why the bus points in the street. The bus points the opposite direction, because the sun sets west.</studentAnswer>
+    <studentAnswer id="SE.45.250.1" accuracy="incorrect">Because the time changes so the shadow is at the opposite.</studentAnswer>
+    <studentAnswer id="SE.45.261.1" accuracy="incorrect">This happen because the sun moved over the sky.</studentAnswer>
+    <studentAnswer id="SE.45.313.1" accuracy="incorrect">In the morning the sun rises from the east, and the bus blocked the light and made a shadow on the opposite direction.</studentAnswer>
+    <studentAnswer id="SE.45.338.1" accuracy="incorrect">Because the sun orbits the earth and it goes from east to west and it gets shorter.</studentAnswer>
+    <studentAnswer id="SE.45.383.1" accuracy="correct">The sun rises in the east so the shadow was on the west and the sun sets in the west so the shadow was on the east.</studentAnswer>
+    <studentAnswer id="SE.45.386.1" accuracy="incorrect">Because over time the sun goes to the west moving the shadow.</studentAnswer>
+    <studentAnswer id="SE.45.387.1" accuracy="incorrect">Because the sun moves. So the shadow will change where it is.</studentAnswer>
+    <studentAnswer id="SE.45.394.1" accuracy="incorrect">Because the sun moves around. So it will shine the opposite direction.</studentAnswer>
+    <studentAnswer id="SE.45.401.1" accuracy="incorrect">Because the sun sets in the opposite direction. So what happens is the shadow will be on the opposite side.</studentAnswer>
+    <studentAnswer id="SE.45.434.1" accuracy="incorrect">The earth rotates making the sun in different spots causing the shadows to move in different spots.</studentAnswer>
+    <studentAnswer id="SE.45.441.1" accuracy="incorrect">As the earth rotates the part facing the sun is turning to make the sun in a different place which causes the to rotate.</studentAnswer>
+    <studentAnswer id="SE.45.443.1" accuracy="correct">The bus stop's shadow was facing the opposite direction because in the morning the sun rises from the east and the shadow was facing west. The sun sets in the west and so the shadow is facing east.</studentAnswer>
+    <studentAnswer id="SE.45.490.1" accuracy="incorrect">Because only one side of an object can get sunlight.</studentAnswer>
+    <studentAnswer id="SE.45.499.1" accuracy="incorrect">The earth orbits around the sun so the shadow will change.</studentAnswer>
+    <studentAnswer id="SE.45.515.1" accuracy="incorrect">This happens because the sun rises in the east and sets in the west, therefore the sun's light is hitting the stop sign at different positions.</studentAnswer>
+    <studentAnswer id="SE.45.518.1" accuracy="incorrect">Because our earth rotates.</studentAnswer>
+    <studentAnswer id="SE.45.539.1" accuracy="incorrect">This happens because of the earth, it rotates around the sun which of course the shadows will move, also the sun rises in the east and sets on the west.</studentAnswer>
+    <studentAnswer id="SE.45.556.1" accuracy="incorrect">Because while the earth rotates, we see the sun in different direction. The sun rises at the east and sets in the west.</studentAnswer>
+    <studentAnswer id="SE.45.558.1" accuracy="incorrect">Because when the earth rotates, not the sun, the sun moves, but it really stays in one place, making the shadow move.</studentAnswer>
+    <studentAnswer id="SE.45.596.1" accuracy="correct">This is happening because the sun rises in the east so in the morning the shadow will be in the west. The sun sets in the west so the shadows will be in the east.</studentAnswer>
+    <studentAnswer id="SE.45.599.1" accuracy="incorrect">The shadow of the bus stop changes direction because the sun is moving throughout the day so the sun will meet different at the stop sign. Because it moves the earth plus the stop sign.</studentAnswer>
+    <studentAnswer id="SE.45.603.1" accuracy="incorrect">It is the different time of the day.</studentAnswer>
+    <studentAnswer id="SE.45.606.1" accuracy="incorrect">Well Betty the earth moves around the sun and that kind of has something to do with it like at different times shadows move to different directions.</studentAnswer>
+    <studentAnswer id="SE.45.609.1" accuracy="incorrect">The bus sign faces different directions because the earth move throughout the day the sun does not move.</studentAnswer>
+    <studentAnswer id="SE.45.611.1" accuracy="incorrect">It happens because the earth is rotating and it does not stay on the same place every time of day.</studentAnswer>
+    <studentAnswer id="SE.45.616.1" accuracy="incorrect">That happened because the earth moves which made the sun face the other way and made the sign face the other direction.</studentAnswer>
+    <studentAnswer id="SE.45.620.1" accuracy="incorrect">Because the sun rises in the east and sets on the west. So in the morning the shadows will be facing one direction and on the afternoon it will be facing the other way.</studentAnswer>
+  </studentAnswers>
+</question>

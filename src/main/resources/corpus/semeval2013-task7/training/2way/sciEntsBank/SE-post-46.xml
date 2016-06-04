@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_46" module="SE">
+  <questionText>Amber predicted that a black covered box would heat up faster than a white covered box. She took 2 identical shoe boxes and wrapped one with white paper and the other with black paper. She punched a hole in each box, stuck a thermometer into each hole, and put both boxes in the sun. Every 5 minutes, Amber recorded the temperature in each box. Will the data support Amber's prediction? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_46-a1">Yes. Black absorbs more heat (energy) than white. White reflects more heat (energy) than black. Therefore the black covered box will heat up faster than the white covered box.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.46.109.1" accuracy="incorrect">Yes. The black box will get hotter than the white because the black box can hold more heat.</studentAnswer>
+    <studentAnswer id="SE.46.159.1" accuracy="correct">Yes. Because black is a dark color and it absorb heats faster than the white. White reflect so heats up slower.</studentAnswer>
+    <studentAnswer id="SE.46.162.1" accuracy="correct">Yes. Because black absorbs much more heat of the sun and white reflects the heat of the sun.</studentAnswer>
+    <studentAnswer id="SE.46.175.1" accuracy="correct">Yes. The black box will collect more heat, because it is black. Black absorbs light from the sun. White reflects light from the light.</studentAnswer>
+    <studentAnswer id="SE.46.177.1" accuracy="incorrect">Yes. I pick yes because that black do heat fast than white. Darker color heat faster and more hot air.</studentAnswer>
+    <studentAnswer id="SE.46.242.1" accuracy="incorrect">Yes. Because dark colors like black contract heat but light colors like white do not.</studentAnswer>
+    <studentAnswer id="SE.46.245.1" accuracy="incorrect">No. Because her data does not have enough information to support her prediction.</studentAnswer>
+    <studentAnswer id="SE.46.250.1" accuracy="incorrect">Yes. Because when someone is going to ask her what data support what is she going to say.</studentAnswer>
+    <studentAnswer id="SE.46.251.1" accuracy="correct">Yes. Because black absorbs heat and white does not absorb heat.</studentAnswer>
+    <studentAnswer id="SE.46.254.1" accuracy="incorrect">Black box. Because the black box absorb sunlight and that is why the black box is much more hotter than the white one.</studentAnswer>
+    <studentAnswer id="SE.46.255.1" accuracy="incorrect">Yes. Black is hotter than the white box because black gets hotter fast.</studentAnswer>
+    <studentAnswer id="SE.46.268.1" accuracy="incorrect">Yes. Because the black one will get hotter than the white one.</studentAnswer>
+    <studentAnswer id="SE.46.315.1" accuracy="correct">Yes. Yes because black absorbs the heat and traps it, and white just reflects the sun. So her prediction is right.</studentAnswer>
+    <studentAnswer id="SE.46.317.1" accuracy="incorrect">Yes. Because black absorbs heat faster than any type of color.</studentAnswer>
+    <studentAnswer id="SE.46.320.1" accuracy="incorrect">Yes. Because of the heat like black box is more hotter than the white one because of the color.</studentAnswer>
+    <studentAnswer id="SE.46.321.1" accuracy="incorrect">Yes. It will support Amber's prediction because black is covered and it attracts more solar heat.</studentAnswer>
+    <studentAnswer id="SE.46.383.1" accuracy="incorrect">Yes. Because black attracts heat. So it will heat up faster.</studentAnswer>
+    <studentAnswer id="SE.46.394.1" accuracy="incorrect">Yes. Because the sun hits the boxes and the inside gets really warm. So the thermometer will show the temp.</studentAnswer>
+    <studentAnswer id="SE.46.399.1" accuracy="incorrect">Yes. The black absorbs heat and energy, plus, the container is closed so the heat would be trapped inside.</studentAnswer>
+    <studentAnswer id="SE.46.407.1" accuracy="incorrect">Yes. Because black heats up faster than white. Because black is a darker and the white is lighter.</studentAnswer>
+    <studentAnswer id="SE.46.416.1" accuracy="incorrect">No. The data will not support her answer because all it says are the materials and what she is going to do.</studentAnswer>
+    <studentAnswer id="SE.46.418.1" accuracy="correct">Yes. Because anything black will absorb the heat, and the heat will make the box hotter every 5 minutes that she checks. But if she was talking about the white box the answer would be no because white does not absorb heat like black does, it just makes it even cooler than hotter. So the answer is Yes!</studentAnswer>
+    <studentAnswer id="SE.46.441.1" accuracy="correct">Yes. The black box will heat up faster than the white because the black box is darker than the white box so the white box reflects the heat and the black box collects the heat.</studentAnswer>
+    <studentAnswer id="SE.46.519.1" accuracy="incorrect">Yes. Yes, because she did all the steps she got 2 boxes and wrapped one with white paper and the other with black paper. She punched a hole in each box, stuck a thermometer into each hole and put the boxes in the sun and recorded the temperature in each box.</studentAnswer>
+    <studentAnswer id="SE.46.525.1" accuracy="incorrect">Yes. Yes it will because your prediction is based off of what you know and to have data to refer back to you probably will have a more accurate answer.</studentAnswer>
+    <studentAnswer id="SE.46.538.1" accuracy="correct">Yes. The black box absorbs the heat, then releases slowly meaning it is hotter because the white box reflects the heat.</studentAnswer>
+    <studentAnswer id="SE.46.540.1" accuracy="incorrect">Yes. Well, black attracts to the sun more than white does so the black box is going to get hotter.</studentAnswer>
+    <studentAnswer id="SE.46.545.1" accuracy="correct">Yes. Because black heats up faster and white reflects.</studentAnswer>
+    <studentAnswer id="SE.46.549.1" accuracy="correct">Yes. Since the box is black, black attracts or absorbs heat faster, the other box is white which reflects more sunlight than absorbing it.</studentAnswer>
+    <studentAnswer id="SE.46.570.1" accuracy="incorrect">Yes. Because the box is black and the heat goes faster than white.</studentAnswer>
+    <studentAnswer id="SE.46.580.1" accuracy="incorrect">Yes. If she wanted to heat up a box it would be the black one because a dark color takes the heat faster than the white one because white is brighter than black.</studentAnswer>
+    <studentAnswer id="SE.46.592.1" accuracy="correct">Yes. The black covered one is going to get hotter because black absorbs heat and white reflects the heat.</studentAnswer>
+    <studentAnswer id="SE.46.593.1" accuracy="correct">Yes. Yes because light colors will reflect the sun and black or darker colors will absorb the sun and if light or white colors reflect the sun then it will not get as much heat as the black or light colors.</studentAnswer>
+    <studentAnswer id="SE.46.598.1" accuracy="correct">Yes. Because black always heats faster than white and white reflects the heat from the sun.</studentAnswer>
+    <studentAnswer id="SE.46.599.1" accuracy="correct">Yes. I know that black materials or plastic or just black will absorb the heat more and white reflects the heat or light back. Also black heats faster and more.</studentAnswer>
+    <studentAnswer id="SE.46.600.1" accuracy="incorrect">Yes. I say yes because she will measure each box and she is going to take it cold and hot so one is going to be up and one other is going to go down.</studentAnswer>
+  </studentAnswers>
+</question>

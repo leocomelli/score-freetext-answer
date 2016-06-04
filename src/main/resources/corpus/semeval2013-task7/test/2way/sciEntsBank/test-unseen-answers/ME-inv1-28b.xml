@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ME_28b" module="ME">
+  <questionText>Look at the picture on the right. Label the poles on each magnet. (The bottom 2 magnets are stuck together, the others are not.) What is the rule that explains why you labeled the poles the way you did?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_28b-a1">Like poles repel and opposite poles attract.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.28b.xx-22.1" accuracy="incorrect">The reason why the rings do not touch is because the magnetic force of the magnet are the same.</studentAnswer>
+    <studentAnswer id="ME.28b.xx-25.1" accuracy="incorrect">They are not touching each other because the same poles are facing towards each other making them repel.</studentAnswer>
+    <studentAnswer id="ME.28b.xx-26.1" accuracy="incorrect">It is not touching because it is the other way around.</studentAnswer>
+    <studentAnswer id="ME.28b.xx-27.1" accuracy="incorrect">The reason the magnets on the pencil are not touching because of magnetic force.</studentAnswer>
+  </studentAnswers>
+</question>

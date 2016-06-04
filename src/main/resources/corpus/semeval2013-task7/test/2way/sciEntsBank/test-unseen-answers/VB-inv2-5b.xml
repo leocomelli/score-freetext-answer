@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="VB_5b" module="VB">
+  <questionText>Explain in one sentence what each graph tells you. Graph B) speed of light versus time.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="VB_5b-a1">As time increases, the speed of light stays the same (remains constant).</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="VB.5b.423.1" accuracy="incorrect">How fast the light speeds and how many times it goes.</studentAnswer>
+    <studentAnswer id="VB.5b.481.1" accuracy="incorrect">This graph shows that the light was getting lighter and lighter by the minute.</studentAnswer>
+    <studentAnswer id="VB.5b.483.1" accuracy="correct">The speed of light does not change over time.</studentAnswer>
+    <studentAnswer id="VB.5b.636.1" accuracy="correct">The light is staying the same and the time is increasing.</studentAnswer>
+  </studentAnswers>
+</question>

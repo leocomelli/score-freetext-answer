@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ME_7b" module="ME">
+  <questionText>Lee has an object he wants to test to see if it is an insulator or a conductor. He is going to use the circuit you see in the picture. How will he know if the object is a conductor?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ME_7b-a1">If the motor runs, the object is a conductor.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ME.7b.102.1" accuracy="correct">The motor will run that is how you will know.</studentAnswer>
+    <studentAnswer id="ME.7b.105.1" accuracy="correct">He will know because the motor will run.</studentAnswer>
+    <studentAnswer id="ME.7b.107.1" accuracy="correct">He will know it is a conductor if the motor spins.</studentAnswer>
+    <studentAnswer id="ME.7b.108.1" accuracy="incorrect">It will conduct electricity.</studentAnswer>
+    <studentAnswer id="ME.7b.120.1" accuracy="correct">He will know because the motor will come on if it is a conductor.</studentAnswer>
+    <studentAnswer id="ME.7b.140.1" accuracy="correct">Only if the motor works then is a conductor.</studentAnswer>
+    <studentAnswer id="ME.7b.143.1" accuracy="correct">If the motor starts running.</studentAnswer>
+    <studentAnswer id="ME.7b.149.1" accuracy="correct">If it runs.</studentAnswer>
+    <studentAnswer id="ME.7b.153.1" accuracy="correct">If the motor comes on.</studentAnswer>
+    <studentAnswer id="ME.7b.154.1" accuracy="correct">He will know that it will allow the flow of energy.</studentAnswer>
+    <studentAnswer id="ME.7b.155.1" accuracy="correct">Lee would know if is a conductor if it runs.</studentAnswer>
+    <studentAnswer id="ME.7b.173.1" accuracy="incorrect">He will know because a conductor is not glowing in a circuit.</studentAnswer>
+    <studentAnswer id="ME.7b.176.1" accuracy="correct">You will know it is a conductor because the motor will run.</studentAnswer>
+    <studentAnswer id="ME.7b.179.1" accuracy="correct">If the objects a conductor the motor should run and electricity will be able to flow.</studentAnswer>
+    <studentAnswer id="ME.7b.183.1" accuracy="correct">If the motor runs.</studentAnswer>
+    <studentAnswer id="ME.7b.190.1" accuracy="correct">It will run or turn on if it is a conductor.</studentAnswer>
+    <studentAnswer id="ME.7b.192.1" accuracy="incorrect">He will know because the energy will flow in a circle and there will be a open circuit.</studentAnswer>
+    <studentAnswer id="ME.7b.207.1" accuracy="correct">It will run.</studentAnswer>
+    <studentAnswer id="ME.7b.208.1" accuracy="correct">The object will go.</studentAnswer>
+    <studentAnswer id="ME.7b.215.1" accuracy="incorrect">If the light is on or off.</studentAnswer>
+    <studentAnswer id="ME.7b.216.1" accuracy="incorrect">By doing what I wrote for the first part.</studentAnswer>
+    <studentAnswer id="ME.7b.224.1" accuracy="correct">You will know because it will start to work.</studentAnswer>
+    <studentAnswer id="ME.7b.225.1" accuracy="correct">He will know the object is a conductor if the energy flows through.</studentAnswer>
+    <studentAnswer id="ME.7b.227.1" accuracy="correct">He will know if the object is a conductor because the motor will run.</studentAnswer>
+    <studentAnswer id="ME.7b.228.1" accuracy="incorrect">If the object is a conductor it will do what it is suppose to do.</studentAnswer>
+    <studentAnswer id="ME.7b.247.1" accuracy="incorrect">To try it out and see if it is a conductor.</studentAnswer>
+    <studentAnswer id="ME.7b.250.1" accuracy="correct">You will know if the motor runs.</studentAnswer>
+    <studentAnswer id="ME.7b.253.1" accuracy="correct">You will know if the motor turns on that it is a good conductor.</studentAnswer>
+    <studentAnswer id="ME.7b.278.1" accuracy="correct">He will know if the motor runs.</studentAnswer>
+    <studentAnswer id="ME.7b.280.1" accuracy="correct">If it runs.</studentAnswer>
+    <studentAnswer id="ME.7b.292.1" accuracy="incorrect">He can put thing on a D-Cell.</studentAnswer>
+    <studentAnswer id="ME.7b.313.1" accuracy="incorrect">The light bulb will or the motor will make a sound.</studentAnswer>
+    <studentAnswer id="ME.7b.318.1" accuracy="correct">The motor will work and that annoying buzz will come back.</studentAnswer>
+    <studentAnswer id="ME.7b.324.1" accuracy="incorrect">Check if is right or not.</studentAnswer>
+    <studentAnswer id="ME.7b.325.1" accuracy="correct">He will know that if the motor runs.</studentAnswer>
+    <studentAnswer id="ME.7b.383.1" accuracy="correct">The motor will run.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_32b" module="WA">
+  <questionText>Ted poured the same amount of water into 2 small containers, X and Y. He placed them together where they would not be disturbed. After several days, all of the water had evaporated from one of the containers. The other container still had some water. Which container, X or Y, was empty? Explain why the water in that container evaporated more quickly than the water in the other container.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_32b-a1">Container X has more surface area or more water exposed to the air so the water evaporated faster.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.32b.171.1" accuracy="correct">Because X had more room to evaporate and Y did not.</studentAnswer>
+    <studentAnswer id="WA.32b.172.1" accuracy="correct">The water in container X had a more open space to evaporate, so it evaporated. The water in container Y could not evaporate because it did not have an open space to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.173.1" accuracy="correct">X evaporated more than Y because container X has more surface area than container Y so it evaporated faster.</studentAnswer>
+    <studentAnswer id="WA.32b.174.1" accuracy="correct">There is more surface area on container X so more water could evaporate at one time.</studentAnswer>
+    <studentAnswer id="WA.32b.175.1" accuracy="correct">The water in X evaporated because the more surface area the more air can get to it to make it evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.176.1" accuracy="correct">X evaporated faster because it has more space to evaporate quicker.</studentAnswer>
+    <studentAnswer id="WA.32b.182.1" accuracy="correct">The water in container X evaporated more quickly than the water in container Y because in container X there is more wide and open, so the water evaporated faster, but since the container for cup Y was closed and not open very much, then the water evaporated slower.</studentAnswer>
+    <studentAnswer id="WA.32b.193.1" accuracy="correct">The water in container X evaporates faster because the container has more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.198.1" accuracy="correct">X because X has more surface area and if you have lots of surface area it will evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.206.1" accuracy="correct">Container X had a bigger surface area, causing the water to evaporate more quickly.</studentAnswer>
+    <studentAnswer id="WA.32b.207.1" accuracy="correct">The X container has more surface area than the Y container.</studentAnswer>
+    <studentAnswer id="WA.32b.208.1" accuracy="correct">It evaporated faster because there was more room in the container and it's a wider cup. It had more room to evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.209.1" accuracy="correct">Well, if there is a bigger surface area then the water will evaporate more quickly.</studentAnswer>
+    <studentAnswer id="WA.32b.210.1" accuracy="correct">Because the surface area was wider.</studentAnswer>
+    <studentAnswer id="WA.32b.214.1" accuracy="correct">I believe X evaporated more quickly because X has more space and Y does not.</studentAnswer>
+    <studentAnswer id="WA.32b.222.1" accuracy="correct">It is wider.</studentAnswer>
+    <studentAnswer id="WA.32b.223.1" accuracy="correct">Because cup X had more surface area, which makes it easier to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.230.1" accuracy="correct">It evaporated more quickly because there was more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.231.1" accuracy="correct">The surface area of container X is bigger, causing it to evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.241.1" accuracy="correct">Because the surface area was wider so it had more room to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.244.1" accuracy="correct">That water moved more quickly because it had a larger surface area causing it to evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.251.1" accuracy="correct">X has a bigger opening on the top of it.</studentAnswer>
+    <studentAnswer id="WA.32b.254.1" accuracy="correct">Because it has more area but Y does not.</studentAnswer>
+    <studentAnswer id="WA.32b.255.1" accuracy="correct">Container X evaporated quicker because it had greater surface area. So more water molecules were exposed to the air, so they evaporated quicker.</studentAnswer>
+    <studentAnswer id="WA.32b.256.1" accuracy="correct">X had more room and more gate that is how.</studentAnswer>
+    <studentAnswer id="WA.32b.257.1" accuracy="correct">The water in the X container had a larger surface area. Which let it evaporate more water faster.</studentAnswer>
+    <studentAnswer id="WA.32b.261.1" accuracy="correct">It evaporated quickly because it had a larger surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.262.1" accuracy="correct">Because X had more surface area than Y.</studentAnswer>
+    <studentAnswer id="WA.32b.263.1" accuracy="correct">X evaporated more because it has more room for the water to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.264.1" accuracy="incorrect">Because the cup Y is larger it is tall so it would have to evaporate and X is not tall so it will not evaporate as quickly.</studentAnswer>
+    <studentAnswer id="WA.32b.276.1" accuracy="correct">Because it has a bigger surface area so it will evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.284.1" accuracy="incorrect">The container was more denser.</studentAnswer>
+    <studentAnswer id="WA.32b.287.1" accuracy="correct">X was empty because it has surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.296.1" accuracy="correct">Y is more skinnier so it does not have enough room to evaporate so X is wider so it has a lot of room to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.299.1" accuracy="incorrect">Because it does not have as much surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.300.1" accuracy="correct">Because it has more room space where the water could evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.301.1" accuracy="correct">X had more surface area. So most of X water had evaporated.</studentAnswer>
+    <studentAnswer id="WA.32b.346.1" accuracy="correct">Because container X had more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.351.1" accuracy="correct">X had more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.358.1" accuracy="correct">Why I picked the letter X is because of the surface area. It has to be wider than a milk carton.</studentAnswer>
+    <studentAnswer id="WA.32b.359.1" accuracy="correct">Because it had a bigger surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.364.1" accuracy="correct">Y is hollow so there is not a lot of room for it to evaporate and X is wide so it would be able to evaporate more quickly.</studentAnswer>
+    <studentAnswer id="WA.32b.368.1" accuracy="correct">Because X has a wider opening than Y so the evaporation will get to X quicker.</studentAnswer>
+    <studentAnswer id="WA.32b.369.1" accuracy="correct">Because X is fatter than Y and Y is tall so the water on the bottom will not evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.383.1" accuracy="incorrect">Because the water in Y was more heated.</studentAnswer>
+    <studentAnswer id="WA.32b.384.1" accuracy="correct">Because there was more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.392.1" accuracy="correct">Because the container X had more surface area, and the more surface area the faster it evaporates.</studentAnswer>
+    <studentAnswer id="WA.32b.397.1" accuracy="incorrect">Because that water has taken before so that water evaporated more quickly than the other.</studentAnswer>
+    <studentAnswer id="WA.32b.404.1" accuracy="correct">X was exposed to the air more and had more surface area than Y.</studentAnswer>
+    <studentAnswer id="WA.32b.416.1" accuracy="correct">That one was empty because it had more surface area, so the sun or air could get to it easier. If it has more surface area, the more likely it is to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.418.1" accuracy="incorrect">X evaporated more quickly because there was more air being exposed.</studentAnswer>
+    <studentAnswer id="WA.32b.422.1" accuracy="correct">The water in cup X was exposed to more air which allowed it to evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.455.1" accuracy="correct">Container X had more surface area so it evaporated quicker than container Y.</studentAnswer>
+    <studentAnswer id="WA.32b.457.1" accuracy="correct">It had a larger surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.461.1" accuracy="correct">X had a larger opening than the other cup.</studentAnswer>
+    <studentAnswer id="WA.32b.462.1" accuracy="incorrect">X evaporated more because X had more land area?</studentAnswer>
+    <studentAnswer id="WA.32b.463.1" accuracy="correct">The X container has a bigger surface area so it could evaporate quicker.</studentAnswer>
+    <studentAnswer id="WA.32b.467.1" accuracy="correct">It has more surface area so more air can get to it and evaporate it.</studentAnswer>
+    <studentAnswer id="WA.32b.521.1" accuracy="correct">Because that container had a bigger opening than the other.</studentAnswer>
+    <studentAnswer id="WA.32b.522.1" accuracy="correct">X has a bigger surface area so it will evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.523.1" accuracy="correct">Because X had more surface area than cup Y.</studentAnswer>
+    <studentAnswer id="WA.32b.524.1" accuracy="correct">Because it had a bigger surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.525.1" accuracy="correct">Because the surface area is more bigger than the other container.</studentAnswer>
+    <studentAnswer id="WA.32b.526.1" accuracy="correct">Because X has a larger surface area, so the cup with the larger surface area would evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.529.1" accuracy="correct">It evaporated more quickly because it had a larger surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.530.1" accuracy="correct">Because X had more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.532.1" accuracy="incorrect">X because it is the tallest and X is wider but Y evaporated more.</studentAnswer>
+    <studentAnswer id="WA.32b.533.1" accuracy="correct">The X container had larger surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.534.1" accuracy="correct">Container X had a larger surface area than container Y.</studentAnswer>
+    <studentAnswer id="WA.32b.535.1" accuracy="correct">Because X has more surface area and so it will evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.537.1" accuracy="correct">Surface area affects evaporation X had a bigger surface area than Y so X evaporated faster than Y.</studentAnswer>
+    <studentAnswer id="WA.32b.539.1" accuracy="incorrect">Because someone picked it up and drank it.</studentAnswer>
+    <studentAnswer id="WA.32b.541.1" accuracy="correct">Because it has more area to come out in.</studentAnswer>
+    <studentAnswer id="WA.32b.556.1" accuracy="correct">Because X has more surface area than Y.</studentAnswer>
+    <studentAnswer id="WA.32b.557.1" accuracy="incorrect">Because there is more in the X cup.</studentAnswer>
+    <studentAnswer id="WA.32b.558.1" accuracy="correct">The container was wider than the other.</studentAnswer>
+    <studentAnswer id="WA.32b.559.1" accuracy="correct">Because it had more space.</studentAnswer>
+    <studentAnswer id="WA.32b.567.1" accuracy="correct">Because it has more surface area, room for water to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.569.1" accuracy="correct">Because it had more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.572.1" accuracy="incorrect">Because it had more space in the cup.</studentAnswer>
+    <studentAnswer id="WA.32b.573.1" accuracy="correct">Because X has more surface area than Y and the more surface tension, the faster the water evaporates.</studentAnswer>
+    <studentAnswer id="WA.32b.576.1" accuracy="incorrect">Because maybe he put container Y was put in after container X.</studentAnswer>
+    <studentAnswer id="WA.32b.577.1" accuracy="correct">The surface area of the X cup was wider than the Y.</studentAnswer>
+    <studentAnswer id="WA.32b.594.1" accuracy="correct">Because X had more surface area than Y and Y was thin and it will take a bit longer to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.599.1" accuracy="incorrect">Because Y is deeper than X so it will take longer to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.603.1" accuracy="correct">Because it was spread out more so it evaporated faster.</studentAnswer>
+    <studentAnswer id="WA.32b.608.1" accuracy="correct">Because each day it only takes what is at the top so X will take less days to evaporate than Y because of the shape.</studentAnswer>
+    <studentAnswer id="WA.32b.609.1" accuracy="correct">Container X evaporated faster because the water had more surface area which allows more water to evaporate at once.</studentAnswer>
+    <studentAnswer id="WA.32b.610.1" accuracy="incorrect">Because there is a smaller surface of the water to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.611.1" accuracy="correct">Because it had more surface area.</studentAnswer>
+    <studentAnswer id="WA.32b.631.1" accuracy="correct">X had a bigger surface area then Y so it evaporated faster.</studentAnswer>
+    <studentAnswer id="WA.32b.632.1" accuracy="incorrect">Because there is more space around the water so it evaporates quicker.</studentAnswer>
+    <studentAnswer id="WA.32b.635.1" accuracy="incorrect">The more flatter it is the faster it evaporates and the more fatter it is the longer it takes to evaporate.</studentAnswer>
+    <studentAnswer id="WA.32b.636.1" accuracy="correct">X has more surface area, so more could evaporate at the same time.</studentAnswer>
+    <studentAnswer id="WA.32b.637.1" accuracy="correct">Because the container had a bigger surface.</studentAnswer>
+    <studentAnswer id="WA.32b.638.1" accuracy="correct">X because X has a bigger surface area than Y.</studentAnswer>
+    <studentAnswer id="WA.32b.639.1" accuracy="correct">Because when something has a wider area the water evaporates faster.</studentAnswer>
+    <studentAnswer id="WA.32b.640.1" accuracy="correct">Because it had more spot where the sun was hitting so there was more evaporation was going to happen than Y.</studentAnswer>
+    <studentAnswer id="WA.32b.642.1" accuracy="correct">Because in X it has lots of surface area so it should evaporate faster.</studentAnswer>
+    <studentAnswer id="WA.32b.643.1" accuracy="correct">The more space you have it will evaporate more.</studentAnswer>
+  </studentAnswers>
+</question>

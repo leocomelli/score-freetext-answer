@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="ST_31b" module="ST">
+  <questionText>One function of the bess beetle's elytra (the hard, black wing set) is protection. What is another function of the elytra?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_31b-a1">The elytra are used to make sounds.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.31b.384.1" accuracy="correct">To make sound.</studentAnswer>
+    <studentAnswer id="ST.31b.391.1" accuracy="correct">To make noise.</studentAnswer>
+    <studentAnswer id="ST.31b.394.1" accuracy="incorrect">Another function is to protect.</studentAnswer>
+    <studentAnswer id="ST.31b.397.1" accuracy="correct">To make sounds.</studentAnswer>
+    <studentAnswer id="ST.31b.399.1" accuracy="incorrect">To protect.</studentAnswer>
+    <studentAnswer id="ST.31b.400.1" accuracy="incorrect">It is to work and the abdomen?</studentAnswer>
+    <studentAnswer id="ST.31b.419.1" accuracy="incorrect">Their soft body.</studentAnswer>
+    <studentAnswer id="ST.31b.421.1" accuracy="incorrect">The jaw.</studentAnswer>
+    <studentAnswer id="ST.31b.425.1" accuracy="incorrect">To fly.</studentAnswer>
+    <studentAnswer id="ST.31b.427.1" accuracy="incorrect">Horn.</studentAnswer>
+    <studentAnswer id="ST.31b.454.1" accuracy="incorrect">Protection.</studentAnswer>
+    <studentAnswer id="ST.31b.458.1" accuracy="correct">To help make the strangulating sound.</studentAnswer>
+    <studentAnswer id="ST.31b.459.1" accuracy="incorrect">Protecting the thorax.</studentAnswer>
+    <studentAnswer id="ST.31b.460.1" accuracy="incorrect">To help strangulate.</studentAnswer>
+    <studentAnswer id="ST.31b.461.1" accuracy="correct">Making a sound.</studentAnswer>
+    <studentAnswer id="ST.31b.463.1" accuracy="correct">Another function is to strangulate or make noises.</studentAnswer>
+    <studentAnswer id="ST.31b.470.1" accuracy="incorrect">Strangulating.</studentAnswer>
+    <studentAnswer id="ST.31b.490.1" accuracy="incorrect">The hard black wing set.</studentAnswer>
+    <studentAnswer id="ST.31b.491.1" accuracy="incorrect">Abdomen.</studentAnswer>
+    <studentAnswer id="ST.31b.493.1" accuracy="incorrect">Another function of the elytra is to fly.</studentAnswer>
+    <studentAnswer id="ST.31b.527.1" accuracy="correct">To make noise with wings.</studentAnswer>
+    <studentAnswer id="ST.31b.530.1" accuracy="incorrect">Another function for elytra is abdomen.</studentAnswer>
+    <studentAnswer id="ST.31b.532.1" accuracy="incorrect">Thorax abdomen.</studentAnswer>
+    <studentAnswer id="ST.31b.534.1" accuracy="incorrect">Their wings.</studentAnswer>
+    <studentAnswer id="ST.31b.535.1" accuracy="incorrect">Hard skin.</studentAnswer>
+    <studentAnswer id="ST.31b.536.1" accuracy="correct">The elytra flies. It makes a sound.</studentAnswer>
+    <studentAnswer id="ST.31b.560.1" accuracy="incorrect">When the Bess beetles are crawling in the wood they need something hard to protect itself.</studentAnswer>
+    <studentAnswer id="ST.31b.568.1" accuracy="incorrect">Another function is the horn.</studentAnswer>
+    <studentAnswer id="ST.31b.570.1" accuracy="incorrect">It scares other animals away.</studentAnswer>
+    <studentAnswer id="ST.31b.576.1" accuracy="incorrect">To fly.</studentAnswer>
+    <studentAnswer id="ST.31b.593.1" accuracy="incorrect">For protecting inner parts while going through small areas.</studentAnswer>
+    <studentAnswer id="ST.31b.605.1" accuracy="incorrect">To protect itself.</studentAnswer>
+    <studentAnswer id="ST.31b.606.1" accuracy="incorrect">Another function is to protect the abdomen.</studentAnswer>
+    <studentAnswer id="ST.31b.607.1" accuracy="incorrect">The elytra also protects the Bess beetle if it falls on its back.</studentAnswer>
+    <studentAnswer id="ST.31b.632.1" accuracy="incorrect">It covers the wings.</studentAnswer>
+    <studentAnswer id="ST.31b.635.1" accuracy="correct">The elytra makes sounds. Example danger, Example did you have a good day.</studentAnswer>
+  </studentAnswers>
+</question>

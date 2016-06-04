@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="LP_16d" module="LP">
+  <questionText>Look at the illustration of the pulley system at the right to answer the questions. What additional disadvantages might there be to this system compared to a single fixed pulley system?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="LP_16d-a1">You have to pull up in this system.  In the single fixed pulley system, you get a directional advantage.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="LP.16d.108.1" accuracy="incorrect">A single fixed single movable has 2 more ropes than a single fixed. A single fixed system has one rope that separates the effort.</studentAnswer>
+    <studentAnswer id="LP.16d.116.1" accuracy="incorrect">A single fixed does not change anything but a single fixed or single movable effort is 3 times the distance.</studentAnswer>
+    <studentAnswer id="LP.16d.351.1" accuracy="incorrect">Another disadvantage would be that the system would be more time consuming.</studentAnswer>
+    <studentAnswer id="LP.16d.595.1" accuracy="incorrect">The disadvantage would again be distance. On the single fixed, if you wanted to lift something 4 foot, you would have to lift it 4 foot. On a single fixed or single movable upward effort, you would have to lift it 12 foot.</studentAnswer>
+  </studentAnswers>
+</question>

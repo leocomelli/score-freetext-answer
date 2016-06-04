@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_48" module="SE">
+  <questionText>Maggie wanted to find out if surface area affected temperature change. She had 3 white cake pans. She filled each with 300 milliliters of water. She put one small black plastic disk in pan A, 2 in pan B, and 3 in pan C. Then she put all 3 pans in the sun. When Maggie measured the water temperature in each pan after 15 minutes, which pan do you think held the hottest water? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_48-a1">C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.48.385.1" accuracy="correct">C. Because black absorbs heat and C has more black area so I think it is C.</studentAnswer>
+    <studentAnswer id="SE.48.556.1" accuracy="correct">C. Because it has the most black disks. Black absorbs heat.</studentAnswer>
+    <studentAnswer id="SE.48.580.1" accuracy="correct">C. I picked C because A and B only have one or 2 black plastic disks and that does not take as much heat. Also C has more black so it would be hotter because there is more black.</studentAnswer>
+    <studentAnswer id="SE.48.608.1" accuracy="correct">C. Pan C held the hottest water because pan C has a lot of black in it and black absorbs heat. Pan A and B have barely any black. There is more water showing and I know that since water is a heat sink it takes longer to heat up.</studentAnswer>
+  </studentAnswers>
+</question>

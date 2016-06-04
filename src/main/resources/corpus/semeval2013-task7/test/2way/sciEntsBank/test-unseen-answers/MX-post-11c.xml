@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MX_11c" module="MX">
+  <questionText>Jim used a solid and water to make Mixtures one (one spoon of solid in 100 milliliters water was clear with nothing on the bottom), 3 (3 spoons of solid in 100 milliliters water was clear with nothing on the bottom), 4 (4 spoons of solid in 100 milliliters water was clear with material on the bottom), and 5 (5 spoons of solid in 100 milliliters water was clear with material on the bottom) as shown below. He stirred each one and observed the results. Is the concentration of Mixture 5 less than, greater than, or the same as the concentration of Mixture 4? Explain your answer.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MX_11c-a1">The concentrations are the same because both mixtures are saturated.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MX.11c.304.1" accuracy="incorrect">Mixture 5 is greater than mixture 4, it had more solid.</studentAnswer>
+    <studentAnswer id="MX.11c.385.1" accuracy="correct">The same because they are saturation and it cannot go any more.</studentAnswer>
+    <studentAnswer id="MX.11c.532.1" accuracy="incorrect">Same because they both got something.</studentAnswer>
+    <studentAnswer id="MX.11c.592.1" accuracy="incorrect">More because there is more solid.</studentAnswer>
+  </studentAnswers>
+</question>

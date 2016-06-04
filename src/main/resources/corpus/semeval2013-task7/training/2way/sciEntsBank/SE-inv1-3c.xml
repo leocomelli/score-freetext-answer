@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="SE_3c" module="SE">
+  <questionText>Why does the tree shown in the picture have a shadow?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_3c-a1">The tree blocks the light from the Sun.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.3c.115.1" accuracy="incorrect">If it show on south east the shadow will be facing north east.</studentAnswer>
+    <studentAnswer id="SE.3c.128.1" accuracy="incorrect">In the early afternoon it would look point, north east.</studentAnswer>
+    <studentAnswer id="SE.3c.139.1" accuracy="correct">The tree has a shadow because the tree blocked the sun from hitting the ground.</studentAnswer>
+    <studentAnswer id="SE.3c.140.1" accuracy="correct">There is a shadow there because the sun is behind it and light cannot go through solid objects. Note, I think that question was kind of dumb.</studentAnswer>
+    <studentAnswer id="SE.3c.147.1" accuracy="incorrect">Because the sun is over it.</studentAnswer>
+    <studentAnswer id="SE.3c.156.1" accuracy="incorrect">Because the tree is of front.</studentAnswer>
+    <studentAnswer id="SE.3c.158.1" accuracy="correct">Because the sun hits the tree with light and part of the tree is breaking it creates a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.162.1" accuracy="incorrect">Because everything has a shadow and because of the sun.</studentAnswer>
+    <studentAnswer id="SE.3c.184.1" accuracy="incorrect">The sun goes over us and we go around.</studentAnswer>
+    <studentAnswer id="SE.3c.185.1" accuracy="incorrect">So it could look like a shadow to us.</studentAnswer>
+    <studentAnswer id="SE.3c.191.1" accuracy="incorrect">Because the sun is hitting the tree and it is making a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.247.1" accuracy="incorrect">Because the sun is up.</studentAnswer>
+    <studentAnswer id="SE.3c.248.1" accuracy="incorrect">The object of the shadow is blocking light so there would be a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.260.1" accuracy="correct">Because the sun is hitting at an object, and making a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.315.1" accuracy="correct">The tree is blocking the sun rays.</studentAnswer>
+    <studentAnswer id="SE.3c.332.1" accuracy="correct">Because the sun is on the east part and the trees block the sun.</studentAnswer>
+    <studentAnswer id="SE.3c.338.1" accuracy="incorrect">Because it is an object and it covers part of the sun's brightness.</studentAnswer>
+    <studentAnswer id="SE.3c.384.1" accuracy="incorrect">Because when an opaque object stands in the way of light the shadow is what replaces the light that should have been there.</studentAnswer>
+    <studentAnswer id="SE.3c.388.1" accuracy="correct">Because the tree is in the sun's way so it will cast off a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.404.1" accuracy="incorrect">Because it either has the light on it or some kind of light on it.</studentAnswer>
+    <studentAnswer id="SE.3c.495.1" accuracy="incorrect">The tree in this picture has a shadow because the tree is something that can be reflected to the ground by the sun, and in this picture, the sun is out.</studentAnswer>
+    <studentAnswer id="SE.3c.506.1" accuracy="incorrect">It has a shadow because the sun is facing one part of the tree and the dark part of the tree becomes a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.507.1" accuracy="incorrect">The tree in the picture below has a shadow because the light hits the object and why there a shadow is because the light is being blocked off from front on back of the object.</studentAnswer>
+    <studentAnswer id="SE.3c.512.1" accuracy="correct">Because the sun is going on it and it is blocking the light.</studentAnswer>
+    <studentAnswer id="SE.3c.513.1" accuracy="incorrect">Because when a substance of an object blocks light, it creates a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.539.1" accuracy="correct">Because the tree is blocking the sunshine.</studentAnswer>
+    <studentAnswer id="SE.3c.540.1" accuracy="incorrect">Because the tree is an object that is blocking the light.</studentAnswer>
+    <studentAnswer id="SE.3c.547.1" accuracy="correct">Because it blocks the light source that is trying to get through.</studentAnswer>
+    <studentAnswer id="SE.3c.562.1" accuracy="incorrect">Because the sun is up.</studentAnswer>
+    <studentAnswer id="SE.3c.565.1" accuracy="incorrect">Because the sun is behind the tree and the shadow is in front of it.</studentAnswer>
+    <studentAnswer id="SE.3c.580.1" accuracy="incorrect">The tree has a shadow because there is a sun.</studentAnswer>
+    <studentAnswer id="SE.3c.602.1" accuracy="incorrect">The tree has a shadow because it is an object that block a light.</studentAnswer>
+    <studentAnswer id="SE.3c.608.1" accuracy="correct">The tree shown in the picture has a shadow because tree blocked the light of the sun.</studentAnswer>
+    <studentAnswer id="SE.3c.612.1" accuracy="incorrect">It has a shadow because the tree is blocking the light from getting away.</studentAnswer>
+    <studentAnswer id="SE.3c.615.1" accuracy="correct">The tree is an object blocking the sun so it has a shadow.</studentAnswer>
+    <studentAnswer id="SE.3c.618.1" accuracy="correct">The tree has a shadow because it is blocking the sun's light.</studentAnswer>
+  </studentAnswers>
+</question>

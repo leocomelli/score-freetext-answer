@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_16b2" module="SE">
+  <questionText>Cory and Rachael set up 3 solar water heaters to see which would show the greatest water temperature change. The containers are shown below. Each is the same height (4 centimeters), and the same width (10 centimeters). Only the lengths are different; Container A is 10 centimeters, Container B is 30 centimeters, and Container C is 40 centimeters. They painted the plastic containers black, filled each with the same amount of water, and put a clear plastic lid on each one. Then they set them out in the sunshine. Here are the data that Cory and Rachael collected: After 10 minutes Container A was 3 degrees Celsius, Container B was 9 degrees Celsius, and Container C was 12 degrees Celsius. Use the graph paper on the next page to graph the temperature change for each container. If Cory and Rachael had a container that was the same height and width as the other containers, but 20 centimeters long, what do you think the temperature change would be after 10 minutes? (6 Celsius) How did you decide what the temperature change would be for the new container?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_16b2-a1">20 centimeters size is between 10 and 30 centimeters, so the temperature change must be less than the 30 centimeters container, but more than the 10 centimeters container. 6 degrees Celsius is halfway between.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.16b2.407.1" accuracy="incorrect">I looked at the graph and saw that if 10 centimeters was 3 then it might be 6 centimeters.</studentAnswer>
+    <studentAnswer id="SE.16b2.419.1" accuracy="incorrect">I decided by looking at collector A's temperature at 10 minutes and doubled it.</studentAnswer>
+    <studentAnswer id="SE.16b2.506.1" accuracy="incorrect">Because it was the highest one so C got hotter.</studentAnswer>
+    <studentAnswer id="SE.16b2.529.1" accuracy="incorrect">Because almost all in the 10 minute time zone are in 3 degree intervals.</studentAnswer>
+  </studentAnswers>
+</question>

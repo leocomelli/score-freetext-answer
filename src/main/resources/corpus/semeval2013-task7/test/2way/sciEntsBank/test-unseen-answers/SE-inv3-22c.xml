@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_22c" module="SE">
+  <questionText>Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. Why would comparing only the red uncovered heater with the blue covered heater not provide useful information?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_22c-a1">When 2 variables are changed, it is impossible to determine which variable is causing what effect.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.22c.166.1" accuracy="correct">Because the red is uncovered and blue is covered and you cannot compare them.</studentAnswer>
+    <studentAnswer id="SE.22c.248.1" accuracy="correct">Red uncovered water is not really hot, and the blue covered is hot, so when you compare them you would not get that much of useful information.</studentAnswer>
+    <studentAnswer id="SE.22c.401.1" accuracy="incorrect">Because one is uncovered and one is covered. Also I think because they are now the same color.</studentAnswer>
+    <studentAnswer id="SE.22c.527.1" accuracy="incorrect">Because blue goes so high and red goes so low you cannot tell anything.</studentAnswer>
+  </studentAnswers>
+</question>

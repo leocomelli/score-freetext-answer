@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="ST_59" module="ST">
+  <questionText>Elena has a male lizard that has lived for several years in the habitat she provided. She knows that some lizards are territorial. Besides additional food and water, what should she be sure to include in the habitat before she adds another male lizard?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="ST_59-a1">Elena should include a separate shelter for each lizard.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="ST.59.384.1" accuracy="incorrect">She should make sure they each have their own space.</studentAnswer>
+    <studentAnswer id="ST.59.426.1" accuracy="correct">Shelter, space, food.</studentAnswer>
+    <studentAnswer id="ST.59.524.1" accuracy="correct">Add another shelter.</studentAnswer>
+    <studentAnswer id="ST.59.527.1" accuracy="correct">She needs another shelter.</studentAnswer>
+  </studentAnswers>
+</question>

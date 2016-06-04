@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="MS_43a" module="MS">
+  <questionText>2 groups used marbles to weigh the same apple. Jin's group found the apple weighed 35 marbles and Bee's group found the same apple weighed 60 marbles. Both groups used the correct procedure. Since they weighed the same apple, what do you think happened to make the results different?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="MS_43a-a1">The marbles used by the 2 groups were probably different masses.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="MS.43a.293.1" accuracy="incorrect">Because Jin's group has less marbles and Bee's group had more marbles.</studentAnswer>
+    <studentAnswer id="MS.43a.435.1" accuracy="incorrect">I think you put 34 marbles to put the same sizes.</studentAnswer>
+    <studentAnswer id="MS.43a.498.1" accuracy="incorrect">He could get a different apple.</studentAnswer>
+    <studentAnswer id="MS.43a.569.1" accuracy="incorrect">They forgot to do some things before they balance.</studentAnswer>
+  </studentAnswers>
+</question>

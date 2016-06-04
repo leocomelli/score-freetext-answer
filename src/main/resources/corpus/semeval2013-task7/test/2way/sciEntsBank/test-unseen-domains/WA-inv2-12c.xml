@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<question testSet="unseen-domains" id="WA_12c" module="WA">
+  <questionText>Oil, water, and corn syrup are layered in a tall, thin container. All are at the same temperature. What does the layering tell you about the density of the oil compared to the corn syrup?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="WA_12c-a1">Oil is less dense than corn syrup.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="WA.12c.171.1" accuracy="incorrect">That oil is weaker and corn syrup is stronger.</studentAnswer>
+    <studentAnswer id="WA.12c.180.1" accuracy="correct">It tells me that the oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.185.1" accuracy="incorrect">It tells me that the oil has more density.</studentAnswer>
+    <studentAnswer id="WA.12c.188.1" accuracy="correct">It tells me that the oil is the least dense and the corn syrup is the densest.</studentAnswer>
+    <studentAnswer id="WA.12c.189.1" accuracy="correct">The oil is less dense than the corn syrup and the corn syrup is denser.</studentAnswer>
+    <studentAnswer id="WA.12c.195.1" accuracy="correct">That the oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.197.1" accuracy="incorrect">That it would be the same as the water.</studentAnswer>
+    <studentAnswer id="WA.12c.206.1" accuracy="correct">That oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.207.1" accuracy="incorrect">That oil is more dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.208.1" accuracy="correct">The oil is less dense and the corn syrup is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.209.1" accuracy="correct">The oil is the least dense and the corn syrup is the densest.</studentAnswer>
+    <studentAnswer id="WA.12c.210.1" accuracy="correct">It tells me that the density of the oil is less than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.211.1" accuracy="correct">The oil is less dense than the syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.212.1" accuracy="correct">The corn syrup sinks and the oil floats so the oil is less dense and the corn syrup is denser.</studentAnswer>
+    <studentAnswer id="WA.12c.213.1" accuracy="incorrect">Water is medium one.</studentAnswer>
+    <studentAnswer id="WA.12c.214.1" accuracy="correct">It tells me that the corn syrup is denser and the oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.215.1" accuracy="incorrect">The oil is more dense than syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.216.1" accuracy="incorrect">The corn syrup is more compact than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.225.1" accuracy="correct">Corn syrup is more dense than oil.</studentAnswer>
+    <studentAnswer id="WA.12c.230.1" accuracy="correct">The oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.232.1" accuracy="incorrect">That the corn syrup is dense because it.</studentAnswer>
+    <studentAnswer id="WA.12c.243.1" accuracy="incorrect">It tells me that one is on the top and one is on the bottom.</studentAnswer>
+    <studentAnswer id="WA.12c.248.1" accuracy="correct">The oil is less dense and corn syrup is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.250.1" accuracy="correct">The corn syrup is more dense than water and oil.</studentAnswer>
+    <studentAnswer id="WA.12c.254.1" accuracy="incorrect">The oil has the most dense.</studentAnswer>
+    <studentAnswer id="WA.12c.266.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.267.1" accuracy="incorrect">It is the second dense.</studentAnswer>
+    <studentAnswer id="WA.12c.276.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.278.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.280.1" accuracy="correct">The oil is way less dense and the corn syrup is way denser.</studentAnswer>
+    <studentAnswer id="WA.12c.282.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.285.1" accuracy="incorrect">They both might go to the middle and the water will stay there.</studentAnswer>
+    <studentAnswer id="WA.12c.286.1" accuracy="correct">The corn syrup is more dense and the oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.287.1" accuracy="correct">The oil is less dense and the corn syrup is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.288.1" accuracy="correct">Corn syrup is a lot more dense than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.297.1" accuracy="correct">The oil is less dense than the water and the corn syrup the corn syrup is the densest.</studentAnswer>
+    <studentAnswer id="WA.12c.299.1" accuracy="correct">The corn syrup is more dense than oil because it is a lot more heavier.</studentAnswer>
+    <studentAnswer id="WA.12c.300.1" accuracy="incorrect">The oil is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.301.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.349.1" accuracy="incorrect">Expand.</studentAnswer>
+    <studentAnswer id="WA.12c.352.1" accuracy="correct">Corn syrup is a lot denser than oil.</studentAnswer>
+    <studentAnswer id="WA.12c.360.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.366.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.370.1" accuracy="correct">That the oil is less dense from the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.422.1" accuracy="correct">Oil has less density than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.423.1" accuracy="correct">That the oil is less dense than the corn syrup and the corn syrup is more dense than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.424.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.430.1" accuracy="correct">Oil is a lot less density than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.431.1" accuracy="correct">That the corn syrup is way more dense than oil.</studentAnswer>
+    <studentAnswer id="WA.12c.432.1" accuracy="correct">The oil water is a lot less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.451.1" accuracy="correct">The corn syrup is denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.452.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.453.1" accuracy="incorrect">I do not know?</studentAnswer>
+    <studentAnswer id="WA.12c.455.1" accuracy="correct">Corn syrup is more dense than oil oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.458.1" accuracy="incorrect">The oil is much more dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.459.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.463.1" accuracy="correct">The corn syrup is denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.466.1" accuracy="correct">The corn syrup is denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.467.1" accuracy="correct">Corn syrup is way denser than oil.</studentAnswer>
+    <studentAnswer id="WA.12c.468.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.469.1" accuracy="incorrect">The oil is denser and corn syrup is less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.487.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.489.1" accuracy="correct">The corn syrup is more dense than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.494.1" accuracy="correct">The oil is less dense and corn syrup is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.497.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.500.1" accuracy="correct">Corn syrup is more dense than oil.</studentAnswer>
+    <studentAnswer id="WA.12c.501.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.503.1" accuracy="correct">The corn syrup is a little more than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.505.1" accuracy="correct">Corn syrup is more dense than oil so it floats.</studentAnswer>
+    <studentAnswer id="WA.12c.508.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.509.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.521.1" accuracy="correct">The oil is less dense and the corn syrup is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.522.1" accuracy="correct">The corn syrup is more dense than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.523.1" accuracy="correct">That oil is less dense than corn syrup and corn syrup is denser than oil.</studentAnswer>
+    <studentAnswer id="WA.12c.524.1" accuracy="incorrect">That the oil is way more dense than water.</studentAnswer>
+    <studentAnswer id="WA.12c.525.1" accuracy="correct">That the oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.528.1" accuracy="incorrect">That they are both thick but corn syrup is thicker.</studentAnswer>
+    <studentAnswer id="WA.12c.530.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.557.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.558.1" accuracy="incorrect">Do not know.</studentAnswer>
+    <studentAnswer id="WA.12c.559.1" accuracy="correct">It tells you that it is less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.560.1" accuracy="correct">The oil is the one that is less dense and corn syrup is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.561.1" accuracy="correct">The oil is less dense than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.566.1" accuracy="correct">The oil is less dense and the corn syrup is more dense.</studentAnswer>
+    <studentAnswer id="WA.12c.595.1" accuracy="incorrect">It is the same.</studentAnswer>
+    <studentAnswer id="WA.12c.596.1" accuracy="correct">Oil is probably less dense than corn syrup and water because it flowed to the top and expanded plus might be a thinner substance.</studentAnswer>
+    <studentAnswer id="WA.12c.597.1" accuracy="correct">That it is less dense than the corn syrup?</studentAnswer>
+    <studentAnswer id="WA.12c.598.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.600.1" accuracy="incorrect">The oil is denser than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.603.1" accuracy="correct">That the corn syrup is dense and the oil is less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.604.1" accuracy="incorrect">The oil is denser than the corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.605.1" accuracy="correct">It tells me that oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.607.1" accuracy="correct">Less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.608.1" accuracy="correct">Oil is lighter than corner syrup is thick and heavy.</studentAnswer>
+    <studentAnswer id="WA.12c.609.1" accuracy="correct">That corn syrup is denser than the oil.</studentAnswer>
+    <studentAnswer id="WA.12c.630.1" accuracy="correct">It is lighter or less dense.</studentAnswer>
+    <studentAnswer id="WA.12c.632.1" accuracy="correct">The oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.633.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+    <studentAnswer id="WA.12c.634.1" accuracy="correct">The oil is less dense than corn syrup. Corn syrup is denser than oil.</studentAnswer>
+    <studentAnswer id="WA.12c.638.1" accuracy="correct">Oil is less dense than corn syrup.</studentAnswer>
+  </studentAnswers>
+</question>

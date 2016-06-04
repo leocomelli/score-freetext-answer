@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<question id="PS_4bp" module="PS">
+  <questionText>Darla tied one end of a string around a doorknob and held the other end in her hand. When she plucked the string (pulled and let go quickly) she heard a sound. How would the pitch change if Darla made the string longer?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_4b-a1">When the string is longer, the pitch will be lower.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.4bp.101.1" accuracy="incorrect">It would be a high pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.105.1" accuracy="incorrect">It will change by the pitch will be soft.</studentAnswer>
+    <studentAnswer id="PS.4bp.110.1" accuracy="incorrect">It would be high pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.118.1" accuracy="correct">The pitch will change by getting lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.138.1" accuracy="correct">It would have a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.142.1" accuracy="correct">It would have a lower pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.152.1" accuracy="correct">It would be lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.160.1" accuracy="correct">If she did the pitch would be lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.175.1" accuracy="incorrect">Louder.</studentAnswer>
+    <studentAnswer id="PS.4bp.179.1" accuracy="correct">The pitch gets lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.184.1" accuracy="incorrect">It will shake and make sound.</studentAnswer>
+    <studentAnswer id="PS.4bp.192.1" accuracy="correct">It would be lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.212.1" accuracy="correct">It would get lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.222.1" accuracy="incorrect">It would have a lower pitch because it has less room to vibrate.</studentAnswer>
+    <studentAnswer id="PS.4bp.230.1" accuracy="incorrect">Softer.</studentAnswer>
+    <studentAnswer id="PS.4bp.249.1" accuracy="incorrect">It would be wobbly so it would make a small sound.</studentAnswer>
+    <studentAnswer id="PS.4bp.253.1" accuracy="incorrect">It would make a higher sound.</studentAnswer>
+    <studentAnswer id="PS.4bp.263.1" accuracy="correct">It would be lower pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.317.1" accuracy="correct">It would not be as high as when you pull it tight.</studentAnswer>
+    <studentAnswer id="PS.4bp.328.1" accuracy="correct">It would change to a low pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.334.1" accuracy="correct">It would be a low pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.384.1" accuracy="incorrect">The pitch will be higher.</studentAnswer>
+    <studentAnswer id="PS.4bp.400.1" accuracy="correct">A low pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.454.1" accuracy="correct">It would be lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.461.1" accuracy="correct">The pitch would get lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.468.1" accuracy="correct">The pitch will be low.</studentAnswer>
+    <studentAnswer id="PS.4bp.501.1" accuracy="incorrect">It got high.</studentAnswer>
+    <studentAnswer id="PS.4bp.508.1" accuracy="correct">It will be low the pitch change.</studentAnswer>
+    <studentAnswer id="PS.4bp.523.1" accuracy="correct">The sound would be lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.537.1" accuracy="correct">It would be lower pitch.</studentAnswer>
+    <studentAnswer id="PS.4bp.557.1" accuracy="incorrect">It would be a longer sound.</studentAnswer>
+    <studentAnswer id="PS.4bp.563.1" accuracy="incorrect">Still high.</studentAnswer>
+    <studentAnswer id="PS.4bp.571.1" accuracy="correct">It would sound lower.</studentAnswer>
+    <studentAnswer id="PS.4bp.596.1" accuracy="incorrect">The pitch will go high.</studentAnswer>
+    <studentAnswer id="PS.4bp.602.1" accuracy="correct">It will make a lower pitch and yes.</studentAnswer>
+    <studentAnswer id="PS.4bp.629.1" accuracy="correct">The pitch would be low.</studentAnswer>
+  </studentAnswers>
+</question>

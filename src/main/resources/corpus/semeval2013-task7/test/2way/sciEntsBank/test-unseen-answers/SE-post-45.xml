@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="SE_45" module="SE">
+  <questionText>Betty was puzzled. In the morning the shadow of the bus sign is in the street. In the afternoon the shadow of the bus sign points the opposite direction. Explain to Betty why this happens.</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="SE_45-a1">In the morning the Sun is in the east so shadows point west. In the afternoon the Sun is in the west so shadows point east.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SE.45.151.1" accuracy="incorrect">Because the sun rounded around us that is why it is pointing the opposite direction.</studentAnswer>
+    <studentAnswer id="SE.45.418.1" accuracy="incorrect">The sun rises in the east and it sets in the west, so the school bus must be facing east so that is why.</studentAnswer>
+    <studentAnswer id="SE.45.424.1" accuracy="incorrect">Because the object is blocking the sun in that area.</studentAnswer>
+    <studentAnswer id="SE.45.561.1" accuracy="incorrect">The earth rotates.</studentAnswer>
+  </studentAnswers>
+</question>
