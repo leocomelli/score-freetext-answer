@@ -12,6 +12,8 @@ import org.deeplearning4j.berkeley.Pair;
 import org.deeplearning4j.models.embeddings.inmemory.InMemoryLookupTable;
 import org.deeplearning4j.models.paragraphvectors.ParagraphVectors;
 import org.deeplearning4j.models.word2vec.VocabWord;
+import org.deeplearning4j.nlp.paragraphvectors.corpus.Corpus;
+import org.deeplearning4j.nlp.paragraphvectors.corpus.CorpusLoader;
 import org.deeplearning4j.nlp.paragraphvectors.tools.LabelSeeker;
 import org.deeplearning4j.nlp.paragraphvectors.tools.MeansBuilder;
 import org.deeplearning4j.nlp.paragraphvectors.tools.QuestionLabelAwareIterator;
@@ -32,9 +34,12 @@ public class ParagraphVectorsClassifier {
 	public static void main(String[] args) throws Exception {
 
 		ClassPathResource filePath = new ClassPathResource(FILE_NAME);
+		Corpus corpus = new CorpusLoader(filePath.getFile()).load();
+		
+		
 		LabelAwareIterator labeledIterator = new QuestionLabelAwareIterator
 															.Builder()
-															.registerFileToRead(filePath.getFile())
+															.using(corpus)
 															.setTask(TRAINING).build();
 
 		TokenizerFactory t = new DefaultTokenizerFactory();
@@ -45,7 +50,7 @@ public class ParagraphVectorsClassifier {
 													.learningRate(0.025)
 													.minLearningRate(0.001)
 													.batchSize(1000)
-													.epochs(1)
+													.epochs(20)
 													.iterate(labeledIterator)
 													.trainWordVectors(true)
 													.tokenizerFactory(t)
@@ -55,7 +60,7 @@ public class ParagraphVectorsClassifier {
 
 		LabelAwareIterator unlabeledIterator = new QuestionLabelAwareIterator
 															.Builder()
-															.registerFileToRead(filePath.getFile())
+															.using(corpus)
 															.setTask(TEST)
 															.build();
 

@@ -52,8 +52,8 @@ public class ReferenceAnswer implements Answer{
 	}
 
 	@Override
-	public String getAccuracy() {
-		return CORRECT.name();
+	public Accuracy getAccuracy() {
+		return CORRECT;
 	}
-
+	
 }

@@ -6,5 +6,5 @@ public interface Answer {
 	
 	String getAnswer();
 	
-	String getAccuracy();
+	Accuracy getAccuracy();
 }

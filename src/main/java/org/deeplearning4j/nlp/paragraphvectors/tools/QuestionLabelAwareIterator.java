@@ -3,18 +3,13 @@ package org.deeplearning4j.nlp.paragraphvectors.tools;
 import static java.util.Arrays.asList;
 import static org.deeplearning4j.nlp.paragraphvectors.corpus.Accuracy.CORRECT;
 import static org.deeplearning4j.nlp.paragraphvectors.corpus.Accuracy.INCORRECT;
+import static org.deeplearning4j.nlp.paragraphvectors.tools.QuestionLabelAwareIterator.TaskType.TRAINING;
 
-import java.io.File;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Unmarshaller;
-
 import org.deeplearning4j.nlp.paragraphvectors.corpus.Answer;
-import org.deeplearning4j.nlp.paragraphvectors.corpus.CorpusHandler;
-import org.deeplearning4j.nlp.paragraphvectors.corpus.Question;
+import org.deeplearning4j.nlp.paragraphvectors.corpus.Corpus;
 import org.deeplearning4j.text.documentiterator.LabelAwareIterator;
 import org.deeplearning4j.text.documentiterator.LabelledDocument;
 import org.deeplearning4j.text.documentiterator.LabelsSource;
@@ -39,7 +34,7 @@ public class QuestionLabelAwareIterator implements LabelAwareIterator {
 		Answer answer = answers.get(position.getAndIncrement());
 		LabelledDocument document = new LabelledDocument();
 		document.setContent(answer.getAnswer());
-		document.setLabel(answer.getAccuracy());
+		document.setLabel(answer.getAccuracy().name());
 
 		return document;
 	}
@@ -59,7 +54,7 @@ public class QuestionLabelAwareIterator implements LabelAwareIterator {
 	}
 
 	public static class Builder {
-		protected File fileToRead;
+		protected Corpus corpus;
 
 		protected TaskType type;
 
@@ -67,8 +62,8 @@ public class QuestionLabelAwareIterator implements LabelAwareIterator {
 			super();
 		}
 
-		public Builder registerFileToRead(File file) {
-			fileToRead = file;
+		public Builder using(Corpus corpus) {
+			this.corpus = corpus;
 			return this;
 		}
 
@@ -78,19 +73,9 @@ public class QuestionLabelAwareIterator implements LabelAwareIterator {
 		}
 
 		public QuestionLabelAwareIterator build() {
-			Question questions = null;
-			try {
-				JAXBContext jaxbContext = JAXBContext.newInstance(Question.class);
-				Unmarshaller jaxbUnmarshaller = jaxbContext.createUnmarshaller();
+			List<Answer> answers = type.equals(TRAINING) ? corpus.getTraining() : corpus.getTest();
 
-				questions = (Question) jaxbUnmarshaller.unmarshal(fileToRead);
-			} catch (JAXBException e) {
-				e.printStackTrace();
-			}
-
-			List<Answer> answers = new CorpusHandler(questions).getCorpusBy(type);
-
-			List<String> labels = asList(new String[]{ CORRECT.name(), INCORRECT.name()});
+			List<String> labels = asList(new String[]{ CORRECT.name(), INCORRECT.name() });
 
 			LabelsSource source = new LabelsSource(labels);
 			QuestionLabelAwareIterator iterator = new QuestionLabelAwareIterator(answers, source);

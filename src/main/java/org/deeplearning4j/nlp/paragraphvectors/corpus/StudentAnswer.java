@@ -29,11 +29,6 @@ public class StudentAnswer implements Answer {
 		this.id = id;
 	}
 
-	@Override
-	public String getAccuracy() {
-		return accuracy.name();
-	}
-
 	public void setAccuracy(Accuracy accuracy) {
 		this.accuracy = accuracy;
 	}
@@ -49,6 +44,11 @@ public class StudentAnswer implements Answer {
 	@Override
 	public String getAnswer() {
 		return getStudentAnswer();
+	}
+	
+	@Override
+	public Accuracy getAccuracy() {
+		return accuracy;
 	}
 
 }
