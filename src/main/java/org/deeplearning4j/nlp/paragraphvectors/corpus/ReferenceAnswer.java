@@ -1,6 +1,7 @@
 package org.deeplearning4j.nlp.paragraphvectors.corpus;
 
 import static javax.xml.bind.annotation.XmlAccessType.FIELD;
+import static org.deeplearning4j.nlp.paragraphvectors.corpus.Accuracy.CORRECT;
 
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
@@ -48,6 +49,11 @@ public class ReferenceAnswer implements Answer{
 	@Override
 	public String getAnswer() {
 		return getReferenceAnswer();
+	}
+
+	@Override
+	public String getAccuracy() {
+		return CORRECT.name();
 	}
 
 }

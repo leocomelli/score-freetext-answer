@@ -32,24 +32,36 @@ public class ParagraphVectorsClassifier {
 	public static void main(String[] args) throws Exception {
 
 		ClassPathResource filePath = new ClassPathResource(FILE_NAME);
-		LabelAwareIterator labeledIterator = new QuestionLabelAwareIterator.Builder()
-				.registerFileToRead(filePath.getFile()).setTask(TRAINING).build();
+		LabelAwareIterator labeledIterator = new QuestionLabelAwareIterator
+															.Builder()
+															.registerFileToRead(filePath.getFile())
+															.setTask(TRAINING).build();
 
 		TokenizerFactory t = new DefaultTokenizerFactory();
 		t.setTokenPreProcessor(new CommonPreprocessor());
 
-		ParagraphVectors paragraphVectors = new ParagraphVectors.Builder().learningRate(0.025).minLearningRate(0.001)
-				.batchSize(1000).epochs(1).iterate(labeledIterator).trainWordVectors(true).tokenizerFactory(t).build();
+		ParagraphVectors paragraphVectors = new ParagraphVectors
+													.Builder()
+													.learningRate(0.025)
+													.minLearningRate(0.001)
+													.batchSize(1000)
+													.epochs(1)
+													.iterate(labeledIterator)
+													.trainWordVectors(true)
+													.tokenizerFactory(t)
+													.build();
 
 		paragraphVectors.fit();
 
-		LabelAwareIterator unlabeledIterator = new QuestionLabelAwareIterator.Builder()
-				.registerFileToRead(filePath.getFile()).setTask(TEST).build();
+		LabelAwareIterator unlabeledIterator = new QuestionLabelAwareIterator
+															.Builder()
+															.registerFileToRead(filePath.getFile())
+															.setTask(TEST)
+															.build();
 
-		MeansBuilder meansBuilder = new MeansBuilder((InMemoryLookupTable<VocabWord>) paragraphVectors.getLookupTable(),
-				t);
+		MeansBuilder meansBuilder = new MeansBuilder((InMemoryLookupTable<VocabWord>) paragraphVectors.getLookupTable(), t);
 		LabelSeeker seeker = new LabelSeeker(labeledIterator.getLabelsSource().getLabels(),
-				(InMemoryLookupTable<VocabWord>) paragraphVectors.getLookupTable());
+											 (InMemoryLookupTable<VocabWord>) paragraphVectors.getLookupTable());
 
 		while (unlabeledIterator.hasNextDocument()) {
 			LabelledDocument document = unlabeledIterator.nextDocument();
@@ -68,7 +80,6 @@ public class ParagraphVectorsClassifier {
 				log.info("Answer: " + document.getLabel());
 				log.info("        " + scores.get(0).getFirst() + ": " + scores.get(0).getSecond());
 				log.info("        " + scores.get(1).getFirst() + ": " + scores.get(1).getSecond());
-				log.info("        " + scores.get(2).getFirst() + ": " + scores.get(2).getSecond());
 			} catch (IllegalArgumentException e) {
 				log.error("The word is too short.");
 			}

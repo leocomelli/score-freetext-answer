@@ -29,8 +29,9 @@ public class StudentAnswer implements Answer {
 		this.id = id;
 	}
 
-	public Accuracy getAccuracy() {
-		return accuracy;
+	@Override
+	public String getAccuracy() {
+		return accuracy.name();
 	}
 
 	public void setAccuracy(Accuracy accuracy) {

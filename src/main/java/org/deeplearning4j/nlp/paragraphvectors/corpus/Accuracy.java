@@ -16,4 +16,8 @@ public enum Accuracy {
 	public static Accuracy fromValue(String value) {
 		return valueOf(value);
 	}
+	
+	public String title(){
+		return name().toLowerCase();
+	}
 }

@@ -5,4 +5,6 @@ public interface Answer {
 	String getId();
 	
 	String getAnswer();
+	
+	String getAccuracy();
 }

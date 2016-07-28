@@ -1,9 +1,10 @@
 package org.deeplearning4j.nlp.paragraphvectors.tools;
 
-import static org.deeplearning4j.nlp.paragraphvectors.tools.QuestionLabelAwareIterator.TaskType.TRAINING;
+import static java.util.Arrays.asList;
+import static org.deeplearning4j.nlp.paragraphvectors.corpus.Accuracy.CORRECT;
+import static org.deeplearning4j.nlp.paragraphvectors.corpus.Accuracy.INCORRECT;
 
 import java.io.File;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -12,6 +13,7 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 
 import org.deeplearning4j.nlp.paragraphvectors.corpus.Answer;
+import org.deeplearning4j.nlp.paragraphvectors.corpus.CorpusHandler;
 import org.deeplearning4j.nlp.paragraphvectors.corpus.Question;
 import org.deeplearning4j.text.documentiterator.LabelAwareIterator;
 import org.deeplearning4j.text.documentiterator.LabelledDocument;
@@ -37,7 +39,7 @@ public class QuestionLabelAwareIterator implements LabelAwareIterator {
 		Answer answer = answers.get(position.getAndIncrement());
 		LabelledDocument document = new LabelledDocument();
 		document.setContent(answer.getAnswer());
-		document.setLabel(answer.getId());
+		document.setLabel(answer.getAccuracy());
 
 		return document;
 	}
@@ -86,13 +88,9 @@ public class QuestionLabelAwareIterator implements LabelAwareIterator {
 				e.printStackTrace();
 			}
 
-			List<Answer> answers = type.equals(TRAINING) ? questions.getReferenceAnswers()
-					: questions.getStudentAnswers();
+			List<Answer> answers = new CorpusHandler(questions).getCorpusBy(type);
 
-			List<String> labels = new ArrayList<>();
-			for (Answer question : answers) {
-				labels.add(question.getId());
-			}
+			List<String> labels = asList(new String[]{ CORRECT.name(), INCORRECT.name()});
 
 			LabelsSource source = new LabelsSource(labels);
 			QuestionLabelAwareIterator iterator = new QuestionLabelAwareIterator(answers, source);
